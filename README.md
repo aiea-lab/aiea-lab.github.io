@@ -1,36 +1,18 @@
-# hugo-academic-group
+# Aiea group website (under construction)
+
+## From the hugo-academic-group
 
 An academic group website theme for Hugo.
 
 
 ## Installation
 
- 1. Install [Hugo](https://gohugo.io/) and create a new website:
+ 1. Install [Hugo](https://gohugo.io/)
 
- ```
-    hugo new site website_name
-    cd website_name
- ```
-
- 2. Clone (or download) the theme to `themes/hugo-academic-group folder`:
-
- ```
-    git clone git@github.com:biaslab/hugo-academic-group.git themes/hugo-academic-group
- ```
-
- 3. Copy all the contents of the `exampleSite` folder to the root of your website, overwriting if necessary:
-
- ```
-    cp -av themes/hugo-academic-group/exampleSite/* .
- ```
-
- 4. Run Hugo server from the root of your website:
-
- ```
-    hugo server --watch
- ```
-
+ 2. Run the website locally with `hugo server`
  Open [localhost:1313](localhost:1313) and your website should appear.
 
-5.  TODOS
+ 3.  TODOS
 - [ ] Change the `themes/hugo-academic-group/static/css/hugo-academic-group.css` header image
+- [ ] Add other group members
+- [ ] Change the project pictures.
