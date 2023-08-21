@@ -1,10 +1,10 @@
 publishdir = "public"
-static = "/static"
+static = "static"
 builddrafts = false
 # Replace this with your website URL
 baseurl = "http://aiea-lab.github.io/"
 canonifyurls = true
-theme = "hugo-academic-group"
+theme = "aiea-group"
 title = "AIEA Lab"
 math = true
 copyright = "&copy; AIEA Lab, 2023 "
@@ -16,7 +16,7 @@ tag = "tags"
 
 [params]
   description = "Website of the UCSC AIEA Lab"
-  author = "Your name"
+  author = "Leilani H. Gilpin"
 #  email = "mail@example.org"
   address = "UCSC - Santa Cruz, CA"
 
