@@ -4,7 +4,7 @@ builddrafts = false
 # Replace this with your website URL
 baseurl = "http://aiea-lab.github.io/"
 canonifyurls = true
-theme = "aiea-group"
+theme = "our-theme"
 title = "AIEA Lab"
 math = true
 copyright = "&copy; AIEA Lab, 2023 "
