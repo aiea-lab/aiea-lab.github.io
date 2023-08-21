@@ -91,6 +91,13 @@ tag = "tags"
     subtitle = ""
     autolink = false  # Automatically link email and phone?
 
+  # Join us section.
+  [params.join]
+    enable = true
+    title = "Join us!"
+    subtitle = ""
+    autolink = true  # Automatically link email and phone?
+
   # Navigation Links
   #   The weight parameter defines the order that the links will appear in.
 
@@ -124,8 +131,13 @@ tag = "tags"
       url = "/#posts"
       weight = 6
 
+  [[menu.main]]
+      name = "Join Us!"
+      url = "/join"
+      weight = 7
+
 
   [[menu.main]]
       name = "Contact"
       url = "/#contact"
-      weight = 7
+      weight = 8
