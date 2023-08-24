@@ -1,6 +1,8 @@
 Learn more about our [active projects](/project/) and if you are interested, see about [joining us](/join/).
 
 Coming soon!
+# Funding
+Our research is generously supported by the Underwriters Labatory (subaward from Northwestern University), UC Santa Cruz Seed Funding, Department of Transportation, and Siemens.  
 <!--# Modo est
 
 ## Non sub haedum tenet

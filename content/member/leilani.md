@@ -33,6 +33,14 @@ title = "PI"
     course = "PhD in Electrial Engineering and Computer Science"
     institution = "Massachusetts Institute of Technology"
     year = 2020
+[[education]]
+    course = "MS in Computational and Mathematical Engineering"
+    institution = "Stanford University"
+    year = 2013
+[[education]]
+    course = "BS in Computer Science, BS in Mathematics"
+    institution = "UC San Diego"
+    year = 2011
     
 [[organizations]]
     name = "UC Santa Cruz"
