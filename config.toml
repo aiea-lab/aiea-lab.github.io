@@ -2,7 +2,7 @@ publishdir = "docs/"
 static = "static"
 builddrafts = false
 # Replace this with your website URL
-baseurl = "http://aiea-lab.github.io"
+baseurl = "https://aiea-lab.github.io"
 canonifyurls = true
 theme = "our-theme"
 title = "AIEA Lab"
