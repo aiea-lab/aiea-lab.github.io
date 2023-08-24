@@ -1,8 +1,8 @@
 +++
 bio = ""
-date = "2016-07-12T15:52:22+02:00"
+date = "2021-10-01"
 id = "leilani"
-interests = ["XAI", "Safe AI", "Responsible Data Science"]
+interests = ["XAI", "Safe AI", "Responsible Data Science", "Autonomous Vehicles", "AI and Ethics"]
 name = "Leilani H. Gilpin"
 portrait = "/portraits/leilani.jpg"
 short_bio = "Leilani H. Gilpin is an Assistant Professor in the Department of Computer Science and Engineering at UC Santa Cruz.  Her research focuses on the design and analysis of methods for autonomous systems to explain themselves.  Her work has applications to robust decision-making, system debugging, and accountability.  Her current work examines how generative models can be used in iterative XAIstress testing."
