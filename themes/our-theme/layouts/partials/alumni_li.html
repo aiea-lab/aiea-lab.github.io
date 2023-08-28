@@ -6,9 +6,12 @@
                 {{if isset .Params "external_link"}}
                 <a href="{{ .Params.external_link }}">
                     {{ .Params.name }}
-                </a>
+                </a>, {{.Params.title}}
+                <br/>
+                {{.Params.now}}
                 {{else}}
-                    {{ .Params.name }}
+                {{ .Params.name }}<br/>
+                Now at {{.Params.title}}
                 {{end}}
             </h3>
         </div>
