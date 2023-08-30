@@ -50,7 +50,7 @@ title = "Ph.D. student"
     role = "Ph.D. student"
 
 +++
-Li is a second-year Ph.D. student advised by [Prof. Leilani](../leilani/) in the Department of Computer Science and Engineering at UC Santa Cruz. He has a broad interest in improving the explainability and reliability of model intelligence. Outside of his studies, Li enjoys cooking, photography, and painting.
+Li is a second-year Ph.D. student advised by [Prof. Leilani Gilpin](../leilani/) in the Department of Computer Science and Engineering at UC Santa Cruz. He has a broad interest in improving the explainability and reliability of model intelligence. Outside of his studies, Li enjoys cooking, photography, and painting.
 
 [read more](https://leolee7.github.io/)
 
