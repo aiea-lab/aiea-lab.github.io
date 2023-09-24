@@ -5,11 +5,18 @@
     <link>https://aiea-lab.github.io/member/</link>
     <description>Recent content in Members on AIEA Lab</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://aiea-lab.github.io/member/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aiea-lab.github.io/member/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ph.D. student</title>
+      <link>https://aiea-lab.github.io/member/li/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/li/</guid>
+      <description>Li is a second-year Ph.D. student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. He has a broad interest in improving the explainability and reliability of model intelligence. Outside of his studies, Li enjoys cooking, photography, and painting.
+read more</description>
+    </item>
     
     <item>
       <title>PI</title>
