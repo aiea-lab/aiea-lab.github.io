@@ -15,6 +15,11 @@ title = "PI"
     link = "mailto:lgilpin@ucsc.edu"
 
 [[social]]
+    icon = "globe"
+    icon_pack = "fa"
+    link = "http://lgilpin.com"
+
+[[social]]
     icon = "twitter"
     icon_pack = "fa"
     link = "//twitter.com/leilanihg"
