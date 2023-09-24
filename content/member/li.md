@@ -6,6 +6,7 @@ interests = ["XAI","Machine Learning Applications"]
 name = "Li Liu"
 portrait = "/portraits/li.jpg"
 short_bio = "Li is a second-year Ph.D. student advised by Prof. Leilani in the Department of Computer Science and Engineering at UC Santa Cruz. His research interests are explaining the model intelligence and their applications in various contexts."
+sort_position = 2
 short_name = "Li"
 title = "Ph.D. student"
 
