@@ -6,10 +6,20 @@
     <description>Recent content in Members on AIEA Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Oct 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aiea-lab.github.io/member/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Master student</title>
+      <link>https://aiea-lab.github.io/member/sijia/</link>
+      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/sijia/</guid>
+      <description>Sijia is a second-year Master student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. She has a interest in the explainability of model intelligence (XAI). Outside of her studies, Sijia enjoys singing, photography, and cosplaying.
+read more</description>
+    </item>
     
     <item>
       <title>Ph.D. student</title>

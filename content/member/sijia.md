@@ -6,7 +6,7 @@ interests = ["XAI"]
 name = "Sijia Zhong"
 portrait = "/portraits/sijia.jpg"
 short_bio = "Sijia is a second-year Master student advised by Prof. Leilani in the Department of Computer Science and Engineering at UC Santa Cruz. Her research interests are explaining the model intelligence."
-sort_position = 1
+sort_position = 3
 short_name = "Sijia"
 title = "Master student"
 
@@ -19,11 +19,6 @@ title = "Master student"
     icon = "twitter"
     icon_pack = "fa"
     link = "https://twitter.com/SijiaZhong_0903"
-
-<!-- [[social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.com/citations?user=hLHzhqkAAAAJ&hl" -->
 
 [[social]]
     icon = "github"
