@@ -6,10 +6,19 @@
     <description>Recent content on AIEA Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    <lastBuildDate>Sat, 07 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Oct 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aiea-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/member/nickw/</link>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/nickw/</guid>
+      <description>Nick Wang is a 3rd year undergraduate student studying Computer Science at UC Santa Cruz. He is deeply curious about how machine learning works (hence XAI) and has recently become motivated to improve his understanding of AVs which he will be able to do while working on the driving rules project and the drive sim project.</description>
+    </item>
     
     <item>
       <title>Master student</title>
