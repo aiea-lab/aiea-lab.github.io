@@ -5,12 +5,9 @@
     <link>https://aiea-lab.github.io/member/</link>
     <description>Recent content in Members on AIEA Lab</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    <lastBuildDate>Wed, 11 Oct 2023 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://aiea-lab.github.io/member/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 11 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aiea-lab.github.io/member/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Undergraduate</title>
       <link>https://aiea-lab.github.io/member/susanto/</link>
@@ -57,6 +54,15 @@ read more</description>
       <guid>https://aiea-lab.github.io/member/li/</guid>
       <description>Li is a second-year Ph.D. student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. He has a broad interest in improving the explainability and reliability of model intelligence. Outside of his studies, Li enjoys cooking, photography, and painting.
 read more</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate Student</title>
+      <link>https://aiea-lab.github.io/member/shreedhar/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/shreedhar/</guid>
+      <description>Shreedhar Jangam is an undergraduate student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. His current research focuses on the applications of generative and explainable systems, such as Large Language Models and their trustworthiness in various domains. Outside of research, Shreedhar enjoys backpacking, and practicing his wilderness EMT skills.</description>
     </item>
     
     <item>
