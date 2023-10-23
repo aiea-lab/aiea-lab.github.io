@@ -6,9 +6,10 @@
     <description>Recent content in Members on AIEA Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    <lastBuildDate>Mon, 09 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Oct 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aiea-lab.github.io/member/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Undergraduate</title>
@@ -16,9 +17,9 @@
       <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://aiea-lab.github.io/member/susanto/</guid>
-      <description>Andrew Susanto is a 5th year Undergraduate student studying Computer Science. His introduction into AI and Machine Learning was CSE 140, a Capstone course on Artificial Intelligence instructed by Prof. Leilani Gilpin, the head of AIEA Lab. Since, Andrew has grown a deep interest in the design, concepts, and utilization of AI, particularly within the contexts of XAI, Autonomous Vehicles and Natural Language Processing. Andrew has recently been working under the direction of Ph.D. student Oliver Chang in containerizing MIT's data-driven simulator, VISTA, using Docker and the Nautilus cluster for cloud-based computations.</description>
+      <description>Andrew Susanto is a 5th year Undergraduate student studying Computer Science. His introduction into AI and Machine Learning was CSE 140, a Capstone course on Artificial Intelligence instructed by Prof. Leilani Gilpin, the head of AIEA Lab. Since, Andrew has grown a deep interest in the design, concepts, and utilization of AI, particularly within the contexts of XAI, Autonomous Vehicles and Natural Language Processing. Andrew has recently been working under the direction of Ph.</description>
     </item>
-
+    
     <item>
       <title>Undergraduate</title>
       <link>https://aiea-lab.github.io/member/nickw/</link>
