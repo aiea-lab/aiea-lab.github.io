@@ -37,8 +37,8 @@ title = "Undergraduate student"
     year = 2028
         
 [[organizations]]
-    name = "UCSC ACM Chapter"
-    role = "President"
+    name = "UC Santa Cruz"
+    role = "Undergraduate student"
 
 +++
 Coen is a third-year undergraduate student advised by [Prof. Leilani Gilpin](../leilani/) in the Department of Computer Science and Engineering at UC Santa Cruz. He has a broad interest in improving the explainability and robustness of model intelligence. Outside of his studies, Coen enjoys hiking, soccer, and food (both cooking and eating).
