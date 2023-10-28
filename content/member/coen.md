@@ -29,7 +29,7 @@ title = "Undergraduate student"
 [[education]]
     course = "B.S. Computer Science"
     institution = "University of California, Santa Cruz"
-    year = 2022
+    year = 2024
 
 [[education]]
     course = "Ph.D. Computer Science"
