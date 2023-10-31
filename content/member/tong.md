@@ -7,7 +7,7 @@ name = "Tong Jia"
 portrait = "/portraits/tong.jpg"
 short_bio = "Tong is a 4th-year undergradute student under the guidance of Prof. Leilani in the Department of Computer Science and Engineering at UCSC, His research interests are AI / ML, LLMs, and DataBase"
 
-sort_position = 3
+sort_position = 4
 short_name = "Tong"
 title = "Undergraduate student"
 

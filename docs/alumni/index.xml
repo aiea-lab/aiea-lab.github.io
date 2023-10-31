@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alumni on AIEA Lab</title>
+    <title>Alumnis on AIEA Lab</title>
     <link>https://aiea-lab.github.io/alumni/</link>
-    <description>Recent content in Alumni on AIEA Lab</description>
+    <description>Recent content in Alumnis on AIEA Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aiea-lab.github.io/alumni/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Recent Graduate</title>
-      <link>https://aiea-lab.github.io/alumni/brendon/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/brendon/</guid>
-      <description>Brendon is a recent graduate from UC Santa Cruz. He Majors in Cognitive Science with Specialization in Artificial Intelligence and Human Computer Interaction with a Minor in Computer Science. He is interested in the field of AI and is excited to learn more about new ways to utilize AI and more about how to implement them in general. He is currently learning more each day and looking for work.</description>
-    </item>
+    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://aiea-lab.github.io/alumni/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>MS at UCSC</title>

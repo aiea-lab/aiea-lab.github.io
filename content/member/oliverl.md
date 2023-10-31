@@ -6,7 +6,7 @@ interests = ["XAI", "Cloud Computing", "Autograder", "Backend"]
 name = "Oliver Lokhandwala"
 portrait = "/portraits/oliverl.jpg"
 short_bio = "Oliver Lokhandwala is a 4th year computer science undergraduate student advised by Prof. Leilani in the Department of Computer Science and Engineering at UC Santa Cruz. His current research focuses on creating an explainable autograder using technologies such as Nautilus and Kubernetes, while working on the backend side of it using Go."
-sort_position = 3
+sort_position = 4
 short_name = "Oliver"
 title = "Undergraduate"
 

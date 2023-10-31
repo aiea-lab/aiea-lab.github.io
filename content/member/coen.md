@@ -6,7 +6,7 @@ interests = ["XAI","Robust AI","Ethical AI"]
 name = "Coen Adler"
 portrait = "/portraits/coen.jpg"
 short_bio = "Coen is a third-year undergraduate student working under Prof. Leilani in the Department of Computer Science and Engineering at UC Santa Cruz. His research interests are using eXplainable AI to promote transparency in AI and interpretable models"
-sort_position = 3
+sort_position = 4
 short_name = "Coen"
 title = "Undergraduate student"
 

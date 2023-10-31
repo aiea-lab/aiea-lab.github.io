@@ -5,11 +5,9 @@ id = "suma"
 interests = ["XAI", "Responsible Data Science", "Generative AI"]
 name = "Kalyana Suma Sree Tholeti"
 portrait = "/portraits/suma.jpeg"
-short_bio = "Kalyana Suma Sree Tholeti is a Masters student advised by Prof. Leilani Gilpin in the Department of
-Computer Science and Engineering at UC Santa Cruz.  Her research
-focuses on the XAI, Responsible data Science, and Generative AI. Her current work
-is on developing a comprehensive model explanation monitoring framework within the manufacturing domain."
+short_bio = "Kalyana Suma Sree Tholeti is a Masters student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz.  Her research focuses on the XAI, Responsible data Science, and Generative AI. Her current work is on developing a comprehensive model explanation monitoring framework within the manufacturing domain."
 short_name = "Suma"
+sort_position=3
 title = "Master student"
 
 [[social]]

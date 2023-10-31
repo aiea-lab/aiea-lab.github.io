@@ -6,7 +6,30 @@
     <description>Recent content in Members on AIEA Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    <lastBuildDate>Mon, 09 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aiea-lab.github.io/member/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://aiea-lab.github.io/member/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PhD Student</title>
+      <link>https://aiea-lab.github.io/member/oliverchang/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/oliverchang/</guid>
+      <description>Oliver Chang is a computer science and engineering PhD student at UC Santa Cruz. His research focuses on robust and efficient deep reinforcement learning. His work has applications to autonomous vehicles, efficient data sampling, and out of distribution learning. His current work examines how salient maps could be a memory efficient medium to store in a replay buffer.
+He holds a B.A. in Computer Science and Mathematics from Pomona College. Outside of research, Oliver enjoys running, watching baseball, and solving math puzzles - but not necessarily in that order.</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/member/oliverl/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/oliverl/</guid>
+      <description>Oliver Lokhandwala is a 4th year computer science undergraduate student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. His current research focuses on creating an explainable autograder using technologies such as Nautilus and Kubernetes, while working on the backend side of it using Go. Outside of research, Oliver enjoys surfing and working out.</description>
+    </item>
+    
     <item>
       <title>Undergraduate</title>
       <link>https://aiea-lab.github.io/member/susanto/</link>
@@ -46,12 +69,31 @@ read more</description>
     </item>
     
     <item>
+      <title>Recent Graduate</title>
+      <link>https://aiea-lab.github.io/member/brendon/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/brendon/</guid>
+      <description>Brendon is a recent graduate from UC Santa Cruz. He Majors in Cognitive Science with Specialization in Artificial Intelligence and Human Computer Interaction with a Minor in Computer Science. He is interested in the field of AI and is excited to learn more about new ways to utilize AI and more about how to implement them in general. He is currently learning more each day and looking for work.</description>
+    </item>
+    
+    <item>
       <title>Ph.D. student</title>
       <link>https://aiea-lab.github.io/member/li/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://aiea-lab.github.io/member/li/</guid>
       <description>Li is a second-year Ph.D. student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. He has a broad interest in improving the explainability and reliability of model intelligence. Outside of his studies, Li enjoys cooking, photography, and painting.
+read more</description>
+    </item>
+    
+    <item>
+      <title>Master student</title>
+      <link>https://aiea-lab.github.io/member/suma/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/suma/</guid>
+      <description>Kalyana Suma Sree Tholeti is an Masters student in the Department of Computer Science and Engineering at UC Santa Cruz. Her research focuses on the XAI, Responsible data Science, and Generative AI. Her current work is on developing a comprehensive model explanation monitoring framework within the manufacturing domain. Her previous work is on analysis of bias in the knowledge-distilled models and Sentiment analysis.
 read more</description>
     </item>
     

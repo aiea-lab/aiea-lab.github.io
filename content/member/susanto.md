@@ -6,7 +6,7 @@ interests = ["XAI", "Autonomous Vehicles", "NLP"]
 name = "Andrew Susanto"
 portrait = "/portraits/susanto.jpg"
 short_bio = "Andrew Susanto is a 5th year Undergraduate student studying Computer Science. His introduction into AI and Machine Learning was CSE 140, a Capstone course on Artificial Intelligence instructed by Prof. Leilani Gilpin, the head of AIEA Lab. Since, Andrew has grown a deep interest in the design, concepts, and utilization of AI, particularly within the contexts of XAI, Autonomous Vehicles and Natural Language Processing. Andrew has recently been working under the direction of Ph.D. student Oliver Chang in containerizing MIT's data-driven simulator, VISTA, using Docker and the Nautilus cluster for cloud-based computations."
-sort_position = 3
+sort_position = 4
 short_name = "Andrew"
 title = "Undergraduate"
 
