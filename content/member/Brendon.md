@@ -14,7 +14,7 @@ external_link = "https://www.linkedin.com/in/brendonchen-/"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:bchen103@ucsc.edu"
+    link = "mailto:brendonchenwork@gmail.com"
 
 [[social]]
     icon = "github"
