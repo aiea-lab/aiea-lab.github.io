@@ -6,11 +6,7 @@
     <description>Recent content on AIEA Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    <lastBuildDate>Wed, 11 Oct 2023 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://aiea-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 09 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aiea-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Undergraduate</title>
       <link>https://aiea-lab.github.io/member/susanto/</link>
@@ -85,6 +81,15 @@ Mahalo!
       
       <guid>https://aiea-lab.github.io/project/robustavs/</guid>
       <description>Autonomous Vehicles (AVs), including aerial, ground, and sea vehicles, are becoming an integral part of our lives. Currently, most AVs trust sensor data to make navigation and other control decisions. In addition, they trust that the control commands given to actuators are executed faithfully. While trusting sensor and actuator data with minimal validation has proven to be an effective trade-off in current market solutions, it is not a sustainable practice as AVs become more pervasive and computer attacks increase in sophistication.</description>
+    </item>
+    
+    <item>
+      <title>Recent Graduate</title>
+      <link>https://aiea-lab.github.io/alumni/brendon/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/alumni/brendon/</guid>
+      <description>Brendon is a recent graduate from UC Santa Cruz. He Majors in Cognitive Science with Specialization in Artificial Intelligence and Human Computer Interaction with a Minor in Computer Science. He is interested in the field of AI and is excited to learn more about new ways to utilize AI and more about how to implement them in general. He is currently learning more each day and looking for work.</description>
     </item>
     
     <item>
