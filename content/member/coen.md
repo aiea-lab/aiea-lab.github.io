@@ -1,6 +1,6 @@
 +++
 bio = ""
-date = "2023-10-2023"
+date = "2021-11-24"
 id = "coen"
 interests = ["XAI","Robust AI","Ethical AI"]
 name = "Coen Adler"
@@ -29,7 +29,7 @@ title = "Undergraduate student"
 [[education]]
     course = "B.S. Computer Science"
     institution = "University of California, Santa Cruz"
-    year = 2022
+    year = 2024
 
 [[education]]
     course = "Ph.D. Computer Science"
@@ -37,9 +37,9 @@ title = "Undergraduate student"
     year = 2028
         
 [[organizations]]
-    name = "UCSC ACM Chapter"
-    role = "President"
+    name = "UC Santa Cruz"
+    role = "Undergraduate student"
 
 +++
-Coen is a third-year undergraduate student advised by [Prof. Leilani Gilpin](../leilani/) in the Department of Computer Science and Engineering at UC Santa Cruz. He has a broad interest in improving the explainability and robustness of model intelligence. Outside of his studies, Coen enjoys hiking, soccer, and food (both cooking and eating).
+Coen is a third-year undergraduate student advised by [Prof. Leilani Gilpin](../leilani/) in the Department of Computer Science and Engineering at UC Santa Cruz. He has a broad interest in improving the explainability and robustness of model intelligence. Outside of his studies, Coen enjoys hiking, soccer, and food (both cooking and eating). He is currently applying to PhD programs for fall of 2024, so if there is a lab opening feel free to reach out!
 

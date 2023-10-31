@@ -9,6 +9,15 @@
     <lastBuildDate>Mon, 09 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aiea-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/member/susanto/</link>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/susanto/</guid>
+      <description>Andrew Susanto is a 5th year Undergraduate student studying Computer Science. His introduction into AI and Machine Learning was CSE 140, a Capstone course on Artificial Intelligence instructed by Prof. Leilani Gilpin, the head of AIEA Lab. Since, Andrew has grown a deep interest in the design, concepts, and utilization of AI, particularly within the contexts of XAI, Autonomous Vehicles and Natural Language Processing. Andrew has recently been working under the direction of Ph.</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate</title>
       <link>https://aiea-lab.github.io/member/nickw/</link>
       <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
       
@@ -94,12 +103,30 @@ read more</description>
     </item>
     
     <item>
+      <title>Undergraduate Student</title>
+      <link>https://aiea-lab.github.io/member/shreedhar/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/shreedhar/</guid>
+      <description>Shreedhar Jangam is an undergraduate student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. His current research focuses on the applications of generative and explainable systems, such as Large Language Models and their trustworthiness in various domains. Outside of research, Shreedhar enjoys backpacking, and practicing his wilderness EMT skills.</description>
+    </item>
+    
+    <item>
       <title>DANGER: A Framework of Danger-Aware Novel Dataset Generator Extension for Robustness Test of Machine Learning</title>
       <link>https://aiea-lab.github.io/publication/danger/</link>
       <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://aiea-lab.github.io/publication/danger/</guid>
       <description>  </description>
+    </item>
+    
+    <item>
+      <title>Undergraduate student</title>
+      <link>https://aiea-lab.github.io/member/coen/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/coen/</guid>
+      <description>Coen is a third-year undergraduate student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. He has a broad interest in improving the explainability and robustness of model intelligence. Outside of his studies, Coen enjoys hiking, soccer, and food (both cooking and eating). He is currently applying to PhD programs for fall of 2024, so if there is a lab opening feel free to reach out!</description>
     </item>
     
     <item>
@@ -212,15 +239,6 @@ Funding Our research is generously supported by the Underwriters Labatory (subaw
       <guid>https://aiea-lab.github.io/vacancy/vacancy1/</guid>
       <description>You can write $\LaTeX$ and Markdown here.
 Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
-    </item>
-    
-    <item>
-      <title>Undergraduate student</title>
-      <link>https://aiea-lab.github.io/member/coen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/coen/</guid>
-      <description>Coen is a third-year undergraduate student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. He has a broad interest in improving the explainability and robustness of model intelligence. Outside of his studies, Coen enjoys hiking, soccer, and food (both cooking and eating).</description>
     </item>
     
     <item>
