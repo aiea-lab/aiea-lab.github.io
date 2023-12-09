@@ -3,10 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aiea-lab.github.io/</loc>
-    <lastmod>2023-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aiea-lab.github.io/member/</loc>
-    <lastmod>2023-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/member/oliverchang/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/member/oliverl/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aiea-lab.github.io/member/susanto/</loc>
     <lastmod>2023-10-11T00:00:00+00:00</lastmod>
@@ -41,8 +47,14 @@
     <loc>https://aiea-lab.github.io/member/john/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://aiea-lab.github.io/member/brendon/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://aiea-lab.github.io/member/li/</loc>
     <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/member/suma/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aiea-lab.github.io/member/shreedhar/</loc>
     <lastmod>2023-03-27T00:00:00+00:00</lastmod>
@@ -52,6 +64,9 @@
   </url><url>
     <loc>https://aiea-lab.github.io/publication/</loc>
     <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/member/coen/</loc>
+    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aiea-lab.github.io/alumni/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
@@ -89,8 +104,6 @@
     <loc>https://aiea-lab.github.io/categories/</loc>
   </url><url>
     <loc>https://aiea-lab.github.io/tags/</loc>
-  </url><url>
-    <loc>https://aiea-lab.github.io/member/coen/</loc>
   </url><url>
     <loc>https://aiea-lab.github.io/member/tong/</loc>
   </url><url>
