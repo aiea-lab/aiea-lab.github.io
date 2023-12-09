@@ -5,12 +5,9 @@
     <link>https://aiea-lab.github.io/member/</link>
     <description>Recent content in Members on AIEA Lab</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    <lastBuildDate>Wed, 11 Oct 2023 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://aiea-lab.github.io/member/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 11 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aiea-lab.github.io/member/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Undergraduate</title>
       <link>https://aiea-lab.github.io/member/susanto/</link>
@@ -47,6 +44,15 @@ read more</description>
       <guid>https://aiea-lab.github.io/member/peiyu/</guid>
       <description>Olivia is a first-year Ph.D. student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. Her research interests include but are not limited to XAI, HCAI, and NLP.
 read more</description>
+    </item>
+    
+    <item>
+      <title>Masters</title>
+      <link>https://aiea-lab.github.io/member/john/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/john/</guid>
+      <description>John Yu is a Master&amp;rsquo;s Student in the Department of Computer Science and Engineering at UC Santa Cruz. His areas of technical interest are autonomous driving and embedded systems. In his spare time, John enjoys going to the gym, learning musical instruments, and cooking.</description>
     </item>
     
     <item>

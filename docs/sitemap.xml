@@ -1,169 +1,99 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://aiea-lab.github.io/</loc>
     <lastmod>2023-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/member/</loc>
     <lastmod>2023-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/member/susanto/</loc>
     <lastmod>2023-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/member/nickw/</loc>
     <lastmod>2023-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/member/sijia/</loc>
     <lastmod>2023-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/member/peiyu/</loc>
     <lastmod>2023-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/post/aloha/</loc>
     <lastmod>2023-08-19T15:50:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/post/</loc>
     <lastmod>2023-08-19T15:50:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/project/explaingrade/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/project/xaillm/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/project/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/project/robustavs/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://aiea-lab.github.io/member/john/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://aiea-lab.github.io/member/li/</loc>
     <lastmod>2023-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/member/shreedhar/</loc>
     <lastmod>2023-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/publication/danger/</loc>
     <lastmod>2022-11-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/publication/</loc>
     <lastmod>2022-11-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/alumni/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/alumni/shengjie/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/member/leilani/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/alumni/biagio/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/join/deeplearning/</loc>
     <lastmod>2016-07-12T16:10:22+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/join/</loc>
     <lastmod>2016-07-12T16:10:22+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/join/widelearning/</loc>
     <lastmod>2016-07-12T16:10:22+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/about/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/approach/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/join/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/mission/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/research/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/vacancy/vacancy1/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/member/coen/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/member/tong/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiea-lab.github.io/vacancy/</loc>
   </url>
-  
 </urlset>
