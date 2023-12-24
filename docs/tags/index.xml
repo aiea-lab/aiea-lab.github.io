@@ -5,10 +5,7 @@
     <link>https://aiea-lab.github.io/tags/</link>
     <description>Recent content in Tags on AIEA Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    
-	<atom:link href="https://aiea-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language>
+    <copyright>&amp;copy; AIEA Lab, 2023 </copyright><atom:link href="https://aiea-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
