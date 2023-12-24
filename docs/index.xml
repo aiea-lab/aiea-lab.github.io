@@ -6,10 +6,19 @@
     <description>Recent content on AIEA Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aiea-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Undergraduate Student</title>
+      <link>https://aiea-lab.github.io/member/raj/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/raj/</guid>
+      <description>Raj is a second-year undergraduate student in the Department of Computer Science and Engineering at UC Santa Cruz, where he is advised by Prof. Leilani Gilpin. He has a broad interest in artificial intelligence, particularly in the field of autonomous agents. Outside of school, Raj is the left winger for UCSC men&amp;rsquo;s rugby team. He also enjoys sim racing in his free time.</description>
+    </item>
     
     <item>
       <title>PhD Student</title>
@@ -104,6 +113,15 @@ Mahalo!
       
       <guid>https://aiea-lab.github.io/project/robustavs/</guid>
       <description>Autonomous Vehicles (AVs), including aerial, ground, and sea vehicles, are becoming an integral part of our lives. Currently, most AVs trust sensor data to make navigation and other control decisions. In addition, they trust that the control commands given to actuators are executed faithfully. While trusting sensor and actuator data with minimal validation has proven to be an effective trade-off in current market solutions, it is not a sustainable practice as AVs become more pervasive and computer attacks increase in sophistication.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/member/max/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/max/</guid>
+      <description>Max Meyers is an undergraduate student, class of 2024, studying Computer Engineering with a concentration in Robotics. His research focuses primarily on XAI, as well as combining Language Model AI with systems and databases. Outside of research, Max enjoys creative writing and fencing.</description>
     </item>
     
     <item>

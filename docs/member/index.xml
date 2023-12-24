@@ -6,10 +6,19 @@
     <description>Recent content in Members on AIEA Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aiea-lab.github.io/member/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Undergraduate Student</title>
+      <link>https://aiea-lab.github.io/member/raj/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/raj/</guid>
+      <description>Raj is a second-year undergraduate student in the Department of Computer Science and Engineering at UC Santa Cruz, where he is advised by Prof. Leilani Gilpin. He has a broad interest in artificial intelligence, particularly in the field of autonomous agents. Outside of school, Raj is the left winger for UCSC men&amp;rsquo;s rugby team. He also enjoys sim racing in his free time.</description>
+    </item>
     
     <item>
       <title>PhD Student</title>
@@ -66,6 +75,15 @@ read more</description>
       <guid>https://aiea-lab.github.io/member/peiyu/</guid>
       <description>Olivia is a first-year Ph.D. student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. Her research interests include but are not limited to XAI, HCAI, and NLP.
 read more</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/member/max/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/max/</guid>
+      <description>Max Meyers is an undergraduate student, class of 2024, studying Computer Engineering with a concentration in Robotics. His research focuses primarily on XAI, as well as combining Language Model AI with systems and databases. Outside of research, Max enjoys creative writing and fencing.</description>
     </item>
     
     <item>
