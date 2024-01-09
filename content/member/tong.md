@@ -2,10 +2,10 @@
 bio = ""
 date = "2021-03"
 id = "tong"
-interests = ["AI / ML", "LLMs", "DataBase"]
+interests = ["Artificial Intelligence", "Machine Learning", "Natural Language Processing", "Large Language Models", "Computer Vision"]
 name = "Tong Jia"
 portrait = "/portraits/tong.jpg"
-short_bio = "Tong is a 4th-year undergradute student under the guidance of Prof. Leilani in the Department of Computer Science and Engineering at UCSC, His research interests are AI / ML, LLMs, and DataBase"
+short_bio = "Tong is a 4th-year undergraduate student under the guidance of Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz, His research interests are Artificial Intelligence, Machine Learning, Natural Language Processing / Large Language Models ,and Computer Vision.
 
 sort_position = 4
 short_name = "Tong"
@@ -26,4 +26,10 @@ title = "Undergraduate student"
     role = "Undergradute Student, Major in Computer Science"
 
 +++
-Tong is a 4th-year undergraduate student advised by **[**Prof. Leilani Gilpin**]**(**../leilani/**) in the Department of Computer Science and Engineering at UC Santa Cruz. He has interests in AI/ML, LLMs, and DataBase. Outside of Classroom, Tong enjoys badminton, ping-pong, esports and Shogi(Japanese Chess)
+Tong is a 4th-year undergraduate student advised by [Prof. Leilani Gilpin](../leilani/) in the Department of Computer Science and Engineering at UC Santa Cruz. His research interests are Artificial Intelligence, Machine Learning, Natural Language Processing / Large Language Models ,and Computer Vision. 
+Outside of Classroom, Tong enjoys badminton, ping-pong, e-sports and Shōgi(Japanese Chess)
+(Tong is currently applying to Master's program for 2024 Fall)
+- Captain of Team China at World Shōgi League Since 2022
+- 🥉3rd place, 2022 Hearthstone Collegiate Masters Champions
+- 6th place, Fall 2022 Hearthstone Collegiate Masters
+- 🏆1st place award at the 2019 North America Shōgi Tournament, Adolescent Division
