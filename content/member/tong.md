@@ -5,7 +5,7 @@ id = "tong"
 interests = ["Artificial Intelligence", "Machine Learning", "Natural Language Processing", "Large Language Models", "Computer Vision"]
 name = "Tong Jia"
 portrait = "/portraits/tong.jpg"
-short_bio = "Tong is a 4th-year undergraduate student under the guidance of Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz, His research interests are Artificial Intelligence, Machine Learning, Natural Language Processing / Large Language Models ,and Computer Vision.
+short_bio = "Tong is a 4th-year undergraduate student under the guidance of Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz, His research interests are Artificial Intelligence, Machine Learning, Natural Language Processing / Large Language Models ,and Computer Vision."
 
 sort_position = 4
 short_name = "Tong"
