@@ -5,6 +5,7 @@ id = "camden"
 interests = ["Systems Design", "Autograder", "XAI"]
 name = "Camden Beard"
 portrait = "/portraits/camden.jpg"
+sort_position = 16
 short_bio = "Camden is a 4th year Computer Science student at UCSC"
 short_name = "Camden"
 title = "Undergraduate"
