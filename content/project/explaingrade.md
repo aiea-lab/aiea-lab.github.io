@@ -3,13 +3,115 @@ date = "2023-08-01"
 description = ""
 external_link = ""
 image = ""
-project_id = ""
+project_id = "explaingrade"
 short_description = "An explainable assessment tool or autograder for CSE courses"
 title = "Explainable Autograder"
+
 [[participants]]
     name = "leilani"
     is_member = true
     id = "leilani"
+
+[[participants]]
+    name = "Andrew Susanto"
+    is_member = true
+    id = "andrew"
+
+[[participants]]
+    name = "Brendon Chen"
+    is_member = true
+    id = "brendon"
+
+[[participants]]
+    name = "Fariha Lateef"
+    is_member = true
+    id = "fariha"
+
+[[participants]]
+    name = "Oliver Lokhandwala"
+    is_member = true
+    id = "oliver"
+
+[[participants]]
+    name = "Michael McAllister"
+    is_member = true
+    id = "michael"
+
+[[participants]]
+    name = "Daniel Hsieh"
+    is_member = true
+    id = "daniel"
+
+[[participants]]
+    name = "Camden Beard"
+    is_member = true
+    id = "camden"
+
+[[participants]]
+    name = "Ish Khandelwal"
+    is_member = true
+    id = "ish"
+
+[[participants]]
+    name = "Roger Li"
+    is_member = true
+    id = "roger"
+
+[[participants]]
+    name = "Ryan Wang"
+    is_member = true
+    id = "ryan"
+
+[[participants]]
+    name = "Samuel Trujillo"
+    is_member = true
+    id = "samuel"
+
+[[participants]]
+    name = "Kajal Patil"
+    is_member = true
+    id = "kajal"
+
+[[participants]]
+    name = "Yuan Jia"
+    is_member = true
+    id = "yuan"
+
+[[participants]]
+    name = "Batuhan Salih"
+    is_member = true
+    id = "batuhan"
+
+[[participants]]
+    name = "Brandon Schapiro"
+    is_member = true
+    id = "brandons"
+
+[[participants]]
+    name = "Ryan Leung"
+    is_member = true
+    id = "ryanl"
+
+[[participants]]
+    name = "Nistha"
+    is_member = true
+    id = "nistha"
+
+[[participants]]
+    name = "Sam"
+    is_member = true
+    id = "sam"
+
+[[participants]]
+    name = "Aaja Ouellette"
+    is_member = true
+    id = "aaja"
+
+[[participants]]
+    name = "Rithesh"
+    is_member = true
+    id = "rithesh"
+
 +++
 The goal of this project is to develop an autograder for computer sciences that can explain itself.
 <!--
