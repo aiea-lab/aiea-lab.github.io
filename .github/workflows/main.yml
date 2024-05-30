@@ -1,12 +1,15 @@
-name: Update Projects
+name: Build and Deploy Hugo Site from aiea-connect-notion
 
 on:
   push:
-    branches: ["aeia-connect-notion"]
-
-  workflow_dispatch:
+    branches:
+      - aiea-connect-notion
+  pull_request:
+    branches:
+      - aiea-connect-notion
   schedule:
-    - cron: '*/1 * * * *'
+    - cron: '0 0 * * *'  # Adjust cron as needed
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -14,41 +17,43 @@ permissions:
   id-token: write
 
 concurrency:
-  group: "pages"
+  group: "pages-staging"
   cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          ref: aiea-connect-notion  # Ensure the workflow checks out the aiea-connect-notion branch
 
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
-          if: always()
-          run: python fetch-details.py
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Fetch and Update Project Details
+        run: python fetch-details.py
+
+      - name: Install Hugo
+        run: |
+          wget https://github.com/gohugoio/hugo/releases/download/v0.126.1/hugo_extended_0.126.1_Linux-64bit.deb
+          sudo dpkg -i hugo_extended_0.126.1_Linux-64bit.deb
+
+      - name: Build Site
+        run: hugo -D
+
+      - name: Upload to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          source: ./
-          destination: ./_site
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-
- 
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          publish_branch: aiea-connect-notion  # Deploy to a different branch for staging

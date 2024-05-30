@@ -106,6 +106,8 @@
   </url><url>
     <loc>http://localhost:1313/mission/</loc>
   </url><url>
+    <loc>http://localhost:1313/project/allprojects/</loc>
+  </url><url>
     <loc>http://localhost:1313/research/</loc>
   </url><url>
     <loc>http://localhost:1313/vacancy/vacancy1/</loc>

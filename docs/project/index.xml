@@ -30,5 +30,12 @@
       <guid>http://localhost:1313/project/robustavs/</guid>
       <description>Autonomous Vehicles (AVs), including aerial, ground, and sea vehicles, are becoming an integral part of our lives. Currently, most AVs trust sensor data to make navigation and other control decisions. In addition, they trust that the control commands given to actuators are executed faithfully. While trusting sensor and actuator data with minimal validation has proven to be an effective trade-off in current market solutions, it is not a sustainable practice as AVs become more pervasive and computer attacks increase in sophistication.</description>
     </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/project/allprojects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/allprojects/</guid>
+      <description>Stress-Testing XAI Title:&#xA;Date:&#xA;Description:&#xA;External Link:&#xA;Image:&#xA;Project ID:&#xA;Short Description:&#xA;Goal:&#xA;Participants:&#xA;Robustifying AVs Title:&#xA;Date:&#xA;Description:&#xA;External Link:&#xA;Image:&#xA;Project ID:&#xA;Short Description:&#xA;Goal:&#xA;Participants:&#xA;Text → Video Title:&#xA;Date:&#xA;Description:&#xA;External Link:&#xA;Image:&#xA;Project ID:&#xA;Short Description:&#xA;Goal:&#xA;Participants:&#xA;Fair Decision Trees Title:&#xA;Date:&#xA;Description:&#xA;External Link:&#xA;Image:&#xA;Project ID:&#xA;Short Description:&#xA;Goal:&#xA;Participants:&#xA;Responsible Data Science Title:&#xA;Date:&#xA;Description:&#xA;External Link:&#xA;Image:&#xA;Project ID:&#xA;Short Description:</description>
+    </item>
   </channel>
 </rss>
