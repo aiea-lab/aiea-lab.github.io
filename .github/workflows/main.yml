@@ -8,7 +8,7 @@ on:
     branches:
       - aiea-connect-notion
   schedule:
-    - cron: '0 0 * * *'  # Adjust cron as needed
+    - cron: '0 0 * * 0'  #Run the job every Sunday at midnight
   workflow_dispatch:
 
 permissions:
