@@ -41,10 +41,6 @@ jobs:
           pip install requests
 
       - name: Fetch and Update Project Details
-        env:
-          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
-          DATABASE_ID: ${{ secrets.DATABASE_ID }}
-          MARKDOWN_FILE: './content/project/allprojects/index.md'
         run: python fetch-details.py
 
       - name: Install Hugo
