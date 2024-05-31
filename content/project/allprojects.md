@@ -1,3 +1,25 @@
+# Explaining Production Rules
+
+**Title:** 
+
+**Date:** 
+
+**Description:** 
+
+**External Link:** 
+
+**Image:** 
+
+**Project ID:** 
+
+**Short Description:** 
+
+**Goal:** 
+
+**Participants:**
+
+---
+
 # Stress-Testing XAI
 
 **Title:** 
