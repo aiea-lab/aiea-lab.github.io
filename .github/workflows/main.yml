@@ -16,10 +16,6 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: "pages-staging"
-  cancel-in-progress: false
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -56,4 +52,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./docs
-          publish_branch:  gh-pages  # Deploy to a different branch for staging
+          publish_branch:  aiea-connect-notion

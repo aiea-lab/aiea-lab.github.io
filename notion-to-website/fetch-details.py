@@ -118,12 +118,4 @@ if __name__ == "__main__":
 
         update_markdown_file(MARKDOWN_FILE, project_details)
         
-        # directory = "/content/project/allprojects.md"
-        # update_all_markdown_files(directory, project_details)
-        # directory = DIRECTORY_PATH
-        # if os.path.isdir(directory):
-        #     update_all_markdown_files(directory, project_details)
-        # else:
-        #     print(f"The directory {directory} does not exist.")
-        # project_name = "XAI Autograder"  # Replace with the correct project name for the file
-        # update_markdown_title(MARKDOWN_FILE, project_name, project_details)
+    

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on AIEA Lab</title>
-    <link>http://localhost:62585/post/</link>
+    <link>http://localhost:51999/post/</link>
     <description>Recent content in Posts on AIEA Lab</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
     <lastBuildDate>Sat, 19 Aug 2023 15:50:58 +0200</lastBuildDate>
-    <atom:link href="http://localhost:62585/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:51999/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aloha!</title>
-      <link>http://localhost:62585/post/aloha/</link>
+      <link>http://localhost:51999/post/aloha/</link>
       <pubDate>Sat, 19 Aug 2023 15:50:58 +0200</pubDate>
-      <guid>http://localhost:62585/post/aloha/</guid>
+      <guid>http://localhost:51999/post/aloha/</guid>
       <description>Aloha to friends and collaborators of the lab! We&amp;rsquo;ve just started setting up this website and we appreciate your patience as we make changes.&#xA;Mahalo!</description>
     </item>
   </channel>
