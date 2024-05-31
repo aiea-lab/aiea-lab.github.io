@@ -1,3 +1,25 @@
+# Explaining youtube
+
+**Title:** 
+
+**Date:** 
+
+**Description:** 
+
+**External Link:** 
+
+**Image:** 
+
+**Project ID:** 
+
+**Short Description:** 
+
+**Goal:** 
+
+**Participants:**
+
+---
+
 # Explaining Production Rules
 
 **Title:** 
