@@ -26,7 +26,7 @@
 
 **Date:** 2024-06-03
 
-**Description:** 
+**Description:**  
 
 **External Link:** https://www.notion.so/Explaining-youtube-c206735a00f44d31a5b9df286d31ce57
 
