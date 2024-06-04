@@ -1,419 +1,187 @@
-# Unnamed Project
-
-**Title:** 
-
-**Date:** 
-
-**Description:** 
-
-**External Link:** https://www.notion.so/eeb1c3147f5e42308b3b430c4f0f8ff6
-
-**Image:** 
-
-**Project ID:** 
-
-**Short Description:** 
-
-**Goal:** 
-
-**Participants:**
-
 ---
-
 # Explaining youtube
 
-**Title:** 
-
-**Date:** 2024-06-03
-
-**Description:** 
-
-**External Link:** https://www.notion.so/Explaining-youtube-c206735a00f44d31a5b9df286d31ce57
-
-**Image:** 
-
-**Project ID:** 
-
-**Short Description:** 
-
-**Goal:** 
-
-**Participants:**
--  (Member: False)
-
+Date: 2024-06-03
+Description: A project to explain ddfbdfd
+Cover_image: https://www.notion.so/images/page-cover/rijksmuseum_jansz_1641.jpg
+Status: Active
 ---
 
+---
 # Explaining Production Rules
 
-**Title:** 
-
-**Date:** 
-
-**Description:** 
-
-**External Link:** https://www.notion.so/Explaining-Production-Rules-f484e06e90524976aa53e04319717d71
-
-**Image:** 
-
-**Project ID:** 
-
-**Short Description:** 
-
-**Goal:** 
-
-**Participants:**
-
+Date: 2024-06-04
+Description: A project for explaining production rules
+Cover_image: https://www.notion.so/images/page-cover/woodcuts_2.jpg
+Status: Active
 ---
 
+---
 # Stress-Testing XAI
 
-**Title:** 
-
-**Date:** 
-
-**Description:** 
-
-**External Link:** https://www.notion.so/Stress-Testing-XAI-20b859293cf241a8a9f38e9993930cea
-
-**Image:** 
-
-**Project ID:** 
-
-**Short Description:** 
-
-**Goal:** 
-
-**Participants:**
-
+Date: 
+Description: 
+Cover_image: 
+Status: Inactive
 ---
 
+---
 # Robustifying AVs
 
-**Title:** 
-
-**Date:** 
-
-**Description:** 
-
-**External Link:** https://www.notion.so/Robustifying-AVs-ebd0acb7b21e42e0ac0705d66c793054
-
-**Image:** 
-
-**Project ID:** 
-
-**Short Description:** 
-
-**Goal:** 
-
-**Participants:**
-
+Date: 2024-06-04
+Description: A project for robustifying AVs
+Cover_image: https://www.notion.so/images/page-cover/webb1.jpg
+Status: Active
 ---
 
+---
 # Text → Video
 
-**Title:** 
-
-**Date:** 2023-04-03
-
-**Description:** 
-
-**External Link:** https://www.notion.so/Text-Video-f939ec8bdcf34f99b043dd4e9a993522
-
-**Image:** 
-
-**Project ID:** 
-
-**Short Description:** 
-
-**Goal:** 
-
-**Participants:**
-
+Date: 2023-04-03
+Description: 
+Cover_image: 
+Status: Inactive
 ---
 
+---
 # Fair Decision Trees
 
-**Title:** 
-
-**Date:** 2023-01-01
-
-**Description:** 
-
-**External Link:** https://www.notion.so/Fair-Decision-Trees-39a6b517dad64a55962062b33bddb052
-
-**Image:** 
-
-**Project ID:** 
-
-**Short Description:** 
-
-**Goal:** 
-
-**Participants:**
-
+Date: 2023-01-01
+Description: Fair Decision Trees
+A project for Guidanceddfgdfgdfgdfgdfgfdfd
+dfdgdgfdg
+dfddfggffghgjhjhkhj
+dfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs
+dfgdfngd
+Cover_image: https://www.notion.so/images/page-cover/woodcuts_16.jpg
+Status: Active
 ---
 
+---
 # Responsible Data Science
 
-**Title:** 
-
-**Date:** 
-
-**Description:** 
-
-**External Link:** https://www.notion.so/Responsible-Data-Science-cccd47963ed7469aa985f41e67babe31
-
-**Image:** 
-
-**Project ID:** 
-
-**Short Description:** 
-
-**Goal:** 
-
-**Participants:**
-
+Date: 
+Description: 
+Cover_image: 
+Status: Inactive
 ---
 
+---
 # Danger
 
-**Title:** 
-
-**Date:** 
-
-**Description:** 
-
-**External Link:** https://www.notion.so/Danger-05c86372d3e04e9984f275dfa8f0b499
-
-**Image:** 
-
-**Project ID:** 
-
-**Short Description:** 
-
-**Goal:** 
-
-**Participants:**
-
+Date: 
+Description: 
+Cover_image: 
+Status: Inactive
 ---
 
+---
 # Neural Net Pruning
 
-**Title:** 
-
-**Date:** 
-
-**Description:** 
-
-**External Link:** https://www.notion.so/Neural-Net-Pruning-50f1724ed75740fa9f35642bce7b2fbf
-
-**Image:** 
-
-**Project ID:** 
-
-**Short Description:** 
-
-**Goal:** 
-
-**Participants:**
-
+Date: 
+Description: 
+Cover_image: 
+Status: Inactive
 ---
 
+---
 # Explaining LLM Failures 
 
-**Title:** 
-
-**Date:** 2023-06-12
-
-**Description:** 
-
-**External Link:** https://www.notion.so/Explaining-LLM-Failures-eba4619175c449bcaf8631d9d32e3370
-
-**Image:** 
-
-**Project ID:** 
-
-**Short Description:** 
-
-**Goal:** 
-
-**Participants:**
-
+Date: 2023-06-12
+Description: A project for Guidanceddfgdfgdfgdfgdfgfdfd
+dfdgdgfdg
+dfddfggffghgjhjhkhj
+dfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs
+dfgdfngd
+Cover_image: https://www.notion.so/images/page-cover/met_emanuel_leutze.jpg
+Status: Active
 ---
 
+---
 # XAI Autograder
 
-**Title:** 
-
-**Date:** 2023-06-20
-
-**Description:** 
-
-**External Link:** https://www.notion.so/XAI-Autograder-e2c392d14d484f828c477d32b26d5598
-
-**Image:** 
-
-**Project ID:** 
-
-**Short Description:** 
-
-**Goal:** 
-
-**Participants:**
-
+Date: 2023-06-20
+Description: A project for Guidanceddfgdfgdfgdfgdfgfdfd
+dfdgdgfdg
+dfddfggffghgjhjhkhj
+dfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs
+dfgdfngd
+Cover_image: https://www.notion.so/images/page-cover/webb1.jpg
+Status: Active
 ---
 
+---
 # LLM Evaluation in Healthcare
 
-**Title:** 
-
-**Date:** 
-
-**Description:** 
-
-**External Link:** https://www.notion.so/LLM-Evaluation-in-Healthcare-5cc29a6e3861493fab9642b8ddc1393c
-
-**Image:** 
-
-**Project ID:** 
-
-**Short Description:** 
-
-**Goal:** 
-
-**Participants:**
-
+Date: 
+Description: 
+Cover_image: 
+Status: Inactive
 ---
 
+---
 # Concept-Based Interpretation
 
-**Title:** 
-
-**Date:** 
-
-**Description:** 
-
-**External Link:** https://www.notion.so/Concept-Based-Interpretation-c10960bca4a24a1ca90d9fdaf4ac6a8d
-
-**Image:** 
-
-**Project ID:** 
-
-**Short Description:** 
-
-**Goal:** 
-
-**Participants:**
-
+Date: 2024-06-03
+Description: A project for Guidanceddfgdfgdfgdfgdfgfdfd
+dfdgdgfdg
+dfddfggffghgjhjhkhj
+dfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs
+dfgdfngd
+Cover_image: https://www.notion.so/images/page-cover/met_jean_beraud.jpg
+Status: Active
 ---
 
+---
 # Lab External and Project Management
 
-**Title:** 
-
-**Date:** 
-
-**Description:** 
-
-**External Link:** https://www.notion.so/Lab-External-and-Project-Management-8d8906bb1b654aaf85a8532aa550d2fd
-
-**Image:** 
-
-**Project ID:** 
-
-**Short Description:** 
-
-**Goal:** 
-
-**Participants:**
-
+Date: 2024-06-04
+Description: A project for Guidanceddfgdfgdfgdfgdfgfdfd
+dfdgdgfdg
+dfddfggffghgjhjhkhj
+dfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs
+dfgdfngd
+Cover_image: https://www.notion.so/images/page-cover/nasa_robert_stewart_spacewalk.jpg
+Status: Ongoing
 ---
 
+---
 # eXplainability for Monitoring Machine Learning
 
-**Title:** 
-
-**Date:** 
-
-**Description:** 
-
-**External Link:** https://www.notion.so/eXplainability-for-Monitoring-Machine-Learning-3cda8fe8608145828c16a2cf750d3a6a
-
-**Image:** 
-
-**Project ID:** 
-
-**Short Description:** 
-
-**Goal:** 
-
-**Participants:**
-
+Date: 
+Description: 
+Cover_image: 
+Status: Inactive
 ---
 
+---
 # 🦉Guidance
 
-**Title:** 
-
-**Date:** 
-
-**Description:** 
-
-**External Link:** https://www.notion.so/Guidance-319ff04bfafe499db181629f4b25c519
-
-**Image:** 
-
-**Project ID:** 
-
-**Short Description:** 
-
-**Goal:** 
-
-**Participants:**
-
+Date: 2024-06-04
+Description: A project for Guidanceddfgdfgdfgdfgdfgfdfd
+dfdgdgfdg
+dfddfggffghgjhjhkhj
+dfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs
+dfgdfngd
+Cover_image: https://www.notion.so/images/page-cover/gradients_8.png
+Status: Active
 ---
 
+---
 # DNN Pruning and XAI
 
-**Title:** 
-
-**Date:** 
-
-**Description:** 
-
-**External Link:** https://www.notion.so/DNN-Pruning-and-XAI-d9cc118788304e4ab76f6b4bb390b73b
-
-**Image:** 
-
-**Project ID:** 
-
-**Short Description:** 
-
-**Goal:** 
-
-**Participants:**
-
+Date: 2024-06-02
+Description: A project for DNN pruning and XAI
+Cover_image: https://www.notion.so/images/page-cover/woodcuts_14.jpg
+Status: Active
 ---
 
+---
 # Auditing
 
-**Title:** 
-
-**Date:** 
-
-**Description:** 
-
-**External Link:** https://www.notion.so/Auditing-761cef75329245929927837207426dc7
-
-**Image:** 
-
-**Project ID:** 
-
-**Short Description:** 
-
-**Goal:** 
-
-**Participants:**
-
+Date: 2024-06-04
+Description: A project to audit the existing detailsshsghfgsdgf
+Cover_image: https://www.notion.so/images/page-cover/met_terracotta_funerary_plaque.jpg
+Status: Active
 ---
 

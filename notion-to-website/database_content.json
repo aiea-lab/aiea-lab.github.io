@@ -3,82 +3,9 @@
     "results": [
         {
             "object": "page",
-            "id": "eeb1c314-7f5e-4230-8b3b-430c4f0f8ff6",
-            "created_time": "2024-06-03T19:29:00.000Z",
-            "last_edited_time": "2024-06-03T19:29:00.000Z",
-            "created_by": {
-                "object": "user",
-                "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
-            },
-            "last_edited_by": {
-                "object": "user",
-                "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
-            },
-            "cover": null,
-            "icon": null,
-            "parent": {
-                "type": "database_id",
-                "database_id": "79a626a8-176d-4aca-8922-faa551ddbfa8"
-            },
-            "archived": false,
-            "in_trash": false,
-            "properties": {
-                "\ud83d\udc6b Members": {
-                    "id": "FvH%3F",
-                    "type": "relation",
-                    "relation": [],
-                    "has_more": false
-                },
-                "Parent item": {
-                    "id": "W%5DDq",
-                    "type": "relation",
-                    "relation": [],
-                    "has_more": false
-                },
-                "Assigned To": {
-                    "id": "ZRg%7B",
-                    "type": "people",
-                    "people": []
-                },
-                "Status": {
-                    "id": "%5DHvi",
-                    "type": "status",
-                    "status": {
-                        "id": "28b3eb0b-2994-45a2-8c2e-e50a2540745a",
-                        "name": "Active",
-                        "color": "red"
-                    }
-                },
-                "Sub-item": {
-                    "id": "mbwj",
-                    "type": "relation",
-                    "relation": [],
-                    "has_more": false
-                },
-                "Dates": {
-                    "id": "rXhw",
-                    "type": "date",
-                    "date": null
-                },
-                "Tags": {
-                    "id": "tX%3BZ",
-                    "type": "multi_select",
-                    "multi_select": []
-                },
-                "Project Name": {
-                    "id": "title",
-                    "type": "title",
-                    "title": []
-                }
-            },
-            "url": "https://www.notion.so/eeb1c3147f5e42308b3b430c4f0f8ff6",
-            "public_url": null
-        },
-        {
-            "object": "page",
             "id": "c206735a-00f4-4d31-a5b9-df286d31ce57",
             "created_time": "2024-05-31T15:25:00.000Z",
-            "last_edited_time": "2024-06-03T19:30:00.000Z",
+            "last_edited_time": "2024-06-04T16:10:00.000Z",
             "created_by": {
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
@@ -87,8 +14,16 @@
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
             },
-            "cover": null,
-            "icon": null,
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://www.notion.so/images/page-cover/rijksmuseum_jansz_1641.jpg"
+                }
+            },
+            "icon": {
+                "type": "emoji",
+                "emoji": "\ud83c\udfc9"
+            },
             "parent": {
                 "type": "database_id",
                 "database_id": "79a626a8-176d-4aca-8922-faa551ddbfa8"
@@ -115,6 +50,10 @@
                         {
                             "object": "user",
                             "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+                        },
+                        {
+                            "object": "user",
+                            "id": "cc09b462-1d12-4048-b9ff-2c7461d63fc1"
                         }
                     ]
                 },
@@ -126,6 +65,29 @@
                         "name": "Active",
                         "color": "red"
                     }
+                },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "A project to explain ddfbdfd",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "A project to explain ddfbdfd",
+                            "href": null
+                        }
+                    ]
                 },
                 "Sub-item": {
                     "id": "mbwj",
@@ -209,7 +171,7 @@
             "object": "page",
             "id": "f484e06e-9052-4976-aa53-e04319717d71",
             "created_time": "2024-05-31T14:02:00.000Z",
-            "last_edited_time": "2024-05-31T14:05:00.000Z",
+            "last_edited_time": "2024-06-04T16:10:00.000Z",
             "created_by": {
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
@@ -218,8 +180,16 @@
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
             },
-            "cover": null,
-            "icon": null,
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://www.notion.so/images/page-cover/woodcuts_2.jpg"
+                }
+            },
+            "icon": {
+                "type": "emoji",
+                "emoji": "\ud83c\udf8e"
+            },
             "parent": {
                 "type": "database_id",
                 "database_id": "79a626a8-176d-4aca-8922-faa551ddbfa8"
@@ -242,7 +212,16 @@
                 "Assigned To": {
                     "id": "ZRg%7B",
                     "type": "people",
-                    "people": []
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+                        },
+                        {
+                            "object": "user",
+                            "id": "cc09b462-1d12-4048-b9ff-2c7461d63fc1"
+                        }
+                    ]
                 },
                 "Status": {
                     "id": "%5DHvi",
@@ -253,6 +232,29 @@
                         "color": "red"
                     }
                 },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "A project for explaining production rules",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "A project for explaining production rules",
+                            "href": null
+                        }
+                    ]
+                },
                 "Sub-item": {
                     "id": "mbwj",
                     "type": "relation",
@@ -262,7 +264,11 @@
                 "Dates": {
                     "id": "rXhw",
                     "type": "date",
-                    "date": null
+                    "date": {
+                        "start": "2024-06-04",
+                        "end": null,
+                        "time_zone": null
+                    }
                 },
                 "Tags": {
                     "id": "tX%3BZ",
@@ -306,7 +312,7 @@
             "object": "page",
             "id": "ac2b0f04-db17-4098-bb6b-4f82274c4e66",
             "created_time": "2024-05-28T20:07:00.000Z",
-            "last_edited_time": "2024-05-28T20:07:00.000Z",
+            "last_edited_time": "2024-06-04T16:10:00.000Z",
             "created_by": {
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
@@ -315,7 +321,12 @@
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
             },
-            "cover": null,
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://www.notion.so/images/page-cover/woodcuts_2.jpg"
+                }
+            },
             "icon": {
                 "type": "emoji",
                 "emoji": "\ud83d\udea7"
@@ -342,7 +353,12 @@
                 "Assigned To": {
                     "id": "ZRg%7B",
                     "type": "people",
-                    "people": []
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+                        }
+                    ]
                 },
                 "Status": {
                     "id": "%5DHvi",
@@ -353,6 +369,29 @@
                         "color": "yellow"
                     }
                 },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "A project for stress testing XAI",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "A project for stress testing XAI",
+                            "href": null
+                        }
+                    ]
+                },
                 "Sub-item": {
                     "id": "mbwj",
                     "type": "relation",
@@ -362,12 +401,22 @@
                 "Dates": {
                     "id": "rXhw",
                     "type": "date",
-                    "date": null
+                    "date": {
+                        "start": "2024-06-28",
+                        "end": null,
+                        "time_zone": null
+                    }
                 },
                 "Tags": {
                     "id": "tX%3BZ",
                     "type": "multi_select",
-                    "multi_select": []
+                    "multi_select": [
+                        {
+                            "id": "7d607b6c-0b68-4db0-9c12-79e34a1cc4a9",
+                            "name": "RL",
+                            "color": "orange"
+                        }
+                    ]
                 },
                 "Project Name": {
                     "id": "title",
@@ -400,7 +449,7 @@
             "object": "page",
             "id": "ebd0acb7-b21e-42e0-ac07-05d66c793054",
             "created_time": "2024-05-28T20:07:00.000Z",
-            "last_edited_time": "2024-05-28T20:07:00.000Z",
+            "last_edited_time": "2024-06-04T16:10:00.000Z",
             "created_by": {
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
@@ -409,7 +458,12 @@
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
             },
-            "cover": null,
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://www.notion.so/images/page-cover/webb1.jpg"
+                }
+            },
             "icon": {
                 "type": "emoji",
                 "emoji": "\ud83d\ude97"
@@ -436,7 +490,12 @@
                 "Assigned To": {
                     "id": "ZRg%7B",
                     "type": "people",
-                    "people": []
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+                        }
+                    ]
                 },
                 "Status": {
                     "id": "%5DHvi",
@@ -447,6 +506,29 @@
                         "color": "red"
                     }
                 },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "A project for robustifying AVs",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "A project for robustifying AVs",
+                            "href": null
+                        }
+                    ]
+                },
                 "Sub-item": {
                     "id": "mbwj",
                     "type": "relation",
@@ -456,12 +538,22 @@
                 "Dates": {
                     "id": "rXhw",
                     "type": "date",
-                    "date": null
+                    "date": {
+                        "start": "2024-06-04",
+                        "end": null,
+                        "time_zone": null
+                    }
                 },
                 "Tags": {
                     "id": "tX%3BZ",
                     "type": "multi_select",
-                    "multi_select": []
+                    "multi_select": [
+                        {
+                            "id": "3dbc7306-dabb-4636-a25d-f8791d07958f",
+                            "name": "F1tenth",
+                            "color": "blue"
+                        }
+                    ]
                 },
                 "Project Name": {
                     "id": "title",
@@ -494,7 +586,7 @@
             "object": "page",
             "id": "7b859788-3a8f-4d4d-bf55-b74e9a7000bc",
             "created_time": "2024-05-28T20:07:00.000Z",
-            "last_edited_time": "2024-05-28T20:07:00.000Z",
+            "last_edited_time": "2024-06-04T16:09:00.000Z",
             "created_by": {
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
@@ -503,7 +595,12 @@
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
             },
-            "cover": null,
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://www.notion.so/images/page-cover/rijksmuseum_vermeer_the_milkmaid.jpg"
+                }
+            },
             "icon": {
                 "type": "emoji",
                 "emoji": "\ud83d\udcfd\ufe0f"
@@ -530,7 +627,12 @@
                 "Assigned To": {
                     "id": "ZRg%7B",
                     "type": "people",
-                    "people": []
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+                        }
+                    ]
                 },
                 "Status": {
                     "id": "%5DHvi",
@@ -540,6 +642,29 @@
                         "name": "Proposed",
                         "color": "yellow"
                     }
+                },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "A project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "A project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
+                            "href": null
+                        }
+                    ]
                 },
                 "Sub-item": {
                     "id": "mbwj",
@@ -559,7 +684,13 @@
                 "Tags": {
                     "id": "tX%3BZ",
                     "type": "multi_select",
-                    "multi_select": []
+                    "multi_select": [
+                        {
+                            "id": "d4e0256f-8d38-455d-8aac-8f4d63e9d6c8",
+                            "name": "LLMs",
+                            "color": "pink"
+                        }
+                    ]
                 },
                 "Project Name": {
                     "id": "title",
@@ -592,7 +723,7 @@
             "object": "page",
             "id": "39a6b517-dad6-4a55-9620-62b33bddb052",
             "created_time": "2024-05-28T20:07:00.000Z",
-            "last_edited_time": "2024-05-28T20:07:00.000Z",
+            "last_edited_time": "2024-06-04T16:10:00.000Z",
             "created_by": {
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
@@ -601,7 +732,12 @@
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
             },
-            "cover": null,
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://www.notion.so/images/page-cover/woodcuts_16.jpg"
+                }
+            },
             "icon": {
                 "type": "emoji",
                 "emoji": "\ud83c\udf32"
@@ -628,7 +764,12 @@
                 "Assigned To": {
                     "id": "ZRg%7B",
                     "type": "people",
-                    "people": []
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+                        }
+                    ]
                 },
                 "Status": {
                     "id": "%5DHvi",
@@ -638,6 +779,29 @@
                         "name": "Active",
                         "color": "red"
                     }
+                },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Fair Decision Trees\nA project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Fair Decision Trees\nA project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
+                            "href": null
+                        }
+                    ]
                 },
                 "Sub-item": {
                     "id": "mbwj",
@@ -657,7 +821,13 @@
                 "Tags": {
                     "id": "tX%3BZ",
                     "type": "multi_select",
-                    "multi_select": []
+                    "multi_select": [
+                        {
+                            "id": "77856950-b322-46b5-b983-9d48eec1fdaa",
+                            "name": "AVs",
+                            "color": "blue"
+                        }
+                    ]
                 },
                 "Project Name": {
                     "id": "title",
@@ -690,7 +860,7 @@
             "object": "page",
             "id": "91f3cbc5-1d81-4755-baec-9d58d869d587",
             "created_time": "2024-05-28T20:07:00.000Z",
-            "last_edited_time": "2024-05-28T20:07:00.000Z",
+            "last_edited_time": "2024-06-04T16:10:00.000Z",
             "created_by": {
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
@@ -699,7 +869,12 @@
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
             },
-            "cover": null,
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://www.notion.so/images/page-cover/met_vincent_van_gogh_cradle.jpg"
+                }
+            },
             "icon": {
                 "type": "emoji",
                 "emoji": "\u2696\ufe0f"
@@ -726,7 +901,12 @@
                 "Assigned To": {
                     "id": "ZRg%7B",
                     "type": "people",
-                    "people": []
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+                        }
+                    ]
                 },
                 "Status": {
                     "id": "%5DHvi",
@@ -737,6 +917,29 @@
                         "color": "yellow"
                     }
                 },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "A project for responsible data science",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "A project for responsible data science",
+                            "href": null
+                        }
+                    ]
+                },
                 "Sub-item": {
                     "id": "mbwj",
                     "type": "relation",
@@ -746,12 +949,22 @@
                 "Dates": {
                     "id": "rXhw",
                     "type": "date",
-                    "date": null
+                    "date": {
+                        "start": "2024-06-21",
+                        "end": null,
+                        "time_zone": null
+                    }
                 },
                 "Tags": {
                     "id": "tX%3BZ",
                     "type": "multi_select",
-                    "multi_select": []
+                    "multi_select": [
+                        {
+                            "id": "5611d88c-799d-45f2-b31c-21a51bb1811e",
+                            "name": "DeepRL",
+                            "color": "orange"
+                        }
+                    ]
                 },
                 "Project Name": {
                     "id": "title",
@@ -784,7 +997,7 @@
             "object": "page",
             "id": "1457b06b-c948-40e7-8659-a0c970cd3df7",
             "created_time": "2024-05-28T20:07:00.000Z",
-            "last_edited_time": "2024-05-28T20:07:00.000Z",
+            "last_edited_time": "2024-06-04T16:10:00.000Z",
             "created_by": {
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
@@ -793,7 +1006,12 @@
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
             },
-            "cover": null,
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://www.notion.so/images/page-cover/woodcuts_sekka_3.jpg"
+                }
+            },
             "icon": {
                 "type": "emoji",
                 "emoji": "\ud83d\udeb8"
@@ -820,7 +1038,12 @@
                 "Assigned To": {
                     "id": "ZRg%7B",
                     "type": "people",
-                    "people": []
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+                        }
+                    ]
                 },
                 "Status": {
                     "id": "%5DHvi",
@@ -831,6 +1054,29 @@
                         "color": "yellow"
                     }
                 },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "A project to simplify danger",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "A project to simplify danger",
+                            "href": null
+                        }
+                    ]
+                },
                 "Sub-item": {
                     "id": "mbwj",
                     "type": "relation",
@@ -840,12 +1086,22 @@
                 "Dates": {
                     "id": "rXhw",
                     "type": "date",
-                    "date": null
+                    "date": {
+                        "start": "2024-10-17",
+                        "end": null,
+                        "time_zone": null
+                    }
                 },
                 "Tags": {
                     "id": "tX%3BZ",
                     "type": "multi_select",
-                    "multi_select": []
+                    "multi_select": [
+                        {
+                            "id": "3dbc7306-dabb-4636-a25d-f8791d07958f",
+                            "name": "F1tenth",
+                            "color": "blue"
+                        }
+                    ]
                 },
                 "Project Name": {
                     "id": "title",
@@ -878,7 +1134,7 @@
             "object": "page",
             "id": "27471838-cfb2-46e0-a80f-721a854912f2",
             "created_time": "2024-05-28T20:07:00.000Z",
-            "last_edited_time": "2024-05-28T20:07:00.000Z",
+            "last_edited_time": "2024-06-04T16:09:00.000Z",
             "created_by": {
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
@@ -887,7 +1143,12 @@
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
             },
-            "cover": null,
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://www.notion.so/images/page-cover/met_william_turner_1835.jpg"
+                }
+            },
             "icon": {
                 "type": "emoji",
                 "emoji": "\ud83d\udcc9"
@@ -914,7 +1175,12 @@
                 "Assigned To": {
                     "id": "ZRg%7B",
                     "type": "people",
-                    "people": []
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+                        }
+                    ]
                 },
                 "Status": {
                     "id": "%5DHvi",
@@ -925,6 +1191,29 @@
                         "color": "yellow"
                     }
                 },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "A project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "A project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
+                            "href": null
+                        }
+                    ]
+                },
                 "Sub-item": {
                     "id": "mbwj",
                     "type": "relation",
@@ -934,12 +1223,22 @@
                 "Dates": {
                     "id": "rXhw",
                     "type": "date",
-                    "date": null
+                    "date": {
+                        "start": "2024-06-26",
+                        "end": null,
+                        "time_zone": null
+                    }
                 },
                 "Tags": {
                     "id": "tX%3BZ",
                     "type": "multi_select",
-                    "multi_select": []
+                    "multi_select": [
+                        {
+                            "id": "9e26b6b9-3279-426a-b93b-4f7946149635",
+                            "name": "XAI",
+                            "color": "red"
+                        }
+                    ]
                 },
                 "Project Name": {
                     "id": "title",
@@ -972,7 +1271,7 @@
             "object": "page",
             "id": "eba46191-75c4-49bc-af86-31d9d32e3370",
             "created_time": "2024-05-28T20:07:00.000Z",
-            "last_edited_time": "2024-05-28T20:07:00.000Z",
+            "last_edited_time": "2024-06-04T16:09:00.000Z",
             "created_by": {
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
@@ -981,7 +1280,12 @@
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
             },
-            "cover": null,
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://www.notion.so/images/page-cover/met_emanuel_leutze.jpg"
+                }
+            },
             "icon": {
                 "type": "emoji",
                 "emoji": "\ud83d\udd0f"
@@ -1008,7 +1312,12 @@
                 "Assigned To": {
                     "id": "ZRg%7B",
                     "type": "people",
-                    "people": []
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+                        }
+                    ]
                 },
                 "Status": {
                     "id": "%5DHvi",
@@ -1018,6 +1327,29 @@
                         "name": "Active",
                         "color": "red"
                     }
+                },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "A project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "A project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
+                            "href": null
+                        }
+                    ]
                 },
                 "Sub-item": {
                     "id": "mbwj",
@@ -1081,7 +1413,7 @@
             "object": "page",
             "id": "e2c392d1-4d48-4f82-8c47-7d32b26d5598",
             "created_time": "2024-05-28T20:07:00.000Z",
-            "last_edited_time": "2024-05-28T20:07:00.000Z",
+            "last_edited_time": "2024-06-04T16:09:00.000Z",
             "created_by": {
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
@@ -1090,7 +1422,12 @@
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
             },
-            "cover": null,
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://www.notion.so/images/page-cover/webb1.jpg"
+                }
+            },
             "icon": {
                 "type": "emoji",
                 "emoji": "\u2705"
@@ -1117,7 +1454,12 @@
                 "Assigned To": {
                     "id": "ZRg%7B",
                     "type": "people",
-                    "people": []
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+                        }
+                    ]
                 },
                 "Status": {
                     "id": "%5DHvi",
@@ -1127,6 +1469,29 @@
                         "name": "Active",
                         "color": "red"
                     }
+                },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "A project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "A project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
+                            "href": null
+                        }
+                    ]
                 },
                 "Sub-item": {
                     "id": "mbwj",
@@ -1195,7 +1560,7 @@
             "object": "page",
             "id": "2fa6bbcf-f034-4152-8260-7988a6fccc63",
             "created_time": "2024-05-28T20:07:00.000Z",
-            "last_edited_time": "2024-05-28T20:07:00.000Z",
+            "last_edited_time": "2024-06-04T15:54:00.000Z",
             "created_by": {
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
@@ -1204,7 +1569,12 @@
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
             },
-            "cover": null,
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://www.notion.so/images/page-cover/gradients_11.jpg"
+                }
+            },
             "icon": {
                 "type": "emoji",
                 "emoji": "\ud83e\ude7a"
@@ -1242,6 +1612,11 @@
                         "color": "yellow"
                     }
                 },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
                 "Sub-item": {
                     "id": "mbwj",
                     "type": "relation",
@@ -1251,7 +1626,11 @@
                 "Dates": {
                     "id": "rXhw",
                     "type": "date",
-                    "date": null
+                    "date": {
+                        "start": "2024-06-25",
+                        "end": null,
+                        "time_zone": null
+                    }
                 },
                 "Tags": {
                     "id": "tX%3BZ",
@@ -1295,7 +1674,7 @@
             "object": "page",
             "id": "c10960bc-a4a2-4a1c-a90d-9fdaf4ac6a8d",
             "created_time": "2024-05-28T20:07:00.000Z",
-            "last_edited_time": "2024-05-28T20:07:00.000Z",
+            "last_edited_time": "2024-06-04T16:09:00.000Z",
             "created_by": {
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
@@ -1304,8 +1683,16 @@
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
             },
-            "cover": null,
-            "icon": null,
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://www.notion.so/images/page-cover/met_jean_beraud.jpg"
+                }
+            },
+            "icon": {
+                "type": "emoji",
+                "emoji": "\ud83c\udfb0"
+            },
             "parent": {
                 "type": "database_id",
                 "database_id": "79a626a8-176d-4aca-8922-faa551ddbfa8"
@@ -1328,7 +1715,12 @@
                 "Assigned To": {
                     "id": "ZRg%7B",
                     "type": "people",
-                    "people": []
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+                        }
+                    ]
                 },
                 "Status": {
                     "id": "%5DHvi",
@@ -1339,6 +1731,29 @@
                         "color": "red"
                     }
                 },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "A project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "A project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
+                            "href": null
+                        }
+                    ]
+                },
                 "Sub-item": {
                     "id": "mbwj",
                     "type": "relation",
@@ -1348,12 +1763,22 @@
                 "Dates": {
                     "id": "rXhw",
                     "type": "date",
-                    "date": null
+                    "date": {
+                        "start": "2024-06-03",
+                        "end": null,
+                        "time_zone": null
+                    }
                 },
                 "Tags": {
                     "id": "tX%3BZ",
                     "type": "multi_select",
-                    "multi_select": []
+                    "multi_select": [
+                        {
+                            "id": "b11b3c32-1c10-472a-9a28-c2c0ed087748",
+                            "name": "Anomaly Detection",
+                            "color": "green"
+                        }
+                    ]
                 },
                 "Project Name": {
                     "id": "title",
@@ -1386,7 +1811,7 @@
             "object": "page",
             "id": "8d8906bb-1b65-4aaf-85a8-532aa550d2fd",
             "created_time": "2024-05-28T20:07:00.000Z",
-            "last_edited_time": "2024-06-03T18:44:00.000Z",
+            "last_edited_time": "2024-06-04T16:09:00.000Z",
             "created_by": {
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
@@ -1395,7 +1820,12 @@
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
             },
-            "cover": null,
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://www.notion.so/images/page-cover/nasa_robert_stewart_spacewalk.jpg"
+                }
+            },
             "icon": {
                 "type": "emoji",
                 "emoji": "\ud83d\ude9d"
@@ -1422,7 +1852,12 @@
                 "Assigned To": {
                     "id": "ZRg%7B",
                     "type": "people",
-                    "people": []
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+                        }
+                    ]
                 },
                 "Status": {
                     "id": "%5DHvi",
@@ -1433,6 +1868,29 @@
                         "color": "blue"
                     }
                 },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "A project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "A project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
+                            "href": null
+                        }
+                    ]
+                },
                 "Sub-item": {
                     "id": "mbwj",
                     "type": "relation",
@@ -1442,12 +1900,22 @@
                 "Dates": {
                     "id": "rXhw",
                     "type": "date",
-                    "date": null
+                    "date": {
+                        "start": "2024-06-04",
+                        "end": null,
+                        "time_zone": null
+                    }
                 },
                 "Tags": {
                     "id": "tX%3BZ",
                     "type": "multi_select",
-                    "multi_select": []
+                    "multi_select": [
+                        {
+                            "id": "bc40d07a-54b6-4fbd-beae-9d2dbcb1b867",
+                            "name": "CSE 140",
+                            "color": "gray"
+                        }
+                    ]
                 },
                 "Project Name": {
                     "id": "title",
@@ -1480,7 +1948,7 @@
             "object": "page",
             "id": "8809d512-057f-4e36-90eb-876d6c46b7e0",
             "created_time": "2024-05-28T20:07:00.000Z",
-            "last_edited_time": "2024-05-28T20:07:00.000Z",
+            "last_edited_time": "2024-06-04T16:09:00.000Z",
             "created_by": {
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
@@ -1489,8 +1957,16 @@
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
             },
-            "cover": null,
-            "icon": null,
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://www.notion.so/images/page-cover/woodcuts_7.jpg"
+                }
+            },
+            "icon": {
+                "type": "emoji",
+                "emoji": "\ud83d\udcd8"
+            },
             "parent": {
                 "type": "database_id",
                 "database_id": "79a626a8-176d-4aca-8922-faa551ddbfa8"
@@ -1513,7 +1989,12 @@
                 "Assigned To": {
                     "id": "ZRg%7B",
                     "type": "people",
-                    "people": []
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+                        }
+                    ]
                 },
                 "Status": {
                     "id": "%5DHvi",
@@ -1524,6 +2005,29 @@
                         "color": "yellow"
                     }
                 },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "A project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "A project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
+                            "href": null
+                        }
+                    ]
+                },
                 "Sub-item": {
                     "id": "mbwj",
                     "type": "relation",
@@ -1533,7 +2037,11 @@
                 "Dates": {
                     "id": "rXhw",
                     "type": "date",
-                    "date": null
+                    "date": {
+                        "start": "2024-06-03",
+                        "end": null,
+                        "time_zone": null
+                    }
                 },
                 "Tags": {
                     "id": "tX%3BZ",
@@ -1587,7 +2095,7 @@
             "object": "page",
             "id": "319ff04b-fafe-499d-b181-629f4b25c519",
             "created_time": "2024-05-28T20:07:00.000Z",
-            "last_edited_time": "2024-05-28T20:07:00.000Z",
+            "last_edited_time": "2024-06-04T16:08:00.000Z",
             "created_by": {
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
@@ -1596,7 +2104,12 @@
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
             },
-            "cover": null,
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://www.notion.so/images/page-cover/gradients_8.png"
+                }
+            },
             "icon": null,
             "parent": {
                 "type": "database_id",
@@ -1620,7 +2133,12 @@
                 "Assigned To": {
                     "id": "ZRg%7B",
                     "type": "people",
-                    "people": []
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+                        }
+                    ]
                 },
                 "Status": {
                     "id": "%5DHvi",
@@ -1631,6 +2149,29 @@
                         "color": "red"
                     }
                 },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "A project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "A project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
+                            "href": null
+                        }
+                    ]
+                },
                 "Sub-item": {
                     "id": "mbwj",
                     "type": "relation",
@@ -1640,7 +2181,11 @@
                 "Dates": {
                     "id": "rXhw",
                     "type": "date",
-                    "date": null
+                    "date": {
+                        "start": "2024-06-04",
+                        "end": null,
+                        "time_zone": null
+                    }
                 },
                 "Tags": {
                     "id": "tX%3BZ",
@@ -1694,7 +2239,7 @@
             "object": "page",
             "id": "d9cc1187-8830-4e4a-b76f-6b4bb390b73b",
             "created_time": "2024-05-28T20:07:00.000Z",
-            "last_edited_time": "2024-05-28T20:07:00.000Z",
+            "last_edited_time": "2024-06-04T16:03:00.000Z",
             "created_by": {
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
@@ -1703,7 +2248,12 @@
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
             },
-            "cover": null,
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://www.notion.so/images/page-cover/woodcuts_14.jpg"
+                }
+            },
             "icon": {
                 "type": "emoji",
                 "emoji": "\ud83d\udc89"
@@ -1730,7 +2280,12 @@
                 "Assigned To": {
                     "id": "ZRg%7B",
                     "type": "people",
-                    "people": []
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+                        }
+                    ]
                 },
                 "Status": {
                     "id": "%5DHvi",
@@ -1741,6 +2296,29 @@
                         "color": "red"
                     }
                 },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "A project for DNN pruning and XAI",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "A project for DNN pruning and XAI",
+                            "href": null
+                        }
+                    ]
+                },
                 "Sub-item": {
                     "id": "mbwj",
                     "type": "relation",
@@ -1750,7 +2328,11 @@
                 "Dates": {
                     "id": "rXhw",
                     "type": "date",
-                    "date": null
+                    "date": {
+                        "start": "2024-06-02",
+                        "end": null,
+                        "time_zone": null
+                    }
                 },
                 "Tags": {
                     "id": "tX%3BZ",
@@ -1799,7 +2381,7 @@
             "object": "page",
             "id": "761cef75-3292-4592-9927-837207426dc7",
             "created_time": "2024-05-28T20:07:00.000Z",
-            "last_edited_time": "2024-05-28T20:07:00.000Z",
+            "last_edited_time": "2024-06-04T16:07:00.000Z",
             "created_by": {
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
@@ -1808,8 +2390,16 @@
                 "object": "user",
                 "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
             },
-            "cover": null,
-            "icon": null,
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://www.notion.so/images/page-cover/met_terracotta_funerary_plaque.jpg"
+                }
+            },
+            "icon": {
+                "type": "emoji",
+                "emoji": "\ud83c\uddf8\ud83c\udde6"
+            },
             "parent": {
                 "type": "database_id",
                 "database_id": "79a626a8-176d-4aca-8922-faa551ddbfa8"
@@ -1832,7 +2422,12 @@
                 "Assigned To": {
                     "id": "ZRg%7B",
                     "type": "people",
-                    "people": []
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+                        }
+                    ]
                 },
                 "Status": {
                     "id": "%5DHvi",
@@ -1843,6 +2438,29 @@
                         "color": "red"
                     }
                 },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "A project to audit the existing detailsshsghfgsdgf",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "A project to audit the existing detailsshsghfgsdgf",
+                            "href": null
+                        }
+                    ]
+                },
                 "Sub-item": {
                     "id": "mbwj",
                     "type": "relation",
@@ -1852,12 +2470,22 @@
                 "Dates": {
                     "id": "rXhw",
                     "type": "date",
-                    "date": null
+                    "date": {
+                        "start": "2024-06-04",
+                        "end": null,
+                        "time_zone": null
+                    }
                 },
                 "Tags": {
                     "id": "tX%3BZ",
                     "type": "multi_select",
-                    "multi_select": []
+                    "multi_select": [
+                        {
+                            "id": "d4e0256f-8d38-455d-8aac-8f4d63e9d6c8",
+                            "name": "LLMs",
+                            "color": "pink"
+                        }
+                    ]
                 },
                 "Project Name": {
                     "id": "title",
@@ -1936,6 +2564,11 @@
                         "name": "Inactive",
                         "color": "gray"
                     }
+                },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": []
                 },
                 "Sub-item": {
                     "id": "mbwj",
@@ -2037,6 +2670,11 @@
                         "color": "gray"
                     }
                 },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
                 "Sub-item": {
                     "id": "mbwj",
                     "type": "relation",
@@ -2127,6 +2765,11 @@
                         "name": "Inactive",
                         "color": "gray"
                     }
+                },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": []
                 },
                 "Sub-item": {
                     "id": "mbwj",
@@ -2238,6 +2881,11 @@
                         "color": "gray"
                     }
                 },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
                 "Sub-item": {
                     "id": "mbwj",
                     "type": "relation",
@@ -2331,6 +2979,11 @@
                         "name": "Inactive",
                         "color": "gray"
                     }
+                },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": []
                 },
                 "Sub-item": {
                     "id": "mbwj",
@@ -2426,6 +3079,11 @@
                         "color": "gray"
                     }
                 },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
                 "Sub-item": {
                     "id": "mbwj",
                     "type": "relation",
@@ -2520,6 +3178,11 @@
                         "color": "gray"
                     }
                 },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
                 "Sub-item": {
                     "id": "mbwj",
                     "type": "relation",
@@ -2572,5 +3235,5 @@
     "has_more": false,
     "type": "page_or_database",
     "page_or_database": {},
-    "request_id": "9cdd1c81-fa49-46ae-b255-3efa6e3c4d6a"
+    "request_id": "4cc00ff6-4cdf-4c3e-8213-de58a2fea140"
 }

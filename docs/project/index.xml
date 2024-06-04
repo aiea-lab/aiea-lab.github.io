@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/project/allprojects/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/allprojects/</guid>
+      <description>Explaining Production Rules Date: 2024-06-04 Description: A project for explaining production rules Cover_image: https://www.notion.so/images/page-cover/woodcuts_2.jpg Status: Active Stress-Testing XAI Date: Description: Cover_image: Status: Inactive Robustifying AVs Date: 2024-06-04 Description: A project for robustifying AVs Cover_image: https://www.notion.so/images/page-cover/webb1.jpg Status: Active Text → Video Date: 2023-04-03 Description: Cover_image: Status: Inactive Fair Decision Trees Date: 2023-01-01 Description: Fair Decision Trees A project for Guidanceddfgdfgdfgdfgdfgfdfd dfdgdgfdg dfddfggffghgjhjhkhj dfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs dfgdfngd Cover_image: https://www.notion.so/images/page-cover/woodcuts_16.jpg Status: Active Responsible Data Science Date: Description: Cover_image: Status: Inactive Danger Date: Description: Cover_image: Status: Inactive Neural Net Pruning Date: Description: Cover_image: Status: Inactive Explaining LLM Failures Date: 2023-06-12 Description: A project for Guidanceddfgdfgdfgdfgdfgfdfd dfdgdgfdg dfddfggffghgjhjhkhj dfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs dfgdfngd Cover_image: https://www.</description>
+    </item>
     <item>
       <title>Explainable Autograder</title>
       <link>http://localhost:1313/project/explaingrade/</link>
@@ -29,13 +36,6 @@
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/robustavs/</guid>
       <description>Autonomous Vehicles (AVs), including aerial, ground, and sea vehicles, are becoming an integral part of our lives. Currently, most AVs trust sensor data to make navigation and other control decisions. In addition, they trust that the control commands given to actuators are executed faithfully. While trusting sensor and actuator data with minimal validation has proven to be an effective trade-off in current market solutions, it is not a sustainable practice as AVs become more pervasive and computer attacks increase in sophistication.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/project/allprojects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/allprojects/</guid>
-      <description>Unnamed Project Title:&#xA;Date:&#xA;Description:&#xA;External Link: https://www.notion.so/eeb1c3147f5e42308b3b430c4f0f8ff6&#xA;Image:&#xA;Project ID:&#xA;Short Description:&#xA;Goal:&#xA;Participants:&#xA;Explaining youtube Title:&#xA;Date: 2024-06-03&#xA;Description:&#xA;External Link: https://www.notion.so/Explaining-youtube-c206735a00f44d31a5b9df286d31ce57&#xA;Image:&#xA;Project ID:&#xA;Short Description:&#xA;Goal:&#xA;Participants:&#xA;(Member: False) Explaining Production Rules Title:&#xA;Date:&#xA;Description:&#xA;External Link: https://www.notion.so/Explaining-Production-Rules-f484e06e90524976aa53e04319717d71&#xA;Image:&#xA;Project ID:&#xA;Short Description:&#xA;Goal:&#xA;Participants:&#xA;Stress-Testing XAI Title:&#xA;Date:&#xA;Description:&#xA;External Link: https://www.notion.so/Stress-Testing-XAI-20b859293cf241a8a9f38e9993930cea&#xA;Image:&#xA;Project ID:&#xA;Short Description:&#xA;Goal:&#xA;Participants:&#xA;Robustifying AVs Title:&#xA;Date:&#xA;Description:&#xA;External Link: https://www.</description>
     </item>
   </channel>
 </rss>

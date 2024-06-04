@@ -2,6 +2,8 @@ import requests
 import os
 import yaml
 import json
+import tempfile
+
 
 # Replace these with your actual Notion API key and database ID
 NOTION_API_KEY = 'secret_pMjSYaN7ecvYyFpulLLsaWBLrQHlFrvPbVlhfaIqkg1'
@@ -28,8 +30,10 @@ def get_notion_database_content():
         print(response.json())
         return None
 
+
 def extract_project_names(database_content):
     project_names = []
+    
     for result in database_content.get('results', []):
         try:
             title = result['properties']['Project Name']['title'][0]['plain_text']
@@ -39,13 +43,51 @@ def extract_project_names(database_content):
             continue
     return project_names
 
+#Make the directory writable
+def make_directory_writable(directory_path):
+  """Makes the specified directory writable for the current user."""
+  try:
+    # Get current file mode (permissions)
+    current_mode = os.stat(directory_path).st_mode
+
+    # Add write permission for the user (owner)
+    new_mode = current_mode | 0o200  # 0o200 represents write permission for user
+
+    # Set the new file mode (permissions)
+    os.chmod(directory_path, new_mode)
+    print(f"Directory '{directory_path}' successfully made writable.")
+  except OSError as e:
+    print(f"Error making directory writable: {e}")
 
 
+# Extracting project details from the database content
 def extract_project_details(database_content):
     projects = {}
     
     for result in database_content.get('results', []):
+        # Extracting the cover image URL
+        cover_image_url = ""
+        if result.get('cover'):
+            cover_info = result["cover"]
+            if cover_info["type"] == "external":
+                cover_image_url = cover_info["external"]["url"]
+
         properties = result.get('properties', {})
+
+        # Make the directory writable for images
+        make_directory_writable("/content/project_images")
+
+        # local_image_path = ""
+        # if cover_image_url:
+        #     image_dir = "/content/images"  # Writable directory for images
+        #     filename = os.path.basename(cover_image_url)  # Extract filename
+        #     response = requests.get(cover_image_url, stream=True)
+        #     if response.status_code == 200:
+        #         with open(os.path.join(image_dir, filename), 'wb') as f:
+        #             for chunk in response.iter_content(1024):
+        #                 f.write(chunk)
+        #         local_image_path = os.path.join(image_dir, filename)
+
 
         # Extracting the project name
         try:
@@ -59,8 +101,8 @@ def extract_project_details(database_content):
             date_start = properties['Dates']['date'].get('start', "")
 
         description = ""
-        if properties.get('Description') and properties['Description'].get('rich_text'):
-            description = properties['Description']['rich_text'][0].get('plain_text', "")
+        if properties.get('Project Description') and properties['Project Description'].get('rich_text'):
+            description = properties['Project Description']['rich_text'][0].get('plain_text', "")
 
         project_id = ""
         if properties.get('Project ID') and properties['Project ID'].get('rich_text'):
@@ -78,6 +120,12 @@ def extract_project_details(database_content):
         if properties.get('Goal') and properties['Goal'].get('rich_text'):
             goal = properties['Goal']['rich_text'][0].get('plain_text', "")
 
+        status = ""
+        if properties.get('Status'):
+            status_info = properties['Status']['status']
+            status = status_info.get('name', "")
+        
+
         projects[project_name] = {
             "date": date_start,
             "description": description,
@@ -86,6 +134,8 @@ def extract_project_details(database_content):
             "project_id": project_id,
             "short_description": short_description,
             "title": title,
+            "cover_image": cover_image_url,
+            "status": status,
             "participants": [
                 {
                     "name": participant.get('name', ''),
@@ -119,7 +169,8 @@ def update_markdown_title(markdown_file, project_name, project_details):
 
     print(f"Updated {markdown_file} with title: {project['title']}")
 
-#Update all markdown files -- This code is correct
+
+
 def update_all_markdown_files(directory, project_details):
     # Ensure the content directory exists
     os.makedirs(directory, exist_ok=True)
@@ -127,9 +178,6 @@ def update_all_markdown_files(directory, project_details):
     for project_name, details in project_details.items():
         filename = f"{details['project_id']}.md"
         filepath = os.path.join(directory, filename)
-
-        print(filename)
-        print(filepath)
 
         # Create front matter in YAML format
         front_matter = {
@@ -159,19 +207,18 @@ def update_all_markdown_files(directory, project_details):
 def update_markdown_file(markdown_file, project_details):
     with open(markdown_file, 'w') as file:
         for project_name, details in project_details.items():
+            # Add front matter based on project details
+            file.write(f"---\n")
             file.write(f"# {project_name}\n\n")
-            file.write(f"**Title:** {details['title']}\n\n")
-            file.write(f"**Date:** {details['date']}\n\n")
-            file.write(f"**Description:** {details['description']}\n\n")
-            file.write(f"**External Link:** {details['external_link']}\n\n")
-            file.write(f"**Image:** {details['image']}\n\n")
-            file.write(f"**Project ID:** {details['project_id']}\n\n")
-            file.write(f"**Short Description:** {details['short_description']}\n\n")
-            file.write(f"**Goal:** {details['goal']}\n\n")
-            file.write(f"**Participants:**\n")
-            for participant in details['participants']:
-                file.write(f"- {participant['name']} (Member: {participant['is_member']})\n")
-            file.write("\n---\n\n")
+            # file.write(f"**Title:** {details['title']}\n")
+            file.write(f"Date: {details['date']}\n")
+            file.write(f"Description: {details['description']}\n")
+            # file.write(f"**External Link:** {details['external_link']}\n\n")
+            file.write(f"Cover_image: {details['cover_image']}\n")
+            file.write(f"Status: {details['status']}\n")
+            file.write("---\n\n")
+            # for participant in details['participants']:
+            #     file.write(f"- {participant['name']} (Member: {participant['is_member']})\n")
 
     # print(f"Updated {markdown_file} with project details.")
 
@@ -187,5 +234,7 @@ if __name__ == "__main__":
         print("Project Details:", project_details)
 
         update_markdown_file(MARKDOWN_FILE, project_details)
-        update_all_markdown_files('/Users/ananya/Documents/aiea-lab.github.io/content/project/', project_details)
+        # update_markdown_title(MARKDOWN_FILE, 'Project 1', project_details)
+        
+        update_all_markdown_files('content/project', project_details)
     

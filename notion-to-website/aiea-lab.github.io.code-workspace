@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"DockerRun.DisableDockerrc": true
+	}
+}
