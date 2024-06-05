@@ -181,8 +181,8 @@ def update_all_markdown_files(directory, project_details):
 
         # Create front matter in YAML format
         front_matter = {
-            'title': details['title'],
-            'date': details['date'],
+            'title': details['title'] | ,
+            'date': details['date'] | ,
             'description': details['description'],
             'external_link': details['external_link'],
             'image': details['image'],
