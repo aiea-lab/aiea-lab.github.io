@@ -584,417 +584,6 @@
         },
         {
             "object": "page",
-            "id": "7b859788-3a8f-4d4d-bf55-b74e9a7000bc",
-            "created_time": "2024-05-28T20:07:00.000Z",
-            "last_edited_time": "2024-06-04T16:09:00.000Z",
-            "created_by": {
-                "object": "user",
-                "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
-            },
-            "last_edited_by": {
-                "object": "user",
-                "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
-            },
-            "cover": {
-                "type": "external",
-                "external": {
-                    "url": "https://www.notion.so/images/page-cover/rijksmuseum_vermeer_the_milkmaid.jpg"
-                }
-            },
-            "icon": {
-                "type": "emoji",
-                "emoji": "\ud83d\udcfd\ufe0f"
-            },
-            "parent": {
-                "type": "database_id",
-                "database_id": "79a626a8-176d-4aca-8922-faa551ddbfa8"
-            },
-            "archived": false,
-            "in_trash": false,
-            "properties": {
-                "\ud83d\udc6b Members": {
-                    "id": "FvH%3F",
-                    "type": "relation",
-                    "relation": [],
-                    "has_more": false
-                },
-                "Parent item": {
-                    "id": "W%5DDq",
-                    "type": "relation",
-                    "relation": [],
-                    "has_more": false
-                },
-                "Assigned To": {
-                    "id": "ZRg%7B",
-                    "type": "people",
-                    "people": [
-                        {
-                            "object": "user",
-                            "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
-                        }
-                    ]
-                },
-                "Status": {
-                    "id": "%5DHvi",
-                    "type": "status",
-                    "status": {
-                        "id": "345c5e45-106c-42ae-b273-bbf3d2705db6",
-                        "name": "Proposed",
-                        "color": "yellow"
-                    }
-                },
-                "Project Description": {
-                    "id": "ikuw",
-                    "type": "rich_text",
-                    "rich_text": [
-                        {
-                            "type": "text",
-                            "text": {
-                                "content": "A project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
-                                "link": null
-                            },
-                            "annotations": {
-                                "bold": false,
-                                "italic": false,
-                                "strikethrough": false,
-                                "underline": false,
-                                "code": false,
-                                "color": "default"
-                            },
-                            "plain_text": "A project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
-                            "href": null
-                        }
-                    ]
-                },
-                "Sub-item": {
-                    "id": "mbwj",
-                    "type": "relation",
-                    "relation": [],
-                    "has_more": false
-                },
-                "Dates": {
-                    "id": "rXhw",
-                    "type": "date",
-                    "date": {
-                        "start": "2023-04-03",
-                        "end": "2023-06-08",
-                        "time_zone": null
-                    }
-                },
-                "Tags": {
-                    "id": "tX%3BZ",
-                    "type": "multi_select",
-                    "multi_select": [
-                        {
-                            "id": "d4e0256f-8d38-455d-8aac-8f4d63e9d6c8",
-                            "name": "LLMs",
-                            "color": "pink"
-                        }
-                    ]
-                },
-                "Project Name": {
-                    "id": "title",
-                    "type": "title",
-                    "title": [
-                        {
-                            "type": "text",
-                            "text": {
-                                "content": "Text \u2192 Video",
-                                "link": null
-                            },
-                            "annotations": {
-                                "bold": false,
-                                "italic": false,
-                                "strikethrough": false,
-                                "underline": false,
-                                "code": false,
-                                "color": "default"
-                            },
-                            "plain_text": "Text \u2192 Video",
-                            "href": null
-                        }
-                    ]
-                }
-            },
-            "url": "https://www.notion.so/Text-Video-7b8597883a8f4d4dbf55b74e9a7000bc",
-            "public_url": null
-        },
-        {
-            "object": "page",
-            "id": "39a6b517-dad6-4a55-9620-62b33bddb052",
-            "created_time": "2024-05-28T20:07:00.000Z",
-            "last_edited_time": "2024-06-04T19:09:00.000Z",
-            "created_by": {
-                "object": "user",
-                "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
-            },
-            "last_edited_by": {
-                "object": "user",
-                "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
-            },
-            "cover": {
-                "type": "external",
-                "external": {
-                    "url": "https://www.notion.so/images/page-cover/woodcuts_16.jpg"
-                }
-            },
-            "icon": {
-                "type": "emoji",
-                "emoji": "\ud83c\udf32"
-            },
-            "parent": {
-                "type": "database_id",
-                "database_id": "79a626a8-176d-4aca-8922-faa551ddbfa8"
-            },
-            "archived": false,
-            "in_trash": false,
-            "properties": {
-                "\ud83d\udc6b Members": {
-                    "id": "FvH%3F",
-                    "type": "relation",
-                    "relation": [],
-                    "has_more": false
-                },
-                "Parent item": {
-                    "id": "W%5DDq",
-                    "type": "relation",
-                    "relation": [],
-                    "has_more": false
-                },
-                "Assigned To": {
-                    "id": "ZRg%7B",
-                    "type": "people",
-                    "people": [
-                        {
-                            "object": "user",
-                            "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
-                        }
-                    ]
-                },
-                "Status": {
-                    "id": "%5DHvi",
-                    "type": "status",
-                    "status": {
-                        "id": "28b3eb0b-2994-45a2-8c2e-e50a2540745a",
-                        "name": "Active",
-                        "color": "red"
-                    }
-                },
-                "Project Description": {
-                    "id": "ikuw",
-                    "type": "rich_text",
-                    "rich_text": [
-                        {
-                            "type": "text",
-                            "text": {
-                                "content": "Fair Decision Trees\nA project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
-                                "link": null
-                            },
-                            "annotations": {
-                                "bold": false,
-                                "italic": false,
-                                "strikethrough": false,
-                                "underline": false,
-                                "code": false,
-                                "color": "default"
-                            },
-                            "plain_text": "Fair Decision Trees\nA project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
-                            "href": null
-                        }
-                    ]
-                },
-                "Sub-item": {
-                    "id": "mbwj",
-                    "type": "relation",
-                    "relation": [],
-                    "has_more": false
-                },
-                "Dates": {
-                    "id": "rXhw",
-                    "type": "date",
-                    "date": {
-                        "start": "2023-01-01",
-                        "end": null,
-                        "time_zone": null
-                    }
-                },
-                "Tags": {
-                    "id": "tX%3BZ",
-                    "type": "multi_select",
-                    "multi_select": [
-                        {
-                            "id": "77856950-b322-46b5-b983-9d48eec1fdaa",
-                            "name": "AVs",
-                            "color": "blue"
-                        }
-                    ]
-                },
-                "Project Name": {
-                    "id": "title",
-                    "type": "title",
-                    "title": [
-                        {
-                            "type": "text",
-                            "text": {
-                                "content": "Fair Decision Trees",
-                                "link": null
-                            },
-                            "annotations": {
-                                "bold": false,
-                                "italic": false,
-                                "strikethrough": false,
-                                "underline": false,
-                                "code": false,
-                                "color": "default"
-                            },
-                            "plain_text": "Fair Decision Trees",
-                            "href": null
-                        }
-                    ]
-                }
-            },
-            "url": "https://www.notion.so/Fair-Decision-Trees-39a6b517dad64a55962062b33bddb052",
-            "public_url": null
-        },
-        {
-            "object": "page",
-            "id": "91f3cbc5-1d81-4755-baec-9d58d869d587",
-            "created_time": "2024-05-28T20:07:00.000Z",
-            "last_edited_time": "2024-06-04T16:10:00.000Z",
-            "created_by": {
-                "object": "user",
-                "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
-            },
-            "last_edited_by": {
-                "object": "user",
-                "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
-            },
-            "cover": {
-                "type": "external",
-                "external": {
-                    "url": "https://www.notion.so/images/page-cover/met_vincent_van_gogh_cradle.jpg"
-                }
-            },
-            "icon": {
-                "type": "emoji",
-                "emoji": "\u2696\ufe0f"
-            },
-            "parent": {
-                "type": "database_id",
-                "database_id": "79a626a8-176d-4aca-8922-faa551ddbfa8"
-            },
-            "archived": false,
-            "in_trash": false,
-            "properties": {
-                "\ud83d\udc6b Members": {
-                    "id": "FvH%3F",
-                    "type": "relation",
-                    "relation": [],
-                    "has_more": false
-                },
-                "Parent item": {
-                    "id": "W%5DDq",
-                    "type": "relation",
-                    "relation": [],
-                    "has_more": false
-                },
-                "Assigned To": {
-                    "id": "ZRg%7B",
-                    "type": "people",
-                    "people": [
-                        {
-                            "object": "user",
-                            "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
-                        }
-                    ]
-                },
-                "Status": {
-                    "id": "%5DHvi",
-                    "type": "status",
-                    "status": {
-                        "id": "345c5e45-106c-42ae-b273-bbf3d2705db6",
-                        "name": "Proposed",
-                        "color": "yellow"
-                    }
-                },
-                "Project Description": {
-                    "id": "ikuw",
-                    "type": "rich_text",
-                    "rich_text": [
-                        {
-                            "type": "text",
-                            "text": {
-                                "content": "A project for responsible data science",
-                                "link": null
-                            },
-                            "annotations": {
-                                "bold": false,
-                                "italic": false,
-                                "strikethrough": false,
-                                "underline": false,
-                                "code": false,
-                                "color": "default"
-                            },
-                            "plain_text": "A project for responsible data science",
-                            "href": null
-                        }
-                    ]
-                },
-                "Sub-item": {
-                    "id": "mbwj",
-                    "type": "relation",
-                    "relation": [],
-                    "has_more": false
-                },
-                "Dates": {
-                    "id": "rXhw",
-                    "type": "date",
-                    "date": {
-                        "start": "2024-06-21",
-                        "end": null,
-                        "time_zone": null
-                    }
-                },
-                "Tags": {
-                    "id": "tX%3BZ",
-                    "type": "multi_select",
-                    "multi_select": [
-                        {
-                            "id": "5611d88c-799d-45f2-b31c-21a51bb1811e",
-                            "name": "DeepRL",
-                            "color": "orange"
-                        }
-                    ]
-                },
-                "Project Name": {
-                    "id": "title",
-                    "type": "title",
-                    "title": [
-                        {
-                            "type": "text",
-                            "text": {
-                                "content": "Responsible Data Science",
-                                "link": null
-                            },
-                            "annotations": {
-                                "bold": false,
-                                "italic": false,
-                                "strikethrough": false,
-                                "underline": false,
-                                "code": false,
-                                "color": "default"
-                            },
-                            "plain_text": "Responsible Data Science",
-                            "href": null
-                        }
-                    ]
-                }
-            },
-            "url": "https://www.notion.so/Responsible-Data-Science-91f3cbc51d814755baec9d58d869d587",
-            "public_url": null
-        },
-        {
-            "object": "page",
             "id": "1457b06b-c948-40e7-8659-a0c970cd3df7",
             "created_time": "2024-05-28T20:07:00.000Z",
             "last_edited_time": "2024-06-04T16:10:00.000Z",
@@ -1265,6 +854,417 @@
                 }
             },
             "url": "https://www.notion.so/Neural-Net-Pruning-27471838cfb246e0a80f721a854912f2",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "39a6b517-dad6-4a55-9620-62b33bddb052",
+            "created_time": "2024-05-28T20:07:00.000Z",
+            "last_edited_time": "2024-06-04T19:09:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+            },
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://www.notion.so/images/page-cover/woodcuts_16.jpg"
+                }
+            },
+            "icon": {
+                "type": "emoji",
+                "emoji": "\ud83c\udf32"
+            },
+            "parent": {
+                "type": "database_id",
+                "database_id": "79a626a8-176d-4aca-8922-faa551ddbfa8"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "\ud83d\udc6b Members": {
+                    "id": "FvH%3F",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Parent item": {
+                    "id": "W%5DDq",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Assigned To": {
+                    "id": "ZRg%7B",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+                        }
+                    ]
+                },
+                "Status": {
+                    "id": "%5DHvi",
+                    "type": "status",
+                    "status": {
+                        "id": "28b3eb0b-2994-45a2-8c2e-e50a2540745a",
+                        "name": "Active",
+                        "color": "red"
+                    }
+                },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Fair Decision Trees\nA project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Fair Decision Trees\nA project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
+                            "href": null
+                        }
+                    ]
+                },
+                "Sub-item": {
+                    "id": "mbwj",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Dates": {
+                    "id": "rXhw",
+                    "type": "date",
+                    "date": {
+                        "start": "2023-01-01",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "Tags": {
+                    "id": "tX%3BZ",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "77856950-b322-46b5-b983-9d48eec1fdaa",
+                            "name": "AVs",
+                            "color": "blue"
+                        }
+                    ]
+                },
+                "Project Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Fair Decision Trees",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Fair Decision Trees",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Fair-Decision-Trees-39a6b517dad64a55962062b33bddb052",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "7b859788-3a8f-4d4d-bf55-b74e9a7000bc",
+            "created_time": "2024-05-28T20:07:00.000Z",
+            "last_edited_time": "2024-06-04T16:09:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+            },
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://www.notion.so/images/page-cover/rijksmuseum_vermeer_the_milkmaid.jpg"
+                }
+            },
+            "icon": {
+                "type": "emoji",
+                "emoji": "\ud83d\udcfd\ufe0f"
+            },
+            "parent": {
+                "type": "database_id",
+                "database_id": "79a626a8-176d-4aca-8922-faa551ddbfa8"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "\ud83d\udc6b Members": {
+                    "id": "FvH%3F",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Parent item": {
+                    "id": "W%5DDq",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Assigned To": {
+                    "id": "ZRg%7B",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+                        }
+                    ]
+                },
+                "Status": {
+                    "id": "%5DHvi",
+                    "type": "status",
+                    "status": {
+                        "id": "345c5e45-106c-42ae-b273-bbf3d2705db6",
+                        "name": "Proposed",
+                        "color": "yellow"
+                    }
+                },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "A project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "A project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
+                            "href": null
+                        }
+                    ]
+                },
+                "Sub-item": {
+                    "id": "mbwj",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Dates": {
+                    "id": "rXhw",
+                    "type": "date",
+                    "date": {
+                        "start": "2023-04-03",
+                        "end": "2023-06-08",
+                        "time_zone": null
+                    }
+                },
+                "Tags": {
+                    "id": "tX%3BZ",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "d4e0256f-8d38-455d-8aac-8f4d63e9d6c8",
+                            "name": "LLMs",
+                            "color": "pink"
+                        }
+                    ]
+                },
+                "Project Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Text \u2192 Video",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Text \u2192 Video",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Text-Video-7b8597883a8f4d4dbf55b74e9a7000bc",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "91f3cbc5-1d81-4755-baec-9d58d869d587",
+            "created_time": "2024-05-28T20:07:00.000Z",
+            "last_edited_time": "2024-06-04T16:10:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+            },
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://www.notion.so/images/page-cover/met_vincent_van_gogh_cradle.jpg"
+                }
+            },
+            "icon": {
+                "type": "emoji",
+                "emoji": "\u2696\ufe0f"
+            },
+            "parent": {
+                "type": "database_id",
+                "database_id": "79a626a8-176d-4aca-8922-faa551ddbfa8"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "\ud83d\udc6b Members": {
+                    "id": "FvH%3F",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Parent item": {
+                    "id": "W%5DDq",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Assigned To": {
+                    "id": "ZRg%7B",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+                        }
+                    ]
+                },
+                "Status": {
+                    "id": "%5DHvi",
+                    "type": "status",
+                    "status": {
+                        "id": "345c5e45-106c-42ae-b273-bbf3d2705db6",
+                        "name": "Proposed",
+                        "color": "yellow"
+                    }
+                },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "A project for responsible data science",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "A project for responsible data science",
+                            "href": null
+                        }
+                    ]
+                },
+                "Sub-item": {
+                    "id": "mbwj",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Dates": {
+                    "id": "rXhw",
+                    "type": "date",
+                    "date": {
+                        "start": "2024-06-21",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "Tags": {
+                    "id": "tX%3BZ",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "5611d88c-799d-45f2-b31c-21a51bb1811e",
+                            "name": "DeepRL",
+                            "color": "orange"
+                        }
+                    ]
+                },
+                "Project Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Responsible Data Science",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Responsible Data Science",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Responsible-Data-Science-91f3cbc51d814755baec9d58d869d587",
             "public_url": null
         },
         {
@@ -1809,143 +1809,6 @@
         },
         {
             "object": "page",
-            "id": "8d8906bb-1b65-4aaf-85a8-532aa550d2fd",
-            "created_time": "2024-05-28T20:07:00.000Z",
-            "last_edited_time": "2024-06-04T16:09:00.000Z",
-            "created_by": {
-                "object": "user",
-                "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
-            },
-            "last_edited_by": {
-                "object": "user",
-                "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
-            },
-            "cover": {
-                "type": "external",
-                "external": {
-                    "url": "https://www.notion.so/images/page-cover/nasa_robert_stewart_spacewalk.jpg"
-                }
-            },
-            "icon": {
-                "type": "emoji",
-                "emoji": "\ud83d\ude9d"
-            },
-            "parent": {
-                "type": "database_id",
-                "database_id": "79a626a8-176d-4aca-8922-faa551ddbfa8"
-            },
-            "archived": false,
-            "in_trash": false,
-            "properties": {
-                "\ud83d\udc6b Members": {
-                    "id": "FvH%3F",
-                    "type": "relation",
-                    "relation": [],
-                    "has_more": false
-                },
-                "Parent item": {
-                    "id": "W%5DDq",
-                    "type": "relation",
-                    "relation": [],
-                    "has_more": false
-                },
-                "Assigned To": {
-                    "id": "ZRg%7B",
-                    "type": "people",
-                    "people": [
-                        {
-                            "object": "user",
-                            "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
-                        }
-                    ]
-                },
-                "Status": {
-                    "id": "%5DHvi",
-                    "type": "status",
-                    "status": {
-                        "id": "=TQ~",
-                        "name": "Ongoing",
-                        "color": "blue"
-                    }
-                },
-                "Project Description": {
-                    "id": "ikuw",
-                    "type": "rich_text",
-                    "rich_text": [
-                        {
-                            "type": "text",
-                            "text": {
-                                "content": "A project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
-                                "link": null
-                            },
-                            "annotations": {
-                                "bold": false,
-                                "italic": false,
-                                "strikethrough": false,
-                                "underline": false,
-                                "code": false,
-                                "color": "default"
-                            },
-                            "plain_text": "A project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
-                            "href": null
-                        }
-                    ]
-                },
-                "Sub-item": {
-                    "id": "mbwj",
-                    "type": "relation",
-                    "relation": [],
-                    "has_more": false
-                },
-                "Dates": {
-                    "id": "rXhw",
-                    "type": "date",
-                    "date": {
-                        "start": "2024-06-04",
-                        "end": null,
-                        "time_zone": null
-                    }
-                },
-                "Tags": {
-                    "id": "tX%3BZ",
-                    "type": "multi_select",
-                    "multi_select": [
-                        {
-                            "id": "bc40d07a-54b6-4fbd-beae-9d2dbcb1b867",
-                            "name": "CSE 140",
-                            "color": "gray"
-                        }
-                    ]
-                },
-                "Project Name": {
-                    "id": "title",
-                    "type": "title",
-                    "title": [
-                        {
-                            "type": "text",
-                            "text": {
-                                "content": "Lab External and Project Management",
-                                "link": null
-                            },
-                            "annotations": {
-                                "bold": false,
-                                "italic": false,
-                                "strikethrough": false,
-                                "underline": false,
-                                "code": false,
-                                "color": "default"
-                            },
-                            "plain_text": "Lab External and Project Management",
-                            "href": null
-                        }
-                    ]
-                }
-            },
-            "url": "https://www.notion.so/Lab-External-and-Project-Management-8d8906bb1b654aaf85a8532aa550d2fd",
-            "public_url": null
-        },
-        {
-            "object": "page",
             "id": "8809d512-057f-4e36-90eb-876d6c46b7e0",
             "created_time": "2024-05-28T20:07:00.000Z",
             "last_edited_time": "2024-06-04T16:09:00.000Z",
@@ -2089,6 +1952,143 @@
                 }
             },
             "url": "https://www.notion.so/eXplainability-for-Monitoring-Machine-Learning-8809d512057f4e3690eb876d6c46b7e0",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "8d8906bb-1b65-4aaf-85a8-532aa550d2fd",
+            "created_time": "2024-05-28T20:07:00.000Z",
+            "last_edited_time": "2024-06-04T16:09:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+            },
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://www.notion.so/images/page-cover/nasa_robert_stewart_spacewalk.jpg"
+                }
+            },
+            "icon": {
+                "type": "emoji",
+                "emoji": "\ud83d\ude9d"
+            },
+            "parent": {
+                "type": "database_id",
+                "database_id": "79a626a8-176d-4aca-8922-faa551ddbfa8"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "\ud83d\udc6b Members": {
+                    "id": "FvH%3F",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Parent item": {
+                    "id": "W%5DDq",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Assigned To": {
+                    "id": "ZRg%7B",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "c3c11e79-35f7-4d60-b7c2-d4e17b4b0eaf"
+                        }
+                    ]
+                },
+                "Status": {
+                    "id": "%5DHvi",
+                    "type": "status",
+                    "status": {
+                        "id": "=TQ~",
+                        "name": "Ongoing",
+                        "color": "blue"
+                    }
+                },
+                "Project Description": {
+                    "id": "ikuw",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "A project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "A project for Guidanceddfgdfgdfgdfgdfgfdfd\ndfdgdgfdg\ndfddfggffghgjhjhkhj\ndfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs\ndfgdfngd",
+                            "href": null
+                        }
+                    ]
+                },
+                "Sub-item": {
+                    "id": "mbwj",
+                    "type": "relation",
+                    "relation": [],
+                    "has_more": false
+                },
+                "Dates": {
+                    "id": "rXhw",
+                    "type": "date",
+                    "date": {
+                        "start": "2024-06-04",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "Tags": {
+                    "id": "tX%3BZ",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "bc40d07a-54b6-4fbd-beae-9d2dbcb1b867",
+                            "name": "CSE 140",
+                            "color": "gray"
+                        }
+                    ]
+                },
+                "Project Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Lab External and Project Management",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Lab External and Project Management",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Lab-External-and-Project-Management-8d8906bb1b654aaf85a8532aa550d2fd",
             "public_url": null
         },
         {
@@ -3235,5 +3235,5 @@
     "has_more": false,
     "type": "page_or_database",
     "page_or_database": {},
-    "request_id": "d706bba2-e1c6-4e08-b8b4-e5c929f2cbfe"
+    "request_id": "9410798d-d570-4ec3-bcbc-5570cf10037a"
 }

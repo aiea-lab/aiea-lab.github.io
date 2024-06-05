@@ -4,7 +4,6 @@ import yaml
 import json
 import tempfile
 
-
 # Replace these with your actual Notion API key and database ID
 NOTION_API_KEY = 'secret_pMjSYaN7ecvYyFpulLLsaWBLrQHlFrvPbVlhfaIqkg1'
 DATABASE_ID = '79a626a8176d4aca8922faa551ddbfa8'
@@ -180,9 +179,10 @@ def update_all_markdown_files(directory, project_details):
         filepath = os.path.join(directory, filename)
 
         # Create front matter in YAML format
+        separator = "---"
         front_matter = {
-            'title': details['title'] | ,
-            'date': details['date'] | ,
+            'title': details['title'],
+            'date': details['date'],
             'description': details['description'],
             'external_link': details['external_link'],
             'image': details['image'],
@@ -198,6 +198,10 @@ def update_all_markdown_files(directory, project_details):
             yaml.dump(front_matter, file, default_flow_style=False)
             file.write('---\n\n')
 
+            # Add separator after each key-value pair
+            for key, value in front_matter.items():
+                file.write(f"{key}: {value}\n {separator} \n")
+
             # Additional content can be added here if necessary
             file.write(f"# {project_name}\n\n")
             file.write(f"{details['description']}\n\n")
@@ -207,15 +211,17 @@ def update_all_markdown_files(directory, project_details):
 def update_markdown_file(markdown_file, project_details):
     with open(markdown_file, 'w') as file:
         for project_name, details in project_details.items():
+
+            
             # Add front matter based on project details
             file.write(f"---\n")
             file.write(f"# {project_name}\n\n")
             # file.write(f"**Title:** {details['title']}\n")
-            file.write(f"Date: {details['date']}\n")
-            file.write(f"Description: {details['description']}\n")
+            file.write(f"\n Date: \n{details['date']}\n")
+            file.write(f"\n Description: \n{details['description']}\n")
             # file.write(f"**External Link:** {details['external_link']}\n\n")
-            file.write(f"Cover_image: {details['cover_image']}\n")
-            file.write(f"Status: {details['status']}\n")
+            file.write(f"\n Cover_image: \n{details['cover_image']}\n")
+            file.write(f"\n Status: \n {details['status']}\n")
             file.write("---\n\n")
             # for participant in details['participants']:
             #     file.write(f"- {participant['name']} (Member: {participant['is_member']})\n")
@@ -236,5 +242,5 @@ if __name__ == "__main__":
         update_markdown_file(MARKDOWN_FILE, project_details)
         # update_markdown_title(MARKDOWN_FILE, 'Project 1', project_details)
         
-        update_all_markdown_files('content/project', project_details)
+        # update_all_markdown_files('content/project', project_details)
     
