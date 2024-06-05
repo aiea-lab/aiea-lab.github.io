@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alumni on AIEA Lab</title>
-    <link>http://localhost:55482/alumni/</link>
+    <link>http://localhost:56617/alumni/</link>
     <description>Recent content in Alumni on AIEA Lab</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
     <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:55482/alumni/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:56617/alumni/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MS at UCSC</title>
-      <link>http://localhost:55482/alumni/rangasri/</link>
+      <link>http://localhost:56617/alumni/rangasri/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55482/alumni/rangasri/</guid>
+      <guid>http://localhost:56617/alumni/rangasri/</guid>
       <description></description>
     </item>
     <item>
       <title>MS at UCSC</title>
-      <link>http://localhost:55482/alumni/shengjie/</link>
+      <link>http://localhost:56617/alumni/shengjie/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55482/alumni/shengjie/</guid>
+      <guid>http://localhost:56617/alumni/shengjie/</guid>
       <description></description>
     </item>
     <item>
       <title>Visiting PhD student</title>
-      <link>http://localhost:55482/alumni/biagio/</link>
+      <link>http://localhost:56617/alumni/biagio/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55482/alumni/biagio/</guid>
+      <guid>http://localhost:56617/alumni/biagio/</guid>
       <description></description>
     </item>
   </channel>

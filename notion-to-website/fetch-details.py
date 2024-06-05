@@ -8,6 +8,7 @@ import tempfile
 NOTION_API_KEY = 'secret_pMjSYaN7ecvYyFpulLLsaWBLrQHlFrvPbVlhfaIqkg1'
 DATABASE_ID = '79a626a8176d4aca8922faa551ddbfa8'
 MARKDOWN_FILE = 'content/project/allprojects.md'
+IMAGE_URL='/Users/ananya/Documents/aiea-lab.github.io/static/img/Project_Image.jpg'
 
 def get_notion_database_content():
     url = f'https://api.notion.com/v1/databases/{DATABASE_ID}/query'
@@ -209,12 +210,14 @@ def update_all_markdown_files(directory, project_details):
         print(f"Updated {filepath} with project details.")
 
 def update_markdown_file(markdown_file, project_details):
+
     with open(markdown_file, 'w') as file:
         for project_name, details in project_details.items():
 
             
             # Add front matter based on project details
             file.write(f"---\n")
+            #file.write(f"{IMAGE_URL}\n")
             file.write(f"# {project_name}\n\n")
             # file.write(f"**Title:** {details['title']}\n")
             file.write(f"\n Date: \n{details['date']}\n")
