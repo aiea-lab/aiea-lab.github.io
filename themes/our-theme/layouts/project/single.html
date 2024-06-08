@@ -1,8 +1,10 @@
 {{ partial "header.html" . }}
 {{ partial "navbar.html" . }}
 <div class="container">
-    
+    <link rel="stylesheet" href="{{ "static/css/styles.css" | relURL }}">
     <article class="article article-project" itemscope itemtype="http://schema.org/Article">
+        
+        
         <h1 itemprop="name">{{ .Title }}</h1>
         
         {{ if eq .Params.participants_block_position "up" }}
@@ -17,9 +19,11 @@
         {{ end }}
 
         {{ with .Params.external_link }}<a class="btn btn-primary btn-outline" href="{{ . }}">Go to Project Site</a>{{ end }}
-
-        <div class="article-style" itemprop="articleBody">
-            {{ .Content }}
+        
+        <div class="article-style" itemprop="articleBody"> 
+                {{ .Content }}
+            </img>
+           
         </div>
     
         {{ if eq .Params.participants_block_position "down" }}

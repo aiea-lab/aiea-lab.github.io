@@ -7,9 +7,7 @@
 
  Description: 
 A project to explain ddfbdfd
-
- Cover_image: 
-https://www.notion.so/images/page-cover/rijksmuseum_jansz_1641.jpg
+![Cover Image](https://www.notion.so/images/page-cover/rijksmuseum_jansz_1641.jpg)
 
  Status: 
  Active
@@ -24,9 +22,7 @@ https://www.notion.so/images/page-cover/rijksmuseum_jansz_1641.jpg
 
  Description: 
 A project for explaining production rules
-
- Cover_image: 
-https://www.notion.so/images/page-cover/woodcuts_2.jpg
+![Cover Image](https://www.notion.so/images/page-cover/woodcuts_2.jpg)
 
  Status: 
  Active
@@ -41,9 +37,7 @@ https://www.notion.so/images/page-cover/woodcuts_2.jpg
 
  Description: 
 
-
- Cover_image: 
-
+![Cover Image]()
 
  Status: 
  Inactive
@@ -58,9 +52,7 @@ https://www.notion.so/images/page-cover/woodcuts_2.jpg
 
  Description: 
 A project for robustifying AVs
-
- Cover_image: 
-https://www.notion.so/images/page-cover/webb1.jpg
+![Cover Image](https://www.notion.so/images/page-cover/webb1.jpg)
 
  Status: 
  Active
@@ -75,9 +67,7 @@ https://www.notion.so/images/page-cover/webb1.jpg
 
  Description: 
 
-
- Cover_image: 
-
+![Cover Image]()
 
  Status: 
  Inactive
@@ -92,9 +82,7 @@ https://www.notion.so/images/page-cover/webb1.jpg
 
  Description: 
 
-
- Cover_image: 
-
+![Cover Image]()
 
  Status: 
  Inactive
@@ -114,9 +102,7 @@ dfdgdgfdg
 dfddfggffghgjhjhkhj
 dfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs
 dfgdfngd
-
- Cover_image: 
-https://www.notion.so/images/page-cover/woodcuts_16.jpg
+![Cover Image](https://www.notion.so/images/page-cover/woodcuts_16.jpg)
 
  Status: 
  Active
@@ -131,9 +117,7 @@ https://www.notion.so/images/page-cover/woodcuts_16.jpg
 
  Description: 
 
-
- Cover_image: 
-
+![Cover Image]()
 
  Status: 
  Inactive
@@ -148,9 +132,7 @@ https://www.notion.so/images/page-cover/woodcuts_16.jpg
 
  Description: 
 
-
- Cover_image: 
-
+![Cover Image]()
 
  Status: 
  Inactive
@@ -169,9 +151,7 @@ dfdgdgfdg
 dfddfggffghgjhjhkhj
 dfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs
 dfgdfngd
-
- Cover_image: 
-https://www.notion.so/images/page-cover/met_emanuel_leutze.jpg
+![Cover Image](https://www.notion.so/images/page-cover/met_emanuel_leutze.jpg)
 
  Status: 
  Active
@@ -190,9 +170,7 @@ dfdgdgfdg
 dfddfggffghgjhjhkhj
 dfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs
 dfgdfngd
-
- Cover_image: 
-https://www.notion.so/images/page-cover/webb1.jpg
+![Cover Image](https://www.notion.so/images/page-cover/webb1.jpg)
 
  Status: 
  Active
@@ -207,9 +185,7 @@ https://www.notion.so/images/page-cover/webb1.jpg
 
  Description: 
 
-
- Cover_image: 
-
+![Cover Image]()
 
  Status: 
  Inactive
@@ -228,9 +204,7 @@ dfdgdgfdg
 dfddfggffghgjhjhkhj
 dfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs
 dfgdfngd
-
- Cover_image: 
-https://www.notion.so/images/page-cover/met_jean_beraud.jpg
+![Cover Image](https://www.notion.so/images/page-cover/met_jean_beraud.jpg)
 
  Status: 
  Active
@@ -245,9 +219,7 @@ https://www.notion.so/images/page-cover/met_jean_beraud.jpg
 
  Description: 
 
-
- Cover_image: 
-
+![Cover Image]()
 
  Status: 
  Inactive
@@ -266,9 +238,7 @@ dfdgdgfdg
 dfddfggffghgjhjhkhj
 dfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs
 dfgdfngd
-
- Cover_image: 
-https://www.notion.so/images/page-cover/nasa_robert_stewart_spacewalk.jpg
+![Cover Image](https://www.notion.so/images/page-cover/nasa_robert_stewart_spacewalk.jpg)
 
  Status: 
  Ongoing
@@ -287,9 +257,7 @@ dfdgdgfdg
 dfddfggffghgjhjhkhj
 dfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs
 dfgdfngd
-
- Cover_image: 
-https://www.notion.so/images/page-cover/gradients_8.png
+![Cover Image](https://www.notion.so/images/page-cover/gradients_8.png)
 
  Status: 
  Active
@@ -304,9 +272,7 @@ https://www.notion.so/images/page-cover/gradients_8.png
 
  Description: 
 A project for DNN pruning and XAI
-
- Cover_image: 
-https://www.notion.so/images/page-cover/woodcuts_14.jpg
+![Cover Image](https://www.notion.so/images/page-cover/woodcuts_14.jpg)
 
  Status: 
  Active
@@ -321,9 +287,7 @@ https://www.notion.so/images/page-cover/woodcuts_14.jpg
 
  Description: 
 A project to audit the existing detailsshsghfgsdgf
-
- Cover_image: 
-https://www.notion.so/images/page-cover/met_terracotta_funerary_plaque.jpg
+![Cover Image](https://www.notion.so/images/page-cover/met_terracotta_funerary_plaque.jpg)
 
  Status: 
  Active

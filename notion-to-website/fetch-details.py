@@ -8,7 +8,7 @@ import tempfile
 NOTION_API_KEY = 'secret_pMjSYaN7ecvYyFpulLLsaWBLrQHlFrvPbVlhfaIqkg1'
 DATABASE_ID = '79a626a8176d4aca8922faa551ddbfa8'
 MARKDOWN_FILE = 'content/project/allprojects.md'
-IMAGE_URL='/Users/ananya/Documents/aiea-lab.github.io/static/img/Project_Image.jpg'
+IMAGE_URL='static/img/Project_Image.jpg'
 
 def get_notion_database_content():
     url = f'https://api.notion.com/v1/databases/{DATABASE_ID}/query'
@@ -217,13 +217,13 @@ def update_markdown_file(markdown_file, project_details):
             
             # Add front matter based on project details
             file.write(f"---\n")
-            #file.write(f"{IMAGE_URL}\n")
+            #hufile.write(f"{IMAGE_URL}\n")
             file.write(f"# {project_name}\n\n")
             # file.write(f"**Title:** {details['title']}\n")
             file.write(f"\n Date: \n{details['date']}\n")
             file.write(f"\n Description: \n{details['description']}\n")
             # file.write(f"**External Link:** {details['external_link']}\n\n")
-            file.write(f"\n Cover_image: \n{details['cover_image']}\n")
+            file.write(f"![Cover Image]({details['cover_image']})\n")
             file.write(f"\n Status: \n {details['status']}\n")
             file.write("---\n\n")
             # for participant in details['participants']:

@@ -1,7 +1,9 @@
 {{ $projects_len := len (where .Site.RegularPages "Type" "project") }}
 {{ if gt $projects_len 0 }}
+<link rel="stylesheet" href="{{ "static/css/styles.css" | relURL }}">
 <section id="projects" class="home-section">
-    <div class="container">
+
+    <div class="container card">
         
         <!-- Section heading -->
         <div class="row">
@@ -21,15 +23,21 @@
         <!-- Link to all projects -->
         <div>
             {{ if gt $projects_len .Site.Params.projects.count }}
+            
                 <p class="view-all">
+                
                     <a href="{{ .Site.Params.projects.str_all_url }}">
+                        
                         {{ with .Site.Params.projects.str_all }}{{ . | markdownify }}{{ end }}
                         <i class="fa fa-angle-double-right"></i>
+                       
                     </a>
+                
                 </p>
             {{ end }}
         </div>
     
     </div>
 </section>
+
 {{ end }}

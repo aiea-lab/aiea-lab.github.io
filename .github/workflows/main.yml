@@ -3,10 +3,10 @@ name: Build and Deploy Hugo Site from aiea-connect-notion
 on:
   push:
     branches:
-      - aiea-connect-notion
+      - aiea-connect-notion-2
   pull_request:
     branches:
-      - aiea-connect-notion
+      - aiea-connect-notion-2
   schedule:
     - cron: '0 0 * * 0'  #Run the job every Sunday at midnight
   workflow_dispatch:
@@ -24,7 +24,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          ref: aiea-connect-notion  # Ensure the workflow checks out the aiea-connect-notion branch
+          ref: aiea-connect-notion-2  # Ensure the workflow checks out the aiea-connect-notion branch
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -52,4 +52,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./docs
-          publish_branch:  aiea-connect-notion
+          publish_branch:  aiea-connect-notion-2

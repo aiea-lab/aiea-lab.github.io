@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on </title>
+    <link>//localhost:64513/project/</link>
+    <description>Recent content in Projects on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:64513/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Explainable Autograder</title>
+      <link>//localhost:64513/project/explaingrade/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:64513/project/explaingrade/</guid>
+      <description>The goal of this project is to develop an autograder for computer sciences that can explain itself.</description>
+    </item>
+    <item>
+      <title>Explaining LLM Failures</title>
+      <link>//localhost:64513/project/xaillm/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:64513/project/xaillm/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Robust Autonomous Vehicles</title>
+      <link>//localhost:64513/project/robustavs/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:64513/project/robustavs/</guid>
+      <description>Autonomous Vehicles (AVs), including aerial, ground, and sea vehicles, are becoming an integral part of our lives. Currently, most AVs trust sensor data to make navigation and other control decisions. In addition, they trust that the control commands given to actuators are executed faithfully. While trusting sensor and actuator data with minimal validation has proven to be an effective trade-off in current market solutions, it is not a sustainable practice as AVs become more pervasive and computer attacks increase in sophistication.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:64513/project/allprojects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:64513/project/allprojects/</guid>
+      <description>Explaining Production Rules Date: 2024-06-04&#xA;Description: A project for explaining production rules&#xA;Cover_image: https://www.notion.so/images/page-cover/woodcuts_2.jpg&#xA;Status: Active Stress-Testing XAI Date:&#xA;Description:&#xA;Cover_image:&#xA;Status: Inactive Robustifying AVs Date: 2024-06-04&#xA;Description: A project for robustifying AVs&#xA;Cover_image: https://www.notion.so/images/page-cover/webb1.jpg&#xA;Status: Active Danger Date:&#xA;Description:&#xA;Cover_image:&#xA;Status: Inactive Neural Net Pruning Date:&#xA;Description:&#xA;Cover_image:&#xA;Status: Inactive Fair Decision Trees Date: 2023-01-01&#xA;Description: Fair Decision Trees A project for Guidanceddfgdfgdfgdfgdfgfdfd dfdgdgfdg dfddfggffghgjhjhkhj dfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs dfgdfngd&#xA;Cover_image: https://www.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>//localhost:64513/post/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 19 Aug 2023 15:50:58 +0200</lastBuildDate>
+    <atom:link href="//localhost:64513/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aloha!</title>
+      <link>//localhost:64513/post/aloha/</link>
+      <pubDate>Sat, 19 Aug 2023 15:50:58 +0200</pubDate>
+      <guid>//localhost:64513/post/aloha/</guid>
+      <description>Aloha to friends and collaborators of the lab! We&amp;rsquo;ve just started setting up this website and we appreciate your patience as we make changes.&#xA;Mahalo!</description>
+    </item>
+  </channel>
+</rss>

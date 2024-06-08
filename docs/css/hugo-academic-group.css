@@ -397,6 +397,7 @@ ul.share li:hover .fa {
     line-height: 30px; /* Match share bar line height. */
     font-size: 14px;
     letter-spacing: 0.03em;
+    
 }
 
 .article-metadata a:hover {
@@ -598,15 +599,64 @@ img.in-text {
  *  Projects
  **************************************************/
 
+ section#projects.card {
+    --bs-card-spacer-y: 1rem;
+    --bs-card-spacer-x: 1rem;
+    --bs-card-title-spacer-y: 0.5rem;
+    --bs-card-title-color: ;
+    --bs-card-subtitle-color: ;
+    --bs-card-border-width: var(--bs-border-width);
+    --bs-card-border-color: var(--bs-border-color-translucent);
+    --bs-card-border-radius: var(--bs-border-radius);
+    --bs-card-box-shadow: ;
+    --bs-card-inner-border-radius: calc(var(--bs-border-radius) - (var(--bs-border-width)));
+    --bs-card-cap-padding-y: 0.5rem;
+    --bs-card-cap-padding-x: 1rem;
+    --bs-card-cap-bg: rgba(var(--bs-body-color-rgb), 0.03);
+    --bs-card-cap-color: ;
+    --bs-card-height: ;
+    --bs-card-color: ;
+    --bs-card-bg: var(--bs-body-bg);
+    --bs-card-img-overlay-padding: 1rem;
+    --bs-card-group-margin: 0.75rem;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    height: var(--bs-card-height);
+    color: var(--bs-body-color);
+    word-wrap: break-word;
+    background-color: var(--bs-card-bg);
+    background-clip: border-box;
+    border: var(--bs-card-border-width) solid var(--bs-card-border-color);
+    border-radius: var(--bs-card-border-radius);
+}
+section#projects.single-post-card {
+    background-color: #fff;
+    text-align: left;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 8%);
+    white-space: normal;
+    color: #4b4f56;
+    border: 0;
+    margin: 0 2%;
+    -webkit-transition: all 250ms cubic-bezier(.02,.01,.47,1);
+    -moz-transition: all 250ms cubic-bezier(.02, .01, .47, 1);
+    transition: all 250ms cubic-bezier(.02,.01,.47,1);
+    transition-delay: 0s;
+    
+}
 section#projects.home-section li {
+    
     margin-bottom: 20px;
 }
 
 section#projects.home-section li:last-of-type {
+    
     margin-bottom: 0;
 }
 
 section#projects.home-section .project-title {
+    
     display: inline-block;
     margin-bottom: 6px;
 }
@@ -623,6 +673,16 @@ section#projects.home-section .project-tags {
 
 .project-picture {
     background-image: url('../img/normal.png');
+    width: 150px;
+    height: 150px;
+    margin: 20px 10px 10px -5px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+}
+
+.project-picture-1 {
+    background-image: url('../img/project_dummy.jpg');
     width: 150px;
     height: 150px;
     margin: 20px 10px 10px -5px;

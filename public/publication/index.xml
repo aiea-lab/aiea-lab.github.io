@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on </title>
+    <link>//localhost:64513/publication/</link>
+    <description>Recent content in Publications on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:64513/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DANGER: A Framework of Danger-Aware Novel Dataset Generator Extension for Robustness Test of Machine Learning</title>
+      <link>//localhost:64513/publication/danger/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:64513/publication/danger/</guid>
+      <description> </description>
+    </item>
+  </channel>
+</rss>
