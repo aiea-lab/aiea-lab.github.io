@@ -1,0 +1,20 @@
+{{ define "main" }}
+<div class="container">
+    <h1 class="page-title">{{ .Title }}</h1>
+    <div class="row projects-list">
+        {{ range .Pages }}
+            <div class="col-md-4 project-item">
+                <div class="card mb-4 shadow-sm">
+                    <img class="card-img-top" src="{{ .Params.coverImage }}" alt="{{ .Title }}">
+                    <div class="card-body">
+                        <h5 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h5>
+                        <p class="card-text">{{ .Params.description }}</p>
+                        <p class="card-text"><small class="text-muted">Status: {{ .Params.status }}</small></p>
+                        <a href="{{ .RelPermalink }}" class="btn btn-primary">Read more</a>
+                    </div>
+                </div>
+            </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333;
+}
+
+.project {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 0;
+  --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: calc(-1* var(--bs-gutter-y));
+  margin-right: calc(-.5* var(--bs-gutter-x));
+  margin-left: calc(-.5* var(--bs-gutter-x));
+  color: red;
+
+}
+
+.project h1 {
+  font-size: 24px;
+  color: #444;
+}
+
+.project .date,
+.project .description,
+.project .cover_image,
+.project .status {
+  margin: 5px 0;
+}
+
+.project .date {
+  font-weight: bold;
+}
+
+.project .description {
+  font-style: italic;
+}
+
+.project .status {
+  color: green;
+}
+
+.project .status.inactive {
+  color: red;
+}
