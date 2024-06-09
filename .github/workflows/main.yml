@@ -39,17 +39,5 @@ jobs:
       - name: Fetch and Update Project Details
         run: python fetch-details.py
 
-      - name: Install Hugo
-        run: |
-          wget https://github.com/gohugoio/hugo/releases/download/v0.126.1/hugo_extended_0.126.1_Linux-64bit.deb
-          sudo dpkg -i hugo_extended_0.126.1_Linux-64bit.deb
-
       - name: Build Site
-        run: hugo -D
-
-      - name: Upload to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs
-          publish_branch:  aiea-connect-notion-2
+        run: hugo server
