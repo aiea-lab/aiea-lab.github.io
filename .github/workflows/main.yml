@@ -36,8 +36,5 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Fetch and Update Project Details
-        run: python fetch-details.py
-
       - name: Build Site
         run: hugo server
