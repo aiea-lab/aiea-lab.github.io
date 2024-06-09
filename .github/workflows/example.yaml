@@ -17,3 +17,9 @@ jobs:
         python-version: 3.8
     - name: Run a one-line script
       run: echo "Hello, world!"
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+
+    
