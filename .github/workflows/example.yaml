@@ -23,7 +23,7 @@ jobs:
         python -m pip install --upgrade pip
         
     - name: Build the site
-      run: hugo
+      run: hugo server
       
 
     
