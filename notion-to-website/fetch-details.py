@@ -11,6 +11,7 @@ MARKDOWN_FILE = 'content/project/allprojects.md'
 IMAGE_URL='static/img/Project_Image.jpg'
 output_directory = "content/project"
 
+
 def get_notion_database_content():
     url = f'https://api.notion.com/v1/databases/{DATABASE_ID}/query'
     headers = {
@@ -215,7 +216,8 @@ def update_markdown_file(markdown_file, project_details):
     with open(markdown_file, 'w') as file:
         for project_name, details in project_details.items():
 
-            
+            cover_image = details['cover_image'] if os.path.isfile(details['cover_image']) else IMAGE_URL
+
             # Add front matter based on project details
             file.write(f"---\n")
             #hufile.write(f"{IMAGE_URL}\n")

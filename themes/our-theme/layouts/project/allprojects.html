@@ -21,7 +21,7 @@
                 <div class="card mb-4 shadow-sm">
                     
                     <img class="card-img-top" src="{{ .Params.coverImage }}" alt="{{ .Title }}">
-                    {{ range (where .Site.Pages "Type" "projects") }}
+                    {{ range (where .Site.Pages "Type" "project") }}
                     <div class="card-body">
                         <h5 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h5>
                         <p class="card-text">{{ .Params.description }}</p>
