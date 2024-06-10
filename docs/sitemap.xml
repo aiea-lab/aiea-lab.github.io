@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/project/allprojects/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/project/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/alumni/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
@@ -45,9 +51,6 @@
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/project/xaillm/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/project/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/project/robustavs/</loc>
@@ -105,8 +108,6 @@
     <loc>http://localhost:1313/join/</loc>
   </url><url>
     <loc>http://localhost:1313/mission/</loc>
-  </url><url>
-    <loc>http://localhost:1313/project/allprojects/</loc>
   </url><url>
     <loc>http://localhost:1313/research/</loc>
   </url><url>

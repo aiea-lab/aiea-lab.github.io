@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All Projects</title>
+      <link>http://localhost:1313/project/allprojects/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/allprojects/</guid>
+      <description>Explaining youtube Date: 2024-06-03&#xA;Description: A project to explain ddfbdfd Status: Active Explaining Production Rules Date: 2024-06-04&#xA;Description: A project for explaining production rules Status: Active Stress-Testing XAI Date:&#xA;Description:&#xA;Status: Inactive Robustifying AVs Date: 2024-06-04&#xA;Description: A project for robustifying AVs Status: Active Danger Date:&#xA;Description:&#xA;Status: Inactive Neural Net Pruning Date:&#xA;Description:&#xA;Status: Inactive Fair Decision Trees Date: 2023-01-01&#xA;Description: Fair Decision Trees A project for Guidanceddfgdfgdfgdfgdfgfdfd dfdgdgfdg dfddfggffghgjhjhkhj dfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs dfgdfngd Status: Active Text → Video Date: 2023-04-03</description>
+    </item>
     <item>
       <title>MS at UCSC</title>
       <link>http://localhost:1313/alumni/rangasri/</link>
@@ -218,13 +225,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mission/</guid>
       <description>Auras queritur facientes dixit venti sustinui E in mora Lorem markdownum poenaque nuper destituit silendo quoniam, nec ait consorte membra, figuram hanc cum. Manifesta vitae facies exiguumque iunctam dictis. Vidit eadem, hanc cum descendit sinu misit quem fecit, positisque pastorve. Missus solos potentia in erant noctem est!&#xA;if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsiBotnet.and(logSoftware, hsfClipboardSubnet.queue_publishing( systemMemory, 5, yahoo)); } else { swappableIpv -= spoolingAdwareCrossplatform; extranetAppArchitecture(1, dtd_rpc_font(45, 67, development_sli)); } antivirus_ipv = touchscreenFiosGrep.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/project/allprojects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/allprojects/</guid>
-      <description>Explaining Production Rules Date: 2024-06-04&#xA;Description: A project for explaining production rules Status: Active Stress-Testing XAI Date:&#xA;Description:&#xA;Status: Inactive Robustifying AVs Date: 2024-06-04&#xA;Description: A project for robustifying AVs Status: Active Danger Date:&#xA;Description:&#xA;Status: Inactive Neural Net Pruning Date:&#xA;Description:&#xA;Status: Inactive Fair Decision Trees Date: 2023-01-01&#xA;Description: Fair Decision Trees A project for Guidanceddfgdfgdfgdfgdfgfdfd dfdgdgfdg dfddfggffghgjhjhkhj dfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs dfgdfngd Status: Active Text → Video Date: 2023-04-03&#xA;Description:</description>
     </item>
     <item>
       <title></title>

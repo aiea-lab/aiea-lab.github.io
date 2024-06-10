@@ -1,4 +1,10 @@
 ---
+title: "All Projects"
+date: 2024-06-03
+layout: "allprojects"
+draft: false
+---
+
 # Explaining youtube
 
 
