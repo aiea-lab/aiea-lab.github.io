@@ -24,12 +24,12 @@
         <!-- Link to all projects -->
         <div>
             {{ if gt $projects_len .Site.Params.projects.count }}
-            
-                <p class="single-post-card">
+            {{ with .Site.Params.projects.str_all }}{{ . | markdownify }}{{ end }}
+                <p class="project">
                 
                     <a href="{{ .Site.Params.projects.str_all_url }}">
                         
-                        {{ with .Site.Params.projects.str_all }}{{ . | markdownify }}{{ end }}
+                        
                         <i class="fa fa-angle-double-right"></i>
                     </a>
                 </p>
