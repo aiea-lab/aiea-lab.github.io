@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on AIEA Lab</title>
-    <link>http://localhost:1313/project/</link>
+    <link>http://localhost:64482/project/</link>
     <description>Recent content in Projects on AIEA Lab</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
     <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:64482/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>All Projects</title>
-      <link>http://localhost:1313/project/allprojects/</link>
+      <link>http://localhost:64482/project/allprojects/</link>
       <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/allprojects/</guid>
+      <guid>http://localhost:64482/project/allprojects/</guid>
       <description>Explaining youtube Date: 2024-06-03&#xA;Description: A project to explain ddfbdfd Status: Active Explaining Production Rules Date: 2024-06-04&#xA;Description: A project for explaining production rules Status: Active Stress-Testing XAI Date:&#xA;Description:&#xA;Status: Inactive Robustifying AVs Date: 2024-06-04&#xA;Description: A project for robustifying AVs Status: Active Danger Date:&#xA;Description:&#xA;Status: Inactive Neural Net Pruning Date:&#xA;Description:&#xA;Status: Inactive Fair Decision Trees Date: 2023-01-01&#xA;Description: Fair Decision Trees A project for Guidanceddfgdfgdfgdfgdfgfdfd dfdgdgfdg dfddfggffghgjhjhkhj dfgghgfehjrndvnbdsvfghrfnvsdvbfvdgnrfvnrgvfrvsvfs dfgdfngd Status: Active Text → Video Date: 2023-04-03</description>
     </item>
     <item>
       <title>Explainable Autograder</title>
-      <link>http://localhost:1313/project/explaingrade/</link>
+      <link>http://localhost:64482/project/explaingrade/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/explaingrade/</guid>
+      <guid>http://localhost:64482/project/explaingrade/</guid>
       <description>The goal of this project is to develop an autograder for computer sciences that can explain itself.</description>
     </item>
     <item>
       <title>Explaining LLM Failures</title>
-      <link>http://localhost:1313/project/xaillm/</link>
+      <link>http://localhost:64482/project/xaillm/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/xaillm/</guid>
+      <guid>http://localhost:64482/project/xaillm/</guid>
       <description> </description>
     </item>
     <item>
       <title>Robust Autonomous Vehicles</title>
-      <link>http://localhost:1313/project/robustavs/</link>
+      <link>http://localhost:64482/project/robustavs/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/robustavs/</guid>
+      <guid>http://localhost:64482/project/robustavs/</guid>
       <description>Autonomous Vehicles (AVs), including aerial, ground, and sea vehicles, are becoming an integral part of our lives. Currently, most AVs trust sensor data to make navigation and other control decisions. In addition, they trust that the control commands given to actuators are executed faithfully. While trusting sensor and actuator data with minimal validation has proven to be an effective trade-off in current market solutions, it is not a sustainable practice as AVs become more pervasive and computer attacks increase in sophistication.</description>
     </item>
   </channel>
