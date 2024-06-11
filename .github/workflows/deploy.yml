@@ -1,9 +1,9 @@
-name: Deploy Hugo site to GitHub Pages
+name: Deploy Temp Site to GitHub Pages
 
 on:
   push:
     branches:
-      - temp # Change this to your branch name
+      - temp # Branch to deploy
 
 jobs:
   deploy:
