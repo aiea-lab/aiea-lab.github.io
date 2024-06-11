@@ -1,42 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alumnis on AIEA Lab</title>
-    <link>https://aiea-lab.github.io/alumni/</link>
-    <description>Recent content in Alumnis on AIEA Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Alumni on AIEA Lab</title>
+    <link>http://localhost:1313/temp/alumni/</link>
+    <description>Recent content in Alumni on AIEA Lab</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
     <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://aiea-lab.github.io/alumni/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/temp/alumni/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MS at UCSC</title>
-      <link>https://aiea-lab.github.io/alumni/rangasri/</link>
+      <link>http://localhost:1313/temp/alumni/rangasri/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/rangasri/</guid>
+      <guid>http://localhost:1313/temp/alumni/rangasri/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MS at UCSC</title>
-      <link>https://aiea-lab.github.io/alumni/shengjie/</link>
+      <link>http://localhost:1313/temp/alumni/shengjie/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/shengjie/</guid>
+      <guid>http://localhost:1313/temp/alumni/shengjie/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Visiting PhD student</title>
-      <link>https://aiea-lab.github.io/alumni/biagio/</link>
+      <link>http://localhost:1313/temp/alumni/biagio/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/biagio/</guid>
+      <guid>http://localhost:1313/temp/alumni/biagio/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

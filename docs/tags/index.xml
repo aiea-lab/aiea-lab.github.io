@@ -2,13 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on AIEA Lab</title>
-    <link>https://aiea-lab.github.io/tags/</link>
+    <link>http://localhost:1313/temp/tags/</link>
     <description>Recent content in Tags on AIEA Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
+    <language>en</language>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    
-	<atom:link href="https://aiea-lab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/temp/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
