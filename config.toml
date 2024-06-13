@@ -13,7 +13,6 @@ copyright = "&copy; AIEA Lab, 2023 "
 category = "categories"
 tag = "tags"
 
-
 [params]
   description = "Website of the UCSC AIEA Lab"
   author = "Leilani H. Gilpin"
