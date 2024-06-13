@@ -3,6 +3,7 @@ static = "static"
 builddrafts = false
 # Replace this with your website URL
 baseurl = "https://aiea-lab.github.io/temp"
+relativeURLs = true
 canonifyurls = true
 theme = "our-theme"
 title = "AIEA Lab"
