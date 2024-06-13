@@ -3,7 +3,7 @@ name: Deploy Temp Site to GitHub Pages
 on:
   push:
     branches:
-      - temp # Branch to deploy
+      - temp #Branch to deploy
 
 jobs:
   deploy:
