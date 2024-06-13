@@ -37,13 +37,6 @@ jobs:
           ls -la
           pwd
 
-      - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          branch: temp  # Specify the branch you want to deploy to
-          folder: ./docs  # Specify the folder with the built site
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       
    
 
