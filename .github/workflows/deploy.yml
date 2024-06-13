@@ -30,12 +30,19 @@ jobs:
       - name: Build
         run: hugo --minify
 
+      - name: Debug Git status
+        run: |
+          git status
+          git log -3
+          ls -la
+          pwd
+
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs
-     
+          branch: temp  # Specify the branch you want to deploy to
+          folder: ./docs  # Specify the folder with the built site
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       
    
