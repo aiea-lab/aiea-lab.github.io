@@ -7,7 +7,7 @@ import tempfile
 # Replace these with your actual Notion API key and database ID
 NOTION_API_KEY = 'secret_pMjSYaN7ecvYyFpulLLsaWBLrQHlFrvPbVlhfaIqkg1'
 DATABASE_ID = '79a626a8176d4aca8922faa551ddbfa8'
-MARKDOWN_FILE = 'content/project/allprojects.md'
+MARKDOWN_FILE = 'scripts/project/allprojects.md'
 IMAGE_URL='static/img/Project_Image.jpg'
 
 def get_notion_database_content():
