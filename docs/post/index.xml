@@ -5,22 +5,17 @@
     <link>https://aiea-lab.github.io/post/</link>
     <description>Recent content in Posts on AIEA Lab</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
     <lastBuildDate>Sat, 19 Aug 2023 15:50:58 +0200</lastBuildDate>
-    
-	<atom:link href="https://aiea-lab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://aiea-lab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aloha!</title>
       <link>https://aiea-lab.github.io/post/aloha/</link>
       <pubDate>Sat, 19 Aug 2023 15:50:58 +0200</pubDate>
-      
       <guid>https://aiea-lab.github.io/post/aloha/</guid>
       <description>Aloha to friends and collaborators of the lab! We&amp;rsquo;ve just started setting up this website and we appreciate your patience as we make changes.
-Mahalo!
-  </description>
+Mahalo!</description>
     </item>
-    
   </channel>
 </rss>
