@@ -6,10 +6,19 @@
     <description>Recent content on AIEA Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    <lastBuildDate>Mon, 17 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aiea-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PhD Student, Activist, Strange Loop</title>
+      <link>https://aiea-lab.github.io/member/jackfoxkeen/</link>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/jackfoxkeen/</guid>
+      <description>Jack Fox Keen is a first year PhD student in the Department of Computer Science and Engineering and UC Santa Cruz, under the tutelage of Dr. Leilani H. Gilpin. Their research focuses on explainable artificial intelligence for psychological and sociological applications, such as suicide prevention and human rights activism. They hold a bachelors of science from Florida Student University for both Scientific Computing and Biomathematics. As an activist, Jack Fox Keen has been involved with a variety of organizations, including Science for the People, Food Not Bombs, and the Tech Workers Coalition.</description>
+    </item>
     
     <item>
       <title>BS at UCSC</title>
