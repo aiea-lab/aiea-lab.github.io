@@ -6,10 +6,19 @@
     <description>Recent content in Members on AIEA Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    <lastBuildDate>Mon, 22 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aiea-lab.github.io/member/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Project Lead</title>
+      <link>https://aiea-lab.github.io/member/shreyan/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/shreyan/</guid>
+      <description>I am a student researcher and software developer focused on making machine learning more robust, accessible, and sustainable.</description>
+    </item>
     
     <item>
       <title>Lab Intern</title>
