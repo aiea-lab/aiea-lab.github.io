@@ -2,6 +2,8 @@
 {{ partial "navbar.html" . }}
 {{ partial "slogan.html" . }}
 
+{{ partial "carousel.html" (dict "context" . "items" "1" "height" "45" "unit" "%") }}
+
 <!-- Projects Section -->
 {{ partial "index/projects.html" . }}
 
