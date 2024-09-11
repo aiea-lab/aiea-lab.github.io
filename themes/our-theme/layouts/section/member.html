@@ -2,10 +2,19 @@
 {{ partial "navbar.html" . }}
 
 <div class="container">
-    <h1>Team</h1>
-    {{ range (sort .Data.Pages ".Params.sort_position") }}
+  <h1>Team</h1>
+    {{ range (sort .Data.Pages ".Params.date") }}
             {{partial "member_li" .}}
     {{ end }}
+</div>
+
+{{ $intern_len := len (where .Site.RegularPages "Section" "intern" ) }}
+
+<div class="container">
+  <h1>Interns</h1>
+  {{ range where .Site.RegularPages "Section" "intern" }}
+        {{ partial "intern_li" . }}
+  {{ end }}
 </div>
 
 {{ $alumni_len := len (where .Site.RegularPages "Section" "alumni" ) }}
