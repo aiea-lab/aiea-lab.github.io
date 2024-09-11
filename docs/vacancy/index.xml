@@ -13,7 +13,7 @@
       <link>http://localhost:1313/vacancy/vacancy1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/vacancy/vacancy1/</guid>
-      <description>You can write $\LaTeX$ and Markdown here.&#xA;Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
+      <description>&lt;p&gt;You can write $\LaTeX$ and &lt;em&gt;Markdown&lt;/em&gt; here.&lt;/p&gt;&#xA;&lt;h1 id=&#34;minyae-adgnoscitque-fugiebat-parentis-ausum-superos-huius&#34;&gt;Minyae adgnoscitque fugiebat parentis ausum superos huius&lt;/h1&gt;&#xA;&lt;h2 id=&#34;ait-erili-meruisse-iactatis-omnibus-erat&#34;&gt;Ait erili meruisse iactatis omnibus erat&lt;/h2&gt;&#xA;&lt;p&gt;Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori&#xA;verba fugisse &lt;strong&gt;mira mortisque leones&lt;/strong&gt;! Prior sui liquidissimus leve&#xA;properandum totidem studio, refert &lt;em&gt;magno&lt;/em&gt;, me quibus. Sternitur discordia&#xA;summaque, si deus in undam et vulnere dirusque est felices pallam miserere&#xA;curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant,&#xA;gerebat est edam plura. Armigerae Cyllenius freti vaga adeunda, rura undas,&#xA;equarum ubi non laetoque pice.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

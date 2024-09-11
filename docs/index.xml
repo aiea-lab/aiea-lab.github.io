@@ -14,21 +14,21 @@
       <link>http://localhost:1313/member/shreyan/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/member/shreyan/</guid>
-      <description>I am a student researcher and software developer focused on making machine learning more robust, accessible, and sustainable.</description>
+      <description>&lt;p&gt;I am a student researcher and software developer focused on making machine learning more robust, accessible, and sustainable.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lab Intern</title>
       <link>http://localhost:1313/member/tanishapatil/</link>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/member/tanishapatil/</guid>
-      <description>Tanisha Patil is a collaborative high school student pursuing a position in data science and machine learning. She seeks to use data analysis, modeling, and programming to support data-driven decision making and yield positive social impact.&#xA;Outside of research, Tanisha enjoys playing field hockey and solving the daily NYT puzzles.</description>
+      <description>&lt;p&gt;Tanisha Patil is a collaborative high school student pursuing a position in data science and machine learning. She seeks to use data analysis, modeling, and programming to support data-driven decision making and yield positive social impact.&lt;/p&gt;&#xA;&lt;p&gt;Outside of research, Tanisha enjoys playing field hockey and solving the daily NYT puzzles.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>PhD Student, Activist, Strange Loop</title>
       <link>http://localhost:1313/member/jackfoxkeen/</link>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/member/jackfoxkeen/</guid>
-      <description>Jack Fox Keen is a first year PhD student in the Department of Computer Science and Engineering and UC Santa Cruz, under the tutelage of Dr. Leilani H. Gilpin. Their research focuses on explainable artificial intelligence for psychological and sociological applications, such as suicide prevention and human rights activism. They hold a bachelors of science from Florida Student University for both Scientific Computing and Biomathematics. As an activist, Jack Fox Keen has been involved with a variety of organizations, including Science for the People, Food Not Bombs, and the Tech Workers Coalition.</description>
+      <description>&lt;p&gt;Jack Fox Keen is a first year PhD student in the Department of Computer Science and Engineering and UC Santa Cruz, under the tutelage of Dr. Leilani H. Gilpin. Their research focuses on explainable artificial intelligence for psychological and sociological applications, such as suicide prevention and human rights activism. They hold a bachelors of science from Florida Student University for both Scientific Computing and Biomathematics. As an activist, Jack Fox Keen has been involved with a variety of organizations, including Science for the People, Food Not Bombs, and the Tech Workers Coalition. They have also worked for the Guardian Project for 3 years as the data scientist for ProofMode, working with the Content Authenticity Initiative (CAI) and other organizations on verifiable photo provenance.&lt;/p&gt;</description>
     </item>
     <item>
       <title>BS at UCSC</title>
@@ -42,7 +42,7 @@
       <link>http://localhost:1313/member/ivan/</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/member/ivan/</guid>
-      <description>Ivan Del Rio is a second-year undergraduate at UC Santa Cruz, pursuing a B.S. in Computer Engineering and working under Prof. Leilani Gilpin. With a deep passion for artificial intelligence, full-stack web development, and mobile app development, Ivan thrives on bringing creative projects to life. Outside of his academic and professional pursuits, Ivan cherishes time with family and friends, enjoys playing musical instruments, and stays active through various sports.</description>
+      <description>&lt;p&gt;Ivan Del Rio is a second-year undergraduate at UC Santa Cruz, pursuing a B.S. in Computer Engineering and working under &lt;a href=&#34;../leilani/&#34;&gt;Prof. Leilani Gilpin&lt;/a&gt;. With a deep passion for artificial intelligence, full-stack web development, and mobile app development, Ivan thrives on bringing creative projects to life. Outside of his academic and professional pursuits, Ivan cherishes time with family and friends, enjoys playing musical instruments, and stays active through various sports.&lt;/p&gt;</description>
     </item>
     <item>
       <title>MS at UCSC</title>
@@ -56,140 +56,140 @@
       <link>http://localhost:1313/member/oliverchang/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/member/oliverchang/</guid>
-      <description>Oliver Chang is a computer science and engineering PhD student at UC Santa Cruz. His research focuses on robust and efficient deep reinforcement learning. His work has applications to autonomous vehicles, efficient data sampling, and out of distribution learning. His current work examines how salient maps could be a memory efficient medium to store in a replay buffer.&#xA;He holds a B.A. in Computer Science and Mathematics from Pomona College. Outside of research, Oliver enjoys running, watching baseball, and solving math puzzles - but not necessarily in that order.</description>
+      <description>&lt;p&gt;Oliver Chang is a computer science and engineering PhD student at UC Santa Cruz.  His research&#xA;focuses on robust and efficient deep reinforcement learning. His work has applications to autonomous vehicles, efficient data sampling, and out of distribution learning. His current&#xA;work examines how salient maps could be a memory efficient medium to store in a replay buffer.&lt;/p&gt;&#xA;&lt;p&gt;He holds a B.A. in Computer Science and Mathematics from Pomona College.  Outside of research,&#xA;Oliver enjoys running, watching baseball, and solving math puzzles - but not necessarily in that order.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Undergraduate</title>
       <link>http://localhost:1313/member/oliverl/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/member/oliverl/</guid>
-      <description>Oliver Lokhandwala is a 4th year computer science undergraduate student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. His current research focuses on creating an explainable autograder using technologies such as Nautilus and Kubernetes, while working on the backend side of it using Go. Outside of research, Oliver enjoys surfing and working out.</description>
+      <description>&lt;p&gt;Oliver Lokhandwala is a 4th year computer science undergraduate student advised by &lt;a href=&#34;../leilani/&#34;&gt;Prof. Leilani Gilpin&lt;/a&gt; in the Department of Computer Science and Engineering at UC Santa Cruz. His current research focuses on creating an explainable autograder using technologies such as Nautilus and Kubernetes, while working on the backend side of it using Go. Outside of research, Oliver enjoys surfing and working out.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Undergraduate</title>
       <link>http://localhost:1313/member/susanto/</link>
       <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/member/susanto/</guid>
-      <description>Andrew Susanto is a 5th year Undergraduate student studying Computer Science. His introduction into AI and Machine Learning was CSE 140, a Capstone course on Artificial Intelligence instructed by Prof. Leilani Gilpin, the head of AIEA Lab. Since, Andrew has grown a deep interest in the design, concepts, and utilization of AI, particularly within the contexts of XAI, Autonomous Vehicles and Natural Language Processing. Andrew has recently been working under the direction of Ph.</description>
+      <description>&lt;p&gt;Andrew Susanto is a 5th year Undergraduate student studying Computer Science. His introduction into AI and Machine Learning was CSE 140, a Capstone course on Artificial Intelligence instructed by &lt;a href=&#34;../leilani/&#34;&gt;Prof. Leilani Gilpin&lt;/a&gt;, the head of AIEA Lab. Since, Andrew has grown a deep interest in the design, concepts, and utilization of AI, particularly within the contexts of XAI, Autonomous Vehicles and Natural Language Processing. Andrew has recently been working under the direction of Ph.D. student Oliver Chang in containerizing MIT&amp;rsquo;s data-driven simulator, VISTA, using Docker and the Nautilus cluster for cloud-based computations.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Undergraduate</title>
       <link>http://localhost:1313/member/nickw/</link>
       <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/member/nickw/</guid>
-      <description>Nick Wang is a 3rd year undergraduate student studying Computer Science at UC Santa Cruz. He is deeply curious about how machine learning works (hence XAI) and has recently become motivated to improve his understanding of AVs which he will be able to do while working on the driving rules project and the drive sim project.</description>
+      <description>&lt;p&gt;Nick Wang is a 3rd year undergraduate student studying Computer Science at UC Santa Cruz. He is deeply curious about how machine learning works (hence XAI) and has recently become motivated to improve his understanding of AVs which he will be able to do while working on the driving rules project and the drive sim project.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Master student</title>
       <link>http://localhost:1313/member/sijia/</link>
       <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/member/sijia/</guid>
-      <description>Sijia is a second-year Master student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. She has a interest in the explainability of model intelligence (XAI). Outside of her studies, Sijia enjoys singing, photography, and cosplaying.&#xA;read more</description>
+      <description>&lt;p&gt;Sijia is a second-year Master student advised by &lt;a href=&#34;../leilani/&#34;&gt;Prof. Leilani Gilpin&lt;/a&gt; in the Department of Computer Science and Engineering at UC Santa Cruz. She has a interest in the explainability of model intelligence (XAI). Outside of her studies, Sijia enjoys singing, photography, and cosplaying.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://szhong16.github.io/&#34;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ph.D. student</title>
       <link>http://localhost:1313/member/peiyu/</link>
       <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/member/peiyu/</guid>
-      <description>Olivia is a first-year Ph.D. student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. Her research interests include but are not limited to XAI, HCAI, and NLP.&#xA;read more</description>
+      <description>&lt;p&gt;Olivia is a first-year Ph.D. student advised by &lt;a href=&#34;../leilani/&#34;&gt;Prof. Leilani Gilpin&lt;/a&gt; in the Department of Computer Science and Engineering at UC Santa Cruz. Her research interests include but are not limited to XAI, HCAI, and NLP.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://oliviapy960825.github.io/&#34;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Aloha!</title>
       <link>http://localhost:1313/post/aloha/</link>
       <pubDate>Sat, 19 Aug 2023 15:50:58 +0200</pubDate>
       <guid>http://localhost:1313/post/aloha/</guid>
-      <description>Aloha to friends and collaborators of the lab! We&amp;rsquo;ve just started setting up this website and we appreciate your patience as we make changes.&#xA;Mahalo!</description>
+      <description>&lt;p&gt;Aloha to friends and collaborators of the lab!  We&amp;rsquo;ve just started setting up this website and we appreciate your patience as we make changes.&lt;/p&gt;&#xA;&lt;p&gt;Mahalo!&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>Explainable Autograder</title>
       <link>http://localhost:1313/project/explaingrade/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/explaingrade/</guid>
-      <description>The goal of this project is to develop an autograder for computer sciences that can explain itself.</description>
+      <description>&lt;p&gt;The goal of this project is to develop an autograder for computer sciences that can explain itself.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>Explaining LLM Failures</title>
       <link>http://localhost:1313/project/xaillm/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/xaillm/</guid>
-      <description> </description>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>Robust Autonomous Vehicles</title>
       <link>http://localhost:1313/project/robustavs/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/robustavs/</guid>
-      <description>Autonomous Vehicles (AVs), including aerial, ground, and sea vehicles, are becoming an integral part of our lives. Currently, most AVs trust sensor data to make navigation and other control decisions. In addition, they trust that the control commands given to actuators are executed faithfully. While trusting sensor and actuator data with minimal validation has proven to be an effective trade-off in current market solutions, it is not a sustainable practice as AVs become more pervasive and computer attacks increase in sophistication.</description>
+      <description>&lt;p&gt;Autonomous Vehicles (AVs), including aerial, ground, and sea vehicles, are becoming an integral part of our lives. Currently, most AVs trust sensor data to make navigation and other control decisions. In addition, they trust that the control commands given to actuators are executed faithfully. While trusting sensor and actuator data with minimal validation has proven to be an effective trade-off in current market solutions, it is not a sustainable practice as AVs become more pervasive and computer attacks increase in sophistication.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/member/max/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/member/max/</guid>
-      <description>Max Meyers is an undergraduate student, class of 2024, studying Computer Engineering with a concentration in Robotics. His research focuses primarily on XAI, as well as combining Language Model AI with systems and databases. Outside of research, Max enjoys creative writing and fencing.</description>
+      <description>&lt;p&gt;Max Meyers is an undergraduate student, class of 2024, studying Computer Engineering with a concentration in Robotics. His research focuses primarily on XAI, as well as combining Language Model AI with systems and databases. Outside of research, Max enjoys creative writing and fencing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Undergraduate</title>
       <link>http://localhost:1313/member/camden/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/member/camden/</guid>
-      <description>Camden Beard is a fourth-year undergraduate student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. They have an interest in fault tolerant and efficient systems, explainable AI, and AI ethics. Camden is currently working with the Autograder team to improve server-side functionality. For hobbies, they enjoy gaming with friends, playing guitar, and crafting.</description>
+      <description>&lt;p&gt;Camden Beard is a fourth-year undergraduate student advised by&#xA;Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz.&#xA;They have an interest in fault tolerant and efficient systems, explainable AI, and AI ethics.&#xA;Camden is currently working with the Autograder team to improve server-side functionality.&#xA;For hobbies, they enjoy gaming with friends, playing guitar, and crafting.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Masters</title>
       <link>http://localhost:1313/member/john/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/member/john/</guid>
-      <description>John Yu is a Master&amp;rsquo;s Student in the Department of Computer Science and Engineering at UC Santa Cruz. His areas of technical interest are autonomous driving and embedded systems. In his spare time, John enjoys going to the gym, learning musical instruments, and cooking.</description>
+      <description>&lt;p&gt;John Yu is a Master&amp;rsquo;s Student in the Department of Computer Science and Engineering at UC Santa Cruz. His areas of technical interest are autonomous driving and embedded systems. In his spare time, John enjoys going to the gym, learning musical instruments, and cooking.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Recent Graduate</title>
       <link>http://localhost:1313/member/brendon/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/member/brendon/</guid>
-      <description>Brendon is a recent graduate from UC Santa Cruz. He Majors in Cognitive Science with Specialization in Artificial Intelligence and Human Computer Interaction with a Minor in Computer Science. He is interested in the field of AI and is excited to learn more about new ways to utilize AI and more about how to implement them in general. He is currently learning more each day and looking for work.</description>
+      <description>&lt;p&gt;Brendon is a recent graduate from UC Santa Cruz. He Majors in Cognitive Science with Specialization in Artificial Intelligence and Human Computer Interaction with a Minor in Computer Science. He is interested in the field of AI and is excited to learn more about new ways to utilize AI and more about how to implement them in general. He is currently learning more each day and looking for work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ph.D. student</title>
       <link>http://localhost:1313/member/li/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/member/li/</guid>
-      <description>Li is a second-year Ph.D. student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. He has a broad interest in improving the explainability and reliability of model intelligence. Outside of his studies, Li enjoys cooking, photography, and painting.&#xA;read more</description>
+      <description>&lt;p&gt;Li is a second-year Ph.D. student advised by &lt;a href=&#34;../leilani/&#34;&gt;Prof. Leilani Gilpin&lt;/a&gt; in the Department of Computer Science and Engineering at UC Santa Cruz. He has a broad interest in improving the explainability and reliability of model intelligence. Outside of his studies, Li enjoys cooking, photography, and painting.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://leolee7.github.io/&#34;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Master student</title>
       <link>http://localhost:1313/member/suma/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/member/suma/</guid>
-      <description>Kalyana Suma Sree Tholeti is an Masters student in the Department of Computer Science and Engineering at UC Santa Cruz. Her research focuses on the XAI, Responsible data Science, and Generative AI. Her current work is on developing a comprehensive model explanation monitoring framework within the manufacturing domain. Her previous work is on analysis of bias in the knowledge-distilled models and Sentiment analysis.&#xA;read more</description>
+      <description>&lt;p&gt;Kalyana Suma Sree Tholeti is an Masters student in the Department of&#xA;Computer Science and Engineering at UC Santa Cruz.  Her research&#xA;focuses on the XAI, Responsible data Science, and Generative AI. Her current work&#xA;is on developing a comprehensive model explanation monitoring framework within the manufacturing domain.&#xA;Her previous work is on analysis of bias in the knowledge-distilled models and Sentiment analysis.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;//github.com/ktholeti&#34;&gt;read more&lt;/a&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>Undergraduate Student</title>
       <link>http://localhost:1313/member/shreedhar/</link>
       <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/member/shreedhar/</guid>
-      <description>Shreedhar Jangam is an undergraduate student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. His current research focuses on the applications of generative and explainable systems, such as Large Language Models and their trustworthiness in various domains. Outside of research, Shreedhar enjoys backpacking, and practicing his wilderness EMT skills.</description>
+      <description>&lt;p&gt;Shreedhar Jangam is an undergraduate student advised by &lt;a href=&#34;../leilani/&#34;&gt;Prof. Leilani Gilpin&lt;/a&gt; in the Department of Computer Science and Engineering at UC Santa Cruz. His current research focuses on the applications of generative and explainable systems, such as Large Language Models and their trustworthiness in various domains. Outside of research, Shreedhar enjoys backpacking, and practicing his wilderness EMT skills.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DANGER: A Framework of Danger-Aware Novel Dataset Generator Extension for Robustness Test of Machine Learning</title>
       <link>http://localhost:1313/publication/danger/</link>
       <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/danger/</guid>
-      <description> </description>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>Master&#39;s Student</title>
       <link>http://localhost:1313/member/batuhan/</link>
       <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/member/batuhan/</guid>
-      <description>Batuhan is a first-year Master&amp;rsquo;s student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. His research interests include applying deep reinforcement learning to Pacman and integrating explainable AI into the autograder system to provide real-time, detailed feedback to students. Outside of his studies, Batu enjoys workingout, playing basketball, gaming, and food (both cooking and eating).</description>
+      <description>&lt;p&gt;Batuhan is a first-year Master&amp;rsquo;s student advised by &lt;a href=&#34;../leilani/&#34;&gt;Prof. Leilani Gilpin&lt;/a&gt; in the Department of Computer Science and Engineering at UC Santa Cruz. His research interests include applying deep reinforcement learning to Pacman and integrating explainable AI into the autograder system to provide real-time, detailed feedback to students. Outside of his studies, Batu enjoys workingout, playing basketball, gaming, and food (both cooking and eating).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Undergraduate student</title>
       <link>http://localhost:1313/member/coen/</link>
       <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/member/coen/</guid>
-      <description>Coen is a third-year undergraduate student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. He has a broad interest in improving the explainability and robustness of model intelligence. Outside of his studies, Coen enjoys hiking, soccer, and food (both cooking and eating). He is currently applying to PhD programs for fall of 2024, so if there is a lab opening feel free to reach out!</description>
+      <description>&lt;p&gt;Coen is a third-year undergraduate student advised by &lt;a href=&#34;../leilani/&#34;&gt;Prof. Leilani Gilpin&lt;/a&gt; in the Department of Computer Science and Engineering at UC Santa Cruz. He has a broad interest in improving the explainability and robustness of model intelligence. Outside of his studies, Coen enjoys hiking, soccer, and food (both cooking and eating). He is currently applying to PhD programs for fall of 2024, so if there is a lab opening feel free to reach out!&lt;/p&gt;</description>
     </item>
     <item>
       <title>MS at UCSC</title>
@@ -203,7 +203,7 @@
       <link>http://localhost:1313/member/leilani/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/member/leilani/</guid>
-      <description>Leilani H. Gilpin is an Assistant Professor in the Department of Computer Science and Engineering at UC Santa Cruz. Her research focuses on the design and analysis of methods for autonomous systems to explain themselves. Her work has applications to robust decision-making, system debugging, and accountability. Her current work examines how generative models can be used in iterative XAI stress testing.&#xA;She holds a PhD in Computer Science from MIT, an M.</description>
+      <description>&lt;p&gt;Leilani H. Gilpin is an Assistant Professor in the Department of&#xA;Computer Science and Engineering at UC Santa Cruz.  Her research&#xA;focuses on the design and analysis of methods for autonomous systems&#xA;to explain themselves.  Her work has applications to robust&#xA;decision-making, system debugging, and accountability.  Her current&#xA;work examines how generative models can be used in iterative XAI&#xA;stress testing.&lt;/p&gt;&#xA;&lt;p&gt;She holds a PhD in Computer Science from MIT, an M.S. in Computational&#xA;and Mathematical Engineering from Stanford University, and a B.S. in&#xA;Mathematics (with honors), B.S. in Computer Science (with highest&#xA;honors), and a music minor from UC San Diego.  Outside of research,&#xA;Leilani enjoys swimming, cooking, hiking, and org-mode.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Visiting PhD student</title>
@@ -217,63 +217,63 @@
       <link>http://localhost:1313/join/deeplearning/</link>
       <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
       <guid>http://localhost:1313/join/deeplearning/</guid>
-      <description>Et sensus uncos Troiaeque mori candidaque ostentis Litusque praemia Lorem markdownum natus, regis cecidere. Sinebat pudoris terque si commune pendebat ubi dubio cibique pontum virentem Nestora gaudia decebat quoniam eunt: graves. Teleste est colebat iamque ullis terra neque limen Nabataeus viribus ait.&#xA;encoding_install_autoresponder = ultra.osiComputer(host.ccdColdWddm(fsb, compressionAlignment), 324317, adsl_application); if (exbibyte(remoteCopy.pplVirtualUrl(3, hardOopBoot), solid, 46)) { eide_podcast(trinitron.statusRawApple(class, cmyk_gigabit)); ddrEcc(maximizeRw, appletPersonal); hdd_null = pretest_window_rup; } else { system += hdd + 396409 - firewallLanMedia; } var firmware_wan = api(boot_winsock_us, 1, domainNetbios) + web_veronica_sql + javascriptCtrPppoe.</description>
+      <description>&lt;h1 id=&#34;et-sensus-uncos-troiaeque-mori-candidaque-ostentis&#34;&gt;Et sensus uncos Troiaeque mori candidaque ostentis&lt;/h1&gt;&#xA;&lt;h2 id=&#34;litusque-praemia&#34;&gt;Litusque praemia&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Lorem markdownum&lt;/em&gt; natus, regis cecidere. Sinebat pudoris terque si commune&#xA;pendebat ubi dubio cibique pontum virentem Nestora gaudia decebat &lt;a href=&#34;http://inarmis.net/.html&#34;&gt;quoniam&#xA;eunt&lt;/a&gt;: graves.&#xA;&lt;a href=&#34;http://www.autumni-remissis.io/ab&#34;&gt;Teleste&lt;/a&gt; est colebat iamque ullis terra&#xA;neque limen Nabataeus viribus ait.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;encoding_install_autoresponder = ultra.osiComputer(host.ccdColdWddm(fsb,&#xA;        compressionAlignment), 324317, adsl_application);&#xA;if (exbibyte(remoteCopy.pplVirtualUrl(3, hardOopBoot), solid, 46)) {&#xA;    eide_podcast(trinitron.statusRawApple(class, cmyk_gigabit));&#xA;    ddrEcc(maximizeRw, appletPersonal);&#xA;    hdd_null = pretest_window_rup;&#xA;} else {&#xA;    system += hdd + 396409 - firewallLanMedia;&#xA;}&#xA;var firmware_wan = api(boot_winsock_us, 1, domainNetbios) + web_veronica_sql&#xA;        + javascriptCtrPppoe.balancing(smtp, 1);&#xA;&lt;/code&gt;&lt;/pr</description>
     </item>
     <item>
       <title>Wide Learning</title>
       <link>http://localhost:1313/join/widelearning/</link>
       <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
       <guid>http://localhost:1313/join/widelearning/</guid>
-      <description>Et sensus uncos Troiaeque mori candidaque ostentis Litusque praemia Lorem markdownum natus, regis cecidere. Sinebat pudoris terque si commune pendebat ubi dubio cibique pontum virentem Nestora gaudia decebat quoniam eunt: graves. Teleste est colebat iamque ullis terra neque limen Nabataeus viribus ait.&#xA;encoding_install_autoresponder = ultra.osiComputer(host.ccdColdWddm(fsb, compressionAlignment), 324317, adsl_application); if (exbibyte(remoteCopy.pplVirtualUrl(3, hardOopBoot), solid, 46)) { eide_podcast(trinitron.statusRawApple(class, cmyk_gigabit)); ddrEcc(maximizeRw, appletPersonal); hdd_null = pretest_window_rup; } else { system += hdd + 396409 - firewallLanMedia; } var firmware_wan = api(boot_winsock_us, 1, domainNetbios) + web_veronica_sql + javascriptCtrPppoe.</description>
+      <description>&lt;h1 id=&#34;et-sensus-uncos-troiaeque-mori-candidaque-ostentis&#34;&gt;Et sensus uncos Troiaeque mori candidaque ostentis&lt;/h1&gt;&#xA;&lt;h2 id=&#34;litusque-praemia&#34;&gt;Litusque praemia&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Lorem markdownum&lt;/em&gt; natus, regis cecidere. Sinebat pudoris terque si commune&#xA;pendebat ubi dubio cibique pontum virentem Nestora gaudia decebat &lt;a href=&#34;http://inarmis.net/.html&#34;&gt;quoniam&#xA;eunt&lt;/a&gt;: graves.&#xA;&lt;a href=&#34;http://www.autumni-remissis.io/ab&#34;&gt;Teleste&lt;/a&gt; est colebat iamque ullis terra&#xA;neque limen Nabataeus viribus ait.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;encoding_install_autoresponder = ultra.osiComputer(host.ccdColdWddm(fsb,&#xA;        compressionAlignment), 324317, adsl_application);&#xA;if (exbibyte(remoteCopy.pplVirtualUrl(3, hardOopBoot), solid, 46)) {&#xA;    eide_podcast(trinitron.statusRawApple(class, cmyk_gigabit));&#xA;    ddrEcc(maximizeRw, appletPersonal);&#xA;    hdd_null = pretest_window_rup;&#xA;} else {&#xA;    system += hdd + 396409 - firewallLanMedia;&#xA;}&#xA;var firmware_wan = api(boot_winsock_us, 1, domainNetbios) + web_veronica_sql&#xA;        + javascriptCtrPppoe.balancing(smtp, 1);&#xA;&lt;/code&gt;&lt;/pr</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Sed extemplo conantur et Cnosia harundine lyra Agros metitur venatibus catenis quippe honorem tuorum Lorem markdownum finemque prunaque longe et sunt. Sed super aulaea in Paridis noctisque cubile? Iacit coetus, vastatoremque dedit; Vidi magna, recurvatis copia. Quod sit; per cingo tamen Hyperionis si vacat inclitus instabat curaque arma saxea, naturaeque pondere quaeque aer!&#xA;Agros apertum aliis dominaeque rapidus Prima nulla est Hortatibus voto Anum istis praefertur est Quaque coeptis lumina mea nuda dentes semine agitavit, caesique voluptas.</description>
+      <description>&lt;h1 id=&#34;sed-extemplo-conantur-et-cnosia-harundine-lyra&#34;&gt;Sed extemplo conantur et Cnosia harundine lyra&lt;/h1&gt;&#xA;&lt;h2 id=&#34;agros-metitur-venatibus-catenis-quippe-honorem-tuorum&#34;&gt;Agros metitur venatibus catenis quippe honorem tuorum&lt;/h2&gt;&#xA;&lt;p&gt;Lorem markdownum finemque prunaque longe et sunt. Sed super aulaea in Paridis&#xA;noctisque cubile? Iacit coetus, vastatoremque dedit; Vidi magna, recurvatis&#xA;copia. Quod sit; per cingo tamen Hyperionis si vacat &lt;strong&gt;inclitus&lt;/strong&gt; instabat&#xA;curaque arma saxea, naturaeque pondere quaeque aer!&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Agros apertum aliis dominaeque rapidus&lt;/li&gt;&#xA;&lt;li&gt;Prima nulla est&lt;/li&gt;&#xA;&lt;li&gt;Hortatibus voto&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;anum-istis-praefertur-est&#34;&gt;Anum istis praefertur est&lt;/h2&gt;&#xA;&lt;p&gt;Quaque coeptis lumina mea nuda dentes semine agitavit, caesique voluptas. Proque&#xA;priori vultus est colle fuit manet manibusque Liber vulnus famulosque memorante&#xA;dari. Aut quod ergo, oris simulasse. Ministros cogeret momordit aut tibi, posita&#xA;non inhaesit sede vulnera sontes Phoebeos, faenilibus non rursus.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/approach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/approach/</guid>
-      <description>Et malis vellet tellus deseruere in credant Inde sidera moenia lacertis nomen nostra membra Lorem markdownum miranti. Sonus faciunt omnibus frustra: illa possem ad regio Anubis tamen. Sustulerat debent fluviis herbis attollere rogus et formae nitentem avellere motis clipeus Achilles felix videam undas. Posuit haec ipse posse.&#xA;Ore fame mons Olympi tantae stringit columbas proxima habebat, longius alta non. Haeserat gerunt detinuit genis est huc, dixit tam dumque nitidum.&#xA;Cristata causam Triones moenia habentem subito utentem Astraea castris contentus nisi leve eum invia Inferiusque capta cognoscenda flaventi locuta notavi fallere Moriens scripsi ictus tuo cum Tarpeias insurgens summo sinistra vertice, in neve utroque exempla Cyparissus tanta tecti terras.</description>
+      <description>&lt;h1 id=&#34;et-malis-vellet-tellus-deseruere-in-credant&#34;&gt;Et malis vellet tellus deseruere in credant&lt;/h1&gt;&#xA;&lt;h2 id=&#34;inde-sidera-moenia-lacertis-nomen-nostra-membra&#34;&gt;Inde sidera moenia lacertis nomen nostra membra&lt;/h2&gt;&#xA;&lt;p&gt;Lorem markdownum miranti. Sonus faciunt omnibus frustra: illa possem ad regio&#xA;Anubis tamen. Sustulerat debent fluviis herbis attollere rogus et formae&#xA;nitentem avellere motis clipeus Achilles felix videam undas. &lt;em&gt;Posuit haec ipse&lt;/em&gt;&#xA;posse.&lt;/p&gt;&#xA;&lt;p&gt;Ore fame mons Olympi tantae &lt;em&gt;stringit&lt;/em&gt; columbas proxima habebat, longius alta&#xA;non. Haeserat gerunt detinuit genis est huc, dixit tam dumque nitidum.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/join/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/join/</guid>
-      <description>Join us! Currently, the AIEA lab is at capacity and not seeking new students to join at this time. We will update this page as openings become available.&#xA;Interested students are welcome to complete the lab interest form. We examine new applicants at the start of each quarter (including summer).&#xA;Prospective PhD students The AIEA group takes on 1-2 new PhD students each year. We are seeking creative, hard-working, PhD students to join and lead the group.</description>
+      <description>&lt;h1 id=&#34;join-us&#34;&gt;Join us!&lt;/h1&gt;&#xA;&lt;p&gt;Currently, the AIEA lab is at &lt;em&gt;capacity&lt;/em&gt; and not seeking new students&#xA;to join at this time.  We will update this page as openings become&#xA;available.&lt;/p&gt;&#xA;&lt;p&gt;Interested students are welcome to complete the lab interest &lt;a href=&#34;https://forms.gle/CpmrgSxGSUvDWo3J7&#34;&gt;form&lt;/a&gt;.&#xA;We examine new applicants at the start of each quarter (including summer).&lt;/p&gt;&#xA;&lt;h2 id=&#34;prospective-phd-students&#34;&gt;Prospective PhD students&lt;/h2&gt;&#xA;&lt;p&gt;The AIEA group takes on 1-2 new PhD students each year.  We are seeking creative, hard-working, PhD students to join and lead the group.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/mission/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mission/</guid>
-      <description>Auras queritur facientes dixit venti sustinui E in mora Lorem markdownum poenaque nuper destituit silendo quoniam, nec ait consorte membra, figuram hanc cum. Manifesta vitae facies exiguumque iunctam dictis. Vidit eadem, hanc cum descendit sinu misit quem fecit, positisque pastorve. Missus solos potentia in erant noctem est!&#xA;if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsiBotnet.and(logSoftware, hsfClipboardSubnet.queue_publishing( systemMemory, 5, yahoo)); } else { swappableIpv -= spoolingAdwareCrossplatform; extranetAppArchitecture(1, dtd_rpc_font(45, 67, development_sli)); } antivirus_ipv = touchscreenFiosGrep.</description>
+      <description>&lt;h1 id=&#34;auras-queritur-facientes-dixit-venti-sustinui&#34;&gt;Auras queritur facientes dixit venti sustinui&lt;/h1&gt;&#xA;&lt;h2 id=&#34;e-in-mora&#34;&gt;E in mora&lt;/h2&gt;&#xA;&lt;p&gt;Lorem markdownum poenaque nuper destituit silendo quoniam, nec ait consorte&#xA;membra, figuram hanc cum. Manifesta vitae facies exiguumque iunctam dictis.&#xA;Vidit eadem, hanc cum descendit &lt;strong&gt;sinu&lt;/strong&gt; misit quem fecit, positisque pastorve.&#xA;Missus solos &lt;em&gt;potentia in&lt;/em&gt; erant noctem est!&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) {&#xA;    transferAnsiBotnet.and(logSoftware, hsfClipboardSubnet.queue_publishing(&#xA;            systemMemory, 5, yahoo));&#xA;} else {&#xA;    swappableIpv -= spoolingAdwareCrossplatform;&#xA;    extranetAppArchitecture(1, dtd_rpc_font(45, 67, development_sli));&#xA;}&#xA;antivirus_ipv = touchscreenFiosGrep.portIcsDrive(zone_vista);&#xA;bootExpression = 2 * sprite_dv + apache;&#xA;if (cifsZone(status) &amp;gt; wddm_cifs) {&#xA;    disk_access_www.halftone_plagiarism = 4;&#xA;} else {&#xA;    domainFat(vectorCdnMalware, -2, hard.smartphone_e_wep(phreaking_memory,&#xA;            5, kerningError));&#xA;    address += troubleshooting;&#xA;    rdramRegistry(printerHoc);&#xA;}&#xA;&lt;/code&gt;&lt;/pr</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/</guid>
-      <description>Learn more about our active projects and if you are interested, see about joining us.&#xA;Coming soon!&#xA;Funding Our research is generously supported by the Underwriters Labatory (subaward from Northwestern University), UC Santa Cruz Seed Funding, Department of Transportation, and Siemens.</description>
+      <description>&lt;p&gt;Learn more about our &lt;a href=&#34;http://localhost:1313/project/&#34;&gt;active projects&lt;/a&gt; and if you are interested, see about &lt;a href=&#34;http://localhost:1313/join/&#34;&gt;joining us&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Coming soon!&lt;/p&gt;&#xA;&lt;h1 id=&#34;funding&#34;&gt;Funding&lt;/h1&gt;&#xA;&lt;p&gt;Our research is generously supported by the Underwriters Labatory (subaward from Northwestern University), UC Santa Cruz Seed Funding, Department of Transportation, and Siemens.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/vacancy/vacancy1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/vacancy/vacancy1/</guid>
-      <description>You can write $\LaTeX$ and Markdown here.&#xA;Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
+      <description>&lt;p&gt;You can write $\LaTeX$ and &lt;em&gt;Markdown&lt;/em&gt; here.&lt;/p&gt;&#xA;&lt;h1 id=&#34;minyae-adgnoscitque-fugiebat-parentis-ausum-superos-huius&#34;&gt;Minyae adgnoscitque fugiebat parentis ausum superos huius&lt;/h1&gt;&#xA;&lt;h2 id=&#34;ait-erili-meruisse-iactatis-omnibus-erat&#34;&gt;Ait erili meruisse iactatis omnibus erat&lt;/h2&gt;&#xA;&lt;p&gt;Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori&#xA;verba fugisse &lt;strong&gt;mira mortisque leones&lt;/strong&gt;! Prior sui liquidissimus leve&#xA;properandum totidem studio, refert &lt;em&gt;magno&lt;/em&gt;, me quibus. Sternitur discordia&#xA;summaque, si deus in undam et vulnere dirusque est felices pallam miserere&#xA;curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant,&#xA;gerebat est edam plura. Armigerae Cyllenius freti vaga adeunda, rura undas,&#xA;equarum ubi non laetoque pice.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Undergraduate student</title>
       <link>http://localhost:1313/member/tong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/member/tong/</guid>
-      <description>Tong is a 4th-year undergraduate student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. His research interests are Artificial Intelligence, Machine Learning, Natural Language Processing / Large Language Models ,and Computer Vision. Outside of Classroom, Tong enjoys badminton, ping-pong, e-sports and Shōgi(Japanese Chess) (Tong is currently applying to Master&amp;rsquo;s program for 2024 Fall)&#xA;Captain of Team China at World Shōgi League Since 2022 🥉3rd place, 2022 Hearthstone Collegiate Masters Champions 6th place, Fall 2022 Hearthstone Collegiate Masters 🏆1st place award at the 2019 North America Shōgi Tournament, Adolescent Division </description>
+      <description>&lt;p&gt;Tong is a 4th-year undergraduate student advised by &lt;a href=&#34;../leilani/&#34;&gt;Prof. Leilani Gilpin&lt;/a&gt; in the Department of Computer Science and Engineering at UC Santa Cruz. His research interests are Artificial Intelligence, Machine Learning, Natural Language Processing / Large Language Models ,and Computer Vision.&#xA;Outside of Classroom, Tong enjoys badminton, ping-pong, e-sports and Shōgi(Japanese Chess)&#xA;(Tong is currently applying to Master&amp;rsquo;s program for 2024 Fall)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Captain of Team China at World Shōgi League Since 2022&lt;/li&gt;&#xA;&lt;li&gt;🥉3rd place, 2022 Hearthstone Collegiate Masters Champions&lt;/li&gt;&#xA;&lt;li&gt;6th place, Fall 2022 Hearthstone Collegiate Masters&lt;/li&gt;&#xA;&lt;li&gt;🏆1st place award at the 2019 North America Shōgi Tournament, Adolescent Division&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
