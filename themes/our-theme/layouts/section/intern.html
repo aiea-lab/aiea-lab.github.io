@@ -1,0 +1,16 @@
+{{ $intern_len := len (where .Site.RegularPages "Section" "intern" ) }}
+{{ if gt $intern_len 0 }}
+
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+<div class="container">
+  <h1>Interns</h1>
+  {{ range where .Site.RegularPages "Section" "intern" }}
+      {{ partial "intern_li" . }}
+  {{ end }}
+</div>
+
+{{ partial "footer.html" . }}
+
+{{ end }}
