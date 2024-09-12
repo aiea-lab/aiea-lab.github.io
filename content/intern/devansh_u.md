@@ -1,13 +1,13 @@
 +++
 bio = "" 
 date = "2024-09-11" 
-id = "yuhaendan" 
+id = "devansh_u" 
 interests = [] 
-name = "Yuhaendan Bhaskaran" 
-portrait = "/portraits/yuhaendan.jpg" 
+name = "Devansh Gulati" 
+portrait = "/portraits/devansh_u.jpg" 
 short_bio = "" 
 sort_position = 10
- short_name = "yuhaendan" 
+ short_name = "devansh_u" 
 
 [[social]] 
     icon = "envelope" 

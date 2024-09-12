@@ -1,17 +1,18 @@
 +++
 bio = "" 
-date = "2024-09-04" 
-id = "ayush" 
+date = "2024-09-11" 
+id = "lucas_h" 
 interests = [] 
-name = "Ayush Bheemaiah" 
-portrait = "/portraits/ayush.jpg" 
+name = "Lucas Choi" 
+portrait = "/portraits/lucas_h.jpg" 
 short_bio = "" 
-short_name = "ayush" 
+sort_position = 10
+ short_name = "lucas_h" 
 
 [[social]] 
     icon = "envelope" 
     icon_pack = "fa" 
-    link = "mailto:ayushbheemaiah@gmail.com" 
+    link = "mailto: "
 
  [[social]] 
     icon = "twitter" 
@@ -26,7 +27,7 @@ short_name = "ayush"
 [[social]] 
     icon = "github" 
     icon_pack = "fa" 
-    link = "https://github.com/AyushB08" 
+    link = "https://github.com/lcsc0" 
 [[organizations]] 
      name = "UC Santa Cruz" 
       role = "High School Intern" 

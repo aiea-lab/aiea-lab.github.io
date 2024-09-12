@@ -3,15 +3,28 @@
 
 <div class="container">
   <h1>Team</h1>
-    {{ range (sort .Data.Pages ".Params.date") }}
+    {{ range (sort .Data.Pages ".Params.sort_position") }}
             {{partial "member_li" .}}
     {{ end }}
+</div>
+
+{{ $auditor_len := len (where .Site.RegularPages "Section" "auditor" ) }}
+
+<div class="container">
+  <h1>Auditors</h1>
+  <p>Auditors are incoming AIEA lab students that work in the lab for
+  credit for a quarter (10 weeks).</p>
+  {{ range where .Site.RegularPages "Section" "auditor" }}
+        {{ partial "auditor_li" . }}
+  {{ end }}
 </div>
 
 {{ $intern_len := len (where .Site.RegularPages "Section" "intern" ) }}
 
 <div class="container">
   <h1>Interns</h1>
+  <p>Interns are high school students that work in the lab for at least
+  10 weeks.</p>
   {{ range where .Site.RegularPages "Section" "intern" }}
         {{ partial "intern_li" . }}
   {{ end }}

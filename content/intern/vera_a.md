@@ -1,18 +1,18 @@
 +++
 bio = "" 
 date = "2024-09-11" 
-id = "jyotiraditya" 
+id = "vera_a" 
 interests = [] 
-name = "Jyotiraditya Suryawanshi" 
-portrait = "/portraits/jyotiraditya.jpg" 
+name = "Vera Faith Del Rio" 
+portrait = "/portraits/vera_a.jpg" 
 short_bio = "" 
 sort_position = 10
- short_name = "jyotiraditya" 
+ short_name = "vera_a" 
 
 [[social]] 
     icon = "envelope" 
     icon_pack = "fa" 
-    link = "mailto: jyotiradityasuryawanshi4@gmail.com"
+    link = "mailto: "
 
  [[social]] 
     icon = "twitter" 
@@ -30,5 +30,5 @@ sort_position = 10
     link = "https://github.com/" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Undergrad Student" 
+      role = "High School Intern" 
 +++

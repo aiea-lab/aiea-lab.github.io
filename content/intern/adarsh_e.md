@@ -1,17 +1,18 @@
 +++
 bio = "" 
-date = "2024-09-05" 
-id = "ashmit" 
+date = "2024-09-11" 
+id = "adarsh_e" 
 interests = [] 
-name = "Ashmit Sethi" 
-portrait = "/portraits/ashmit.jpg" 
+name = "Adarsh Menon" 
+portrait = "/portraits/adarsh_e.jpg" 
 short_bio = "" 
-short_name = "ashmit" 
+sort_position = 10
+ short_name = "adarsh_e" 
 
 [[social]] 
     icon = "envelope" 
     icon_pack = "fa" 
-    link = "mailto:ashmitsethi07@gmail.com" 
+    link = "mailto: "
 
  [[social]] 
     icon = "twitter" 
@@ -26,7 +27,7 @@ short_name = "ashmit"
 [[social]] 
     icon = "github" 
     icon_pack = "fa" 
-    link = "https://github.com/" 
+    link = "https://github.com/adimohanmenon" 
 [[organizations]] 
      name = "UC Santa Cruz" 
       role = "High School Intern" 

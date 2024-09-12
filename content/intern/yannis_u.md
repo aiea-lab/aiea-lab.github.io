@@ -1,18 +1,18 @@
 +++
 bio = "" 
 date = "2024-09-11" 
-id = "bhargav" 
+id = "yannis_u" 
 interests = [] 
-name = "Bhargav Eranki" 
-portrait = "/portraits/bhargav.jpg" 
+name = "Yannis Sudek" 
+portrait = "/portraits/yannis_u.jpg" 
 short_bio = "" 
 sort_position = 10
- short_name = "bhargav" 
+ short_name = "yannis_u" 
 
 [[social]] 
     icon = "envelope" 
     icon_pack = "fa" 
-    link = "mailto: bhargav.eranki@gmail.com"
+    link = "mailto: ysudek@students.kirby.org"
 
  [[social]] 
     icon = "twitter" 
@@ -27,7 +27,7 @@ sort_position = 10
 [[social]] 
     icon = "github" 
     icon_pack = "fa" 
-    link = "https://github.com/beranki" 
+    link = "https://github.com/" 
 [[organizations]] 
      name = "UC Santa Cruz" 
       role = "High School Intern" 

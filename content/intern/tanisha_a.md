@@ -1,13 +1,13 @@
 +++
 bio = "" 
 date = "2024-09-11" 
-id = "abhay" 
+id = "tanisha_a" 
 interests = [] 
-name = "Abhay Polavajram" 
-portrait = "/portraits/abhay.jpg" 
+name = "Tanisha Patil" 
+portrait = "/portraits/tanisha_a.jpg" 
 short_bio = "" 
 sort_position = 10
- short_name = "abhay" 
+ short_name = "tanisha_a" 
 
 [[social]] 
     icon = "envelope" 
@@ -27,7 +27,7 @@ sort_position = 10
 [[social]] 
     icon = "github" 
     icon_pack = "fa" 
-    link = "https://github.com/" 
+    link = "https://github.com/tanishapatil1234" 
 [[organizations]] 
      name = "UC Santa Cruz" 
       role = "High School Intern" 

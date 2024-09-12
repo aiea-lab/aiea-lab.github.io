@@ -1,18 +1,18 @@
 +++
 bio = "" 
 date = "2024-09-11" 
-id = "shlok" 
+id = "jaivin_h" 
 interests = [] 
-name = "Shlok Madhekar" 
-portrait = "/portraits/shlok.jpg" 
+name = "Jaivin Phabiani" 
+portrait = "/portraits/jaivin_h.jpg" 
 short_bio = "" 
 sort_position = 10
- short_name = "shlok" 
+ short_name = "jaivin_h" 
 
 [[social]] 
     icon = "envelope" 
     icon_pack = "fa" 
-    link = "mailto: shlokmadhekar88@gmail.com"
+    link = "mailto: "
 
  [[social]] 
     icon = "twitter" 
@@ -27,7 +27,7 @@ sort_position = 10
 [[social]] 
     icon = "github" 
     icon_pack = "fa" 
-    link = "https://github.com/c9dn" 
+    link = "https://github.com/" 
 [[organizations]] 
      name = "UC Santa Cruz" 
       role = "High School Intern" 
