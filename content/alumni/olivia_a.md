@@ -1,18 +1,18 @@
 +++
 bio = "" 
-date = "2024-09-11" 
-id = "clayton" 
+date = "2024-09-13" 
+id = "olivia_a" 
 interests = [] 
-name = "Clayton Lau" 
-portrait = "/portraits/clayton.jpg" 
+name = "Olivia Anastassov" 
+portrait = "/portraits/olivia_a.jpg" 
 short_bio = "" 
 sort_position = 10
- short_name = "clayton" 
+ short_name = "olivia_a" 
 
 [[social]] 
     icon = "envelope" 
     icon_pack = "fa" 
-    link = "mailto: clalau@ucsc.edu"
+    link = "mailto: "
 
  [[social]] 
     icon = "twitter" 
@@ -27,8 +27,8 @@ sort_position = 10
 [[social]] 
     icon = "github" 
     icon_pack = "fa" 
-    link = "https://github.com/nottonofclay" 
+    link = "https://github.com/" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Undergrad Student" 
+      role = "Masters Student" 
 +++

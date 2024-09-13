@@ -1,18 +1,18 @@
 +++
 bio = "" 
 date = "2024-09-13" 
-id = "aaja_o" 
-interests = ['XAI', 'AI and Ethics'] 
-name = "Aaja Ouellette" 
-portrait = "/portraits/aaja_o.jpg" 
+id = "clayton" 
+interests = [] 
+name = "Clayton" 
+portrait = "/portraits/clayton.jpg" 
 short_bio = "" 
 sort_position = 10
- short_name = "aaja_o" 
+ short_name = "clayton" 
 
 [[social]] 
     icon = "envelope" 
     icon_pack = "fa" 
-    link = "mailto: aaouelle@ucsc.edu"
+    link = "mailto: clalau@ucsc.edu"
 
  [[social]] 
     icon = "twitter" 
@@ -27,8 +27,8 @@ sort_position = 10
 [[social]] 
     icon = "github" 
     icon_pack = "fa" 
-    link = "https://github.com/aoue" 
+    link = "https://github.com/nottonofclay" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Masters Student" 
+      role = "Undergrad Student" 
 +++

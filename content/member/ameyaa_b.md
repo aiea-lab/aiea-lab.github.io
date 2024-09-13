@@ -1,6 +1,6 @@
 +++
 bio = "" 
-date = "2024-09-11" 
+date = "2024-09-13" 
 id = "ameyaa_b" 
 interests = [] 
 name = "Ameyaa Biwalkar" 
@@ -27,7 +27,7 @@ sort_position = 10
 [[social]] 
     icon = "github" 
     icon_pack = "fa" 
-    link = "https://github.com/" 
+    link = "https://github.com/https://ameyaabiwalkar.github.io" 
 [[organizations]] 
      name = "UC Santa Cruz" 
       role = "Masters Student" 

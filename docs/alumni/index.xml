@@ -13,6 +13,33 @@
     
     <item>
       <title></title>
+      <link>https://aiea-lab.github.io/alumni/abby/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/alumni/abby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/alumni/andrew_s/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/alumni/andrew_s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/alumni/brendon_c/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/alumni/brendon_c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://aiea-lab.github.io/alumni/jaivin_p/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
       
@@ -22,10 +49,37 @@
     
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/abby/</link>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <link>https://aiea-lab.github.io/alumni/max_m/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://aiea-lab.github.io/alumni/abby/</guid>
+      <guid>https://aiea-lab.github.io/alumni/max_m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/alumni/nistha/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/alumni/nistha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/alumni/olivia_a/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/alumni/olivia_a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/alumni/rohan_g/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/alumni/rohan_g/</guid>
       <description></description>
     </item>
     
@@ -256,15 +310,6 @@
     
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/nistha/</link>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/nistha/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://aiea-lab.github.io/alumni/oliver_l/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       
@@ -314,15 +359,6 @@
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       
       <guid>https://aiea-lab.github.io/alumni/roger_l/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://aiea-lab.github.io/alumni/rohan_g/</link>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/rohan_g/</guid>
       <description></description>
     </item>
     
@@ -526,29 +562,11 @@
     
     <item>
       <title>Undergraduate</title>
-      <link>https://aiea-lab.github.io/alumni/andrew_s/</link>
-      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/andrew_s/</guid>
-      <description>Andrew Susanto is a 5th year Undergraduate student studying Computer Science. His introduction into AI and Machine Learning was CSE 140, a Capstone course on Artificial Intelligence instructed by Prof. Leilani Gilpin, the head of AIEA Lab. Since, Andrew has grown a deep interest in the design, concepts, and utilization of AI, particularly within the contexts of XAI, Autonomous Vehicles and Natural Language Processing. Andrew has recently been working under the direction of Ph.</description>
-    </item>
-    
-    <item>
-      <title>Undergraduate</title>
       <link>https://aiea-lab.github.io/alumni/nick_w/</link>
       <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://aiea-lab.github.io/alumni/nick_w/</guid>
       <description>Nick Wang is a 3rd year undergraduate student studying Computer Science at UC Santa Cruz. He is deeply curious about how machine learning works (hence XAI) and has recently become motivated to improve his understanding of AVs which he will be able to do while working on the driving rules project and the drive sim project.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://aiea-lab.github.io/alumni/max_m/</link>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/max_m/</guid>
-      <description>Max Meyers is an undergraduate student, class of 2024, studying Computer Engineering with a concentration in Robotics. His research focuses primarily on XAI, as well as combining Language Model AI with systems and databases. Outside of research, Max enjoys creative writing and fencing.</description>
     </item>
     
     <item>
@@ -558,15 +576,6 @@
       
       <guid>https://aiea-lab.github.io/alumni/john/</guid>
       <description>John Yu is a Master&amp;rsquo;s Student in the Department of Computer Science and Engineering at UC Santa Cruz. His areas of technical interest are autonomous driving and embedded systems. In his spare time, John enjoys going to the gym, learning musical instruments, and cooking.</description>
-    </item>
-    
-    <item>
-      <title>Recent Graduate</title>
-      <link>https://aiea-lab.github.io/alumni/brendon_c/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/brendon_c/</guid>
-      <description>Brendon is a recent graduate from UC Santa Cruz. He Majors in Cognitive Science with Specialization in Artificial Intelligence and Human Computer Interaction with a Minor in Computer Science. He is interested in the field of AI and is excited to learn more about new ways to utilize AI and more about how to implement them in general. He is currently learning more each day and looking for work.</description>
     </item>
     
     <item>

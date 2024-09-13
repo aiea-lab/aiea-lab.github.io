@@ -1,8 +1,8 @@
 +++
 bio = "" 
-date = "2024-09-11" 
+date = "2024-09-13" 
 id = "ananya_d" 
-interests = [] 
+interests = ['XAI', 'Autonomous Vehicles'] 
 name = "Ananya Das" 
 portrait = "/portraits/ananya_d.jpg" 
 short_bio = "" 
