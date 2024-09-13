@@ -30,12 +30,5 @@
       <guid>http://localhost:1313/alumni/shengjie/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Visiting PhD student</title>
-      <link>http://localhost:1313/alumni/biagio/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alumni/biagio/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
