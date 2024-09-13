@@ -2,33 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on AIEA Lab</title>
-    <link>http://localhost:1313/project/</link>
+    <link>https://aiea-lab.github.io/project/</link>
     <description>Recent content in Projects on AIEA Lab</description>
-    <generator>Hugo</generator>
-    <language>en</language>
+    <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
     <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://aiea-lab.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Explainable Autograder</title>
-      <link>http://localhost:1313/project/explaingrade/</link>
+      <link>https://aiea-lab.github.io/project/explaingrade/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/explaingrade/</guid>
-      <description>&lt;p&gt;The goal of this project is to develop an autograder for computer sciences that can explain itself.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+      
+      <guid>https://aiea-lab.github.io/project/explaingrade/</guid>
+      <description>The goal of this project is to develop an autograder for computer sciences that can explain itself.</description>
     </item>
+    
     <item>
       <title>Explaining LLM Failures</title>
-      <link>http://localhost:1313/project/xaillm/</link>
+      <link>https://aiea-lab.github.io/project/xaillm/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/xaillm/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+      
+      <guid>https://aiea-lab.github.io/project/xaillm/</guid>
+      <description></description>
     </item>
+    
     <item>
       <title>Robust Autonomous Vehicles</title>
-      <link>http://localhost:1313/project/robustavs/</link>
+      <link>https://aiea-lab.github.io/project/robustavs/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/robustavs/</guid>
-      <description>&lt;p&gt;Autonomous Vehicles (AVs), including aerial, ground, and sea vehicles, are becoming an integral part of our lives. Currently, most AVs trust sensor data to make navigation and other control decisions. In addition, they trust that the control commands given to actuators are executed faithfully. While trusting sensor and actuator data with minimal validation has proven to be an effective trade-off in current market solutions, it is not a sustainable practice as AVs become more pervasive and computer attacks increase in sophistication.&lt;/p&gt;</description>
+      
+      <guid>https://aiea-lab.github.io/project/robustavs/</guid>
+      <description>Autonomous Vehicles (AVs), including aerial, ground, and sea vehicles, are becoming an integral part of our lives. Currently, most AVs trust sensor data to make navigation and other control decisions. In addition, they trust that the control commands given to actuators are executed faithfully. While trusting sensor and actuator data with minimal validation has proven to be an effective trade-off in current market solutions, it is not a sustainable practice as AVs become more pervasive and computer attacks increase in sophistication.</description>
     </item>
+    
   </channel>
 </rss>
