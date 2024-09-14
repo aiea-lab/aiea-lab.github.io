@@ -6,7 +6,7 @@
     <description>Recent content in Alumnis on AIEA Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    <lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aiea-lab.github.io/alumni/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,27 @@
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/alumni/abby/</link>
-      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
       
       <guid>https://aiea-lab.github.io/alumni/abby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/alumni/meenal/</link>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/alumni/meenal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/alumni/rohan_g/</link>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/alumni/rohan_g/</guid>
       <description></description>
     </item>
     
@@ -71,15 +89,6 @@
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
       
       <guid>https://aiea-lab.github.io/alumni/olivia_a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://aiea-lab.github.io/alumni/rohan_g/</link>
-      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/rohan_g/</guid>
       <description></description>
     </item>
     

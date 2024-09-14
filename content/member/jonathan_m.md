@@ -1,6 +1,6 @@
 +++
-bio = "" 
-date = "2024-09-11" 
+bio = "I love to do cool things! 😎" 
+date = "2024-09-14" 
 id = "jonathan_m" 
 interests = ['XAI', 'Autonomous Vehicles', 'Neuro-Symbolic AI'] 
 name = "Jonathan Morris" 
@@ -32,3 +32,4 @@ sort_position = 10
      name = "UC Santa Cruz" 
       role = "Undergrad Student" 
 +++
+I love to do cool things! 😎

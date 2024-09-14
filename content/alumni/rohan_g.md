@@ -1,10 +1,10 @@
 +++
 bio = "" 
-date = "2024-09-13" 
+date = "2024-09-14" 
 id = "rohan_g" 
 interests = [] 
 name = "Rohan Ghosalkar" 
-portrait = "/portraits/rohan_g.jpg" 
+portrait = "/portraits/default.jpg" 
 short_bio = "" 
 sort_position = 10
  short_name = "rohan_g" 
