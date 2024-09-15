@@ -1,6 +1,6 @@
 +++
 bio = "" 
-date = "2024-09-13" 
+date = "2024-09-15" 
 id = "ananya_d" 
 interests = ['XAI', 'Autonomous Vehicles'] 
 name = "Ananya Das" 
