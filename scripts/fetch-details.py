@@ -245,5 +245,5 @@ if __name__ == "__main__":
         update_markdown_file(MARKDOWN_FILE, project_details)
         # update_markdown_title(MARKDOWN_FILE, 'Project 1', project_details)
         
-        # update_all_markdown_files('content/project', project_details)
+        update_all_markdown_files('content/project', project_details)
     
