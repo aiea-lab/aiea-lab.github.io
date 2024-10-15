@@ -1,10 +1,10 @@
 +++
 bio = "" 
-date = "2024-09-11" 
+date = "2024-10-14" 
 id = "yuan_j" 
 interests = [] 
 name = "Yuan Jia" 
-portrait = "/portraits/yuan_j.jpg" 
+portrait = "/portraits/default.jpg" 
 short_bio = "" 
 sort_position = 10
  short_name = "yuan_j" 

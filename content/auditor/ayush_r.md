@@ -1,18 +1,18 @@
 +++
 bio = "" 
-date = "2024-09-13" 
-id = "nistha" 
+date = "2024-10-14" 
+id = "ayush_r" 
 interests = [] 
-name = "Nistha" 
-portrait = "/portraits/nistha.jpg" 
+name = "Ayush Ranjan" 
+portrait = "/portraits/default.jpg" 
 short_bio = "" 
 sort_position = 10
- short_name = "nistha" 
+ short_name = "ayush_r" 
 
 [[social]] 
     icon = "envelope" 
     icon_pack = "fa" 
-    link = "mailto: nkumar20@ucsc.edu"
+    link = "mailto: aranjan1@ucsc.edu"
 
  [[social]] 
     icon = "twitter" 
@@ -27,7 +27,7 @@ sort_position = 10
 [[social]] 
     icon = "github" 
     icon_pack = "fa" 
-    link = "https://github.com/nisthaKumar" 
+    link = "https://github.com/ayuranjan" 
 [[organizations]] 
      name = "UC Santa Cruz" 
       role = "Masters Student" 

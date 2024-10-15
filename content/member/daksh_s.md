@@ -1,6 +1,6 @@
 +++
 bio = "" 
-date = "2024-09-14" 
+date = "2024-10-14" 
 id = "daksh_s" 
 interests = [] 
 name = "Daksh Shah" 
@@ -30,5 +30,5 @@ sort_position = 10
     link = "https://github.com/" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "" 
+      role = "Undergrad Student" 
 +++

@@ -1,8 +1,8 @@
 +++
-bio = "" 
-date = "2024-09-15" 
+bio = "Here for the vibes" 
+date = "2024-10-14" 
 id = "ananya_d" 
-interests = ['XAI', 'Autonomous Vehicles'] 
+interests = ['Autonomous Vehicles', 'XAI', 'Safe AI', 'dffshdfvsdf'] 
 name = "Ananya Das" 
 portrait = "/portraits/ananya_d.jpg" 
 short_bio = "" 
@@ -12,7 +12,7 @@ sort_position = 10
 [[social]] 
     icon = "envelope" 
     icon_pack = "fa" 
-    link = "mailto: "
+    link = "mailto: adas13@ucsc.edu"
 
  [[social]] 
     icon = "twitter" 
@@ -32,3 +32,4 @@ sort_position = 10
      name = "UC Santa Cruz" 
       role = "Masters Student" 
 +++
+Here for the vibes
