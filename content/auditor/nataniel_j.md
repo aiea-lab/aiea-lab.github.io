@@ -1,6 +1,6 @@
 +++
 bio = "" 
-date = "2024-10-14" 
+date = "2024-10-15" 
 id = "nataniel_j" 
 interests = ['Autonomous Vehicles', 'XAI', 'Neuro-Symbolic AI'] 
 name = "Nataniel Jayaseelan" 

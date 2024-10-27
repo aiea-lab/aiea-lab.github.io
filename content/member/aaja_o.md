@@ -1,6 +1,6 @@
 +++
 bio = "" 
-date = "2024-09-13" 
+date = "2024-10-27" 
 id = "aaja_o" 
 interests = ['XAI', 'AI and Ethics'] 
 name = "Aaja Ouellette" 
