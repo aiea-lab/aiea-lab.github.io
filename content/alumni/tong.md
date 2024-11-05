@@ -1,6 +1,6 @@
 +++
 bio = ""
-date = "2021-03"
+date = "2021-03-01"
 id = "tong"
 interests = ["Artificial Intelligence", "Machine Learning", "Natural Language Processing", "Large Language Models", "Computer Vision"]
 name = "Tong Jia"
