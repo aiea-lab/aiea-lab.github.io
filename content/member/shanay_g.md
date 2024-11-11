@@ -1,18 +1,18 @@
 +++
 bio = "" 
 date = "2024-11-10" 
-id = "nataniel_j" 
-interests = ['Autonomous Vehicles', 'XAI', 'Neuro-Symbolic AI'] 
-name = "Nataniel Jayaseelan" 
+id = "shanay_g" 
+interests = [] 
+name = "Shanay Gaitonde" 
 portrait = "/portraits/default.jpg" 
 short_bio = "" 
 sort_position = 10
- short_name = "nataniel_j" 
+ short_name = "shanay_g" 
 
 [[social]] 
     icon = "envelope" 
     icon_pack = "fa" 
-    link = "mailto: njayasee@ucsc.edu"
+    link = "mailto: shanaygaitonde@gmail.com"
 
  [[social]] 
     icon = "twitter" 
@@ -27,8 +27,8 @@ sort_position = 10
 [[social]] 
     icon = "github" 
     icon_pack = "fa" 
-    link = "https://github.com/https://github.com/Ironspidr" 
+    link = "https://github.com/" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Undergrad Student" 
+      role = "High School Intern" 
 +++

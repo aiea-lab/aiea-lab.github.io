@@ -1,18 +1,18 @@
 +++
 bio = "" 
 date = "2024-11-10" 
-id = "nataniel_j" 
-interests = ['Autonomous Vehicles', 'XAI', 'Neuro-Symbolic AI'] 
-name = "Nataniel Jayaseelan" 
+id = "sahiel_b" 
+interests = ['Autonomous Vehicles'] 
+name = "Sahiel Bose" 
 portrait = "/portraits/default.jpg" 
 short_bio = "" 
 sort_position = 10
- short_name = "nataniel_j" 
+ short_name = "sahiel_b" 
 
 [[social]] 
     icon = "envelope" 
     icon_pack = "fa" 
-    link = "mailto: njayasee@ucsc.edu"
+    link = "mailto: sahielbose@gmail.com"
 
  [[social]] 
     icon = "twitter" 
@@ -27,8 +27,8 @@ sort_position = 10
 [[social]] 
     icon = "github" 
     icon_pack = "fa" 
-    link = "https://github.com/https://github.com/Ironspidr" 
+    link = "https://github.com/sahielbose" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Undergrad Student" 
+      role = "High School Intern" 
 +++

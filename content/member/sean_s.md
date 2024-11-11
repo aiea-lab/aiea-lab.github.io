@@ -1,18 +1,18 @@
 +++
 bio = "" 
 date = "2024-11-10" 
-id = "nataniel_j" 
-interests = ['Autonomous Vehicles', 'XAI', 'Neuro-Symbolic AI'] 
-name = "Nataniel Jayaseelan" 
-portrait = "/portraits/default.jpg" 
+id = "sean_s" 
+interests = [] 
+name = "Sean Singh" 
+portrait = "/portraits/sean_s.jpg" 
 short_bio = "" 
 sort_position = 10
- short_name = "nataniel_j" 
+ short_name = "sean_s" 
 
 [[social]] 
     icon = "envelope" 
     icon_pack = "fa" 
-    link = "mailto: njayasee@ucsc.edu"
+    link = "mailto: seansingh@ucsc.edu"
 
  [[social]] 
     icon = "twitter" 
@@ -27,7 +27,7 @@ sort_position = 10
 [[social]] 
     icon = "github" 
     icon_pack = "fa" 
-    link = "https://github.com/https://github.com/Ironspidr" 
+    link = "https://github.com/" 
 [[organizations]] 
      name = "UC Santa Cruz" 
       role = "Undergrad Student" 
