@@ -1,9 +1,9 @@
 +++
 bio = ""
-date = "2025-03-01"
-id = ""
+date = "2025-04-01"
+id = "tisha"
 interests = ["write", "your", "interests"]
-name = ["Tisha Gangar"]
+name = "Tisha Gangar"
 portrait = "/portraits/tisha.jpg"
 short_bio = ""
 short_name = "tisha"
@@ -12,11 +12,16 @@ title = "Undergraduate"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:[tgangar]@ucsc.edu"
+    link = "mailto:tgangar@ucsc.edu"
 
 [[social]]
     icon = "twitter"
     icon_pack = "fa"
+    link = ""
+
+[[social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
     link = ""
 
 [[social]]
@@ -26,7 +31,7 @@ title = "Undergraduate"
 
 [[education]]
     course = "BS"
-    institution = "UC Santa cruz"
+    institution = "UCSC"
     year = "2024-present"
     
 [[organizations]]
