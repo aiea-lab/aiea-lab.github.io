@@ -4,7 +4,7 @@ date = "2025-04-02"
 id = "archita"
 interests = ["write", "your", "interests"]
 name = "Archita Srikrishnan"
-portrait = "/portraits/your_name.jpg"
+portrait = "/portraits/default.jpg"
 short_bio = "Hi everyone! My name is Archita and I am a second year Computer Science major from San Jose. Some of my interests include dancing, going to the beach, watching the Golden State Warriors, and spending time with my friends!"
 short_name = "Archi"
 title = "Undergraduate"
@@ -20,9 +20,9 @@ title = "Undergraduate"
     link = "architas9"
 
 [[education]]
-    course = ""
-    institution = ""
-    year = 2023
+    course = "BS"
+    institution = "UC Santa Cruz"
+    year = 2026
     
 [[organizations]]
     name = "UC Santa Cruz"
