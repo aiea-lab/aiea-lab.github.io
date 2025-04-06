@@ -4,7 +4,7 @@ date = "2025-03-31"
 id = "Chris C"
 interests = ["basketball", "going to the gym", "Pokemon"]
 name = "Chris Camberos"
-portrait = "/portraits/your_name.jpg"
+portrait = "/portraits/chrisc.jpg"
 short_bio = "Hi, my name is Chris :D and I am a 3rd year CS major!"
 short_name = "Chris"
 title = "Undergrad"
@@ -18,11 +18,6 @@ title = "Undergrad"
     icon = "twitter"
     icon_pack = "fa"
     link = "wkdwndk"
-
-[[social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = ""
 
 [[social]]
     icon = "github"
