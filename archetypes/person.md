@@ -1,18 +1,18 @@
 +++
 bio = ""
-date = "2023-09-01"
-id = ""
-interests = ["write", "your", "interests"]
+date = "2025-04-01"
+id = "Joshua"
+interests = ["tennis", "video games", "reading"]
 name = ""
 portrait = "/portraits/your_name.jpg"
 short_bio = ""
 short_name = ""
-title = ""
+title = "Undergraduate"
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:[your_name]@ucsc.edu"
+    link = "mailto:josharma@ucsc.edu"
 
 [[social]]
     icon = "twitter"
@@ -32,11 +32,11 @@ title = ""
 [[education]]
     course = ""
     institution = ""
-    year = 2023
+    year = 2025
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = ""
+    role = "BS"
 
 +++
 Put your bio here.
