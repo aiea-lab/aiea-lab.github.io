@@ -4,7 +4,7 @@ date = "2025-04-03"
 id = "Shriya"
 interests = []
 name = "Shriya Sravani Yellapragada"
-portrait = "/portraits/shriya.jpg"
+portrait = "img/portraits/shriya.jpg"
 short_bio = "Grad student exploring AVs and language modeling"
 short_name = ""
 title = "Masters student"
@@ -13,11 +13,6 @@ title = "Masters student"
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:sy4@ucsc.edu"
-
-[[social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = ""
 
 [[social]]
     icon = "google-scholar"
