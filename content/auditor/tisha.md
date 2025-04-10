@@ -2,7 +2,7 @@
 bio = ""
 date = "2025-04-01"
 id = "tisha"
-interests = ["write", "your", "interests"]
+interests = ["reading", "art", "swimming"]
 name = "Tisha Gangar"
 portrait = "/portraits/tisha.jpg"
 short_bio = ""
@@ -30,9 +30,9 @@ title = "Undergraduate"
     link = "https://github.com/tishagangar7"
 
 [[education]]
-    course = ""
-    institution = ""
-    year =
+    course = "Computer Science BS"
+    institution = "UCSC"
+    year = 2028
     
 [[organizations]]
     name = "UC Santa Cruz"
