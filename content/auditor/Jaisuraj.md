@@ -2,9 +2,9 @@
 bio = ""
 date = "2025-04-03"
 id = "Jaisuraj"
-interests = ["write", "your", "interests"]
+interests = AVs (Autonomous Vehicles), AI, ML
 name = "Jaisuraj Kaleeswaran"
-portrait = "/portraits/your_name.jpg"
+portrait = "/portraits/Jaisuraj.jpg"
 short_bio = "CS student"
 short_name = "jaisuraj"
 title = ""
