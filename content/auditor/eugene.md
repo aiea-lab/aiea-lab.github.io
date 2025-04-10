@@ -5,8 +5,7 @@ id = "eugene_w"
 interests = ["write", "your", "interests"]
 name = "Eugene Wong"
 portrait = "/portraits/your_name.jpg"
-short_bio = ""
-short_name = eugene_w"
+short_name = "eugene_w"
 title = "Undergraduate"
 
 [[social]]
