@@ -1,18 +1,18 @@
-i+++
++++
 bio = ""
-date = "2025-04-01"
-id = "jolene"
-interests = ["music", "art", "tennis"]
-name = "Jolene Wei"
+date = "2023-09-01"
+id = ""
+interests = ["write", "your", "interests"]
+name = ""
 portrait = "/portraits/your_name.jpg"
-short_bio = "Hi! I'm Jolene. I am currently a first year majoring in Computer Science. I am excited to learn new things!"
+short_bio = ""
 short_name = ""
-title = "Undergraduate"
+title = ""
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "jwei57@ucsc.edu"
+    link = "mailto:[your_name]@ucsc.edu"
 
 [[social]]
     icon = "twitter"
@@ -27,12 +27,12 @@ title = "Undergraduate"
 [[social]]
     icon = "github"
     icon_pack = "fa"
-    link = "jolenewei"
+    link = ""
 
 [[education]]
-    course = "Computer Science BS"
-    institution = "UCSC"
-    year = 2028
+    course = ""
+    institution = ""
+    year = 2023
     
 [[organizations]]
     name = "UC Santa Cruz"
