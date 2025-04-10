@@ -28,5 +28,3 @@ title = "Undergraduate"
     name = "UC Santa Cruz"
     role = "Undergraduate Student"
 
-+++
-Put your bio here.
