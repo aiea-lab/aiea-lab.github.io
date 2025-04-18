@@ -1,8 +1,8 @@
 +++
-bio = "Hello! I'm Daniel and I am interested in computational physics/math and bioinformatics"
+bio = "Hello! I'm Daniel and I am interested in Autonomous Vehicles"
 date = "2024-03-31"
 id = "daniel_r"
-interests = ["Physics", "Mathematics", "Bioinformatics"]
+interests = ["Autonomous Vehicles", "Depth sensing", "Vehicle control"]
 name = "Daniel Jean-Soo Rhee"
 portrait = "/portraits/daniel_r.jpg"
 short_bio = "Hi! I'm Daniel (he/him)"
