@@ -2,7 +2,7 @@
 bio = "Hi, I'm Allan! Very nice to meet you all!"
 date = "2025-04-01"
 id = "Allan"
-interests = ["Basketball", "Rap_Music", "Coding"]
+interests = []
 name = "Allan Dewey"
 portrait = "/portraits/allan_a.jpg"
 short_bio = "Hi, I'm Allan!"
@@ -12,7 +12,7 @@ title = "Undergraduate"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:[acdewey]@ucsc.edu"
+    link = "mailto:acdewey@ucsc.edu"
 
 [[social]]
     icon = "github"
@@ -20,7 +20,7 @@ title = "Undergraduate"
     link = "https://github.com/sjrurdnxia"
 
 [[education]]
-    course = "BS"
+    course = "Computer Science"
     institution = "UCSC"
     year = 2026
     
