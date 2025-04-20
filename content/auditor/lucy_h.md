@@ -2,7 +2,7 @@
 bio = ""
 date = "Winter 2025"
 id = "Lucy_H"
-interests = ["write", "your", "interests"]
+interests = ["AI", automatic vehicle"]
 name = "Lucy Han"
 portrait = "/portraits/Lucy_Han.jpg"
 short_bio = "AM Major, CS Minor, Junior"
@@ -31,7 +31,6 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS in Applied Mathematics" 
+    role = "BS in Applied Mathematics, CS minor" 
 
 +++
-Put your bio here.
