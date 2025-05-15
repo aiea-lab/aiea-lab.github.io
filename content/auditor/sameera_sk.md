@@ -30,13 +30,13 @@ title = "Masters"
     link = "https://github.com/Sameerkash"
 
 [[education]]
-    course = ""
-    institution = ""
-    year = 2023
+    course = "B.E in Computer Science and Engineering"
+    institution = "VTU"
+    year = 2021
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Graduate Student"
+    role = "MS"
 
 +++
 I’m a curious human who loves two things: making AI make sense (hello, Explainable AI) and saving the planet (starting with climate change). With a background in software development, I enjoy building things that actually do something—ideally, something good.
