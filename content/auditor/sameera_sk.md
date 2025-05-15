@@ -7,7 +7,7 @@ name = "Sameera Sudarshan Kashyap"
 portrait = "/portraits/sameera_sk.png"
 short_bio = "Software dev turned climate AI nerd. I work on making machine learning models more understandable and more useful for the planet. In my spare time I surf and scuba dive."
 short_name = "Sam"
-title = ""
+title = "Masters"
 
 [[social]]
     icon = "envelope"
@@ -36,7 +36,7 @@ title = ""
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Masters Student"
+    role = "Graduate Student"
 
 +++
 I’m a curious human who loves two things: making AI make sense (hello, Explainable AI) and saving the planet (starting with climate change). With a background in software development, I enjoy building things that actually do something—ideally, something good.
