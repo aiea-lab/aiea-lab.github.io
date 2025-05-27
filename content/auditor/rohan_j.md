@@ -29,4 +29,4 @@ title = "Undergrad"
     role = "BS"
 
 +++
-Put your bio here.
+Hi! I am a sophmore studying computer engineering. I have a passion for machine learning, and magic!
