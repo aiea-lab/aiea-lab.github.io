@@ -4,7 +4,6 @@ date = "2025-05-08"
 id = "PavithraKandhasamySelvaraj"
 interests = ["write", "your", "interests"]
 name = "Pavithra Selvaraj"
-portrait = "/portraits/your_name.jpg"
 short_bio = ""
 short_name = "Pavithra"
 title = ""
