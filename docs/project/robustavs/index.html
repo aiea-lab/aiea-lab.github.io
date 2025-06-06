@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<html lang="en-US">
-<head>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,35 +11,35 @@
     
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script src="https://aiea-lab.github.io/js/hugo-academic-group.js"></script>
+    <script src="http://localhost:1313//js/hugo-academic-group.js"></script>
 
-    <link rel="stylesheet" href="https://aiea-lab.github.io/css/bootstrap.min.css">
-    <script src="https://aiea-lab.github.io/js/bootstrap.min.js"></script>  
+    <link rel="stylesheet" href="http://localhost:1313//css/bootstrap.min.css">
+    <script src="http://localhost:1313//js/bootstrap.min.js"></script>  
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/styles/default.min.css">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.2/gh-fork-ribbon.min.css" />
     
     
-    <script src="https://aiea-lab.github.io/js/highlight.pack.js"></script>
+    <script src="http://localhost:1313//js/highlight.pack.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>
 
 
-    <link rel="stylesheet" href="https://aiea-lab.github.io/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://aiea-lab.github.io/css/academicons.min.css">
-    <link rel="stylesheet" href="https://aiea-lab.github.io/css/biaslab-font.css">
+    <link rel="stylesheet" href="http://localhost:1313//css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://localhost:1313//css/academicons.min.css">
+    <link rel="stylesheet" href="http://localhost:1313//css/biaslab-font.css">
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:100,300,400,700|Merriweather:100,400,700|Roboto+Mono">
-    <link rel="stylesheet" href="https://aiea-lab.github.io/css/hugo-academic-group.css">
+    <link rel="stylesheet" href="http://localhost:1313//css/hugo-academic-group.css">
 
     
 
 
-    <link rel="shortcut icon" href="https://aiea-lab.github.io/img/favicon.ico" type="image/x-icon">
-    <link rel="canonical" href="https://aiea-lab.github.io/project/robustavs/">
+    <link rel="shortcut icon" href="http://localhost:1313//img/favicon.ico" type="image/x-icon">
+    <link rel="canonical" href="http://localhost:1313/project/robustavs/">
 
     <title>Robust Autonomous Vehicles | AIEA Lab</title>
-    <script type="text/javascript" src="https://aiea-lab.github.io/js/carousel.js"></script>
-<link rel="stylesheet" href="https://aiea-lab.github.io/css/carousel.css">
+    <script type="text/javascript" src="http://localhost:1313/js/carousel.js"></script>
+<link rel="stylesheet" href="http://localhost:1313/css/carousel.css">
 </head>
 
 <body>
@@ -72,35 +72,35 @@
             <ul class="nav navbar-nav navbar-right">
                 
                     
-                        <li class="nav-item"><a data-scroll href="https://aiea-lab.github.io/#top">Home</a></li>
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/#top">Home</a></li>
                     
                 
                     
-                        <li class="nav-item"><a data-scroll href="https://aiea-lab.github.io/research">Research</a></li>
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/research">Research</a></li>
                     
                 
                     
-                        <li class="nav-item"><a data-scroll href="https://aiea-lab.github.io/#publications">Publications</a></li>
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/#publications">Publications</a></li>
                     
                 
                     
-                        <li class="nav-item"><a data-scroll href="https://aiea-lab.github.io/#projects">Projects</a></li>
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/#projects">Projects</a></li>
                     
                 
                     
-                        <li class="nav-item"><a data-scroll href="https://aiea-lab.github.io/#members">Members</a></li>
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/#members">Members</a></li>
                     
                 
                     
-                        <li class="nav-item"><a data-scroll href="https://aiea-lab.github.io/#posts">Blog</a></li>
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/#posts">Blog</a></li>
                     
                 
                     
-                        <li class="nav-item"><a data-scroll href="https://aiea-lab.github.io/join">Join Us!</a></li>
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/join">Join Us!</a></li>
                     
                 
                     
-                        <li class="nav-item"><a data-scroll href="https://aiea-lab.github.io/#contact">Contact</a></li>
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/#contact">Contact</a></li>
                     
                 
                 
@@ -124,8 +124,6 @@
             <p>Autonomous Vehicles (AVs), including aerial, ground, and sea vehicles, are becoming an integral part of our lives. Currently, most AVs trust sensor data to make navigation and other control decisions. In addition, they trust that the control commands given to actuators are executed faithfully. While trusting sensor and actuator data with minimal validation has proven to be an effective trade-off in current market solutions, it is not a sustainable practice as AVs become more pervasive and computer attacks increase in sophistication.</p>
 <p>Many attacks can compromise the safe operation of AVs by manipulating sensor data, spanning a wide range of different sensor types, including GPS, cameras, IMU, RADAR, ultrasonic, and LiDAR. Given false or misleading sensor information, the machine learning algorithms in AVs will produce erroneous decisions that can cause the vehicle to crash, enter the opposing lane of traffic, or take passengers to an undesired destination. Such failures can also be produced by compromising computational components of AVs, such as the planner: AVs are essentially computers with wheels, and as such, are subject to all the usual software vulnerabilities. Finally, other agents in the environment can take adversarial actions to confuse an AV.</p>
 <p>This proposed work will develop a framework to robustify the decision-making of autonomous vehicles. In particular, we will build verification tools that can discover attacks that may falsify security assumptions of the platform and use these counter-examples to train new machine learning algorithms that are robust to these attacks.</p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
 
         </div>
     
@@ -138,7 +136,7 @@
 
         
         <li class="next">
-            <a href="https://aiea-lab.github.io/project/xaillm/">
+            <a href="http://localhost:1313/project/xaillm/">
                 <span class="darknav">&nbsp;Next project:</span>
                 Explaining LLM Failures
                 <span aria-hidden="true" class="darknav">&rarr;</span>
