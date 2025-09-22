@@ -2,7 +2,7 @@
 bio = ""
 date = "2023-10-07"
 id = "peiyu"
-interests = ["XAI","HCAI","NLP","AI application", "AI ethics", "AI for law and public policy"]
+interests = ["HCXAI","HCAI","NLP","Neuro-symbolic AI", "Faithful Reasoning", "Legal AI"]
 name = "Peiyu (Olivia) Wang"
 portrait = "/portraits/peiyu.jpg"
 short_bio = "Olivia is a first-year Ph.D. student advised by Prof. Leilani in the Department of Computer Science and Engineering at UC Santa Cruz. Her research interests include but are not limited to Explainable AI (XAI), Human-Centered XAI,Neuro-symbolic AI, Legal AI, and Natural Language Processing (dialogue system etc.)"
