@@ -5,7 +5,7 @@ id = "sijia"
 interests = ["XAI"]
 name = "Sijia Zhong"
 portrait = "/portraits/sijia.jpg"
-short_bio = "Sijia is a second-year Master student advised by Prof. Leilani in the Department of Computer Science and Engineering at UC Santa Cruz. Her research interests are explaining the model intelligence."
+short_bio = "Sijia is a first-year Ph.D. student advised by Prof. Leilani in the Department of Computer Science and Engineering at UC Santa Cruz. Her research interest is in XAI."
 sort_position = 3
 short_name = "Sijia"
 title = "Ph.D. student"
@@ -32,16 +32,19 @@ title = "Ph.D. student"
 
 
 [[education]]
+    course = "Master in Computer Science and Engineering"
+    institution = "University of California Santa Cruz"
+    year = 2024
     course = "Bachelor in Computer Science and Engineering"
     institution = "University of California Santa Cruz"
     year = 2022
         
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Master student"
+    role = "Ph.D. student"
 
 +++
-Sijia is a second-year Master student advised by [Prof. Leilani Gilpin](../leilani/) in the Department of Computer Science and Engineering at UC Santa Cruz. She has a interest in the explainability of model intelligence (XAI). Outside of her studies, Sijia enjoys singing, photography, and cosplaying.
+Sijia is a first-year Ph.D. student advised by [Prof. Leilani Gilpin](../leilani/) in the Department of Computer Science and Engineering at UC Santa Cruz. She has an interest in the explainability of model intelligence (XAI). 
 
 [read more](https://szhong16.github.io/)
 
