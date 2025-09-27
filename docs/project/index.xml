@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on AIEA Lab</title>
@@ -6,10 +6,19 @@
     <description>Recent content in Projects on AIEA Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aiea-lab.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>XAI for Mental Health</title>
+      <link>https://aiea-lab.github.io/project/xai_mental_health/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/project/xai_mental_health/</guid>
+      <description> Papers </description>
+    </item>
     
     <item>
       <title>Explainable Autograder</title>
@@ -17,7 +26,8 @@
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://aiea-lab.github.io/project/explaingrade/</guid>
-      <description>The goal of this project is to develop an autograder for computer sciences that can explain itself.</description>
+      <description> The goal of this project is to develop an autograder for computer sciences that can explain itself.
+Previous Publications Related Readings </description>
     </item>
     
     <item>

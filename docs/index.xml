@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AIEA Lab</title>
@@ -6,10 +6,154 @@
     <description>Recent content on AIEA Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aiea-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/auditor/haardhik_ma/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/haardhik_ma/</guid>
+      <description>authors = []</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/auditor/divya_j/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/divya_j/</guid>
+      <description>Put your bio here.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/auditor/adam_m/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/adam_m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/michael_zhou/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/michael_zhou/</guid>
+      <description>Put your bio here.</description>
+    </item>
+    
+    <item>
+      <title>Masters</title>
+      <link>https://aiea-lab.github.io/auditor/charlie_a/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/charlie_a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Undergrad Student</title>
+      <link>https://aiea-lab.github.io/auditor/shripad_m/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/shripad_m/</guid>
+      <description>Put your bio here.</description>
+    </item>
+    
+    <item>
+      <title>Undergrad Student, UCSC</title>
+      <link>https://aiea-lab.github.io/auditor/ash/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/ash/</guid>
+      <description>Put your bio here.</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/caleb/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/caleb/</guid>
+      <description>Put your bio here.</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/tisha/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/tisha/</guid>
+      <description>Put your bio here.</description>
+    </item>
+    
+    <item>
+      <title>Lab Auditor</title>
+      <link>https://aiea-lab.github.io/auditor/william_ho/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/william_ho/</guid>
+      <description>Put your bio here.</description>
+    </item>
+    
+    <item>
+      <title>Undergrad</title>
+      <link>https://aiea-lab.github.io/auditor/chris_camberos/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/chris_camberos/</guid>
+      <description>Put your bio here.</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/jetha/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/jetha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/neha_h/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/neha_h/</guid>
+      <description>Put your bio here.</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate Student</title>
+      <link>https://aiea-lab.github.io/auditor/harini/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/harini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Undergraduate Student</title>
+      <link>https://aiea-lab.github.io/auditor/nickolas_t/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/nickolas_t/</guid>
+      <description>Put your bio here.</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate Student</title>
+      <link>https://aiea-lab.github.io/auditor/yashas/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/yashas/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -278,6 +422,15 @@
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>https://aiea-lab.github.io/alumni/michael_s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/alumni/rami_w/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/alumni/rami_w/</guid>
       <description></description>
     </item>
     
@@ -2223,7 +2376,8 @@
       
       <guid>https://aiea-lab.github.io/intern/tanishapatil/</guid>
       <description>Tanisha Patil is a collaborative high school student pursuing a position in data science and machine learning. She seeks to use data analysis, modeling, and programming to support data-driven decision making and yield positive social impact.
-Outside of research, Tanisha enjoys playing field hockey and solving the daily NYT puzzles.</description>
+Outside of research, Tanisha enjoys playing field hockey and solving the daily NYT puzzles.
+Ultusque saltem crimine palluit virgineos deum nec pectusque oculis [que quos  lactea](http://habenas.com/.php) quae? Animus feriendus ductae! *Theron* sua  amans, est nulla cadavera, aquarum servavit quoque missus, hac texit videre,  valuere est erant?</description>
     </item>
     
     <item>
@@ -2255,10 +2409,10 @@ Outside of research, Tanisha enjoys playing field hockey and solving the daily N
     
     <item>
       <title>Research Scientist</title>
-      <link>https://aiea-lab.github.io/member/nikhil/</link>
+      <link>https://aiea-lab.github.io/alumni/nikhil/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://aiea-lab.github.io/member/nikhil/</guid>
+      <guid>https://aiea-lab.github.io/alumni/nikhil/</guid>
       <description></description>
     </item>
     
@@ -2311,14 +2465,24 @@ read more</description>
     </item>
     
     <item>
+      <title>XAI for Mental Health</title>
+      <link>https://aiea-lab.github.io/project/xai_mental_health/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/project/xai_mental_health/</guid>
+      <description> Papers </description>
+    </item>
+    
+    <item>
       <title>Aloha!</title>
       <link>https://aiea-lab.github.io/post/aloha/</link>
       <pubDate>Sat, 19 Aug 2023 15:50:58 +0200</pubDate>
       
       <guid>https://aiea-lab.github.io/post/aloha/</guid>
       <description>Aloha to friends and collaborators of the lab! We&amp;rsquo;ve just started setting up this website and we appreciate your patience as we make changes.
-Mahalo!
-  </description>
+Mahalo! &amp;lt;!&amp;ndash;
+Magorum notissima limite sua pars simus sumptis Incessit ignota coniunx serpunt Lorem markdownum ab cunas, semine commissus matrona manibusque plumis, nova sub Spartana loca ignibus. In partibus muneris, paludes rara, plectrumque, fontis, concubitus a locoque demptos exclamat conde ab aethera nihil.
+ Quamquam abit vulnere nec intus decidit clamor Nocuit quae tamen timent aperta Cervice preces totumque postquam nunc iacit sive Potestas te sis putaret sceleri totiens Retro profundo ad sede Iovem in este In ait flumina intrare Troiae  Ut fatis praecordia alvum iamque, adeo tympana male silvas.</description>
     </item>
     
     <item>
@@ -2327,7 +2491,8 @@ Mahalo!
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://aiea-lab.github.io/project/explaingrade/</guid>
-      <description>The goal of this project is to develop an autograder for computer sciences that can explain itself.</description>
+      <description> The goal of this project is to develop an autograder for computer sciences that can explain itself.
+Previous Publications Related Readings </description>
     </item>
     
     <item>
@@ -2374,7 +2539,8 @@ read more</description>
       
       <guid>https://aiea-lab.github.io/member/suma/</guid>
       <description>Kalyana Suma Sree Tholeti is an Masters student in the Department of Computer Science and Engineering at UC Santa Cruz. Her research focuses on the XAI, Responsible data Science, and Generative AI. Her current work is on developing a comprehensive model explanation monitoring framework within the manufacturing domain. Her previous work is on analysis of bias in the knowledge-distilled models and Sentiment analysis.
-read more</description>
+read more
+Ultusque saltem crimine palluit virgineos deum nec pectusque oculis [que quos  lactea](http://habenas.</description>
     </item>
     
     <item>
@@ -2392,7 +2558,7 @@ read more</description>
       <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://aiea-lab.github.io/publication/danger/</guid>
-      <description>  </description>
+      <description></description>
     </item>
     
     <item>
@@ -2438,8 +2604,7 @@ She holds a PhD in Computer Science from MIT, an M.</description>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://aiea-lab.github.io/alumni/tong/</guid>
-      <description>Tong is a 4th-year undergraduate student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. His research interests are Artificial Intelligence, Machine Learning, Natural Language Processing / Large Language Models ,and Computer Vision. Outside of Classroom, Tong enjoys badminton, ping-pong, e-sports and Shōgi(Japanese Chess) (Tong is currently applying to Master&amp;rsquo;s program for 2024 Fall)
- Captain of Team China at World Shōgi League Since 2022 🥉3rd place, 2022 Hearthstone Collegiate Masters Champions 6th place, Fall 2022 Hearthstone Collegiate Masters 🏆1st place award at the 2019 North America Shōgi Tournament, Adolescent Division  </description>
+      <description>Tong is a 4th-year undergraduate student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. His research interests are Artificial Intelligence, Machine Learning, Natural Language Processing / Large Language Models ,and Computer Vision. Outside of Classroom, Tong enjoys badminton, ping-pong, e-sports and Shōgi(Japanese Chess) (Tong is currently applying to Master&amp;rsquo;s program for 2024 Fall) - Captain of Team China at World Shōgi League Since 2022 - 🥉3rd place, 2022 Hearthstone Collegiate Masters Champions - 6th place, Fall 2022 Hearthstone Collegiate Masters - 🏆1st place award at the 2019 North America Shōgi Tournament, Adolescent Division</description>
     </item>
     
     <item>
@@ -2479,8 +2644,16 @@ encoding_install_autoresponder = ultra.osiComputer(host.ccdColdWddm(fsb, compres
       
       <guid>https://aiea-lab.github.io/approach/</guid>
       <description>Et malis vellet tellus deseruere in credant Inde sidera moenia lacertis nomen nostra membra Lorem markdownum miranti. Sonus faciunt omnibus frustra: illa possem ad regio Anubis tamen. Sustulerat debent fluviis herbis attollere rogus et formae nitentem avellere motis clipeus Achilles felix videam undas. Posuit haec ipse posse.
-Ore fame mons Olympi tantae stringit columbas proxima habebat, longius alta non. Haeserat gerunt detinuit genis est huc, dixit tam dumque nitidum.
- Cristata causam Triones moenia habentem subito utentem Astraea castris contentus nisi leve eum invia Inferiusque capta cognoscenda flaventi locuta notavi fallere Moriens scripsi ictus tuo cum  Tarpeias insurgens summo sinistra vertice, in neve utroque exempla Cyparissus tanta tecti terras.</description>
+Ore fame mons Olympi tantae stringit columbas proxima habebat, longius alta non. Haeserat gerunt detinuit genis est huc, dixit tam dumque nitidum.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/auditor/allan_dewey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/allan_dewey/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -2490,8 +2663,8 @@ Ore fame mons Olympi tantae stringit columbas proxima habebat, longius alta non.
       
       <guid>https://aiea-lab.github.io/join/</guid>
       <description>Join us! Currently, the AIEA lab is at capacity and not seeking new students to join at this time. We will update this page as openings become available.
-Interested students are welcome to complete the lab interest form. We examine new applicants at the start of each quarter (including summer).
-Prospective PhD students The AIEA group takes on 1-2 new PhD students each year. We are seeking creative, hard-working, PhD students to join and lead the group.</description>
+Interested students are welcome to complete the lab interest form. We examine new applicants at the start of each academic quarter (excluding summer).
+Prospective PhD students For the 2025-2026 academic year, due to the group size and uncertainty of research funds, we are not recruiting PhD students.</description>
     </item>
     
     <item>
@@ -2513,7 +2686,9 @@ if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsi
       <description>Learn more about our active projects and if you are interested, see about joining us.
 Coming soon!
 Funding Our research is generously supported by the Underwriters Labatory (subaward from Northwestern University), UC Santa Cruz Seed Funding, Department of Transportation, and Siemens.
-  </description>
+&amp;lt;!&amp;ndash;# Modo est
+Non sub haedum tenet Lorem markdownum esse diversa quoque vocavit, quam! Vires tibi axis dum spolium vaticinor fulminis, a dixere attrahit generisque tamen?
+ Petit invergens iram praetendat iam Mecum res curva iunctura silvis hoc leonum Iacent gemitum quos  Non est duram mitis sonat proculcat tumulos Alce bimembres Dauni, cur ex voces referam adunco in sors.</description>
     </item>
     
     <item>
