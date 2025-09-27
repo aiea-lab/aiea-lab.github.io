@@ -8,7 +8,7 @@ portrait = "/portraits/sijia.jpg"
 short_bio = "Sijia is a second-year Master student advised by Prof. Leilani in the Department of Computer Science and Engineering at UC Santa Cruz. Her research interests are explaining the model intelligence."
 sort_position = 3
 short_name = "Sijia"
-title = "Master student"
+title = "Ph.D. student"
 
 [[social]]
     icon = "envelope"
