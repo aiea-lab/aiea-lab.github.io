@@ -26,8 +26,7 @@
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://aiea-lab.github.io/project/explaingrade/</guid>
-      <description> The goal of this project is to develop an autograder for computer sciences that can explain itself.
-Previous Publications Related Readings </description>
+      <description>Current software assessment tools or “autograders” automatically evaluate and score student programming assignments with output-based feedback, but they do not offer conceptual guidance to help students or instructors improve. Students and instructors get a grade ,showing which test cases pass or fail, but not a clear rationale for why those outcomes occurred. There is a need to improve feedback for students to increase efficient learning [1], and for instructors to inform pedagogy and system evaluation [2].</description>
     </item>
     
     <item>
@@ -46,6 +45,15 @@ Previous Publications Related Readings </description>
       
       <guid>https://aiea-lab.github.io/project/robustavs/</guid>
       <description>Autonomous Vehicles (AVs), including aerial, ground, and sea vehicles, are becoming an integral part of our lives. Currently, most AVs trust sensor data to make navigation and other control decisions. In addition, they trust that the control commands given to actuators are executed faithfully. While trusting sensor and actuator data with minimal validation has proven to be an effective trade-off in current market solutions, it is not a sustainable practice as AVs become more pervasive and computer attacks increase in sophistication.</description>
+    </item>
+    
+    <item>
+      <title>Neuron Explanations</title>
+      <link>https://aiea-lab.github.io/project/neuron_expl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/project/neuron_expl/</guid>
+      <description>The Neuron Explanation project aims to understand what deep neural networks (CNN, LLMs) learn during the training process by analyzing what individual neurons are able to recognize in terms of concepts (e.g., cat, building, etc). Specifically, we aim to achieve this goal by associating logical rules (e.g., (Cat OR Dog) AND NOT person)) to each neuron that express the (spatial) alignment between neurons activations and concept locations. These rules are usually extracted by combining search algorithms, clustering algorithms and statistical analysis of neurons activation.</description>
     </item>
     
   </channel>

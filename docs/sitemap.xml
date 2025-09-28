@@ -100,6 +100,11 @@
   </url>
   
   <url>
+    <loc>https://aiea-lab.github.io/alumni/sean_s/</loc>
+    <lastmod>2024-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aiea-lab.github.io/auditor/johnathan_h/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
   </url>
@@ -145,12 +150,7 @@
   </url>
   
   <url>
-    <loc>https://aiea-lab.github.io/member/sean_s/</loc>
-    <lastmod>2024-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/shanay_g/</loc>
+    <loc>https://aiea-lab.github.io/intern/shanay_g/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -167,9 +167,13 @@
   </url>
   
   <url>
-    <loc>https://aiea-lab.github.io/member/</loc>
-    <lastmod>2024-11-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://aiea-lab.github.io/alumni/aaja_o/</loc>
+    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aiea-lab.github.io/alumni/aishwarya_r/</loc>
+    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -193,7 +197,17 @@
   </url>
   
   <url>
+    <loc>https://aiea-lab.github.io/intern/advait_s/</loc>
+    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aiea-lab.github.io/intern/ethan_h/</loc>
+    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aiea-lab.github.io/intern/rohith_k/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -203,27 +217,7 @@
   </url>
   
   <url>
-    <loc>https://aiea-lab.github.io/member/aaja_o/</loc>
-    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/advait_s/</loc>
-    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/aishwarya_r/</loc>
-    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aiea-lab.github.io/member/daksh_s/</loc>
-    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/rohith_k/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -238,13 +232,24 @@
   </url>
   
   <url>
+    <loc>https://aiea-lab.github.io/member/</loc>
+    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aiea-lab.github.io/alumni/janvi_r/</loc>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aiea-lab.github.io/alumni/mahika_p/</loc>
     <lastmod>2024-10-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aiea-lab.github.io/member/janvi_r/</loc>
-    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <loc>https://aiea-lab.github.io/alumni/ananya_d/</loc>
+    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -263,7 +268,32 @@
   </url>
   
   <url>
+    <loc>https://aiea-lab.github.io/alumni/nistha/</loc>
+    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aiea-lab.github.io/alumni/prathik_k/</loc>
+    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aiea-lab.github.io/alumni/rami_w/</loc>
+    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aiea-lab.github.io/alumni/richard_d/</loc>
+    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aiea-lab.github.io/alumni/srinidhi_s/</loc>
+    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aiea-lab.github.io/alumni/vinh/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -413,11 +443,6 @@
   </url>
   
   <url>
-    <loc>https://aiea-lab.github.io/member/ananya_d/</loc>
-    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aiea-lab.github.io/member/ayush_r/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
   </url>
@@ -453,37 +478,7 @@
   </url>
   
   <url>
-    <loc>https://aiea-lab.github.io/member/nathan/</loc>
-    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/nistha/</loc>
-    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/prathik_k/</loc>
-    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/rami_w/</loc>
-    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/richard_d/</loc>
-    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aiea-lab.github.io/member/rishika_s/</loc>
-    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/srinidhi_s/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -508,22 +503,22 @@
   </url>
   
   <url>
-    <loc>https://aiea-lab.github.io/member/vinh/</loc>
-    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aiea-lab.github.io/member/zhonghui_l/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aiea-lab.github.io/member/ziyuan/</loc>
+    <loc>https://aiea-lab.github.io/alumni/ziyuan/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aiea-lab.github.io/alumni/abby/</loc>
+    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aiea-lab.github.io/alumni/karthik/</loc>
     <lastmod>2024-09-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -548,8 +543,8 @@
   </url>
   
   <url>
-    <loc>https://aiea-lab.github.io/member/karthik/</loc>
-    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
+    <loc>https://aiea-lab.github.io/alumni/ameyaa_b/</loc>
+    <lastmod>2024-09-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -574,6 +569,16 @@
   
   <url>
     <loc>https://aiea-lab.github.io/alumni/olivia_a/</loc>
+    <lastmod>2024-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aiea-lab.github.io/alumni/poonam_d/</loc>
+    <lastmod>2024-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aiea-lab.github.io/alumni/sidharth_b/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -603,23 +608,13 @@
   </url>
   
   <url>
-    <loc>https://aiea-lab.github.io/member/ameyaa_b/</loc>
-    <lastmod>2024-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/poonam_d/</loc>
-    <lastmod>2024-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/sidharth_b/</loc>
-    <lastmod>2024-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aiea-lab.github.io/member/vishrut_s/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aiea-lab.github.io/alumni/akashleena/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -629,6 +624,11 @@
   
   <url>
     <loc>https://aiea-lab.github.io/alumni/amos_l/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aiea-lab.github.io/alumni/anish/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -673,7 +673,17 @@
   </url>
   
   <url>
+    <loc>https://aiea-lab.github.io/alumni/daniel_h/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aiea-lab.github.io/alumni/daniel_s/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aiea-lab.github.io/alumni/dennis/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -693,6 +703,11 @@
   </url>
   
   <url>
+    <loc>https://aiea-lab.github.io/alumni/gene_p/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aiea-lab.github.io/alumni/harshini_v/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url>
@@ -704,6 +719,21 @@
   
   <url>
     <loc>https://aiea-lab.github.io/alumni/jacob_l/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aiea-lab.github.io/alumni/janvi/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aiea-lab.github.io/alumni/jason_w/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aiea-lab.github.io/alumni/jihang_l/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -728,6 +758,16 @@
   </url>
   
   <url>
+    <loc>https://aiea-lab.github.io/alumni/krithik_d/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aiea-lab.github.io/alumni/macklin/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aiea-lab.github.io/alumni/maithili/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url>
@@ -748,12 +788,22 @@
   </url>
   
   <url>
+    <loc>https://aiea-lab.github.io/alumni/pratik_d/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aiea-lab.github.io/alumni/raj_s/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aiea-lab.github.io/alumni/rangasri_c/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aiea-lab.github.io/alumni/rithesh/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -793,12 +843,12 @@
   </url>
   
   <url>
-    <loc>https://aiea-lab.github.io/alumni/samuel_t/</loc>
+    <loc>https://aiea-lab.github.io/alumni/samuel_c/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aiea-lab.github.io/alumni/sean_s/</loc>
+    <loc>https://aiea-lab.github.io/alumni/samuel_t/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -823,6 +873,11 @@
   </url>
   
   <url>
+    <loc>https://aiea-lab.github.io/alumni/shoto/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aiea-lab.github.io/alumni/smruthi_p/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url>
@@ -843,6 +898,11 @@
   </url>
   
   <url>
+    <loc>https://aiea-lab.github.io/alumni/tommy_c/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aiea-lab.github.io/alumni/vaibhav/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url>
@@ -854,6 +914,11 @@
   
   <url>
     <loc>https://aiea-lab.github.io/alumni/vidya/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aiea-lab.github.io/alumni/william_s/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -1014,6 +1079,11 @@
   
   <url>
     <loc>https://aiea-lab.github.io/auditor/tanvi/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aiea-lab.github.io/auditor/tavleen/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -1188,16 +1258,6 @@
   </url>
   
   <url>
-    <loc>https://aiea-lab.github.io/member/akashleena/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/anish/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aiea-lab.github.io/member/arnav_k/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url>
@@ -1213,57 +1273,7 @@
   </url>
   
   <url>
-    <loc>https://aiea-lab.github.io/member/daniel_h/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/dennis/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/gene_p/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/hugo/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aiea-lab.github.io/member/ivan_d/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/janvi/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/jason_w/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/jihang_l/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/krithik_d/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/krystal/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/macklin/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -1273,17 +1283,7 @@
   </url>
   
   <url>
-    <loc>https://aiea-lab.github.io/member/pratik_d/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aiea-lab.github.io/member/priyesh_v/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/rithesh/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -1293,27 +1293,7 @@
   </url>
   
   <url>
-    <loc>https://aiea-lab.github.io/member/samuel_c/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/shoto/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aiea-lab.github.io/member/siddarth_m/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/tavleen/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/tommy_c/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -1324,11 +1304,6 @@
   
   <url>
     <loc>https://aiea-lab.github.io/member/vaishnavi_j/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/william_s/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -1353,13 +1328,13 @@
   </url>
   
   <url>
-    <loc>https://aiea-lab.github.io/alumni/raj/</loc>
-    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
+    <loc>https://aiea-lab.github.io/member/biagio/</loc>
+    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aiea-lab.github.io/member/ivan/</loc>
-    <lastmod>2024-06-04T00:00:00+00:00</lastmod>
+    <loc>https://aiea-lab.github.io/alumni/raj/</loc>
+    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1383,12 +1358,12 @@
   </url>
   
   <url>
-    <loc>https://aiea-lab.github.io/member/sijia/</loc>
+    <loc>https://aiea-lab.github.io/member/peiyu/</loc>
     <lastmod>2023-10-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aiea-lab.github.io/member/peiyu/</loc>
+    <loc>https://aiea-lab.github.io/member/sijia/</loc>
     <lastmod>2023-10-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -1440,12 +1415,12 @@
   </url>
   
   <url>
-    <loc>https://aiea-lab.github.io/member/suma/</loc>
+    <loc>https://aiea-lab.github.io/alumni/suma/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aiea-lab.github.io/member/shreedhar/</loc>
+    <loc>https://aiea-lab.github.io/alumni/shreedhar/</loc>
     <lastmod>2023-03-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -1472,11 +1447,6 @@
   
   <url>
     <loc>https://aiea-lab.github.io/member/leilani/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/biagio/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1538,6 +1508,10 @@
   <url>
     <loc>https://aiea-lab.github.io/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aiea-lab.github.io/project/neuron_expl/</loc>
   </url>
   
   <url>

@@ -35,6 +35,7 @@ title = "Ph.D. student"
     course = "Master in Computer Science and Engineering"
     institution = "University of California Santa Cruz"
     year = 2024
+[[education]]
     course = "Bachelor in Computer Science and Engineering"
     institution = "University of California Santa Cruz"
     year = 2022
