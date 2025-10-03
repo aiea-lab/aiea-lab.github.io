@@ -5,7 +5,7 @@ id = "farhan_a"
 interests = ["write", "your", "interests"]
 name = "Farhan Ali"
 portrait = "/portraits/farhan_ali.jpg"
-short_bio = "2nd year CS Major eager to conduct reserach"
+short_bio = "A 2nd year CS Major eager to conduct reserach"
 short_name = "farhan"
 title = "Undergraduate"
 
