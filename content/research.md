@@ -1,6 +1,4 @@
 +++
-title = "Saketh - Research Clone"
-date = "2025-10-05"
 authors = []
 +++
 
