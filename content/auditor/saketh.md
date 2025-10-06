@@ -4,9 +4,7 @@ date = "2023-09-01"
 id = "saketh"
 interests = ["swimming", "guitar", "travelling"]
 name = "Saketh Machiraju"
-portrait = "/portraits/saketh.jpegit add content/auditor/saketh.md static/img/portraits/saketh.jpg
-git commit -m "Add Saketh Machiraju profile"
-g"
+portrait = "/portraits/saketh.jpeg"
 short_bio = "Sophmore @ UCSC Studying Computer Engineering"
 short_name = "saketh"
 title = "Undergraduate Researcher"
