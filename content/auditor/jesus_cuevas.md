@@ -2,7 +2,7 @@
 bio = ""
 date = "2025-10-02"
 id = "JesusC"
-interests = ["write", "your", "interests"]
+interests = ["data analysis", "ML", "AV"]
 name = "Jesus Cuevas Gonzalez"
 portrait = "/portraits/jesusC.jpg"
 short_bio = "Looking forward to getting started."
@@ -32,4 +32,5 @@ title = "Undergraduate"
     role = "BS"
 
 +++
+
 Put your bio here.
