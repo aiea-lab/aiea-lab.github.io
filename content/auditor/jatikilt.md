@@ -5,7 +5,7 @@ id = "JonathanA"
 interests = ["basketball", "Soccer", "Anime"]
 name = "Jonathan Atikilt"
 portrait = "/portraits/yoni.jpg"
-short_bio = "4th Year Computer Science/Applied Mathematics interested in Self Explainable Deep Neural Networks"
+short_bio = "4th Year Computer Science/Applied Mathematics interested in Neuron Explanation in LLM's"
 short_name = "JonathanA"
 title = ""
 
