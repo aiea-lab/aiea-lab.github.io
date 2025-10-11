@@ -1,14 +1,14 @@
 +++
 bio = "" 
 date = "2025-10-09" 
-id = "vaishnavi" 
+id = "vaishnavi_m" 
 interests = [] 
 name = "Vaishnavi Muchukota" 
 portrait = "/portraits/vaishnavi_m.jpg" 
 short_bio = "" 
 sort_position = 10
- short_name = "vaishnavi" 
-
+ short_name = "vaishnavi_m" 
+ 
 [[social]] 
     icon = "envelope" 
     icon_pack = "fa" 
