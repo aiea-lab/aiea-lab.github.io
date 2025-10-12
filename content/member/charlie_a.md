@@ -7,6 +7,7 @@ name = "Charlie Alders"
 portrait = "/portraits/charlie_a.jpg"
 short_bio = "Software Engineer & MS CSE Student"
 short_name = "Charlie"
+sort_position = 4
 title = "Masters"
 
 [[social]]

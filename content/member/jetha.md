@@ -6,6 +6,7 @@ interests = ["LLMs", "ML", "RAG"]
 name = "Jetha Mot"
 portrait = "/portraits/jetha.jpg"
 short_bio = "3rd Year CS + Math Undergrad"
+sort_position = 10
 short_name = "Jetha"
 title = "Undergraduate"
 
