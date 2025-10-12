@@ -1,3 +1,9 @@
++++
+title = "Research"
+date = 2025-10-02
+authors = ["Vaishnavi M."]
++++
+
 Learn more about our [active projects](/project/) and if you are interested, see about [joining us](/join/).
 
 Coming soon!
