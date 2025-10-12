@@ -2,7 +2,6 @@
 bio = "Hi I'm Pujitha and I'm a 4th year Computer Science student at UC Santa Cruz."
 date = "2025-09-30"
 id = "pujitha"
-interests = ["write", "your", "interests"]
 name = "Pujitha Samudrala"
 portrait = "/portraits/pujitha.jpg"
 short_bio = "4th year Computer Science student"
