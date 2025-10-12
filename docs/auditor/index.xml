@@ -1,843 +1,664 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Auditors on AIEA Lab</title>
-    <link>https://aiea-lab.github.io/auditor/</link>
+    <link>http://localhost:1313/auditor/</link>
     <description>Recent content in Auditors on AIEA Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
+    <language>en</language>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://aiea-lab.github.io/auditor/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>https://aiea-lab.github.io/auditor/haardhik_ma/</link>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/haardhik_ma/</guid>
-      <description>authors = []</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://aiea-lab.github.io/auditor/divya_j/</link>
-      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/divya_j/</guid>
-      <description>Put your bio here.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://aiea-lab.github.io/auditor/adam_m/</link>
-      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/adam_m/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sun, 05 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/auditor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Undergraduate</title>
-      <link>https://aiea-lab.github.io/auditor/michael_zhou/</link>
-      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/michael_zhou/</guid>
-      <description>Put your bio here.</description>
+      <link>http://localhost:1313/auditor/soha/</link>
+      <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/auditor/soha/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m so excited to be a part of the AIEA Auditor Program!&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/auditor/haardhik_ma/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/auditor/haardhik_ma/</guid>
+      <description>&lt;p&gt;authors = []&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/auditor/divya_j/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/auditor/divya_j/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/auditor/adam_m/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/auditor/adam_m/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>http://localhost:1313/auditor/michael_zhou/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/auditor/michael_zhou/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Masters</title>
-      <link>https://aiea-lab.github.io/auditor/charlie_a/</link>
+      <link>http://localhost:1313/auditor/charlie_a/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/charlie_a/</guid>
+      <guid>http://localhost:1313/auditor/charlie_a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Undergrad Student</title>
-      <link>https://aiea-lab.github.io/auditor/shripad_m/</link>
+      <link>http://localhost:1313/auditor/shripad_m/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/shripad_m/</guid>
-      <description>Put your bio here.</description>
+      <guid>http://localhost:1313/auditor/shripad_m/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Undergrad Student, UCSC</title>
-      <link>https://aiea-lab.github.io/auditor/ash/</link>
+      <link>http://localhost:1313/auditor/ash/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/ash/</guid>
-      <description>Put your bio here.</description>
+      <guid>http://localhost:1313/auditor/ash/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Undergraduate</title>
-      <link>https://aiea-lab.github.io/auditor/caleb/</link>
+      <link>http://localhost:1313/auditor/caleb/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/caleb/</guid>
-      <description>Put your bio here.</description>
+      <guid>http://localhost:1313/auditor/caleb/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Undergraduate</title>
-      <link>https://aiea-lab.github.io/auditor/tisha/</link>
+      <link>http://localhost:1313/auditor/tisha/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/tisha/</guid>
-      <description>Put your bio here.</description>
+      <guid>http://localhost:1313/auditor/tisha/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lab Auditor</title>
-      <link>https://aiea-lab.github.io/auditor/william_ho/</link>
+      <link>http://localhost:1313/auditor/william_ho/</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/william_ho/</guid>
-      <description>Put your bio here.</description>
+      <guid>http://localhost:1313/auditor/william_ho/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Undergrad</title>
-      <link>https://aiea-lab.github.io/auditor/chris_camberos/</link>
+      <link>http://localhost:1313/auditor/chris_camberos/</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/chris_camberos/</guid>
-      <description>Put your bio here.</description>
+      <guid>http://localhost:1313/auditor/chris_camberos/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Undergraduate</title>
-      <link>https://aiea-lab.github.io/auditor/jetha/</link>
+      <link>http://localhost:1313/auditor/jetha/</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/jetha/</guid>
+      <guid>http://localhost:1313/auditor/jetha/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Undergraduate</title>
-      <link>https://aiea-lab.github.io/auditor/neha_h/</link>
+      <link>http://localhost:1313/auditor/neha_h/</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/neha_h/</guid>
-      <description>Put your bio here.</description>
+      <guid>http://localhost:1313/auditor/neha_h/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Undergraduate Student</title>
-      <link>https://aiea-lab.github.io/auditor/harini/</link>
+      <link>http://localhost:1313/auditor/harini/</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/harini/</guid>
+      <guid>http://localhost:1313/auditor/harini/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Undergraduate Student</title>
-      <link>https://aiea-lab.github.io/auditor/nickolas_t/</link>
+      <link>http://localhost:1313/auditor/nickolas_t/</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/nickolas_t/</guid>
-      <description>Put your bio here.</description>
+      <guid>http://localhost:1313/auditor/nickolas_t/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Undergraduate Student</title>
-      <link>https://aiea-lab.github.io/auditor/yashas/</link>
+      <link>http://localhost:1313/auditor/yashas/</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/yashas/</guid>
+      <guid>http://localhost:1313/auditor/yashas/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/johnathan_h/</link>
+      <link>http://localhost:1313/auditor/johnathan_h/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/johnathan_h/</guid>
+      <guid>http://localhost:1313/auditor/johnathan_h/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/nataniel_j/</link>
+      <link>http://localhost:1313/auditor/nataniel_j/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/nataniel_j/</guid>
+      <guid>http://localhost:1313/auditor/nataniel_j/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/nihal_e/</link>
+      <link>http://localhost:1313/auditor/nihal_e/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/nihal_e/</guid>
+      <guid>http://localhost:1313/auditor/nihal_e/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/pragya_m/</link>
+      <link>http://localhost:1313/auditor/pragya_m/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/pragya_m/</guid>
+      <guid>http://localhost:1313/auditor/pragya_m/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/sahil_k/</link>
+      <link>http://localhost:1313/auditor/sahil_k/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/sahil_k/</guid>
+      <guid>http://localhost:1313/auditor/sahil_k/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/varsana_i/</link>
+      <link>http://localhost:1313/auditor/varsana_i/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/varsana_i/</guid>
+      <guid>http://localhost:1313/auditor/varsana_i/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/vihan_p/</link>
+      <link>http://localhost:1313/auditor/vihan_p/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/vihan_p/</guid>
+      <guid>http://localhost:1313/auditor/vihan_p/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/alex_s/</link>
+      <link>http://localhost:1313/auditor/alex_s/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/alex_s/</guid>
+      <guid>http://localhost:1313/auditor/alex_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/anirudh_s/</link>
+      <link>http://localhost:1313/auditor/anirudh_s/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/anirudh_s/</guid>
+      <guid>http://localhost:1313/auditor/anirudh_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/njeri_g/</link>
+      <link>http://localhost:1313/auditor/njeri_g/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/njeri_g/</guid>
+      <guid>http://localhost:1313/auditor/njeri_g/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/parsh_g/</link>
+      <link>http://localhost:1313/auditor/parsh_g/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/parsh_g/</guid>
+      <guid>http://localhost:1313/auditor/parsh_g/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/abhita/</link>
+      <link>http://localhost:1313/auditor/abhita/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/abhita/</guid>
+      <guid>http://localhost:1313/auditor/abhita/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/annika/</link>
+      <link>http://localhost:1313/auditor/annika/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/annika/</guid>
+      <guid>http://localhost:1313/auditor/annika/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/arnav/</link>
+      <link>http://localhost:1313/auditor/arnav/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/arnav/</guid>
+      <guid>http://localhost:1313/auditor/arnav/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/ashton_l/</link>
+      <link>http://localhost:1313/auditor/ashton_l/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/ashton_l/</guid>
+      <guid>http://localhost:1313/auditor/ashton_l/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/ayush_r/</link>
+      <link>http://localhost:1313/auditor/ayush_r/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/ayush_r/</guid>
+      <guid>http://localhost:1313/auditor/ayush_r/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/dan_p/</link>
+      <link>http://localhost:1313/auditor/dan_p/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/dan_p/</guid>
+      <guid>http://localhost:1313/auditor/dan_p/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/denise_a/</link>
+      <link>http://localhost:1313/auditor/denise_a/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/denise_a/</guid>
+      <guid>http://localhost:1313/auditor/denise_a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/jaskaran_s/</link>
+      <link>http://localhost:1313/auditor/jaskaran_s/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/jaskaran_s/</guid>
+      <guid>http://localhost:1313/auditor/jaskaran_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/kevin_k/</link>
+      <link>http://localhost:1313/auditor/kevin_k/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/kevin_k/</guid>
+      <guid>http://localhost:1313/auditor/kevin_k/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/laurena_c/</link>
+      <link>http://localhost:1313/auditor/laurena_c/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/laurena_c/</guid>
+      <guid>http://localhost:1313/auditor/laurena_c/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/levi_l/</link>
+      <link>http://localhost:1313/auditor/levi_l/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/levi_l/</guid>
+      <guid>http://localhost:1313/auditor/levi_l/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/maharshi_m/</link>
+      <link>http://localhost:1313/auditor/maharshi_m/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/maharshi_m/</guid>
+      <guid>http://localhost:1313/auditor/maharshi_m/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/mahyar_v/</link>
+      <link>http://localhost:1313/auditor/mahyar_v/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/mahyar_v/</guid>
-      <description>I am an Iranian-born student who moved to the USA at the age of 12. I have lived in Santa Cruz since I migrated, eventually got to persue my higher degree in Computer Sicence @ UCSC. I am working to learn more about LLM and chatbots, as they are one of the many fields that I’ve shown a keen interest in. I am also a Teaching Assistant under Professor Tantalo’s guidance in Data Structures and Algorithms.</description>
+      <guid>http://localhost:1313/auditor/mahyar_v/</guid>
+      <description>&lt;p&gt;I am an Iranian-born student who moved to the USA at the age of 12. I have lived in Santa Cruz since I migrated, eventually got to persue my higher degree in Computer Sicence @ UCSC. I am working to learn more about LLM and chatbots, as they are one of the many fields that I’ve shown a keen interest in. I am also a Teaching Assistant under Professor Tantalo’s guidance in Data Structures and Algorithms. I hope to keep this job until I graduate and have some Software related job to look forward to post grad.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/nathan_n/</link>
+      <link>http://localhost:1313/auditor/nathan_n/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/nathan_n/</guid>
+      <guid>http://localhost:1313/auditor/nathan_n/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/raghav_s/</link>
+      <link>http://localhost:1313/auditor/raghav_s/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/raghav_s/</guid>
+      <guid>http://localhost:1313/auditor/raghav_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/rahul_p/</link>
+      <link>http://localhost:1313/auditor/rahul_p/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/rahul_p/</guid>
+      <guid>http://localhost:1313/auditor/rahul_p/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/raviteja_p/</link>
+      <link>http://localhost:1313/auditor/raviteja_p/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/raviteja_p/</guid>
+      <guid>http://localhost:1313/auditor/raviteja_p/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/reva_a/</link>
+      <link>http://localhost:1313/auditor/reva_a/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/reva_a/</guid>
+      <guid>http://localhost:1313/auditor/reva_a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/saachi_b/</link>
+      <link>http://localhost:1313/auditor/saachi_b/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/saachi_b/</guid>
+      <guid>http://localhost:1313/auditor/saachi_b/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/sai_p/</link>
+      <link>http://localhost:1313/auditor/sai_p/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/sai_p/</guid>
+      <guid>http://localhost:1313/auditor/sai_p/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/surabhi_k/</link>
+      <link>http://localhost:1313/auditor/surabhi_k/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/surabhi_k/</guid>
+      <guid>http://localhost:1313/auditor/surabhi_k/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/tanvi_j/</link>
+      <link>http://localhost:1313/auditor/tanvi_j/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/tanvi_j/</guid>
+      <guid>http://localhost:1313/auditor/tanvi_j/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/tejas/</link>
+      <link>http://localhost:1313/auditor/tejas/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/tejas/</guid>
+      <guid>http://localhost:1313/auditor/tejas/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/varnit_b/</link>
+      <link>http://localhost:1313/auditor/varnit_b/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/varnit_b/</guid>
+      <guid>http://localhost:1313/auditor/varnit_b/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/vijay_a/</link>
+      <link>http://localhost:1313/auditor/vijay_a/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/vijay_a/</guid>
+      <guid>http://localhost:1313/auditor/vijay_a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/xuan_j/</link>
+      <link>http://localhost:1313/auditor/xuan_j/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/xuan_j/</guid>
+      <guid>http://localhost:1313/auditor/xuan_j/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/anish/</link>
+      <link>http://localhost:1313/auditor/anish/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/anish/</guid>
+      <guid>http://localhost:1313/auditor/anish/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/kendrick_n/</link>
+      <link>http://localhost:1313/auditor/kendrick_n/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/kendrick_n/</guid>
+      <guid>http://localhost:1313/auditor/kendrick_n/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/aidan_a/</link>
+      <link>http://localhost:1313/auditor/aidan_a/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/aidan_a/</guid>
+      <guid>http://localhost:1313/auditor/aidan_a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/aiven_j/</link>
+      <link>http://localhost:1313/auditor/aiven_j/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/aiven_j/</guid>
+      <guid>http://localhost:1313/auditor/aiven_j/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/ameek_s/</link>
+      <link>http://localhost:1313/auditor/ameek_s/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/ameek_s/</guid>
+      <guid>http://localhost:1313/auditor/ameek_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/anshika/</link>
+      <link>http://localhost:1313/auditor/anshika/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/anshika/</guid>
+      <guid>http://localhost:1313/auditor/anshika/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/calvin_s/</link>
+      <link>http://localhost:1313/auditor/calvin_s/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/calvin_s/</guid>
+      <guid>http://localhost:1313/auditor/calvin_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/daniel/</link>
+      <link>http://localhost:1313/auditor/daniel/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/daniel/</guid>
+      <guid>http://localhost:1313/auditor/daniel/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/dominick_r/</link>
+      <link>http://localhost:1313/auditor/dominick_r/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/dominick_r/</guid>
+      <guid>http://localhost:1313/auditor/dominick_r/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/harsh/</link>
+      <link>http://localhost:1313/auditor/harsh/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/harsh/</guid>
+      <guid>http://localhost:1313/auditor/harsh/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/ian/</link>
+      <link>http://localhost:1313/auditor/ian/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/ian/</guid>
+      <guid>http://localhost:1313/auditor/ian/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/krishna_d/</link>
+      <link>http://localhost:1313/auditor/krishna_d/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/krishna_d/</guid>
+      <guid>http://localhost:1313/auditor/krishna_d/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/lily_f/</link>
+      <link>http://localhost:1313/auditor/lily_f/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/lily_f/</guid>
+      <guid>http://localhost:1313/auditor/lily_f/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/nathan/</link>
+      <link>http://localhost:1313/auditor/nathan/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/nathan/</guid>
+      <guid>http://localhost:1313/auditor/nathan/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/neha_s/</link>
+      <link>http://localhost:1313/auditor/neha_s/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/neha_s/</guid>
+      <guid>http://localhost:1313/auditor/neha_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/prathik_k/</link>
+      <link>http://localhost:1313/auditor/prathik_k/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/prathik_k/</guid>
+      <guid>http://localhost:1313/auditor/prathik_k/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/rajat/</link>
+      <link>http://localhost:1313/auditor/rajat/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/rajat/</guid>
+      <guid>http://localhost:1313/auditor/rajat/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/sahib_a/</link>
+      <link>http://localhost:1313/auditor/sahib_a/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/sahib_a/</guid>
+      <guid>http://localhost:1313/auditor/sahib_a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/sahil_n/</link>
+      <link>http://localhost:1313/auditor/sahil_n/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/sahil_n/</guid>
+      <guid>http://localhost:1313/auditor/sahil_n/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/samiyah/</link>
+      <link>http://localhost:1313/auditor/samiyah/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/samiyah/</guid>
+      <guid>http://localhost:1313/auditor/samiyah/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/sanya_m/</link>
+      <link>http://localhost:1313/auditor/sanya_m/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/sanya_m/</guid>
+      <guid>http://localhost:1313/auditor/sanya_m/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/satwik_p/</link>
+      <link>http://localhost:1313/auditor/satwik_p/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/satwik_p/</guid>
+      <guid>http://localhost:1313/auditor/satwik_p/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/saumit_v/</link>
+      <link>http://localhost:1313/auditor/saumit_v/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/saumit_v/</guid>
+      <guid>http://localhost:1313/auditor/saumit_v/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/sean_s/</link>
+      <link>http://localhost:1313/auditor/sean_s/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/sean_s/</guid>
+      <guid>http://localhost:1313/auditor/sean_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/sebastian/</link>
+      <link>http://localhost:1313/auditor/sebastian/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/sebastian/</guid>
+      <guid>http://localhost:1313/auditor/sebastian/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/selam/</link>
+      <link>http://localhost:1313/auditor/selam/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/selam/</guid>
+      <guid>http://localhost:1313/auditor/selam/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/sidharth_b/</link>
+      <link>http://localhost:1313/auditor/sidharth_b/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/sidharth_b/</guid>
+      <guid>http://localhost:1313/auditor/sidharth_b/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/sophie_h/</link>
+      <link>http://localhost:1313/auditor/sophie_h/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/sophie_h/</guid>
+      <guid>http://localhost:1313/auditor/sophie_h/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/sri/</link>
+      <link>http://localhost:1313/auditor/sri/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/sri/</guid>
+      <guid>http://localhost:1313/auditor/sri/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/srinidhi/</link>
+      <link>http://localhost:1313/auditor/srinidhi/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/srinidhi/</guid>
+      <guid>http://localhost:1313/auditor/srinidhi/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/suhas/</link>
+      <link>http://localhost:1313/auditor/suhas/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/suhas/</guid>
+      <guid>http://localhost:1313/auditor/suhas/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/tanishq_p/</link>
+      <link>http://localhost:1313/auditor/tanishq_p/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/tanishq_p/</guid>
+      <guid>http://localhost:1313/auditor/tanishq_p/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/tanvi/</link>
+      <link>http://localhost:1313/auditor/tanvi/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/tanvi/</guid>
+      <guid>http://localhost:1313/auditor/tanvi/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/tavleen/</link>
+      <link>http://localhost:1313/auditor/tavleen/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/tavleen/</guid>
+      <guid>http://localhost:1313/auditor/tavleen/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/tavleen_k/</link>
+      <link>http://localhost:1313/auditor/tavleen_k/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/tavleen_k/</guid>
+      <guid>http://localhost:1313/auditor/tavleen_k/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/thomas/</link>
+      <link>http://localhost:1313/auditor/thomas/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/thomas/</guid>
+      <guid>http://localhost:1313/auditor/thomas/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/umair/</link>
+      <link>http://localhost:1313/auditor/umair/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/umair/</guid>
+      <guid>http://localhost:1313/auditor/umair/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/vik_d/</link>
+      <link>http://localhost:1313/auditor/vik_d/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/vik_d/</guid>
+      <guid>http://localhost:1313/auditor/vik_d/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/allan_dewey/</link>
+      <link>http://localhost:1313/auditor/allan_dewey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/allan_dewey/</guid>
+      <guid>http://localhost:1313/auditor/allan_dewey/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
