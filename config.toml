@@ -22,6 +22,7 @@ tag = "tags"
 
   slogan = "AIEA Lab at UCSC"
   slogan_text = "Artificial Intelligence Explainability Accountability (AIEA) Lab"
+  header_image = "static/images/header.jpg"
 
   [[params.slogan_columns]]
     title = "About"
