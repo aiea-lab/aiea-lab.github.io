@@ -2,7 +2,7 @@
 bio = ""
 date = "2023-09-01"
 id = "saketh"
-interests = ["swimming", "guitar", "travelling"]
+interests = ["Neurological Disease Prediction / Diagnosis", "Data Networking", "Healthcare applications of AI"]
 name = "Saketh Machiraju"
 portrait = "/portraits/saketh.jpeg"
 short_bio = "Sophmore @ UCSC Studying Computer Engineering"
