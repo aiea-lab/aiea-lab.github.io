@@ -1,60 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on AIEA Lab</title>
-    <link>https://aiea-lab.github.io/project/</link>
+    <link>http://localhost:1313/project/</link>
     <description>Recent content in Projects on AIEA Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
+    <language>en</language>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://aiea-lab.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>XAI for Mental Health</title>
-      <link>https://aiea-lab.github.io/project/xai_mental_health/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/project/xai_mental_health/</guid>
-      <description> Papers </description>
-    </item>
-    
+    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Explainable Autograder</title>
-      <link>https://aiea-lab.github.io/project/explaingrade/</link>
+      <link>http://localhost:1313/project/explaingrade/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/project/explaingrade/</guid>
-      <description>Current software assessment tools or “autograders” automatically evaluate and score student programming assignments with output-based feedback, but they do not offer conceptual guidance to help students or instructors improve. Students and instructors get a grade ,showing which test cases pass or fail, but not a clear rationale for why those outcomes occurred. There is a need to improve feedback for students to increase efficient learning [1], and for instructors to inform pedagogy and system evaluation [2].</description>
+      <guid>http://localhost:1313/project/explaingrade/</guid>
+      <description>&lt;p&gt;Current software assessment tools or “autograders” automatically evaluate and score student programming assignments with output-based feedback, but they do not offer conceptual guidance to help students or instructors improve.  Students and instructors get a grade ,showing which test cases pass or fail,  but not a clear rationale for why those outcomes occurred.  There is a need to improve feedback for students to increase efficient learning [1], and for instructors to inform pedagogy and system evaluation [2]. The goal of this project is to address this gap by developing an explainable AI (XAI) autograder system that identifies the conceptual strengths and weaknesses in computer science student’s answers.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Explaining LLM Failures</title>
-      <link>https://aiea-lab.github.io/project/xaillm/</link>
+      <link>http://localhost:1313/project/xaillm/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/project/xaillm/</guid>
+      <guid>http://localhost:1313/project/xaillm/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Robust Autonomous Vehicles</title>
-      <link>https://aiea-lab.github.io/project/robustavs/</link>
+      <link>http://localhost:1313/project/robustavs/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/project/robustavs/</guid>
-      <description>Autonomous Vehicles (AVs), including aerial, ground, and sea vehicles, are becoming an integral part of our lives. Currently, most AVs trust sensor data to make navigation and other control decisions. In addition, they trust that the control commands given to actuators are executed faithfully. While trusting sensor and actuator data with minimal validation has proven to be an effective trade-off in current market solutions, it is not a sustainable practice as AVs become more pervasive and computer attacks increase in sophistication.</description>
+      <guid>http://localhost:1313/project/robustavs/</guid>
+      <description>&lt;p&gt;Autonomous Vehicles (AVs), including aerial, ground, and sea vehicles, are becoming an integral part of our lives. Currently, most AVs trust sensor data to make navigation and other control decisions. In addition, they trust that the control commands given to actuators are executed faithfully. While trusting sensor and actuator data with minimal validation has proven to be an effective trade-off in current market solutions, it is not a sustainable practice as AVs become more pervasive and computer attacks increase in sophistication.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Neuron Explanations</title>
-      <link>https://aiea-lab.github.io/project/neuron_expl/</link>
+      <link>http://localhost:1313/project/neuron_expl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/project/neuron_expl/</guid>
-      <description>The Neuron Explanation project aims to understand what deep neural networks (CNN, LLMs) learn during the training process by analyzing what individual neurons are able to recognize in terms of concepts (e.g., cat, building, etc). Specifically, we aim to achieve this goal by associating logical rules (e.g., (Cat OR Dog) AND NOT person)) to each neuron that express the (spatial) alignment between neurons activations and concept locations. These rules are usually extracted by combining search algorithms, clustering algorithms and statistical analysis of neurons activation.</description>
+      <guid>http://localhost:1313/project/neuron_expl/</guid>
+      <description>&lt;p&gt;The Neuron Explanation project aims to understand what deep neural networks (CNN, LLMs) learn during the training process by analyzing what individual neurons are able to recognize in terms of concepts (e.g., cat, building, etc). Specifically, we aim to achieve this goal by associating logical rules (e.g., (Cat OR Dog) AND NOT person)) to each neuron that express the (spatial) alignment between neurons activations and concept locations. These rules are usually extracted by combining search algorithms, clustering algorithms and statistical analysis of neurons activation.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
