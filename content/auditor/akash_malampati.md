@@ -1,18 +1,18 @@
 +++
 bio = "" 
-date = "2024-10-27" 
-id = "parsh_g" 
+date = "2024-10-06" 
+id = "akash_malampati" 
 interests = [] 
-name = "Parsh Gandhi" 
+name = "Akash Malampatia " 
 portrait = "/portraits/default.jpg" 
 short_bio = "" 
 sort_position = 10
- short_name = "parsh_g" 
+ short_name = "Akash" 
 
 [[social]] 
     icon = "envelope" 
     icon_pack = "fa" 
-    link = "mailto: "
+    link = "mailto: amalampa@ucsc.edu"
 
  [[social]] 
     icon = "twitter" 
@@ -27,7 +27,7 @@ sort_position = 10
 [[social]] 
     icon = "github" 
     icon_pack = "fa" 
-    link = "https://github.com/parshG" 
+    link = "https://github.com/" 
 [[organizations]] 
      name = "UC Santa Cruz" 
       role = "Undergrad Student" 

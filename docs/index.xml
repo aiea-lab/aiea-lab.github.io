@@ -6,10 +6,128 @@
     <description>Recent content on AIEA Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aiea-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/member/caleb/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/caleb/</guid>
+      <description>Caleb Bergen is an undergraduate student at UC Santa Cruz majoring in Computer Science. His current work examines the effectiveness and ethics of using large language models (LLMs) as driving assistants for autonomous vehicles in simulations.
+Caleb holds an A.S. in Mathematics and an A.S. in Computer Science (both with highest honors) from Fresno City College. He transferred to UC Santa Cruz in the fall of 2024 and will be graduating in the spring 2026 quarter.</description>
+    </item>
+    
+    <item>
+      <title>BS</title>
+      <link>https://aiea-lab.github.io/auditor/inikabhargava/</link>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/inikabhargava/</guid>
+      <description>Put your bio here.</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate Researcher</title>
+      <link>https://aiea-lab.github.io/auditor/surya_jagarlamudi/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/surya_jagarlamudi/</guid>
+      <description>Surya Jagarlamudi is a Computer Engineering undergraduate at UC Santa Cruz focusing on artificial intelligence, computational modeling, and full-stack software systems. He is passionate about using technology to create adaptive, human-centered solutions in engineering and data-driven decision making.</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/pravin/</link>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/pravin/</guid>
+      <description>&amp;ldquo;3rd year Computer Engineering student at UC Santa Cruz excited to explore the edges of AI and expand the frontier&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/parsh_gandhi/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/parsh_gandhi/</guid>
+      <description>Put your bio here.</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/amanvars/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/amanvars/</guid>
+      <description>Put your bio here.</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/matthew_k/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/matthew_k/</guid>
+      <description>Matthew Kimotsuki is a 4th year computer science student at UCSC with an interest in AI safety and ethics.</description>
+    </item>
+    
+    <item>
+      <title>NeSy Law</title>
+      <link>https://aiea-lab.github.io/project/nesylaw/</link>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/project/nesylaw/</guid>
+      <description>The NeSy (previously known as LLM + Law) project focuses on harvesting the power of symbolic language and Neuro-symbolic AI for legal use cases. Neuro-symbolic AI (also known as NeSy) is a field that combines the generalizability of Neural Networks and interpretability and control of Symbolic AI. The highly structured setup with potential capability for formal verification is a great fit for the legal field. Its generalizability is promising to lift up the burden of heavy legal document review and drafting</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/andre_chen/</link>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/andre_chen/</guid>
+      <description>Putting bio here.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/auditor/evan_kaiden/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/evan_kaiden/</guid>
+      <description>Put your bio here.</description>
+    </item>
+    
+    <item>
+      <title>Auditor</title>
+      <link>https://aiea-lab.github.io/auditor/bhavyashanmugam/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/bhavyashanmugam/</guid>
+      <description>Put your bio here.</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/bolor_b/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/bolor_b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/stanley/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/stanley/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -31,10 +149,10 @@
     
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/adam_m/</link>
+      <link>https://aiea-lab.github.io/member/adam_m/</link>
       <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://aiea-lab.github.io/auditor/adam_m/</guid>
+      <guid>https://aiea-lab.github.io/member/adam_m/</guid>
       <description></description>
     </item>
     
@@ -49,10 +167,10 @@
     
     <item>
       <title>Masters</title>
-      <link>https://aiea-lab.github.io/auditor/charlie_a/</link>
+      <link>https://aiea-lab.github.io/member/charlie_a/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://aiea-lab.github.io/auditor/charlie_a/</guid>
+      <guid>https://aiea-lab.github.io/member/charlie_a/</guid>
       <description></description>
     </item>
     
@@ -71,15 +189,6 @@
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       
       <guid>https://aiea-lab.github.io/auditor/ash/</guid>
-      <description>Put your bio here.</description>
-    </item>
-    
-    <item>
-      <title>Undergraduate</title>
-      <link>https://aiea-lab.github.io/auditor/caleb/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/caleb/</guid>
       <description>Put your bio here.</description>
     </item>
     
@@ -112,20 +221,20 @@
     
     <item>
       <title>Undergraduate</title>
-      <link>https://aiea-lab.github.io/auditor/jetha/</link>
-      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/jetha/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Undergraduate</title>
       <link>https://aiea-lab.github.io/auditor/neha_h/</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
       
       <guid>https://aiea-lab.github.io/auditor/neha_h/</guid>
       <description>Put your bio here.</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/member/jetha/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/jetha/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -305,15 +414,6 @@
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>https://aiea-lab.github.io/auditor/njeri_g/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://aiea-lab.github.io/auditor/parsh_g/</link>
-      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/parsh_g/</guid>
       <description></description>
     </item>
     
@@ -863,6 +963,15 @@
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>https://aiea-lab.github.io/member/zhonghui_l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/auditor/akash_malampati/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/akash_malampati/</guid>
       <description></description>
     </item>
     
@@ -1678,15 +1787,6 @@
     
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/dominick_r/</link>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/dominick_r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://aiea-lab.github.io/auditor/harsh/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       
@@ -2417,6 +2517,24 @@ read more</description>
       <guid>https://aiea-lab.github.io/member/sijia/</guid>
       <description>Sijia is a first-year Ph.D. student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. She has an interest in the explainability of model intelligence (XAI).
 read more</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/shaan/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/shaan/</guid>
+      <description>Put your bio here.</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/alexanderleung/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/alexanderleung/</guid>
+      <description>Hello! My name is Alexander Leung. I’m an undergraduate auditor with interests in AI, LLM and Software Engineering</description>
     </item>
     
     <item>
