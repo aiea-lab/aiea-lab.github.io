@@ -2,7 +2,7 @@
 bio = ""
 date = "2025-09-30"
 id = "trisha"
-interests = ["write", "your", "interests"]
+interests = ["XAI", "EdTech"]
 name = "Trisha Moorkoth"
 portrait = "/portraits/trisha.png"
 short_bio = ""
