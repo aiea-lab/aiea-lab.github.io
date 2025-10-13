@@ -2,7 +2,6 @@
 bio = ""
 date = "2025-09-23"
 id = "krishna_k"
-interests = ["write", "your", "interests"]
 name = "krishna sai kasturi"
 portrait = "/portraits/KKasturi.jpg"
 short_bio = "Im a junior at UCSC , I enjoy watching soccer, mma, and hanging out with my friends. Favorite artist is drake"
