@@ -2,7 +2,7 @@
 bio = "Hi my name is Dheshnaa Madasamy, second year Technology and Information Management student interested in getting started in AI Research."
 date = "2025-10-04"
 id = "Dheshnaa"
-interests = ["write", "your", "interests"]
+interests = ["AI", "Machine Learning", "Data Science"]
 name = "Dheshnaa Madasamy"
 portrait = "/portraits/dheshnaa_madasamy.jpg"
 short_bio = "Second year Technology and Information Management"
