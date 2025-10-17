@@ -1,11 +1,11 @@
 +++
-bio = "Hi my name is Dheshnaa Madasamy, second year Technology and Information Management student interested in getting started in AI Research."
+bio = "Hi my name is Farhan Ali, a second year Computer Science major eager excited to explore AI"
 date = "2025-10-04"
 id = "Farhan"
 interests = ["Autonomous Vehicles", "LLM Logic", "AI Applications"]
 name = "Farhan Ali"
 portrait = "/portraits/farhan_ali.jpg"
-short_bio = "Undergradate Computer Science student eager to learn about AI and AI applications"
+short_bio = "An undergradate Computer Science student eager to learn about AI and AI applications"
 short_name = "Farhan"
 title = "Undergradute"
 
