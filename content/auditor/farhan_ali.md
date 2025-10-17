@@ -1,5 +1,5 @@
 +++
-bio = "Hi my name is Farhan Ali, a second year Computer Science major eager excited to explore AI"
+bio = "Hi my name is Farhan Ali. I'm a second year Computer Science major eager to explore AI"
 date = "2025-10-04"
 id = "Farhan"
 interests = ["Autonomous Vehicles", "LLM Logic", "AI Applications"]
