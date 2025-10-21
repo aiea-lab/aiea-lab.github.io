@@ -2,7 +2,7 @@
 bio = "Hi! I'm Dongjun Hahm, a third-year TIM & BMEcon major. I love making cool projects, so feel free to reach out if you're making something interesting!"
 date = "2025-09-29"
 id = "dongjun_h"
-interests = ["write", "your", "interests"]
+interests = ["photography", "cooking", "cats"]
 name = "Dongjun Hahm"
 portrait = "/portraits/dongjun_h.jpg"
 short_bio = "Hi! I'm Dongjun Hahm, a 3rd year TIM & BMEcon major."
