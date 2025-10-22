@@ -1,5 +1,5 @@
 +++
-date= ""
+date= "2025-09-27"
 description = ""
 short_description = "Understanding what knowledge AI learn and where it stores in its neurons."
 title = "Neuron Explanations"
