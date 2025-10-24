@@ -2,7 +2,7 @@
 bio = ""
 date = "2025-10-10"
 id = "toranosuke"
-interests = [AI/ML, Cybersecurity, Gym, Music]
+interests = ["AI/ML", "Cybersecurity", "Gym", "Music"]
 name = "Toranosuke Matsuda"
 portrait = "/portraits/tora_m.jpg"
 short_bio = "Hi, I'm Tora Matsuda, a 4th-year Computer Science major at UCSC."
