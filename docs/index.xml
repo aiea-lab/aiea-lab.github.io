@@ -49,6 +49,15 @@
     
     <item>
       <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/tora_m/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/tora_m/</guid>
+      <description>Put your bio here.</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate</title>
       <link>https://aiea-lab.github.io/member/caleb/</link>
       <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
       
@@ -63,6 +72,15 @@ Caleb holds an A.S. in Mathematics and an A.S. in Computer Science (both with hi
       <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
       
       <guid>https://aiea-lab.github.io/auditor/inikabhargava/</guid>
+      <description>Put your bio here.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/auditor/jatikilt/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/jatikilt/</guid>
       <description>Put your bio here.</description>
     </item>
     
@@ -184,12 +202,30 @@ Caleb holds an A.S. in Mathematics and an A.S. in Computer Science (both with hi
     </item>
     
     <item>
+      <title>Undergraduate student</title>
+      <link>https://aiea-lab.github.io/auditor/dongjun_h/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/dongjun_h/</guid>
+      <description>Put your bio here.</description>
+    </item>
+    
+    <item>
       <title>NeSy Law</title>
       <link>https://aiea-lab.github.io/project/nesylaw/</link>
       <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
       
       <guid>https://aiea-lab.github.io/project/nesylaw/</guid>
       <description>The NeSy (previously known as LLM + Law) project focuses on harvesting the power of symbolic language and Neuro-symbolic AI for legal use cases. Neuro-symbolic AI (also known as NeSy) is a field that combines the generalizability of Neural Networks and interpretability and control of Symbolic AI. The highly structured setup with potential capability for formal verification is a great fit for the legal field. Its generalizability is promising to lift up the burden of heavy legal document review and drafting</description>
+    </item>
+    
+    <item>
+      <title>Neuron Explanations</title>
+      <link>https://aiea-lab.github.io/project/neuron_expl/</link>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/project/neuron_expl/</guid>
+      <description>The Neuron Explanation project aims to understand what deep neural networks (CNN, LLMs) learn during the training process by analyzing what individual neurons are able to recognize in terms of concepts (e.g., cat, building, etc). Specifically, we aim to achieve this goal by associating logical rules (e.g., (Cat OR Dog) AND NOT person)) to each neuron that express the (spatial) alignment between neurons activations and concept locations. These rules are usually extracted by combining search algorithms, clustering algorithms and statistical analysis of neurons activation.</description>
     </item>
     
     <item>
@@ -387,6 +423,15 @@ Caleb holds an A.S. in Mathematics and an A.S. in Computer Science (both with hi
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
       
       <guid>https://aiea-lab.github.io/auditor/yashas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auditor</title>
+      <link>https://aiea-lab.github.io/auditor/satvik_k/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/satvik_k/</guid>
       <description></description>
     </item>
     
@@ -2879,15 +2924,6 @@ Non sub haedum tenet Lorem markdownum esse diversa quoque vocavit, quam! Vires t
       <guid>https://aiea-lab.github.io/vacancy/vacancy1/</guid>
       <description>You can write $\LaTeX$ and Markdown here.
 Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
-    </item>
-    
-    <item>
-      <title>Neuron Explanations</title>
-      <link>https://aiea-lab.github.io/project/neuron_expl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/project/neuron_expl/</guid>
-      <description>The Neuron Explanation project aims to understand what deep neural networks (CNN, LLMs) learn during the training process by analyzing what individual neurons are able to recognize in terms of concepts (e.g., cat, building, etc). Specifically, we aim to achieve this goal by associating logical rules (e.g., (Cat OR Dog) AND NOT person)) to each neuron that express the (spatial) alignment between neurons activations and concept locations. These rules are usually extracted by combining search algorithms, clustering algorithms and statistical analysis of neurons activation.</description>
     </item>
     
   </channel>

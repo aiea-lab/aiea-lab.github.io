@@ -41,6 +41,11 @@
   </url>
   
   <url>
+    <loc>https://aiea-lab.github.io/auditor/tora_m/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aiea-lab.github.io/member/caleb/</loc>
     <lastmod>2025-10-10T00:00:00+00:00</lastmod>
   </url>
@@ -48,6 +53,11 @@
   <url>
     <loc>https://aiea-lab.github.io/auditor/inikabhargava/</loc>
     <lastmod>2025-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aiea-lab.github.io/auditor/jatikilt/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -116,7 +126,17 @@
   </url>
   
   <url>
+    <loc>https://aiea-lab.github.io/auditor/dongjun_h/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aiea-lab.github.io/project/nesylaw/</loc>
+    <lastmod>2025-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aiea-lab.github.io/project/neuron_expl/</loc>
     <lastmod>2025-09-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -234,6 +254,11 @@
   <url>
     <loc>https://aiea-lab.github.io/auditor/yashas/</loc>
     <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aiea-lab.github.io/auditor/satvik_k/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1638,10 +1663,6 @@
   <url>
     <loc>https://aiea-lab.github.io/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/project/neuron_expl/</loc>
   </url>
   
   <url>
