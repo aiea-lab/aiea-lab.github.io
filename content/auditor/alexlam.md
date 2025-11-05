@@ -15,16 +15,6 @@ title = "Undergraduate"
     link = "mailto:alplam@ucsc.edu"
 
 [[social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = ""
-
-[[social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = ""
-
-[[social]]
     icon = "github"
     icon_pack = "fa"
     link = "yyorca"
