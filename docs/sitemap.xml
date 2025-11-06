@@ -1,1678 +1,992 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://aiea-lab.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-10-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/</loc>
     <lastmod>2025-10-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/victor/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/victor/</loc>
     <lastmod>2025-10-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/bardia/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/bardia/</loc>
     <lastmod>2025-10-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/naomi/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/naomi/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/zaki/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/zaki/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/</loc>
     <lastmod>2025-10-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/tora_m/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/tora_m/</loc>
     <lastmod>2025-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/caleb/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/caleb/</loc>
     <lastmod>2025-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/inikabhargava/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/inikabhargava/</loc>
     <lastmod>2025-10-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/jatikilt/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/jatikilt/</loc>
     <lastmod>2025-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/surya_jagarlamudi/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/surya_jagarlamudi/</loc>
     <lastmod>2025-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/pravin/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/pravin/</loc>
     <lastmod>2025-10-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/dheshnaa_madasamy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/dheshnaa_madasamy/</loc>
     <lastmod>2025-10-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/farhan_ali/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/farhan_ali/</loc>
     <lastmod>2025-10-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/arnav_d/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/arnav_d/</loc>
     <lastmod>2025-10-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/jesus_cuevas/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/jesus_cuevas/</loc>
     <lastmod>2025-10-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/siddharth_m/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/siddharth_m/</loc>
     <lastmod>2025-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/parsh_gandhi/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/parsh_gandhi/</loc>
     <lastmod>2025-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/anurag_c/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/anurag_c/</loc>
     <lastmod>2025-09-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/jaisree/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/jaisree/</loc>
     <lastmod>2025-09-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/trisha_moorkoth/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/trisha_moorkoth/</loc>
     <lastmod>2025-09-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/amanvars/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/amanvars/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/matthew_k/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/matthew_k/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/dongjun_h/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/dongjun_h/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/project/nesylaw/</loc>
+  </url><url>
+    <loc>http://localhost:1313/project/nesylaw/</loc>
     <lastmod>2025-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/project/neuron_expl/</loc>
+  </url><url>
+    <loc>http://localhost:1313/project/neuron_expl/</loc>
     <lastmod>2025-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/project/</loc>
+  </url><url>
+    <loc>http://localhost:1313/project/</loc>
     <lastmod>2025-09-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/andre_chen/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/andre_chen/</loc>
     <lastmod>2025-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/aman_avinash/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/aman_avinash/</loc>
     <lastmod>2025-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/kkasturi/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/kkasturi/</loc>
     <lastmod>2025-09-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/evan_kaiden/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/evan_kaiden/</loc>
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/bhavyashanmugam/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/bhavyashanmugam/</loc>
     <lastmod>2025-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/bolor_b/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/bolor_b/</loc>
     <lastmod>2025-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/stanley/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/stanley/</loc>
     <lastmod>2025-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/haardhik_ma/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/haardhik_ma/</loc>
     <lastmod>2025-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/divya_j/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/divya_j/</loc>
     <lastmod>2025-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/adam_m/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/adam_m/</loc>
     <lastmod>2025-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/michael_zhou/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/michael_zhou/</loc>
     <lastmod>2025-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/charlie_a/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/charlie_a/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/shripad_m/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/shripad_m/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/ash/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/ash/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/tisha/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/tisha/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/william_ho/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/william_ho/</loc>
     <lastmod>2025-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/chris_camberos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/chris_camberos/</loc>
     <lastmod>2025-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/neha_h/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/neha_h/</loc>
     <lastmod>2025-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/jetha/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/jetha/</loc>
     <lastmod>2025-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/harini/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/harini/</loc>
     <lastmod>2025-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/nickolas_t/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/nickolas_t/</loc>
     <lastmod>2025-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/yashas/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/yashas/</loc>
     <lastmod>2025-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/satvik_k/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/satvik_k/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/clayton/</loc>
+  </url><url>
+    <loc>http://localhost:1313/research/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/clayton/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/sean_s/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/sean_s/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/johnathan_h/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/johnathan_h/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/nihal_e/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/nihal_e/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/pragya_m/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/pragya_m/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/sahil_k/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/sahil_k/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/varsana_i/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/varsana_i/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/vihan_p/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/vihan_p/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/mahika_g/</loc>
+  </url><url>
+    <loc>http://localhost:1313/intern/mahika_g/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/sahiel_b/</loc>
+  </url><url>
+    <loc>http://localhost:1313/intern/sahiel_b/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/shanay_g/</loc>
+  </url><url>
+    <loc>http://localhost:1313/intern/shanay_g/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/</loc>
+  </url><url>
+    <loc>http://localhost:1313/intern/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/aaja_o/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/aaja_o/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/aishwarya_r/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/aishwarya_r/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/alex_s/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/alex_s/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/anirudh_s/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/anirudh_s/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/njeri_g/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/njeri_g/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/advait_s/</loc>
+  </url><url>
+    <loc>http://localhost:1313/intern/advait_s/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/ethan_h/</loc>
+  </url><url>
+    <loc>http://localhost:1313/intern/ethan_h/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/rohith_k/</loc>
+  </url><url>
+    <loc>http://localhost:1313/intern/rohith_k/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/swara_m/</loc>
+  </url><url>
+    <loc>http://localhost:1313/intern/swara_m/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/daksh_s/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/daksh_s/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/rushil_n/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/rushil_n/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/shiyuan_h/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/shiyuan_h/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/janvi_r/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/janvi_r/</loc>
     <lastmod>2024-10-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/mahika_p/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/mahika_p/</loc>
     <lastmod>2024-10-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/ananya_d/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/ananya_d/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/dhanishtha_p/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/dhanishtha_p/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/kendrick_n/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/kendrick_n/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/michael_s/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/michael_s/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/nistha/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/nistha/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/prathik_k/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/prathik_k/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/rami_w/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/rami_w/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/richard_d/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/richard_d/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/srinidhi_s/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/srinidhi_s/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/vinh/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/vinh/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/yuan_j/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/yuan_j/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/yuhaendan_b/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/yuhaendan_b/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/abhita/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/abhita/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/annika/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/annika/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/arnav/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/arnav/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/ashton_l/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/ashton_l/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/ayush_r/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/ayush_r/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/dan_p/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/dan_p/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/denise_a/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/denise_a/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/jaskaran_s/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/jaskaran_s/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/kevin_k/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/kevin_k/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/laurena_c/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/laurena_c/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/levi_l/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/levi_l/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/maharshi_m/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/maharshi_m/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/nathan_n/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/nathan_n/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/raghav_s/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/raghav_s/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/rahul_p/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/rahul_p/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/raviteja_p/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/raviteja_p/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/reva_a/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/reva_a/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/saachi_b/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/saachi_b/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/sai_p/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/sai_p/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/surabhi_k/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/surabhi_k/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/tanvi_j/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/tanvi_j/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/tejas/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/tejas/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/varnit_b/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/varnit_b/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/vijay_a/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/vijay_a/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/xuan_j/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/xuan_j/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/arush_g/</loc>
+  </url><url>
+    <loc>http://localhost:1313/intern/arush_g/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/ayush_r/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/ayush_r/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/creighton_g/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/creighton_g/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/dominick_r/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/dominick_r/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/hugo_l/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/hugo_l/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/karman_s/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/karman_s/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/krishna_d/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/krishna_d/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/mahyar_v/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/mahyar_v/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/nataniel_j/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/nataniel_j/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/rishika_s/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/rishika_s/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/suhas_o/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/suhas_o/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/surabhi_k/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/surabhi_k/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/vihan_p/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/vihan_p/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/vik_d/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/vik_d/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/zhonghui_l/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/zhonghui_l/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/akash_malampati/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/akash_malampati/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/ziyuan/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/ziyuan/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/abby/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/abby/</loc>
     <lastmod>2024-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/karthik/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/karthik/</loc>
     <lastmod>2024-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/meenal/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/meenal/</loc>
     <lastmod>2024-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/rohan_g/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/rohan_g/</loc>
     <lastmod>2024-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/ashwin_n/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/ashwin_n/</loc>
     <lastmod>2024-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/jonathan_m/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/jonathan_m/</loc>
     <lastmod>2024-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/ameyaa_b/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/ameyaa_b/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/andrew_s/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/andrew_s/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/brendon_c/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/brendon_c/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/jaivin_p/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/jaivin_p/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/max_m/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/max_m/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/olivia_a/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/olivia_a/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/poonam_d/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/poonam_d/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/sidharth_b/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/sidharth_b/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/anish/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/anish/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/kendrick_n/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/kendrick_n/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/justin_s/</loc>
+  </url><url>
+    <loc>http://localhost:1313/intern/justin_s/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/shlok_m/</loc>
+  </url><url>
+    <loc>http://localhost:1313/intern/shlok_m/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/tanisha_p/</loc>
+  </url><url>
+    <loc>http://localhost:1313/intern/tanisha_p/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/vishrut_s/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/vishrut_s/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/akashleena/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/alex_f/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/amos_l/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/anish/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/anthony/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/anuj_k/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/arka_p/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/betsy/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/bo_y/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/brandon_s/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/calvin_s/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/camden_b/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/coen_a/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/daniel_h/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/daniel_s/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/dennis/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/erick_h/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/evan_k/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/fariha_l/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/gene_p/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/harshini_v/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/ish_k/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/jacob_l/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/janvi/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/jason_w/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/jihang_l/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/jimmy_f/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/john_y/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/kajal_p/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/keely_w/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/krithik_d/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/macklin/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/maithili/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/michael_m/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/oliver_l/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/owen_s/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/pratik_d/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/raj_s/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/rangasri_c/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/rithesh/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/ritvik_r/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/roger_l/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/rohit_d/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/ryan_a/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/ryan_l/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/ryan_w/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/sahil_g/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/samuel_c/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/samuel_t/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/sebastian/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/sela/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/shashwat/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/shayan_s/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/shiva_g/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/shoto/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/smruthi_p/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/sukhveer_k/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/suneet_k/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/supriya_p/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/tommy_c/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/vaibhav/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/vid/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/vidya/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/william_s/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/yanwen/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/aidan_a/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/aiven_j/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/ameek_s/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/anshika/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/daniel/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/harsh/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/ian/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/krishna_d/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/lily_f/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/nathan/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/neha_s/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/prathik_k/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/rajat/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/sahib_a/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/sahil_n/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/samiyah/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/sanya_m/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/satwik_p/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/saumit_v/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/sean_s/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/sebastian/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/selam/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/sidharth_b/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/sophie_h/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/sri/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/srinidhi/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/suhas/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/tanishq_p/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/tanvi/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/tavleen/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/tavleen_k/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/thomas/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/umair/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/vik_d/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/abhay_p/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/adarsh_m/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/adithya_g/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/aditi_c/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/aiden_h/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/akshat_b/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/ashmit_s/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/ava_t/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/ayush_b/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/bhargav_e/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/devansh_g/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/diyan_s/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/jaivin_p/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/justin_h/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/jyotiraditya_s/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/krish_s/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/lucas_c/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/mahika_p/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/nitin_j/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/prisha_s/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/ritvik_r/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/shiven_e/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/shlok_a/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/shri_c/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/sumedha_k/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/tanvi_p/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/tito_s/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/vera_f/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/yannis_s/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/yuhaendan_b/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/arnav_k/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/ashwin_p/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/bill_z/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/ivan_d/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/priyesh_v/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/sabrina/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/siddarth_m/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/ujwala/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/vaishnavi_j/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/yilun_z/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/shreyan/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/akashleena/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/alex_f/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/amos_l/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/anish/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/anthony/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/anuj_k/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/arka_p/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/betsy/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/bo_y/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/brandon_s/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/calvin_s/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/camden_b/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/coen_a/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/daniel_h/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/daniel_s/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/dennis/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/erick_h/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/evan_k/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/fariha_l/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/gene_p/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/harshini_v/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/ish_k/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/jacob_l/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/janvi/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/jason_w/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/jihang_l/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/jimmy_f/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/john_y/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/kajal_p/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/keely_w/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/krithik_d/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/macklin/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/maithili/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/michael_m/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/oliver_l/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/owen_s/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/pratik_d/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/raj_s/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/rangasri_c/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/rithesh/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/ritvik_r/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/roger_l/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/rohit_d/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/ryan_a/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/ryan_l/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/ryan_w/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/sahil_g/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/samuel_c/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/samuel_t/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/sebastian/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/sela/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/shashwat/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/shayan_s/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/shiva_g/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/shoto/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/smruthi_p/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/sukhveer_k/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/suneet_k/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/supriya_p/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/tommy_c/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/vaibhav/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/vid/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/vidya/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/william_s/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/alumni/yanwen/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/aidan_a/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/aiven_j/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/ameek_s/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/anshika/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/daniel/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/harsh/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/ian/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/krishna_d/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/lily_f/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/nathan/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/neha_s/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/prathik_k/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/rajat/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/sahib_a/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/sahil_n/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/samiyah/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/sanya_m/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/satwik_p/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/saumit_v/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/sean_s/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/sebastian/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/selam/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/sidharth_b/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/sophie_h/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/sri/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/srinidhi/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/suhas/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/tanishq_p/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/tanvi/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/tavleen/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/tavleen_k/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/thomas/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/umair/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/auditor/vik_d/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/abhay_p/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/adarsh_m/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/adithya_g/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/aditi_c/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/aiden_h/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/akshat_b/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/ashmit_s/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/ava_t/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/ayush_b/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/bhargav_e/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/devansh_g/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/diyan_s/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/jaivin_p/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/justin_h/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/jyotiraditya_s/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/krish_s/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/lucas_c/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/mahika_p/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/nitin_j/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/prisha_s/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/ritvik_r/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/shiven_e/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/shlok_a/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/shri_c/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/sumedha_k/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/tanvi_p/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/tito_s/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/vera_f/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/yannis_s/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/intern/yuhaendan_b/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/member/arnav_k/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/member/ashwin_p/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/member/bill_z/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/member/ivan_d/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/member/priyesh_v/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/member/sabrina/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/member/siddarth_m/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/member/ujwala/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/member/vaishnavi_j/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/member/yilun_z/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/member/shreyan/</loc>
     <lastmod>2024-08-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/intern/tanishapatil/</loc>
+  </url><url>
+    <loc>http://localhost:1313/intern/tanishapatil/</loc>
     <lastmod>2024-07-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/jackfoxkeen/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/jackfoxkeen/</loc>
     <lastmod>2024-07-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/biagio/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/biagio/</loc>
     <lastmod>2024-07-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/raj/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/raj/</loc>
     <lastmod>2024-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/nikhil/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/nikhil/</loc>
     <lastmod>2024-05-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/rangasri/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/rangasri/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/oliverchang/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/oliverchang/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/nick_w/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/nick_w/</loc>
     <lastmod>2023-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/peiyu/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/peiyu/</loc>
     <lastmod>2023-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/sijia/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/sijia/</loc>
     <lastmod>2023-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/shaan/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/shaan/</loc>
     <lastmod>2023-09-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/alexanderleung/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/alexanderleung/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/project/xai_mental_health/</loc>
+  </url><url>
+    <loc>http://localhost:1313/project/xai_mental_health/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/post/aloha/</loc>
+  </url><url>
+    <loc>http://localhost:1313/post/aloha/</loc>
     <lastmod>2023-08-19T15:50:58+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/post/</loc>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2023-08-19T15:50:58+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/project/explaingrade/</loc>
+  </url><url>
+    <loc>http://localhost:1313/project/explaingrade/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/project/xaillm/</loc>
+  </url><url>
+    <loc>http://localhost:1313/project/xaillm/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/project/robustavs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/project/robustavs/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/john/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/john/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/li/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/li/</loc>
     <lastmod>2023-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/suma/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/suma/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/shreedhar/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/shreedhar/</loc>
     <lastmod>2023-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/publication/danger/</loc>
+  </url><url>
+    <loc>http://localhost:1313/publication/danger/</loc>
     <lastmod>2022-11-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/publication/</loc>
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
     <lastmod>2022-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/batuhan/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/batuhan/</loc>
     <lastmod>2022-09-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/shengjie/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/shengjie/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/member/leilani/</loc>
+  </url><url>
+    <loc>http://localhost:1313/member/leilani/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/alumni/tong/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alumni/tong/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/join/deeplearning/</loc>
+  </url><url>
+    <loc>http://localhost:1313/join/deeplearning/</loc>
     <lastmod>2016-07-12T16:10:22+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/join/</loc>
+  </url><url>
+    <loc>http://localhost:1313/join/widelearning/</loc>
     <lastmod>2016-07-12T16:10:22+02:00</lastmod>
-    <priority>0</priority>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/approach/</loc>
+  </url><url>
+    <loc>http://localhost:1313/auditor/allan_dewey/</loc>
+  </url><url>
+    <loc>http://localhost:1313/join/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mission/</loc>
+  </url><url>
+    <loc>http://localhost:1313/vacancy/vacancy1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/vacancy/</loc>
   </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/join/widelearning/</loc>
-    <lastmod>2016-07-12T16:10:22+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/about/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/approach/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/auditor/allan_dewey/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/join/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/mission/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/research/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/vacancy/vacancy1/</loc>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aiea-lab.github.io/vacancy/</loc>
-    <priority>0</priority>
-  </url>
-  
 </urlset>

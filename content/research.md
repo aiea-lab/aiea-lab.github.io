@@ -1,3 +1,10 @@
+---
+title: "Research"
+authors:
+  - name: "AIEA Lab"
+date: 2025-01-01
+---
+
 Learn more about our [active projects](/project/) and if you are interested, see about [joining us](/join/).
 
 Coming soon!
