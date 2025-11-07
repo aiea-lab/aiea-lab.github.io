@@ -1,28 +1,38 @@
 +++
 bio = ""
-date = "2025-11-07"
+date = "2023-09-01"
 id = ""
 interests = ["write", "your", "interests"]
-name = "Nazanin"
-
+name = ""
+portrait = "/portraits/your_name.jpg"
 short_bio = ""
 short_name = ""
-title = "Collaborator"
+title = ""
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:nazaninparhizgar@gmail.com"
+    link = "mailto:[your_name]@ucsc.edu"
+
+[[social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = ""
+
+[[social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = ""
 
 [[social]]
     icon = "github"
     icon_pack = "fa"
-    link = "https://github.com/nawzanina"
+    link = ""
 
 [[education]]
-    course = "MS"
+    course = ""
     institution = ""
-    year = 2021
+    year = 2023
     
 [[organizations]]
     name = "UC Santa Cruz"
