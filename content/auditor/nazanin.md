@@ -2,7 +2,7 @@
 bio = ""
 date = "2025-11-09"
 id = "nazanin"
-interests = ["write", "your", "interests"]
+interests = My research interests include Natural Language Processing (NLP), Semantic Analysis, and Explainable Artificial Intelligence (XAI), particularly self-explaining deep neural networks.
 name = "Nazanin"
 portrait = "/portraits/default.jpg"
 short_bio = "-"
