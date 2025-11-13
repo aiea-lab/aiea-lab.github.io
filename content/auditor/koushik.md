@@ -2,9 +2,9 @@
 bio = ""
 date = "2025-04-01"
 id = "Koushik"
-interests = ["write", "your", "interests"]
+interests = ["coding", "AI", "soccer"]
 name = "Koushik Vasa"
-portrait = "/portraits/koushik.jpg"
+portrait = "/portraits/koushik.png"
 short_bio = "4th year CS Game Design Student"
 short_name = ""
 title = ""
