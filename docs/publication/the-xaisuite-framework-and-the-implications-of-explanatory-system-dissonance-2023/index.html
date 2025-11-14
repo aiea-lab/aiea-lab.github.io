@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="theme" content="hugo-academic-group">
+
+    
+    
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="http://localhost:1313//js/hugo-academic-group.js"></script>
+
+    <link rel="stylesheet" href="http://localhost:1313//css/bootstrap.min.css">
+    <script src="http://localhost:1313//js/bootstrap.min.js"></script>  
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/styles/default.min.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.2/gh-fork-ribbon.min.css" />
+    
+    
+    <script src="http://localhost:1313//js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+    <link rel="stylesheet" href="http://localhost:1313//css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://localhost:1313//css/academicons.min.css">
+    <link rel="stylesheet" href="http://localhost:1313//css/biaslab-font.css">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:100,300,400,700|Merriweather:100,400,700|Roboto+Mono">
+    <link rel="stylesheet" href="http://localhost:1313//css/hugo-academic-group.css">
+
+    
+
+
+    <link rel="shortcut icon" href="http://localhost:1313//img/favicon.ico" type="image/x-icon">
+    <link rel="canonical" href="http://localhost:1313/publication/the-xaisuite-framework-and-the-implications-of-explanatory-system-dissonance-2023/">
+
+    <title>The XAISuite framework and the implications of explanatory system dissonance | AIEA Lab</title>
+    <script type="text/javascript" src="http://localhost:1313/js/carousel.js"></script>
+<link rel="stylesheet" href="http://localhost:1313/css/carousel.css">
+</head>
+
+<body>
+<div class="home-anchor" id="home"></div>
+
+
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+    <a class="navbar-brand" href="#">AIEA Lab UCSC</a>
+    <div class="container" style="margin-right: 0;">
+
+        
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+            <div class="navbar-brand">
+                
+                
+            </div>
+        </div>
+
+        
+        <div class="collapse navbar-collapse" id="#navbar-collapse-1">
+
+            
+            <ul class="nav navbar-nav navbar-right">
+                
+                    
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/#top">Home</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/research">Research</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/#publications">Publications</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/#projects">Projects</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/#members">Members</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/#posts">Blog</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/join">Join Us!</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/#contact">Contact</a></li>
+                    
+                
+                
+            </ul>
+
+        </div>
+    </div>
+</nav>
+
+
+
+<div class="container">
+
+    <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="pub-title">
+                    <h1 itemprop="name">The XAISuite framework and the implications of explanatory system dissonance</h1>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="pub-authors" itemprop="author">
+                    
+<div itemprop="author">
+        
+            
+                
+<span class="author-name">
+    
+        Mitra, Shreyan
+    
+</span>,
+            
+            
+                 
+<span class="author-name">
+    
+        Gilpin, Leilani
+    
+</span>
+            
+        
+</div>
+
+                </div>
+            </div>
+        </div>
+
+        
+        
+        <div class="row">
+            <div class="col-sm-12">
+                <h3>Abstract</h3>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-sm-12">
+                <p class="pub-abstract" itemprop="text">Explanatory systems make machine learning models more transparent. However, they are often inconsistent. In order to quantify and isolate possible scenarios leading to this discrepancy, this paper compares two explanatory systems, SHAP and LIME, based on the correlation of their respective importance scores using 14 machine learning models (7 regression and 7 classification) and 4 tabular datasets (2 regression and 2 classification). We make two novel findings. Firstly, the magnitude of importance is not significant in explanation consistency. The correlations between SHAP and LIME importance scores for the most important features may or may not be more variable than the correlation between SHAP and LIME importance scores averaged across all features. Secondly, the similarity between SHAP and LIME importance scores cannot predict model accuracy. In the process of our research, we construct an open-source library, XAISuite, that unifies the process of training and explaining models. Finally, this paper contributes a generalized framework to better explain machine learning models and optimize their performance.</p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
+                    <div class="col-xs-12 col-sm-9">arXiv preprint arXiv:2304.08499</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="visible-xs space-below"></div>
+
+        
+
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
+                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">
+                        
+                        April, 2023
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="visible-xs space-below"></div>
+
+        <div class="row" style="padding-top: 10px">
+            <div class="col-sm-12">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">Links</div>
+                    <div class="col-xs-12 col-sm-9">
+
+                        
+
+
+
+
+<a class="btn btn-primary btn-outline" href="https://arxiv.org/pdf/2304.08499">PDF</a>
+
+
+
+
+
+
+
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="visible-xs space-below"></div>
+
+        <div class="space-below"></div>
+
+        <div class="article-style"></div>
+
+    </div>
+
+
+</div>
+
+<footer class="site-footer">
+    <div class="container">
+        <p class="powered-by">
+
+            © AIEA Lab, 2023 &middot; 
+
+            Partially powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
+
+            <span class="pull-right"><a href="#home" id="back_to_top"><span class="button_icon"><i class="fa fa-chevron-up fa-2x" aria-hidden="true"></i></span></a></span>
+
+        </p>
+    </div>
+</footer>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/ScrollToPlugin.min.js"></script>
+
+
+
+
+<script type="text/x-mathjax-config">
+ MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+</script>
+
+<script type="text/javascript" async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML">
+</script>
+
+</body>
+</html>
+

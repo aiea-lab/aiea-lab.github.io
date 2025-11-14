@@ -1,24 +1,202 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on AIEA Lab</title>
-    <link>https://aiea-lab.github.io/publication/</link>
+    <link>http://localhost:1313/publication/</link>
     <description>Recent content in Publications on AIEA Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
+    <language>en</language>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    <lastBuildDate>Wed, 23 Nov 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://aiea-lab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 11 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>DANGER: A Framework of Danger-Aware Novel Dataset Generator Extension for Robustness Test of Machine Learning</title>
-      <link>https://aiea-lab.github.io/publication/danger/</link>
-      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/publication/danger/</guid>
+      <title>Follow My Lead: Logical Fallacy Classification with Knowledge-Augmented LLMs</title>
+      <link>http://localhost:1313/publication/follow-my-lead-logical-fallacy-classification-with-knowledge-augmented-llms-2025-2/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/follow-my-lead-logical-fallacy-classification-with-knowledge-augmented-llms-2025-2/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Follow My Lead: Logical Fallacy Classification with Knowledge-Augmented LLMs</title>
+      <link>http://localhost:1313/publication/follow-my-lead-logical-fallacy-classification-with-knowledge-augmented-llms-2025/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/follow-my-lead-logical-fallacy-classification-with-knowledge-augmented-llms-2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Explore the Loss space with Hill-ADAM</title>
+      <link>http://localhost:1313/publication/explore-the-loss-space-with-hill-adam-2025/</link>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/explore-the-loss-space-with-hill-adam-2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VFSI: Validity First Spatial Intelligence for Constraint-Guided Traffic Diffusion</title>
+      <link>http://localhost:1313/publication/vfsi-validity-first-spatial-intelligence-for-constraint-guided-traffic-diffusion-2025/</link>
+      <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/vfsi-validity-first-spatial-intelligence-for-constraint-guided-traffic-diffusion-2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Autonomous driving with spiking neural networks</title>
+      <link>http://localhost:1313/publication/autonomous-driving-with-spiking-neural-networks-2024/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/autonomous-driving-with-spiking-neural-networks-2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Right this way: Can VLMs Guide Us to See More to Answer Questions?</title>
+      <link>http://localhost:1313/publication/right-this-way-can-vlms-guide-us-to-see-more-to-answer-questions-2024/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/right-this-way-can-vlms-guide-us-to-see-more-to-answer-questions-2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Proslm: A prolog synergized language model for explainable domain specific knowledge based question answering</title>
+      <link>http://localhost:1313/publication/proslm-a-prolog-synergized-language-model-for-explainable-domain-specific-knowledge-based-question-answering-2024/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/proslm-a-prolog-synergized-language-model-for-explainable-domain-specific-knowledge-based-question-answering-2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Slug Mobile: Test-Bench for RL Testing</title>
+      <link>http://localhost:1313/publication/slug-mobile-test-bench-for-rl-testing-2024-2/</link>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/slug-mobile-test-bench-for-rl-testing-2024-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Slug Mobile: Test-Bench for RL Testing</title>
+      <link>http://localhost:1313/publication/slug-mobile-test-bench-for-rl-testing-2024/</link>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/slug-mobile-test-bench-for-rl-testing-2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Accountability layers: explaining complex system failures by parts</title>
+      <link>http://localhost:1313/publication/accountability-layers-explaining-complex-system-failures-by-parts-2023/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/accountability-layers-explaining-complex-system-failures-by-parts-2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A novel post-hoc explanation comparison metric and applications</title>
+      <link>http://localhost:1313/publication/a-novel-post-hoc-explanation-comparison-metric-and-applications-2024/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/a-novel-post-hoc-explanation-comparison-metric-and-applications-2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Towards a fuller understanding of neurons with clustered compositional explanations</title>
+      <link>http://localhost:1313/publication/towards-a-fuller-understanding-of-neurons-with-clustered-compositional-explanations-2023/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/towards-a-fuller-understanding-of-neurons-with-clustered-compositional-explanations-2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Can large language models explain themselves? a study of llm-generated self-explanations</title>
+      <link>http://localhost:1313/publication/can-large-language-models-explain-themselves-a-study-of-llm-generated-self-explanations-2023/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/can-large-language-models-explain-themselves-a-study-of-llm-generated-self-explanations-2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Convolutional neural network model for diabetic retinopathy feature extraction and classification</title>
+      <link>http://localhost:1313/publication/convolutional-neural-network-model-for-diabetic-retinopathy-feature-extraction-and-classification-2023/</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/convolutional-neural-network-model-for-diabetic-retinopathy-feature-extraction-and-classification-2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Separating facts and evaluation: motivation, account, and learnings from a novel approach to evaluating the human impacts of machine learning</title>
+      <link>http://localhost:1313/publication/separating-facts-and-evaluation-motivation-account-and-learnings-from-a-novel-approach-to-evaluating-the-human-impacts-of-machine-learning-2023/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/separating-facts-and-evaluation-motivation-account-and-learnings-from-a-novel-approach-to-evaluating-the-human-impacts-of-machine-learning-2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The anticipatory paradigm</title>
+      <link>http://localhost:1313/publication/the-anticipatory-paradigm-2023/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/the-anticipatory-paradigm-2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Anticipatory thinking challenges in open worlds: Risk management</title>
+      <link>http://localhost:1313/publication/anticipatory-thinking-challenges-in-open-worlds-risk-management-2023/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/anticipatory-thinking-challenges-in-open-worlds-risk-management-2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The XAISuite framework and the implications of explanatory system dissonance</title>
+      <link>http://localhost:1313/publication/the-xaisuite-framework-and-the-implications-of-explanatory-system-dissonance-2023/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/the-xaisuite-framework-and-the-implications-of-explanatory-system-dissonance-2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Semi-Automated Synthesis of Driving Rules</title>
+      <link>http://localhost:1313/publication/semi-automated-synthesis-of-driving-rules-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/semi-automated-synthesis-of-driving-rules-2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Semi-Automated Synthesis of Driving Rules</title>
+      <link>http://localhost:1313/publication/semi-automated-synthesis-of-driving-rules-2024/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/semi-automated-synthesis-of-driving-rules-2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Framework for Generating Dangerous Scenes for Testing Robustness</title>
+      <link>http://localhost:1313/publication/a-framework-for-generating-dangerous-scenes-for-testing-robustness-2022/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/a-framework-for-generating-dangerous-scenes-for-testing-robustness-2022/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DANGER: A Framework of Danger-Aware Novel Dataset Generator Extension for Robustness Test of Machine Learning</title>
+      <link>http://localhost:1313/publication/danger/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/danger/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Proceedings of the Tenth Annual Conference on Advances in Cognitive Systems</title>
+      <link>http://localhost:1313/publication/proceedings-of-the-tenth-annual-conference-on-advances-in-cognitive-systems-2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/proceedings-of-the-tenth-annual-conference-on-advances-in-cognitive-systems-2022/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Establishing meta-decision-making for AI: an ontology of relevance, representation and reasoning</title>
+      <link>http://localhost:1313/publication/establishing-meta-decision-making-for-ai-an-ontology-of-relevance-representation-and-reasoning-2022/</link>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/establishing-meta-decision-making-for-ai-an-ontology-of-relevance-representation-and-reasoning-2022/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>&#39;Explanation&#39; is Not a Technical Term: The Problem of Ambiguity in XAI</title>
+      <link>http://localhost:1313/publication/explanation-is-not-a-technical-term-the-problem-of-ambiguity-in-xai-2022/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/explanation-is-not-a-technical-term-the-problem-of-ambiguity-in-xai-2022/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Outracing champion Gran Turismo drivers with deep reinforcement learning</title>
+      <link>http://localhost:1313/publication/outracing-champion-gran-turismo-drivers-with-deep-reinforcement-learning-2022-2/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/outracing-champion-gran-turismo-drivers-with-deep-reinforcement-learning-2022-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Outracing champion Gran Turismo drivers with deep reinforcement learning</title>
+      <link>http://localhost:1313/publication/outracing-champion-gran-turismo-drivers-with-deep-reinforcement-learning-2022/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/outracing-champion-gran-turismo-drivers-with-deep-reinforcement-learning-2022/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
