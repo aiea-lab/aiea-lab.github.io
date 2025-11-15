@@ -2,12 +2,17 @@
 bio = ""
 date = "2025-11-09"
 id = "nazanin"
-interests = "My research interests include Natural Language Processing (NLP), Semantic Analysis, and Explainable Artificial Intelligence (XAI), particularly self-explaining deep neural networks."
+interests = [
+  "Natural Language Processing (NLP)",
+  "Semantic Analysis",
+  "Explainable Artificial Intelligence (XAI)",
+  "Self-explaining deep neural networks"
+]
 name = "Nazanin"
 portrait = "/portraits/default.jpg"
-short_bio = ""
+short_bio = "I am an independent researcher and a collaborator."
 short_name = "nazanin"
-title = "Auditor"
+title = "member"
 
 [[social]]
     icon = "envelope"
