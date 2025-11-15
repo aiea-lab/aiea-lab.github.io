@@ -1,23 +1,25 @@
 +++
-bio = "I am an independent researcher and a collaborator."
+bio = ""
 date = "2025-11-09"
 id = "nazanin"
 interests = [
   "Natural Language Processing (NLP)",
   "Semantic Analysis",
   "Explainable Artificial Intelligence (XAI)",
-  "Self-explaining deep neural networks"
+  "Self-explaining deep neural networks",
+  "Machine Learning"
 ]
 name = "Nazanin"
 portrait = "/portraits/default.jpg"
 short_bio = "I am an independent researcher and a collaborator."
+sort_position = 10
 short_name = "nazanin"
 title = "member"
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:nazaninparhizgar@gmail.com"
+    
 
 [[social]]
     icon = "github"
@@ -25,13 +27,11 @@ title = "member"
     link = "https://github.com/nawzanina"
 
 [[education]]
-    course = "MS"
-    institution = ""
-    year = 2021
-    
+    course = "MS in Electrical and Computer Engineering"
+   
 [[organizations]]
     name = "UC Santa Cruz"
     role = "Collaborator"
 
 +++
-Put your bio here.
+Nazanin is an independent researcher and a collaborator.
