@@ -1,962 +1,748 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alumnis on AIEA Lab</title>
-    <link>https://aiea-lab.github.io/alumni/</link>
-    <description>Recent content in Alumnis on AIEA Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Alumni on AIEA Lab</title>
+    <link>http://localhost:1313/alumni/</link>
+    <description>Recent content in Alumni on AIEA Lab</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
     <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://aiea-lab.github.io/alumni/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/alumni/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/clayton/</link>
+      <link>http://localhost:1313/alumni/clayton/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/clayton/</guid>
+      <guid>http://localhost:1313/alumni/clayton/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/sean_s/</link>
+      <link>http://localhost:1313/alumni/sean_s/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/sean_s/</guid>
+      <guid>http://localhost:1313/alumni/sean_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/aaja_o/</link>
+      <link>http://localhost:1313/alumni/aaja_o/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/aaja_o/</guid>
+      <guid>http://localhost:1313/alumni/aaja_o/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/aishwarya_r/</link>
+      <link>http://localhost:1313/alumni/aishwarya_r/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/aishwarya_r/</guid>
+      <guid>http://localhost:1313/alumni/aishwarya_r/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/janvi_r/</link>
+      <link>http://localhost:1313/alumni/janvi_r/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/janvi_r/</guid>
+      <guid>http://localhost:1313/alumni/janvi_r/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/mahika_p/</link>
+      <link>http://localhost:1313/alumni/mahika_p/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/mahika_p/</guid>
+      <guid>http://localhost:1313/alumni/mahika_p/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/ananya_d/</link>
+      <link>http://localhost:1313/alumni/ananya_d/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/ananya_d/</guid>
-      <description>Here for the vibes</description>
+      <guid>http://localhost:1313/alumni/ananya_d/</guid>
+      <description>&lt;p&gt;Here for the vibes&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/dhanishtha_p/</link>
+      <link>http://localhost:1313/alumni/dhanishtha_p/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/dhanishtha_p/</guid>
+      <guid>http://localhost:1313/alumni/dhanishtha_p/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/kendrick_n/</link>
+      <link>http://localhost:1313/alumni/kendrick_n/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/kendrick_n/</guid>
+      <guid>http://localhost:1313/alumni/kendrick_n/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/michael_s/</link>
+      <link>http://localhost:1313/alumni/michael_s/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/michael_s/</guid>
+      <guid>http://localhost:1313/alumni/michael_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/nistha/</link>
+      <link>http://localhost:1313/alumni/nistha/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/nistha/</guid>
+      <guid>http://localhost:1313/alumni/nistha/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/prathik_k/</link>
+      <link>http://localhost:1313/alumni/prathik_k/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/prathik_k/</guid>
+      <guid>http://localhost:1313/alumni/prathik_k/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/rami_w/</link>
+      <link>http://localhost:1313/alumni/rami_w/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/rami_w/</guid>
+      <guid>http://localhost:1313/alumni/rami_w/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/richard_d/</link>
+      <link>http://localhost:1313/alumni/richard_d/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/richard_d/</guid>
-      <description>Richard Dao has a Bachelor’s in Computer Science from UC Santa Cruz. His research interests include autonomous vehicle path planning and spiking neural networks. He currently participates in two labs with Dr. Leilani H. Gilpin and Dr. Jason Eshraghian respectively. While being active in research, Richard also works fulltime as a Software Engineer at Covenant Services Worldwide. He looks to pursue a Masters degree in Computer Science with a focus on Artificial Intelligence and Machine Learning.</description>
+      <guid>http://localhost:1313/alumni/richard_d/</guid>
+      <description>&lt;p&gt;Richard Dao has a Bachelor’s in Computer Science from UC Santa Cruz. His research interests include autonomous vehicle path planning and spiking neural networks. He currently participates in two labs with Dr. Leilani H. Gilpin and Dr. Jason Eshraghian respectively. While being active in research, Richard also works fulltime as a Software Engineer at Covenant Services Worldwide. He looks to pursue a Masters degree in Computer Science with a focus on Artificial Intelligence and Machine Learning.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/srinidhi_s/</link>
+      <link>http://localhost:1313/alumni/srinidhi_s/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/srinidhi_s/</guid>
+      <guid>http://localhost:1313/alumni/srinidhi_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/vinh/</link>
+      <link>http://localhost:1313/alumni/vinh/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/vinh/</guid>
+      <guid>http://localhost:1313/alumni/vinh/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/yuan_j/</link>
+      <link>http://localhost:1313/alumni/yuan_j/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/yuan_j/</guid>
+      <guid>http://localhost:1313/alumni/yuan_j/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/yuhaendan_b/</link>
+      <link>http://localhost:1313/alumni/yuhaendan_b/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/yuhaendan_b/</guid>
+      <guid>http://localhost:1313/alumni/yuhaendan_b/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/ziyuan/</link>
+      <link>http://localhost:1313/alumni/ziyuan/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/ziyuan/</guid>
+      <guid>http://localhost:1313/alumni/ziyuan/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/abby/</link>
+      <link>http://localhost:1313/alumni/abby/</link>
       <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/abby/</guid>
+      <guid>http://localhost:1313/alumni/abby/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/karthik/</link>
+      <link>http://localhost:1313/alumni/karthik/</link>
       <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/karthik/</guid>
+      <guid>http://localhost:1313/alumni/karthik/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/meenal/</link>
+      <link>http://localhost:1313/alumni/meenal/</link>
       <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/meenal/</guid>
+      <guid>http://localhost:1313/alumni/meenal/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/rohan_g/</link>
+      <link>http://localhost:1313/alumni/rohan_g/</link>
       <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/rohan_g/</guid>
+      <guid>http://localhost:1313/alumni/rohan_g/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/ameyaa_b/</link>
+      <link>http://localhost:1313/alumni/ameyaa_b/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/ameyaa_b/</guid>
+      <guid>http://localhost:1313/alumni/ameyaa_b/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/andrew_s/</link>
+      <link>http://localhost:1313/alumni/andrew_s/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/andrew_s/</guid>
+      <guid>http://localhost:1313/alumni/andrew_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/brendon_c/</link>
+      <link>http://localhost:1313/alumni/brendon_c/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/brendon_c/</guid>
+      <guid>http://localhost:1313/alumni/brendon_c/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/jaivin_p/</link>
+      <link>http://localhost:1313/alumni/jaivin_p/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/jaivin_p/</guid>
+      <guid>http://localhost:1313/alumni/jaivin_p/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/max_m/</link>
+      <link>http://localhost:1313/alumni/max_m/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/max_m/</guid>
+      <guid>http://localhost:1313/alumni/max_m/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/olivia_a/</link>
+      <link>http://localhost:1313/alumni/olivia_a/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/olivia_a/</guid>
+      <guid>http://localhost:1313/alumni/olivia_a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/poonam_d/</link>
+      <link>http://localhost:1313/alumni/poonam_d/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/poonam_d/</guid>
+      <guid>http://localhost:1313/alumni/poonam_d/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/sidharth_b/</link>
+      <link>http://localhost:1313/alumni/sidharth_b/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/sidharth_b/</guid>
+      <guid>http://localhost:1313/alumni/sidharth_b/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/akashleena/</link>
+      <link>http://localhost:1313/alumni/akashleena/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/akashleena/</guid>
+      <guid>http://localhost:1313/alumni/akashleena/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/alex_f/</link>
+      <link>http://localhost:1313/alumni/alex_f/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/alex_f/</guid>
+      <guid>http://localhost:1313/alumni/alex_f/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/amos_l/</link>
+      <link>http://localhost:1313/alumni/amos_l/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/amos_l/</guid>
+      <guid>http://localhost:1313/alumni/amos_l/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/anish/</link>
+      <link>http://localhost:1313/alumni/anish/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/anish/</guid>
+      <guid>http://localhost:1313/alumni/anish/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/anthony/</link>
+      <link>http://localhost:1313/alumni/anthony/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/anthony/</guid>
+      <guid>http://localhost:1313/alumni/anthony/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/anuj_k/</link>
+      <link>http://localhost:1313/alumni/anuj_k/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/anuj_k/</guid>
+      <guid>http://localhost:1313/alumni/anuj_k/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/arka_p/</link>
+      <link>http://localhost:1313/alumni/arka_p/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/arka_p/</guid>
+      <guid>http://localhost:1313/alumni/arka_p/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/betsy/</link>
+      <link>http://localhost:1313/alumni/betsy/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/betsy/</guid>
+      <guid>http://localhost:1313/alumni/betsy/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/bo_y/</link>
+      <link>http://localhost:1313/alumni/bo_y/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/bo_y/</guid>
+      <guid>http://localhost:1313/alumni/bo_y/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/brandon_s/</link>
+      <link>http://localhost:1313/alumni/brandon_s/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/brandon_s/</guid>
+      <guid>http://localhost:1313/alumni/brandon_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/calvin_s/</link>
+      <link>http://localhost:1313/alumni/calvin_s/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/calvin_s/</guid>
+      <guid>http://localhost:1313/alumni/calvin_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/camden_b/</link>
+      <link>http://localhost:1313/alumni/camden_b/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/camden_b/</guid>
+      <guid>http://localhost:1313/alumni/camden_b/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/coen_a/</link>
+      <link>http://localhost:1313/alumni/coen_a/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/coen_a/</guid>
+      <guid>http://localhost:1313/alumni/coen_a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/daniel_h/</link>
+      <link>http://localhost:1313/alumni/daniel_h/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/daniel_h/</guid>
+      <guid>http://localhost:1313/alumni/daniel_h/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/daniel_s/</link>
+      <link>http://localhost:1313/alumni/daniel_s/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/daniel_s/</guid>
+      <guid>http://localhost:1313/alumni/daniel_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/dennis/</link>
+      <link>http://localhost:1313/alumni/dennis/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/dennis/</guid>
+      <guid>http://localhost:1313/alumni/dennis/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/erick_h/</link>
+      <link>http://localhost:1313/alumni/erick_h/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/erick_h/</guid>
+      <guid>http://localhost:1313/alumni/erick_h/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/evan_k/</link>
+      <link>http://localhost:1313/alumni/evan_k/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/evan_k/</guid>
+      <guid>http://localhost:1313/alumni/evan_k/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/fariha_l/</link>
+      <link>http://localhost:1313/alumni/fariha_l/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/fariha_l/</guid>
+      <guid>http://localhost:1313/alumni/fariha_l/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/gene_p/</link>
+      <link>http://localhost:1313/alumni/gene_p/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/gene_p/</guid>
+      <guid>http://localhost:1313/alumni/gene_p/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/harshini_v/</link>
+      <link>http://localhost:1313/alumni/harshini_v/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/harshini_v/</guid>
+      <guid>http://localhost:1313/alumni/harshini_v/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/ish_k/</link>
+      <link>http://localhost:1313/alumni/ish_k/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/ish_k/</guid>
+      <guid>http://localhost:1313/alumni/ish_k/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/jacob_l/</link>
+      <link>http://localhost:1313/alumni/jacob_l/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/jacob_l/</guid>
+      <guid>http://localhost:1313/alumni/jacob_l/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/janvi/</link>
+      <link>http://localhost:1313/alumni/janvi/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/janvi/</guid>
+      <guid>http://localhost:1313/alumni/janvi/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/jason_w/</link>
+      <link>http://localhost:1313/alumni/jason_w/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/jason_w/</guid>
-      <description>Jason Wu is an undergraduate student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. His research focuses on developing full stack web applications and exploring the utility of large language models (LLMs).</description>
+      <guid>http://localhost:1313/alumni/jason_w/</guid>
+      <description>&lt;p&gt;Jason Wu is an undergraduate student advised by &lt;a href=&#34;../leilani/&#34;&gt;Prof. Leilani Gilpin&lt;/a&gt; in the Department of Computer Science and Engineering at UC Santa Cruz. His research focuses on developing full stack web applications and exploring the utility of large language models (LLMs).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/jihang_l/</link>
+      <link>http://localhost:1313/alumni/jihang_l/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/jihang_l/</guid>
+      <guid>http://localhost:1313/alumni/jihang_l/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/jimmy_f/</link>
+      <link>http://localhost:1313/alumni/jimmy_f/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/jimmy_f/</guid>
+      <guid>http://localhost:1313/alumni/jimmy_f/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/john_y/</link>
+      <link>http://localhost:1313/alumni/john_y/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/john_y/</guid>
+      <guid>http://localhost:1313/alumni/john_y/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/kajal_p/</link>
+      <link>http://localhost:1313/alumni/kajal_p/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/kajal_p/</guid>
+      <guid>http://localhost:1313/alumni/kajal_p/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/keely_w/</link>
+      <link>http://localhost:1313/alumni/keely_w/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/keely_w/</guid>
+      <guid>http://localhost:1313/alumni/keely_w/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/krithik_d/</link>
+      <link>http://localhost:1313/alumni/krithik_d/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/krithik_d/</guid>
+      <guid>http://localhost:1313/alumni/krithik_d/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/macklin/</link>
+      <link>http://localhost:1313/alumni/macklin/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/macklin/</guid>
+      <guid>http://localhost:1313/alumni/macklin/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/maithili/</link>
+      <link>http://localhost:1313/alumni/maithili/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/maithili/</guid>
+      <guid>http://localhost:1313/alumni/maithili/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/michael_m/</link>
+      <link>http://localhost:1313/alumni/michael_m/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/michael_m/</guid>
+      <guid>http://localhost:1313/alumni/michael_m/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/oliver_l/</link>
+      <link>http://localhost:1313/alumni/oliver_l/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/oliver_l/</guid>
+      <guid>http://localhost:1313/alumni/oliver_l/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/owen_s/</link>
+      <link>http://localhost:1313/alumni/owen_s/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/owen_s/</guid>
+      <guid>http://localhost:1313/alumni/owen_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/pratik_d/</link>
+      <link>http://localhost:1313/alumni/pratik_d/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/pratik_d/</guid>
+      <guid>http://localhost:1313/alumni/pratik_d/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/raj_s/</link>
+      <link>http://localhost:1313/alumni/raj_s/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/raj_s/</guid>
+      <guid>http://localhost:1313/alumni/raj_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/rangasri_c/</link>
+      <link>http://localhost:1313/alumni/rangasri_c/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/rangasri_c/</guid>
+      <guid>http://localhost:1313/alumni/rangasri_c/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/rithesh/</link>
+      <link>http://localhost:1313/alumni/rithesh/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/rithesh/</guid>
+      <guid>http://localhost:1313/alumni/rithesh/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/ritvik_r/</link>
+      <link>http://localhost:1313/alumni/ritvik_r/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/ritvik_r/</guid>
+      <guid>http://localhost:1313/alumni/ritvik_r/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/roger_l/</link>
+      <link>http://localhost:1313/alumni/roger_l/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/roger_l/</guid>
+      <guid>http://localhost:1313/alumni/roger_l/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/rohit_d/</link>
+      <link>http://localhost:1313/alumni/rohit_d/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/rohit_d/</guid>
+      <guid>http://localhost:1313/alumni/rohit_d/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/ryan_a/</link>
+      <link>http://localhost:1313/alumni/ryan_a/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/ryan_a/</guid>
+      <guid>http://localhost:1313/alumni/ryan_a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/ryan_l/</link>
+      <link>http://localhost:1313/alumni/ryan_l/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/ryan_l/</guid>
+      <guid>http://localhost:1313/alumni/ryan_l/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/ryan_w/</link>
+      <link>http://localhost:1313/alumni/ryan_w/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/ryan_w/</guid>
+      <guid>http://localhost:1313/alumni/ryan_w/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/sahil_g/</link>
+      <link>http://localhost:1313/alumni/sahil_g/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/sahil_g/</guid>
+      <guid>http://localhost:1313/alumni/sahil_g/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/samuel_c/</link>
+      <link>http://localhost:1313/alumni/samuel_c/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/samuel_c/</guid>
+      <guid>http://localhost:1313/alumni/samuel_c/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/samuel_t/</link>
+      <link>http://localhost:1313/alumni/samuel_t/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/samuel_t/</guid>
+      <guid>http://localhost:1313/alumni/samuel_t/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/sebastian/</link>
+      <link>http://localhost:1313/alumni/sebastian/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/sebastian/</guid>
+      <guid>http://localhost:1313/alumni/sebastian/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/sela/</link>
+      <link>http://localhost:1313/alumni/sela/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/sela/</guid>
+      <guid>http://localhost:1313/alumni/sela/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/shashwat/</link>
+      <link>http://localhost:1313/alumni/shashwat/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/shashwat/</guid>
+      <guid>http://localhost:1313/alumni/shashwat/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/shayan_s/</link>
+      <link>http://localhost:1313/alumni/shayan_s/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/shayan_s/</guid>
+      <guid>http://localhost:1313/alumni/shayan_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/shiva_g/</link>
+      <link>http://localhost:1313/alumni/shiva_g/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/shiva_g/</guid>
+      <guid>http://localhost:1313/alumni/shiva_g/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/shoto/</link>
+      <link>http://localhost:1313/alumni/shoto/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/shoto/</guid>
+      <guid>http://localhost:1313/alumni/shoto/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/smruthi_p/</link>
+      <link>http://localhost:1313/alumni/smruthi_p/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/smruthi_p/</guid>
+      <guid>http://localhost:1313/alumni/smruthi_p/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/sukhveer_k/</link>
+      <link>http://localhost:1313/alumni/sukhveer_k/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/sukhveer_k/</guid>
+      <guid>http://localhost:1313/alumni/sukhveer_k/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/suneet_k/</link>
+      <link>http://localhost:1313/alumni/suneet_k/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/suneet_k/</guid>
+      <guid>http://localhost:1313/alumni/suneet_k/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/supriya_p/</link>
+      <link>http://localhost:1313/alumni/supriya_p/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/supriya_p/</guid>
+      <guid>http://localhost:1313/alumni/supriya_p/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/tommy_c/</link>
+      <link>http://localhost:1313/alumni/tommy_c/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/tommy_c/</guid>
+      <guid>http://localhost:1313/alumni/tommy_c/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/vaibhav/</link>
+      <link>http://localhost:1313/alumni/vaibhav/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/vaibhav/</guid>
+      <guid>http://localhost:1313/alumni/vaibhav/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/vid/</link>
+      <link>http://localhost:1313/alumni/vid/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/vid/</guid>
+      <guid>http://localhost:1313/alumni/vid/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/vidya/</link>
+      <link>http://localhost:1313/alumni/vidya/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/vidya/</guid>
+      <guid>http://localhost:1313/alumni/vidya/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/william_s/</link>
+      <link>http://localhost:1313/alumni/william_s/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/william_s/</guid>
+      <guid>http://localhost:1313/alumni/william_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/alumni/yanwen/</link>
+      <link>http://localhost:1313/alumni/yanwen/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/yanwen/</guid>
+      <guid>http://localhost:1313/alumni/yanwen/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>BS at UCSC</title>
-      <link>https://aiea-lab.github.io/alumni/raj/</link>
+      <link>http://localhost:1313/alumni/raj/</link>
       <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/raj/</guid>
+      <guid>http://localhost:1313/alumni/raj/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Research Scientist</title>
-      <link>https://aiea-lab.github.io/alumni/nikhil/</link>
+      <link>http://localhost:1313/alumni/nikhil/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/nikhil/</guid>
+      <guid>http://localhost:1313/alumni/nikhil/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MS at UCSC</title>
-      <link>https://aiea-lab.github.io/alumni/rangasri/</link>
+      <link>http://localhost:1313/alumni/rangasri/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/rangasri/</guid>
+      <guid>http://localhost:1313/alumni/rangasri/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Undergraduate</title>
-      <link>https://aiea-lab.github.io/alumni/nick_w/</link>
+      <link>http://localhost:1313/alumni/nick_w/</link>
       <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/nick_w/</guid>
-      <description>Nick Wang is a 3rd year undergraduate student studying Computer Science at UC Santa Cruz. He is deeply curious about how machine learning works (hence XAI) and has recently become motivated to improve his understanding of AVs which he will be able to do while working on the driving rules project and the drive sim project.</description>
+      <guid>http://localhost:1313/alumni/nick_w/</guid>
+      <description>&lt;p&gt;Nick Wang is a 3rd year undergraduate student studying Computer Science at UC Santa Cruz. He is deeply curious about how machine learning works (hence XAI) and has recently become motivated to improve his understanding of AVs which he will be able to do while working on the driving rules project and the drive sim project.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Masters</title>
-      <link>https://aiea-lab.github.io/alumni/john/</link>
+      <link>http://localhost:1313/alumni/john/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/john/</guid>
-      <description>John Yu is a Master&amp;rsquo;s Student in the Department of Computer Science and Engineering at UC Santa Cruz. His areas of technical interest are autonomous driving and embedded systems. In his spare time, John enjoys going to the gym, learning musical instruments, and cooking.</description>
+      <guid>http://localhost:1313/alumni/john/</guid>
+      <description>&lt;p&gt;John Yu is a Master&amp;rsquo;s Student in the Department of Computer Science and Engineering at UC Santa Cruz. His areas of technical interest are autonomous driving and embedded systems. In his spare time, John enjoys going to the gym, learning musical instruments, and cooking.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Master student</title>
-      <link>https://aiea-lab.github.io/alumni/suma/</link>
+      <link>http://localhost:1313/alumni/suma/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/suma/</guid>
-      <description>Kalyana Suma Sree Tholeti is an Masters student in the Department of Computer Science and Engineering at UC Santa Cruz. Her research focuses on the XAI, Responsible data Science, and Generative AI. Her current work is on developing a comprehensive model explanation monitoring framework within the manufacturing domain. Her previous work is on analysis of bias in the knowledge-distilled models and Sentiment analysis.
-read more
-Ultusque saltem crimine palluit virgineos deum nec pectusque oculis [que quos  lactea](http://habenas.</description>
+      <guid>http://localhost:1313/alumni/suma/</guid>
+      <description>&lt;p&gt;Kalyana Suma Sree Tholeti is an Masters student in the Department of&#xA;Computer Science and Engineering at UC Santa Cruz.  Her research&#xA;focuses on the XAI, Responsible data Science, and Generative AI. Her current work&#xA;is on developing a comprehensive model explanation monitoring framework within the manufacturing domain.&#xA;Her previous work is on analysis of bias in the knowledge-distilled models and Sentiment analysis.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;//github.com/ktholeti&#34;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Undergraduate Student</title>
-      <link>https://aiea-lab.github.io/alumni/shreedhar/</link>
+      <link>http://localhost:1313/alumni/shreedhar/</link>
       <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/shreedhar/</guid>
-      <description>Shreedhar Jangam is an undergraduate student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. His current research focuses on the applications of generative and explainable systems, such as Large Language Models and their trustworthiness in various domains. Outside of research, Shreedhar enjoys backpacking, and practicing his wilderness EMT skills.</description>
+      <guid>http://localhost:1313/alumni/shreedhar/</guid>
+      <description>&lt;p&gt;Shreedhar Jangam is an undergraduate student advised by &lt;a href=&#34;../leilani/&#34;&gt;Prof. Leilani Gilpin&lt;/a&gt; in the Department of Computer Science and Engineering at UC Santa Cruz. His current research focuses on the applications of generative and explainable systems, such as Large Language Models and their trustworthiness in various domains. Outside of research, Shreedhar enjoys backpacking, and practicing his wilderness EMT skills.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>MS at UCSC</title>
-      <link>https://aiea-lab.github.io/alumni/shengjie/</link>
+      <link>http://localhost:1313/alumni/shengjie/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/shengjie/</guid>
+      <guid>http://localhost:1313/alumni/shengjie/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Undergraduate student</title>
-      <link>https://aiea-lab.github.io/alumni/tong/</link>
+      <link>http://localhost:1313/alumni/tong/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/alumni/tong/</guid>
-      <description>Tong is a 4th-year undergraduate student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. His research interests are Artificial Intelligence, Machine Learning, Natural Language Processing / Large Language Models ,and Computer Vision. Outside of Classroom, Tong enjoys badminton, ping-pong, e-sports and Shōgi(Japanese Chess) (Tong is currently applying to Master&amp;rsquo;s program for 2024 Fall) - Captain of Team China at World Shōgi League Since 2022 - 🥉3rd place, 2022 Hearthstone Collegiate Masters Champions - 6th place, Fall 2022 Hearthstone Collegiate Masters - 🏆1st place award at the 2019 North America Shōgi Tournament, Adolescent Division</description>
+      <guid>http://localhost:1313/alumni/tong/</guid>
+      <description>&lt;p&gt;Tong is a 4th-year undergraduate student advised by &lt;a href=&#34;../leilani/&#34;&gt;Prof. Leilani Gilpin&lt;/a&gt; in the Department of Computer Science and Engineering at UC Santa Cruz. His research interests are Artificial Intelligence, Machine Learning, Natural Language Processing / Large Language Models ,and Computer Vision.&#xA;Outside of Classroom, Tong enjoys badminton, ping-pong, e-sports and Shōgi(Japanese Chess)&#xA;(Tong is currently applying to Master&amp;rsquo;s program for 2024 Fall)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Captain of Team China at World Shōgi League Since 2022&lt;/li&gt;&#xA;&lt;li&gt;🥉3rd place, 2022 Hearthstone Collegiate Masters Champions&lt;/li&gt;&#xA;&lt;li&gt;6th place, Fall 2022 Hearthstone Collegiate Masters&lt;/li&gt;&#xA;&lt;li&gt;🏆1st place award at the 2019 North America Shōgi Tournament, Adolescent Division&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
   </channel>
 </rss>
