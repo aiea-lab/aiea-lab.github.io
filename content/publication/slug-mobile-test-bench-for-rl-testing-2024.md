@@ -1,7 +1,7 @@
 +++
 title = "Slug Mobile: Test-Bench for RL Testing"
-publication = "arXiv preprint arXiv:2409.10532"
-journal = "arXiv preprint arXiv:2409.10532"
+publication = "BayLearn 2024"
+journal = "BayLearn 2024"
 year = "2024"
 date = "2024-08-31"
 abstract = "Sim-to real gap in Reinforcement Learning is when a model trained in a simulator does not translate to the real world. This is a problem for Autonomous Vehicles (AVs) as vehicle dynamics can vary from simulation to reality, and also from vehicle to vehicle. Slug Mobile is a one tenth scale autonomous vehicle created to help address the sim-to-real gap for AVs by acting as a test-bench to develop models that can easily scale from one vehicle to another. In addition to traditional sensors found in other one tenth scale AVs, we have also included a Dynamic Vision Sensor so we can train Spiking Neural Networks running on neuromorphic hardware."
