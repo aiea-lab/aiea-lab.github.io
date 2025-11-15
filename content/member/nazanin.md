@@ -1,5 +1,5 @@
 +++
-bio = ""
+bio = "I am an independent researcher and a collaborator."
 date = "2025-11-09"
 id = "nazanin"
 interests = [
