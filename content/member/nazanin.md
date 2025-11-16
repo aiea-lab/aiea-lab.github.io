@@ -6,7 +6,6 @@ interests = [
   "Natural Language Processing (NLP)",
   "Semantic Analysis",
   "Explainable Artificial Intelligence (XAI)",
-  "Self-explaining deep neural networks",
   "Machine Learning"
 ]
 name = "Nazanin"
@@ -27,7 +26,7 @@ title = "member"
     link = "https://github.com/nawzanina"
 
 [[education]]
-    course = "MS in Electrical and Computer Engineering"
+    course = "MS"
    
 [[organizations]]
     name = "UC Santa Cruz"
