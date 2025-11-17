@@ -1,8 +1,3 @@
-+++
-title = "Research"
-date = 2025-01-01
-authors = []
-+++
 Learn more about our [active projects](/project/) and if you are interested, see about [joining us](/join/).
 
 Coming soon!
