@@ -15,9 +15,11 @@
                 <i>Published on:</i> <p>{{ .Date.Format "Jan 2, 2006" }}</p>
             </div>
             <div class="col-xs-6 article-authors">
-                <i>Authors:</i>
-                {{ partial "authors" .Params.authors }}
-            </div>
+    <i>Authors:</i>
+    {{ with .Params.authors }}
+      {{ partial "authors" . }}
+    {{ end }}
+</div>
         </div>
 
         <div class="article-style" itemprop="articleBody">
