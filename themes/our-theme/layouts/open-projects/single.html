@@ -1,21 +1,214 @@
 {{ partial "header.html" . }}
 {{ partial "navbar.html" . }}
-<div class="container">
-    
+
+<style>
+  /* Reuse the advanced projects card style here */
+
+  .projects-page-wrapper {
+    padding-top: 20px;
+    padding-bottom: 40px;
+    background: radial-gradient(circle at top left, #f4f9ff 0, #ffffff 55%, #f7f7f7 100%);
+  }
+
+  .projects-page-title {
+    margin-bottom: 10px;
+  }
+
+  .projects-page-subtitle {
+    font-size: 0.95em;
+    color: #666;
+    margin-bottom: 25px;
+  }
+
+  .project-grid {
+    margin-top: 10px;
+    margin-bottom: 30px;
+  }
+
+  .project-card-wrapper {
+    margin-bottom: 30px;
+  }
+
+  .project-card {
+    background: #ffffff;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.22s ease, box-shadow 0.22s ease;
+  }
+
+  .project-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 14px 30px rgba(0,0,0,0.18);
+  }
+
+  .project-card-image-wrapper {
+    position: relative;
+    overflow: hidden;
+    max-height: 190px;
+  }
+
+  .project-card-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: transform 0.35s ease, filter 0.35s ease;
+  }
+
+  .project-card:hover .project-card-image img {
+    transform: scale(1.06);
+    filter: brightness(1.05);
+  }
+
+  .project-card-image-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to top, rgba(0,0,0,0.35), transparent 60%);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  .project-card:hover .project-card-image-overlay {
+    opacity: 1;
+  }
+
+  .project-card-body {
+    padding: 16px 18px 18px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+
+  .project-card-title {
+    font-size: 1.05em;
+    font-weight: 600;
+    margin-top: 0;
+    margin-bottom: 6px;
+  }
+
+  .project-card-title a {
+    color: #222;
+    text-decoration: none;
+  }
+
+  .project-card-title a:hover {
+    text-decoration: underline;
+  }
+
+  .project-card-meta {
+    font-size: 0.8em;
+    color: #999;
+    margin-bottom: 8px;
+  }
+
+  .project-card-summary {
+    font-size: 0.95em;
+    color: #555;
+    margin-bottom: 0;
+  }
+
+  .project-card-links {
+    margin-top: 12px;
+  }
+
+  .project-card-links .btn {
+    font-size: 0.83em;
+    padding: 4px 10px;
+    border-radius: 50px;
+  }
+
+  @media (max-width: 767px) {
+    .project-card-body {
+      padding: 14px 14px 16px;
+    }
+  }
+</style>
+
+<div class="projects-page-wrapper">
+  <div class="container">
+
     <article class="article article-project" itemscope itemtype="http://schema.org/Article">
-        <h1 itemprop="name">{{ .Title }}</h1>
-        
-       <div class="article-style" itemprop="articleBody">
-            {{ .Content }}
-        </div>
+      <h1 class="projects-page-title" itemprop="name">{{ .Title }}</h1>
 
-        {{ with .Params.external_link }}<a class="btn btn-primary btn-outline" href="{{ . }}">Go to external website</a>{{ end }}
+      <div class="article-style projects-page-subtitle" itemprop="articleBody">
+        {{ .Content }}
+      </div>
 
+      {{ with .Params.external_link }}
+        <p>
+          <a class="btn btn-primary btn-outline" href="{{ . }}">Go to external website</a>
+        </p>
+      {{ end }}
     </article>
-    
-   {{ partial "section_pager.html" . }}
 
-</div>
+    <hr>
+
+    <h2>Projects</h2>
+
+    <div class="row project-grid">
+      {{ with site.GetPage "section" "project" }}
+        {{ $projects := .Pages }}
+        {{ $projects = $projects.ByParam "sort_position" }}
+        {{ range $projects.ByDate.Reverse }}
+
+          <div class="col-xs-12 col-sm-6 col-md-4 project-card-wrapper">
+            <article class="project-card" itemscope itemtype="http://schema.org/CreativeWork">
+
+              {{ with .Params.picture }}
+                <div class="project-card-image-wrapper">
+                  <a href="{{ $.RelPermalink }}" class="project-card-image">
+                    <img
+                      src="{{ $.Site.BaseURL }}img/{{ . }}"
+                      alt="{{ $.Title }}"
+                      loading="lazy"
+                    >
+                  </a>
+                  <div class="project-card-image-overlay"></div>
+                </div>
+              {{ end }}
+
+              <div class="project-card-body">
+
+                <h3 class="project-card-title" itemprop="name">
+                  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </h3>
+
+                <div class="project-card-meta">
+                  {{ with .Date }}
+                    {{ .Format "Jan 2006" }}
+                  {{ end }}
+                </div>
+
+                {{ with .Params.short_description }}
+                  <p class="project-card-summary" itemprop="description">{{ . }}</p>
+                {{ else }}
+                  <p class="project-card-summary" itemprop="description">{{ .Summary }}</p>
+                {{ end }}
+
+                {{ with .Params.external_link }}
+                  <div class="project-card-links">
+                    <a href="{{ . }}" class="btn btn-xs btn-default" target="_blank">
+                      Project site
+                    </a>
+                  </div>
+                {{ end }}
+
+              </div>
+
+            </article>
+          </div>
+
+        {{ end }}
+      {{ end }}
+    </div> <!-- row -->
+
+    {{ partial "section_pager.html" . }}
+
+  </div> <!-- container -->
+</div> <!-- projects-page-wrapper -->
 
 {{ partial "footer_container.html" . }}
 {{ partial "footer.html" . }}
