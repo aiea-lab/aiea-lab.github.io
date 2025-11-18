@@ -1,5 +1,5 @@
 +++
-abstract = "Benchmark datasets for autonomous driving, such as KITTI, nuScenes, Argoverse, or Waymo are realistic but designed to be faultless. These datasets do not contain errors, difficult driving maneuvers, or other corner cases. We propose a framework for perturbing autonomous vehicle datasets, the DANGER framework, which generates edge-case images on top of current autonomous driving datasets. The input to DANGER are photorealistic datasets from real driving scenarios. We present the DANGER algorithm for vehicle position manipulation and the interface towards the renderer module, and present five scenario-level dangerous primitives generation applied to the virtual KITTI and virtual KITTI 2 datasets. Our experiments prove that DANGER can be used as a framework for expanding the current datasets to cover generative while realistic and anomalous corner cases."
+abstract = "Benchmark datasets for autonomous driving, such as KITTI, Argoverse, or Waymo are realistic, but they are designed to be too idealistic. These datasets do not contain errors, difficult driving maneuvers, or other corner cases. We propose a framework for perturbing autonomous vehicle datasets, the DANGER framework, which generates edge-case images on top of current autonomous driving datasets. The input to DANGER is a photorealistic datasets from real driving scenarios. We present the DANGER algorithm for vehicle position manipulation and the interface towards the renderer module, and present primitive generation cases applied to the virtual KITTI dataset. Our experiments prove that DANGER can be used as a framework for enlarging the current dataset to cover generative corner cases."
 abstract_short = ""
 date = "2022-11-23"
 image = ""
@@ -9,9 +9,9 @@ publication = "BayLearn 2022"
 publication_short = ""
 selected = false
 title = "DANGER: A Framework of Danger-Aware Novel Dataset Generator Extension for Robustness Test of Machine Learning"
-url_code = "//github.com"
+url_code = ""
 url_dataset = ""
-url_pdf= "https://shengjie-xu.com/assets/pdf/BayLearn2022_Danger_Final_abstract_paper.pdf"
+url_pdf= "https://shengjie-xu.com/pdfs/BayLearn2022_Danger_Final_abstract_paper.pdf"
 url_project = "/project/robustavs"
 url_slides = ""
 url_video = ""
