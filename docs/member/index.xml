@@ -6,10 +6,56 @@
     <description>Recent content in Members on AIEA Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    <lastBuildDate>Sun, 27 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aiea-lab.github.io/member/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>member</title>
+      <link>https://aiea-lab.github.io/member/nazanin/</link>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/nazanin/</guid>
+      <description>Nazanin is an independent researcher and a collaborator.</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/member/caleb/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/caleb/</guid>
+      <description>Caleb Bergen is an undergraduate student at UC Santa Cruz majoring in Computer Science. His current work examines the effectiveness and ethics of using large language models (LLMs) as driving assistants for autonomous vehicles in simulations.
+Caleb holds an A.S. in Mathematics and an A.S. in Computer Science (both with highest honors) from Fresno City College. He transferred to UC Santa Cruz in the fall of 2024 and will be graduating in the spring 2026 quarter.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/member/adam_m/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/adam_m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Masters</title>
+      <link>https://aiea-lab.github.io/member/charlie_a/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/charlie_a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/member/jetha/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/jetha/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -90,6 +136,15 @@
       
       <guid>https://aiea-lab.github.io/member/krishna_d/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/member/mahyar_v/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/mahyar_v/</guid>
+      <description>I am an Iranian-born student who moved to the USA at the age of 12. I have lived in Santa Cruz since I migrated, eventually got to persue my higher degree in Computer Sicence @ UCSC. I am working to learn more about LLM and chatbots, as they are one of the many fields that I’ve shown a keen interest in. I am also a Teaching Assistant under Professor Tantalo’s guidance in Data Structures and Algorithms.</description>
     </item>
     
     <item>
@@ -215,15 +270,6 @@
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       
       <guid>https://aiea-lab.github.io/member/ivan_d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://aiea-lab.github.io/member/mahyar/</link>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/mahyar/</guid>
       <description></description>
     </item>
     
