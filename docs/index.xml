@@ -6,10 +6,19 @@
     <description>Recent content on AIEA Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    <lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aiea-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>member</title>
+      <link>https://aiea-lab.github.io/member/nazanin/</link>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/member/nazanin/</guid>
+      <description>Nazanin is an independent researcher and a collaborator.</description>
+    </item>
     
     <item>
       <title>Undergraduate Student</title>
@@ -44,6 +53,15 @@
       <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
       
       <guid>https://aiea-lab.github.io/auditor/zaki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Follow My Lead: Logical Fallacy Classification with Knowledge-Augmented LLMs</title>
+      <link>https://aiea-lab.github.io/publication/follow-my-lead-logical-fallacy-classification-with-knowledge-augmented-llms-2025/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/publication/follow-my-lead-logical-fallacy-classification-with-knowledge-augmented-llms-2025/</guid>
       <description></description>
     </item>
     
@@ -91,6 +109,15 @@ Caleb holds an A.S. in Mathematics and an A.S. in Computer Science (both with hi
       
       <guid>https://aiea-lab.github.io/auditor/surya_jagarlamudi/</guid>
       <description>Surya Jagarlamudi is a Computer Engineering undergraduate at UC Santa Cruz focusing on artificial intelligence, computational modeling, and full-stack software systems. He is passionate about using technology to create adaptive, human-centered solutions in engineering and data-driven decision making.</description>
+    </item>
+    
+    <item>
+      <title>Explore the Loss space with Hill-ADAM</title>
+      <link>https://aiea-lab.github.io/publication/explore-the-loss-space-with-hill-adam-2025/</link>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/publication/explore-the-loss-space-with-hill-adam-2025/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -211,6 +238,15 @@ Caleb holds an A.S. in Mathematics and an A.S. in Computer Science (both with hi
     </item>
     
     <item>
+      <title>VFSI: Validity First Spatial Intelligence for Constraint-Guided Traffic Diffusion</title>
+      <link>https://aiea-lab.github.io/publication/vfsi-validity-first-spatial-intelligence-for-constraint-guided-traffic-diffusion-2025/</link>
+      <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/publication/vfsi-validity-first-spatial-intelligence-for-constraint-guided-traffic-diffusion-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NeSy Law</title>
       <link>https://aiea-lab.github.io/project/nesylaw/</link>
       <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
@@ -328,6 +364,15 @@ Caleb holds an A.S. in Mathematics and an A.S. in Computer Science (both with hi
     </item>
     
     <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/auditor/koushik/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/auditor/koushik/</guid>
+      <description>Put your bio here.</description>
+    </item>
+    
+    <item>
       <title>Masters</title>
       <link>https://aiea-lab.github.io/member/charlie_a/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
@@ -432,6 +477,24 @@ Caleb holds an A.S. in Mathematics and an A.S. in Computer Science (both with hi
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       
       <guid>https://aiea-lab.github.io/auditor/satvik_k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous driving with spiking neural networks</title>
+      <link>https://aiea-lab.github.io/publication/autonomous-driving-with-spiking-neural-networks-2024/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/publication/autonomous-driving-with-spiking-neural-networks-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Right this way: Can VLMs Guide Us to See More to Answer Questions?</title>
+      <link>https://aiea-lab.github.io/publication/right-this-way-can-vlms-guide-us-to-see-more-to-answer-questions-2024/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/publication/right-this-way-can-vlms-guide-us-to-see-more-to-answer-questions-2024/</guid>
       <description></description>
     </item>
     
@@ -2578,6 +2641,24 @@ Caleb holds an A.S. in Mathematics and an A.S. in Computer Science (both with hi
     </item>
     
     <item>
+      <title>Proslm: A prolog synergized language model for explainable domain specific knowledge based question answering</title>
+      <link>https://aiea-lab.github.io/publication/proslm-a-prolog-synergized-language-model-for-explainable-domain-specific-knowledge-based-question-answering-2024/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/publication/proslm-a-prolog-synergized-language-model-for-explainable-domain-specific-knowledge-based-question-answering-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slug Mobile: Test-Bench for RL Testing</title>
+      <link>https://aiea-lab.github.io/publication/slug-mobile-test-bench-for-rl-testing-2024/</link>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/publication/slug-mobile-test-bench-for-rl-testing-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Project Lead</title>
       <link>https://aiea-lab.github.io/member/shreyan/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
@@ -2616,6 +2697,24 @@ Ultusque saltem crimine palluit virgineos deum nec pectusque oculis [que quos  l
     </item>
     
     <item>
+      <title>Accountability layers: explaining complex system failures by parts</title>
+      <link>https://aiea-lab.github.io/publication/accountability-layers-explaining-complex-system-failures-by-parts-2023/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/publication/accountability-layers-explaining-complex-system-failures-by-parts-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel post-hoc explanation comparison metric and applications</title>
+      <link>https://aiea-lab.github.io/publication/a-novel-post-hoc-explanation-comparison-metric-and-applications-2024/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/publication/a-novel-post-hoc-explanation-comparison-metric-and-applications-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>BS at UCSC</title>
       <link>https://aiea-lab.github.io/alumni/raj/</link>
       <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
@@ -2630,6 +2729,15 @@ Ultusque saltem crimine palluit virgineos deum nec pectusque oculis [que quos  l
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       
       <guid>https://aiea-lab.github.io/alumni/nikhil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a fuller understanding of neurons with clustered compositional explanations</title>
+      <link>https://aiea-lab.github.io/publication/towards-a-fuller-understanding-of-neurons-with-clustered-compositional-explanations-2023/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/publication/towards-a-fuller-understanding-of-neurons-with-clustered-compositional-explanations-2023/</guid>
       <description></description>
     </item>
     
@@ -2650,6 +2758,24 @@ Ultusque saltem crimine palluit virgineos deum nec pectusque oculis [que quos  l
       <guid>https://aiea-lab.github.io/member/oliverchang/</guid>
       <description>Oliver Chang is a computer science and engineering PhD student at UC Santa Cruz. His research focuses on robust and efficient deep reinforcement learning. His work has applications to autonomous vehicles, efficient data sampling, and out of distribution learning. His current work examines how salient maps could be a memory efficient medium to store in a replay buffer.
 He holds a B.A. in Computer Science and Mathematics from Pomona College. Outside of research, Oliver enjoys running, watching baseball, and solving math puzzles - but not necessarily in that order.</description>
+    </item>
+    
+    <item>
+      <title>Can large language models explain themselves? a study of llm-generated self-explanations</title>
+      <link>https://aiea-lab.github.io/publication/can-large-language-models-explain-themselves-a-study-of-llm-generated-self-explanations-2023/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/publication/can-large-language-models-explain-themselves-a-study-of-llm-generated-self-explanations-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional neural network model for diabetic retinopathy feature extraction and classification</title>
+      <link>https://aiea-lab.github.io/publication/convolutional-neural-network-model-for-diabetic-retinopathy-feature-extraction-and-classification-2023/</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/publication/convolutional-neural-network-model-for-diabetic-retinopathy-feature-extraction-and-classification-2023/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -2748,6 +2874,33 @@ Magorum notissima limite sua pars simus sumptis Incessit ignota coniunx serpunt 
     </item>
     
     <item>
+      <title>Separating facts and evaluation: motivation, account, and learnings from a novel approach to evaluating the human impacts of machine learning</title>
+      <link>https://aiea-lab.github.io/publication/separating-facts-and-evaluation-motivation-account-and-learnings-from-a-novel-approach-to-evaluating-the-human-impacts-of-machine-learning-2023/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/publication/separating-facts-and-evaluation-motivation-account-and-learnings-from-a-novel-approach-to-evaluating-the-human-impacts-of-machine-learning-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The anticipatory paradigm</title>
+      <link>https://aiea-lab.github.io/publication/the-anticipatory-paradigm-2023/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/publication/the-anticipatory-paradigm-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anticipatory thinking challenges in open worlds: Risk management</title>
+      <link>https://aiea-lab.github.io/publication/anticipatory-thinking-challenges-in-open-worlds-risk-management-2023/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/publication/anticipatory-thinking-challenges-in-open-worlds-risk-management-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Masters</title>
       <link>https://aiea-lab.github.io/alumni/john/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
@@ -2764,6 +2917,15 @@ Magorum notissima limite sua pars simus sumptis Incessit ignota coniunx serpunt 
       <guid>https://aiea-lab.github.io/member/li/</guid>
       <description>Li is a third-year Ph.D. student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. He has a broad interest in Information Interpretation and Structuring, and Improving Accessibility with Assistive Technologies. Outside of his studies, Li enjoys cooking, photography, and painting.
 read more</description>
+    </item>
+    
+    <item>
+      <title>The XAISuite framework and the implications of explanatory system dissonance</title>
+      <link>https://aiea-lab.github.io/publication/the-xaisuite-framework-and-the-implications-of-explanatory-system-dissonance-2023/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/publication/the-xaisuite-framework-and-the-implications-of-explanatory-system-dissonance-2023/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -2787,11 +2949,47 @@ Ultusque saltem crimine palluit virgineos deum nec pectusque oculis [que quos  l
     </item>
     
     <item>
+      <title>Semi-Automated Synthesis of Driving Rules</title>
+      <link>https://aiea-lab.github.io/publication/semi-automated-synthesis-of-driving-rules-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/publication/semi-automated-synthesis-of-driving-rules-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-Automated Synthesis of Driving Rules</title>
+      <link>https://aiea-lab.github.io/publication/semi-automated-synthesis-of-driving-rules-2024/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/publication/semi-automated-synthesis-of-driving-rules-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Framework for Generating Dangerous Scenes for Testing Robustness</title>
+      <link>https://aiea-lab.github.io/publication/a-framework-for-generating-dangerous-scenes-for-testing-robustness-2022/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/publication/a-framework-for-generating-dangerous-scenes-for-testing-robustness-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DANGER: A Framework of Danger-Aware Novel Dataset Generator Extension for Robustness Test of Machine Learning</title>
       <link>https://aiea-lab.github.io/publication/danger/</link>
       <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://aiea-lab.github.io/publication/danger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Establishing meta-decision-making for AI: an ontology of relevance, representation and reasoning</title>
+      <link>https://aiea-lab.github.io/publication/establishing-meta-decision-making-for-ai-an-ontology-of-relevance-representation-and-reasoning-2022/</link>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/publication/establishing-meta-decision-making-for-ai-an-ontology-of-relevance-representation-and-reasoning-2022/</guid>
       <description></description>
     </item>
     
@@ -2802,6 +3000,24 @@ Ultusque saltem crimine palluit virgineos deum nec pectusque oculis [que quos  l
       
       <guid>https://aiea-lab.github.io/member/batuhan/</guid>
       <description>Batuhan is a first-year Master&amp;rsquo;s student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. His research interests include applying deep reinforcement learning to Pacman and integrating explainable AI into the autograder system to provide real-time, detailed feedback to students. Outside of his studies, Batu enjoys workingout, playing basketball, gaming, and food (both cooking and eating).</description>
+    </item>
+    
+    <item>
+      <title>&#39;Explanation&#39; is Not a Technical Term: The Problem of Ambiguity in XAI</title>
+      <link>https://aiea-lab.github.io/publication/explanation-is-not-a-technical-term-the-problem-of-ambiguity-in-xai-2022/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/publication/explanation-is-not-a-technical-term-the-problem-of-ambiguity-in-xai-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outracing champion Gran Turismo drivers with deep reinforcement learning</title>
+      <link>https://aiea-lab.github.io/publication/outracing-champion-gran-turismo-drivers-with-deep-reinforcement-learning-2022/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/publication/outracing-champion-gran-turismo-drivers-with-deep-reinforcement-learning-2022/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -2904,6 +3120,16 @@ if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsi
     
     <item>
       <title></title>
+      <link>https://aiea-lab.github.io/vacancy/vacancy1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aiea-lab.github.io/vacancy/vacancy1/</guid>
+      <description>You can write $\LaTeX$ and Markdown here.
+Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
       <link>https://aiea-lab.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -2914,16 +3140,6 @@ Funding Our research is generously supported by the Underwriters Labatory (subaw
 &amp;lt;!&amp;ndash;# Modo est
 Non sub haedum tenet Lorem markdownum esse diversa quoque vocavit, quam! Vires tibi axis dum spolium vaticinor fulminis, a dixere attrahit generisque tamen?
  Petit invergens iram praetendat iam Mecum res curva iunctura silvis hoc leonum Iacent gemitum quos  Non est duram mitis sonat proculcat tumulos Alce bimembres Dauni, cur ex voces referam adunco in sors.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://aiea-lab.github.io/vacancy/vacancy1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/vacancy/vacancy1/</guid>
-      <description>You can write $\LaTeX$ and Markdown here.
-Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
     </item>
     
   </channel>
