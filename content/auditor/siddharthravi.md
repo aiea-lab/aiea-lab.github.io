@@ -2,7 +2,7 @@
 bio = ""
 date = "2023-09-01"
 id = ""
-interests = ["write", "your", "interests"]
+interests = ["tennis", "gym", "traveling"]
 name = ""
 portrait = "/portraits/your_name.jpg"
 short_bio = ""
@@ -12,7 +12,7 @@ title = ""
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:[your_name]@ucsc.edu"
+    link = "mailto:sravi7@ucsc.edu"
 
 [[social]]
     icon = "twitter"
