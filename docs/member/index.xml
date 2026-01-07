@@ -1,417 +1,321 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Members on AIEA Lab</title>
-    <link>https://aiea-lab.github.io/member/</link>
+    <link>http://localhost:1313/member/</link>
     <description>Recent content in Members on AIEA Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
+    <language>en</language>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
     <lastBuildDate>Sun, 09 Nov 2025 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://aiea-lab.github.io/member/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/member/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>member</title>
-      <link>https://aiea-lab.github.io/member/nazanin/</link>
+      <link>http://localhost:1313/member/nazanin/</link>
       <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/nazanin/</guid>
-      <description>Nazanin is an independent researcher and a collaborator.</description>
+      <guid>http://localhost:1313/member/nazanin/</guid>
+      <description>&lt;p&gt;Nazanin is an independent researcher and a collaborator.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Undergraduate</title>
-      <link>https://aiea-lab.github.io/member/caleb/</link>
+      <link>http://localhost:1313/member/caleb/</link>
       <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/caleb/</guid>
-      <description>Caleb Bergen is an undergraduate student at UC Santa Cruz majoring in Computer Science. His current work examines the effectiveness and ethics of using large language models (LLMs) as driving assistants for autonomous vehicles in simulations.
-Caleb holds an A.S. in Mathematics and an A.S. in Computer Science (both with highest honors) from Fresno City College. He transferred to UC Santa Cruz in the fall of 2024 and will be graduating in the spring 2026 quarter.</description>
+      <guid>http://localhost:1313/member/caleb/</guid>
+      <description>&lt;p&gt;Caleb Bergen is an undergraduate student at UC Santa Cruz majoring in Computer Science. His current work examines the effectiveness and ethics of using large language models (LLMs) as driving assistants for autonomous vehicles in simulations.&lt;/p&gt;&#xA;&lt;p&gt;Caleb holds an A.S. in Mathematics and an A.S. in Computer Science (both with highest honors) from Fresno City College. He transferred to UC Santa Cruz in the fall of 2024 and will be graduating in the spring 2026 quarter. His other hobbies including watching sports, playing board games, and walking around UC Santa Cruz&amp;rsquo;s beautiful campus.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/adam_m/</link>
+      <link>http://localhost:1313/member/adam_m/</link>
       <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/adam_m/</guid>
+      <guid>http://localhost:1313/member/adam_m/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Masters</title>
-      <link>https://aiea-lab.github.io/member/charlie_a/</link>
+      <link>http://localhost:1313/member/charlie_a/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/charlie_a/</guid>
+      <guid>http://localhost:1313/member/charlie_a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Undergraduate</title>
-      <link>https://aiea-lab.github.io/member/jetha/</link>
+      <link>http://localhost:1313/member/jetha/</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/jetha/</guid>
+      <guid>http://localhost:1313/member/jetha/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/daksh_s/</link>
+      <link>http://localhost:1313/member/daksh_s/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/daksh_s/</guid>
+      <guid>http://localhost:1313/member/daksh_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/rushil_n/</link>
+      <link>http://localhost:1313/member/rushil_n/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/rushil_n/</guid>
+      <guid>http://localhost:1313/member/rushil_n/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/shiyuan_h/</link>
+      <link>http://localhost:1313/member/shiyuan_h/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/shiyuan_h/</guid>
+      <guid>http://localhost:1313/member/shiyuan_h/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/ayush_r/</link>
+      <link>http://localhost:1313/member/ayush_r/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/ayush_r/</guid>
+      <guid>http://localhost:1313/member/ayush_r/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/creighton_g/</link>
+      <link>http://localhost:1313/member/creighton_g/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/creighton_g/</guid>
+      <guid>http://localhost:1313/member/creighton_g/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/dominick_r/</link>
+      <link>http://localhost:1313/member/dominick_r/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/dominick_r/</guid>
+      <guid>http://localhost:1313/member/dominick_r/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/hugo_l/</link>
+      <link>http://localhost:1313/member/hugo_l/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/hugo_l/</guid>
+      <guid>http://localhost:1313/member/hugo_l/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/karman_s/</link>
+      <link>http://localhost:1313/member/karman_s/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/karman_s/</guid>
+      <guid>http://localhost:1313/member/karman_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/krishna_d/</link>
+      <link>http://localhost:1313/member/krishna_d/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/krishna_d/</guid>
+      <guid>http://localhost:1313/member/krishna_d/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/mahyar_v/</link>
+      <link>http://localhost:1313/member/mahyar_v/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/mahyar_v/</guid>
-      <description>I am an Iranian-born student who moved to the USA at the age of 12. I have lived in Santa Cruz since I migrated, eventually got to persue my higher degree in Computer Sicence @ UCSC. I am working to learn more about LLM and chatbots, as they are one of the many fields that I’ve shown a keen interest in. I am also a Teaching Assistant under Professor Tantalo’s guidance in Data Structures and Algorithms.</description>
+      <guid>http://localhost:1313/member/mahyar_v/</guid>
+      <description>&lt;p&gt;I am an Iranian-born student who moved to the USA at the age of 12. I have lived in Santa Cruz since I migrated, eventually got to persue my higher degree in Computer Sicence @ UCSC. I am working to learn more about LLM and chatbots, as they are one of the many fields that I’ve shown a keen interest in. I am also a Teaching Assistant under Professor Tantalo’s guidance in Data Structures and Algorithms. I hope to keep this job until I graduate and have some Software related job to look forward to post grad.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/nataniel_j/</link>
+      <link>http://localhost:1313/member/nataniel_j/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/nataniel_j/</guid>
-      <description>Hello, I’m Nataniel, a second-year undergrad student pursing computer engineering in UCSC.</description>
+      <guid>http://localhost:1313/member/nataniel_j/</guid>
+      <description>&lt;p&gt;Hello, I’m Nataniel, a second-year undergrad student pursing computer engineering in UCSC.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/rishika_s/</link>
+      <link>http://localhost:1313/member/rishika_s/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/rishika_s/</guid>
+      <guid>http://localhost:1313/member/rishika_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/suhas_o/</link>
+      <link>http://localhost:1313/member/suhas_o/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/suhas_o/</guid>
+      <guid>http://localhost:1313/member/suhas_o/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/surabhi_k/</link>
+      <link>http://localhost:1313/member/surabhi_k/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/surabhi_k/</guid>
+      <guid>http://localhost:1313/member/surabhi_k/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/vihan_p/</link>
+      <link>http://localhost:1313/member/vihan_p/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/vihan_p/</guid>
+      <guid>http://localhost:1313/member/vihan_p/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/vik_d/</link>
+      <link>http://localhost:1313/member/vik_d/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/vik_d/</guid>
+      <guid>http://localhost:1313/member/vik_d/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/zhonghui_l/</link>
+      <link>http://localhost:1313/member/zhonghui_l/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/zhonghui_l/</guid>
+      <guid>http://localhost:1313/member/zhonghui_l/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/ashwin_n/</link>
+      <link>http://localhost:1313/member/ashwin_n/</link>
       <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/ashwin_n/</guid>
+      <guid>http://localhost:1313/member/ashwin_n/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/jonathan_m/</link>
+      <link>http://localhost:1313/member/jonathan_m/</link>
       <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/jonathan_m/</guid>
-      <description>I love to do cool things! 😎</description>
+      <guid>http://localhost:1313/member/jonathan_m/</guid>
+      <description>&lt;p&gt;I love to do cool things! 😎&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/vishrut_s/</link>
+      <link>http://localhost:1313/member/vishrut_s/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/vishrut_s/</guid>
+      <guid>http://localhost:1313/member/vishrut_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/arnav_k/</link>
+      <link>http://localhost:1313/member/arnav_k/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/arnav_k/</guid>
+      <guid>http://localhost:1313/member/arnav_k/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/ashwin_p/</link>
+      <link>http://localhost:1313/member/ashwin_p/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/ashwin_p/</guid>
+      <guid>http://localhost:1313/member/ashwin_p/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/bill_z/</link>
+      <link>http://localhost:1313/member/bill_z/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/bill_z/</guid>
+      <guid>http://localhost:1313/member/bill_z/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/ivan_d/</link>
+      <link>http://localhost:1313/member/ivan_d/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/ivan_d/</guid>
+      <guid>http://localhost:1313/member/ivan_d/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/priyesh_v/</link>
+      <link>http://localhost:1313/member/priyesh_v/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/priyesh_v/</guid>
+      <guid>http://localhost:1313/member/priyesh_v/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/sabrina/</link>
+      <link>http://localhost:1313/member/sabrina/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/sabrina/</guid>
+      <guid>http://localhost:1313/member/sabrina/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/siddarth_m/</link>
+      <link>http://localhost:1313/member/siddarth_m/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/siddarth_m/</guid>
+      <guid>http://localhost:1313/member/siddarth_m/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/ujwala/</link>
+      <link>http://localhost:1313/member/ujwala/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/ujwala/</guid>
+      <guid>http://localhost:1313/member/ujwala/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/vaishnavi_j/</link>
+      <link>http://localhost:1313/member/vaishnavi_j/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/vaishnavi_j/</guid>
+      <guid>http://localhost:1313/member/vaishnavi_j/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/member/yilun_z/</link>
+      <link>http://localhost:1313/member/yilun_z/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/yilun_z/</guid>
+      <guid>http://localhost:1313/member/yilun_z/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Project Lead</title>
-      <link>https://aiea-lab.github.io/member/shreyan/</link>
+      <link>http://localhost:1313/member/shreyan/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/shreyan/</guid>
-      <description>I am a student researcher and software developer focused on making machine learning more robust, accessible, and sustainable.</description>
+      <guid>http://localhost:1313/member/shreyan/</guid>
+      <description>&lt;p&gt;I am a student researcher and software developer focused on making machine learning more robust, accessible, and sustainable.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>PhD Student, Activist, Strange Loop</title>
-      <link>https://aiea-lab.github.io/member/jackfoxkeen/</link>
+      <link>http://localhost:1313/member/jackfoxkeen/</link>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/jackfoxkeen/</guid>
-      <description>Jack Fox Keen is a second year PhD student in the Department of Computer Science and Engineering at UC Santa Cruz, under the tutelage of Dr. Leilani H. Gilpin. Jack&amp;rsquo;s research focuses on explainable artificial intelligence for psychological and sociological applications. Jack holds a bachelors of science from Florida Student University for both Scientific Computing and Biomathematics. Jack was the lead data scientist at the Guardian Project for ProofMode, working with the Content Authenticity Initiative (CAI) and other organizations, such as Adobe, on verifiable photo provenance.</description>
+      <guid>http://localhost:1313/member/jackfoxkeen/</guid>
+      <description>&lt;p&gt;Jack Fox Keen is a second year PhD student in the Department of Computer Science and Engineering at UC Santa Cruz, under the tutelage of Dr. Leilani H. Gilpin. Jack&amp;rsquo;s research focuses on explainable artificial intelligence for psychological and sociological applications. Jack holds a bachelors of science from Florida Student University for both Scientific Computing and Biomathematics. Jack was the lead data scientist at the Guardian Project for ProofMode, working with the Content Authenticity Initiative (CAI) and other organizations, such as Adobe, on verifiable photo provenance. Some of Jack&amp;rsquo;s favorite hobbies include writing, painting, and hiking.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>PostDoc</title>
-      <link>https://aiea-lab.github.io/member/biagio/</link>
+      <link>http://localhost:1313/member/biagio/</link>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/biagio/</guid>
-      <description>Mattia is a PostDoc in the Department of Computer Science and Engineering at UC Santa Cruz, under the supervision of Dr. Leilani H. Gilpin. Mattia&amp;rsquo;s research focuses on explainable artificial intelligence for deep neural networks. He is interested in Neuron Explanations (understand what knowledge AI learns) and Self-Explainable Deep Neural Networks (AI that can explain itself). Mattia holds a PhD in Computer Engineering, a M.S. in Artificial Intelligence and Robotics, and a B.</description>
+      <guid>http://localhost:1313/member/biagio/</guid>
+      <description>&lt;p&gt;Mattia is a PostDoc in the Department of Computer Science and Engineering at UC Santa Cruz, under the supervision of Dr. Leilani H. Gilpin. Mattia&amp;rsquo;s research focuses on explainable artificial intelligence for  deep neural networks. He is interested in Neuron Explanations (understand what knowledge AI learns) and Self-Explainable Deep Neural Networks (AI that can explain itself). Mattia holds a PhD in Computer Engineering, a M.S. in Artificial Intelligence and Robotics, and a B.S. in Computer science, all from Sapienza University of Rome.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>PhD Student</title>
-      <link>https://aiea-lab.github.io/member/oliverchang/</link>
+      <link>http://localhost:1313/member/oliverchang/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/oliverchang/</guid>
-      <description>Oliver Chang is a computer science and engineering PhD student at UC Santa Cruz. His research focuses on robust and efficient deep reinforcement learning. His work has applications to autonomous vehicles, efficient data sampling, and out of distribution learning. His current work examines how salient maps could be a memory efficient medium to store in a replay buffer.
-He holds a B.A. in Computer Science and Mathematics from Pomona College. Outside of research, Oliver enjoys running, watching baseball, and solving math puzzles - but not necessarily in that order.</description>
+      <guid>http://localhost:1313/member/oliverchang/</guid>
+      <description>&lt;p&gt;Oliver Chang is a computer science and engineering PhD student at UC Santa Cruz.  His research&#xA;focuses on robust and efficient deep reinforcement learning. His work has applications to autonomous vehicles, efficient data sampling, and out of distribution learning. His current&#xA;work examines how salient maps could be a memory efficient medium to store in a replay buffer.&lt;/p&gt;&#xA;&lt;p&gt;He holds a B.A. in Computer Science and Mathematics from Pomona College.  Outside of research,&#xA;Oliver enjoys running, watching baseball, and solving math puzzles - but not necessarily in that order.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ph.D. student</title>
-      <link>https://aiea-lab.github.io/member/peiyu/</link>
+      <link>http://localhost:1313/member/peiyu/</link>
       <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/peiyu/</guid>
-      <description>Olivia is a first-year Ph.D. student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. Her research interests include but are not limited to XAI, HCAI, and NLP.
-read more</description>
+      <guid>http://localhost:1313/member/peiyu/</guid>
+      <description>&lt;p&gt;Olivia is a first-year Ph.D. student advised by &lt;a href=&#34;../leilani/&#34;&gt;Prof. Leilani Gilpin&lt;/a&gt; in the Department of Computer Science and Engineering at UC Santa Cruz. Her research interests include but are not limited to XAI, HCAI, and NLP.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://olivianxai.github.io/&#34;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ph.D. student</title>
-      <link>https://aiea-lab.github.io/member/sijia/</link>
+      <link>http://localhost:1313/member/sijia/</link>
       <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/sijia/</guid>
-      <description>Sijia is a first-year Ph.D. student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. She has an interest in the explainability of model intelligence (XAI).
-read more</description>
+      <guid>http://localhost:1313/member/sijia/</guid>
+      <description>&lt;p&gt;Sijia is a first-year Ph.D. student advised by &lt;a href=&#34;../leilani/&#34;&gt;Prof. Leilani Gilpin&lt;/a&gt; in the Department of Computer Science and Engineering at UC Santa Cruz. She has an interest in the explainability of model intelligence (XAI).&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://szhong16.github.io/&#34;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ph.D. student</title>
-      <link>https://aiea-lab.github.io/member/li/</link>
+      <link>http://localhost:1313/member/li/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/li/</guid>
-      <description>Li is a third-year Ph.D. student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. He has a broad interest in Information Interpretation and Structuring, and Improving Accessibility with Assistive Technologies. Outside of his studies, Li enjoys cooking, photography, and painting.
-read more</description>
+      <guid>http://localhost:1313/member/li/</guid>
+      <description>&lt;p&gt;Li is a third-year Ph.D. student advised by &lt;a href=&#34;../leilani/&#34;&gt;Prof. Leilani Gilpin&lt;/a&gt; in the Department of Computer Science and Engineering at UC Santa Cruz. He has a broad interest in Information Interpretation and Structuring, and Improving Accessibility with Assistive Technologies. Outside of his studies, Li enjoys cooking, photography, and painting.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://leolee7.github.io/&#34;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Master&#39;s Student</title>
-      <link>https://aiea-lab.github.io/member/batuhan/</link>
+      <link>http://localhost:1313/member/batuhan/</link>
       <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/batuhan/</guid>
-      <description>Batuhan is a first-year Master&amp;rsquo;s student advised by Prof. Leilani Gilpin in the Department of Computer Science and Engineering at UC Santa Cruz. His research interests include applying deep reinforcement learning to Pacman and integrating explainable AI into the autograder system to provide real-time, detailed feedback to students. Outside of his studies, Batu enjoys workingout, playing basketball, gaming, and food (both cooking and eating).</description>
+      <guid>http://localhost:1313/member/batuhan/</guid>
+      <description>&lt;p&gt;Batuhan is a first-year Master&amp;rsquo;s student advised by &lt;a href=&#34;../leilani/&#34;&gt;Prof. Leilani Gilpin&lt;/a&gt; in the Department of Computer Science and Engineering at UC Santa Cruz. His research interests include applying deep reinforcement learning to Pacman and integrating explainable AI into the autograder system to provide real-time, detailed feedback to students. Outside of his studies, Batu enjoys workingout, playing basketball, gaming, and food (both cooking and eating).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>PI</title>
-      <link>https://aiea-lab.github.io/member/leilani/</link>
+      <link>http://localhost:1313/member/leilani/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/member/leilani/</guid>
-      <description>Leilani H. Gilpin is an Assistant Professor in the Department of Computer Science and Engineering at UC Santa Cruz. Her research focuses on the design and analysis of methods for autonomous systems to explain themselves. Her work has applications to robust decision-making, system debugging, and accountability. Her current work examines how generative models can be used in iterative XAI stress testing.
-She holds a PhD in Computer Science from MIT, an M.</description>
+      <guid>http://localhost:1313/member/leilani/</guid>
+      <description>&lt;p&gt;Leilani H. Gilpin is an Assistant Professor in the Department of&#xA;Computer Science and Engineering at UC Santa Cruz.  Her research&#xA;focuses on the design and analysis of methods for autonomous systems&#xA;to explain themselves.  Her work has applications to robust&#xA;decision-making, system debugging, and accountability.  Her current&#xA;work examines how generative models can be used in iterative XAI&#xA;stress testing.&lt;/p&gt;&#xA;&lt;p&gt;She holds a PhD in Computer Science from MIT, an M.S. in Computational&#xA;and Mathematical Engineering from Stanford University, and a B.S. in&#xA;Mathematics (with honors), B.S. in Computer Science (with highest&#xA;honors), and a music minor from UC San Diego.  Outside of research,&#xA;Leilani enjoys swimming, cooking, hiking, and org-mode.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
