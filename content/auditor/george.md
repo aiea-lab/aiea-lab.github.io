@@ -2,7 +2,7 @@
 bio = "Hello! I'm a first year CS major."
 date = "2026-01-05"
 id = "george"
-interests = ["write", "your", "interests"]
+interests = ["LLMs", "Autonomous vehicles"]
 name = "George Gong"
 portrait = "/portraits/default.jpg"
 short_bio = "Hello! I'm a first year CS major." #TODO
