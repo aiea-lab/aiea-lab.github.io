@@ -2,7 +2,7 @@
 bio = ""
 date = "2026-01-08"
 id = "Ron"
-interests = ["write", "your", "interests"]
+interests = ["Autonomous Vehicles", "XAI", "Computer Vision"]
 name = "Ron Konchitsky"
 portrait = "/portraits/ron.jpg"
 short_bio = ""
@@ -29,4 +29,3 @@ title = ""
     role = "B.S. Computer Engineering"
 
 +++
-Put your bio here.
