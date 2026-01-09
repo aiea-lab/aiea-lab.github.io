@@ -1,8 +1,8 @@
 +++
-bio = ""
+bio = "Hello, I am Rudra."
 date = "2026-01-05"
 id = "rudra"
-interests = ["write", "your", "interests"]
+interests = ["AV's", "LLM Logic", "xAI"]
 name = "Rudra Chavda"
 portrait = "/portraits/rudra.jpg"
 short_bio = "Interested in thoughtful design and AI progress."
