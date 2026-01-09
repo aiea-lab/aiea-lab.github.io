@@ -1,5 +1,5 @@
 +++
-title = "Can large language models explain themselves? a study of llm-generated self-explanations"
+title = "Can large language models explain themselves. a study of llm-generated self-explanations"
 publication = "arXiv preprint arXiv:2310.11207"
 journal = "arXiv preprint arXiv:2310.11207"
 year = "2023"
