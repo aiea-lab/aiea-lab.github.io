@@ -2,7 +2,7 @@
 bio = ""
 date = "2025-01-05"
 id = "kunwarpal"
-interests = ["write", "your", "interests"]
+interests = ["Autononmous Vehicles", "Computer Vision", "LLMs"]
 name = "Kunwarpal Singh"
 portrait = "/portraits/kunwarpal.jpg"
 short_bio = "2nd year Computer Science student."
