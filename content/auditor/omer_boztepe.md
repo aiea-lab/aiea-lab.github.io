@@ -17,7 +17,7 @@ title = "undergraduate"
 [[social]]
     icon = "github"
     icon_pack = "fa"
-    link = "OmerBoztepe"
+    link = "https://github.com/OmerBoztepe"
 
 [[education]]
     course = "BS (in progress)"
