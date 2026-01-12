@@ -18,7 +18,7 @@ title = "Undergraduate"
 [[social]]
     icon = "github"
     icon_pack = "fa"
-    link = "darthnithin"
+    link = "https://github.com/darthnithin"
 
 
     
