@@ -2,7 +2,7 @@
 bio = ""
 date = "2026-01-05"
 id = "Roshni G"
-interests = ["write", "your", "interests"]
+interests = ["Autonomous Vehicles", "LLMs", "NTNs", "5G Networks", "Satellite Technologies"]
 name = "Roshni Gundavelli"
 portrait = "/portraits/roshni_gundavelli.jpg"
 short_bio = "2nd Year Computer Science Student"
@@ -17,7 +17,7 @@ title = "Undergraduate"
 [[social]]
     icon = "github"
     icon_pack = "fa"
-    link = "rgundave5"
+    link = "https://github.com/rgundave5"
 
 [[education]]
     course = "BS"
