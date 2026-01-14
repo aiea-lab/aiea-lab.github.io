@@ -1,5 +1,5 @@
 +++
-title = "Right this way: Can VLMs Guide Us to See More to Answer Questions?"
+title = "Right this way: Can VLMs Guide Us to See More to Answer Questions"
 publication = "Advances in Neural Information Processing Systems"
 journal = "Advances in Neural Information Processing Systems"
 year = "2024"
