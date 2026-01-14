@@ -27,15 +27,9 @@ title = "Undergraduate"
 [[social]]
     icon = "github"
     icon_pack = "fa"
-    link = "woozoo21"
-
-[[education]]
-    course = "BS"
-    institution = ""
-    year = 2024
+    link = "https://github.com/woozoo21"
 
 [[organizations]]
     name = "UC Santa Cruz"
     role = "Auditor"
-
 +++
