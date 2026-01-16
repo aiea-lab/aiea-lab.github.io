@@ -2,7 +2,7 @@
 bio = ""
 date = "2026-07-01"
 id = "marco"
-interests = [AV]
+interests = ["AV"]
 name = "Marco Nasirpour"
 portrait = "/portraits/marco.jpg"
 short_bio = "CE Major, 3rd year Junior"
