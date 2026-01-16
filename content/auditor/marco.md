@@ -1,6 +1,6 @@
 +++
 bio = ""
-date = "2026-07-01"
+date = "2026-01-07"
 id = "marco"
 interests = ["AV"]
 name = "Marco Nasirpour"
