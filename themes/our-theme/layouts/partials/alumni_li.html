@@ -11,7 +11,9 @@
                 {{.Params.now}}
                 {{else}}
                 {{ .Params.name }}<br/>
-                Now at {{.Params.title}}
+                {{ with .Params.now_at }}
+                Now at {{ . }}
+                {{ end }}
                 {{end}}
             </h3>
         </div>
