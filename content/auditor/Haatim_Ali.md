@@ -2,9 +2,9 @@
 bio = ""
 date = "2026-01-09"
 id = "Haatim_A"
-interests = ["write", "your", "interests"]
-name = "Haatim_Ali"
-portrait = "/portraits/your_name.jpg"
+interests = ["Machine Learning", "AI", "Sports", "Nature"]
+name = "Haatim Ali"
+portrait = "/portraits/Haatim_Ali.jpg"
 short_bio = "I am a first year proposed Computer Science major interested in Artificial Ingelligence and Maching Learning. I love playing soccer, going on hikes, and hanging out with friends."
 short_name = "htali"
 title = "Auditor"
@@ -12,7 +12,7 @@ title = "Auditor"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:[htali]@ucsc.edu"
+    link = "mailto:htali@ucsc.edu"
 
 [[social]]
     icon = "github"
@@ -29,4 +29,4 @@ title = "Auditor"
     role = "Auditor"
 
 +++
-Put your bio here.
+I am a first year proposed Computer Science major interested in Artificial Ingelligence and Maching Learning. I love playing soccer, going on hikes, and hanging out with friends.
