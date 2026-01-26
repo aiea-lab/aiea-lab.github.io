@@ -4,7 +4,7 @@ date = "2026-01-23"
 id = "adithi"
 
 name = "Adithi Girish"
-portrait = "/portraits/adithi.jpeg"
+portrait = "/portraits/adithi.jpg"
 short_name = "Adithi"
 
 [[social]]
