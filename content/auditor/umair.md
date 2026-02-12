@@ -1,34 +1,33 @@
 +++
-bio = "" 
-date = "2024-09-11" 
-id = "umair" 
-interests = [] 
-name = "Umair" 
-portrait = "/portraits/umair.jpg" 
-short_bio = "" 
+bio = ""
+date = "2025-04-21"
+id = "umair"
+interests = ["write", "photogrpahy", "travel"]
+name = "Mohd Umair Ashraf"
+portrait = "/portraits/umair.jpg"
+short_bio = ""
 sort_position = 10
- short_name = "umair" 
+short_name = "umair"
+title = "graduate"
 
-[[social]] 
-    icon = "envelope" 
-    icon_pack = "fa" 
-    link = "mailto: "
+[[social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:mashraf1@ucsc.edu"
 
- [[social]] 
-    icon = "twitter" 
-    icon_pack = "fa" 
-    link = "" 
+[[social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "https://github.com/Umair777"
 
-[[social]] 
-    icon = "google-scholar" 
-    icon_pack = "ai" 
-    link = "" 
+[[education]]
+    course = "MS in CSE"
+    institution = "UCSC"
+    year = 2025
+    
+[[organizations]]
+    name = "UC Santa Cruz"
+    role = "Grad Student"
 
-[[social]] 
-    icon = "github" 
-    icon_pack = "fa" 
-    link = "https://github.com/iconsumeplutonium" 
-[[organizations]] 
-     name = "UC Santa Cruz" 
-      role = "Undergrad Student" 
 +++
+I am goal focused individual with enthusiam to participate in startups and crucial problem solving.
