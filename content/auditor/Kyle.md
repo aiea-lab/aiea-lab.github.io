@@ -1,5 +1,5 @@
 +++
-bio = ""
+bio = "I'm a first year CS Major!"
 date = "2026-03-30"
 id = "Kyle"
 interests = ["LLMs", "AVs", "ML"]
