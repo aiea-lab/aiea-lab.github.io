@@ -1,6 +1,6 @@
 +++
 bio = ""
-date = "01/05/2026"
+date = "2026-01-05"
 id = "tania"
 interests = ["AI", "robotics"]
 name = "Tania Makhija"
