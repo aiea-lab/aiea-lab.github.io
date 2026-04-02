@@ -2,7 +2,7 @@
 bio = "I'm a 4th year studying computer science at UCSC. I'm interested in Physical AI, XAI, and AVs."
 date = "2026-03-30"
 id = "daniel_ho"
-interests = ["write", "your", "interests"]
+interests = ["Physical AI", "AV", "XAI", "CV"]
 name = "Daniel Hong"
 portrait = "/portraits/daniel_hong.jpg"
 short_bio = "I'm a 4th year studying computer science at UCSC. I'm interested in Physical AI, XAI, and AVs."
