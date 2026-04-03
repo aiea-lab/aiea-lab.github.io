@@ -2,7 +2,7 @@
 bio = ""
 date = "2026-03-30"
 id = "Abhyudita"
-interests = ["write", "your", "interests"]
+interests = ["Neural Networks", "Computer Vision", "Deep Learning"]
 name = "Abhyudita Thoppae"
 portrait = "/portraits/abhyuthoppae.jpg"
 short_bio = "Second year C.S. student"
@@ -15,28 +15,19 @@ title = "Undergraduate"
     link = "mailto:[akthoppa]@ucsc.edu"
 
 [[social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = ""
-
-[[social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = ""
-
-[[social]]
     icon = "github"
     icon_pack = "fa"
     link = "https://github.com/AbhyuThoppae"
 
 [[education]]
-    course = ""
-    institution = ""
+    course = "Computer Science B.S."
+    institution = "UC Santa Cruz"
     year = 2028
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = ""
+    role = "Undergraduate"
 
+    
 +++
 Put your bio here.
