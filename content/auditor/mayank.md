@@ -18,7 +18,7 @@ title = "Undergraduate"
 [[social]]
     icon = "github"
     icon_pack = "fa"
-    link = "mnarla"
+    link = "https://github.com/mnarla"
 
 [[education]]
     course = "BS"
