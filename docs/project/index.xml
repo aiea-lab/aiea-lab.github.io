@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on AIEA Lab</title>
-    <link>https://aiea-lab.github.io/project/</link>
+    <link>http://localhost:1313/project/</link>
     <description>Recent content in Projects on AIEA Lab</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
     <lastBuildDate>Sat, 27 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://aiea-lab.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NeSy Law</title>
-      <link>https://aiea-lab.github.io/project/nesylaw/</link>
+      <link>http://localhost:1313/project/nesylaw/</link>
       <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://aiea-lab.github.io/project/nesylaw/</guid>
+      <guid>http://localhost:1313/project/nesylaw/</guid>
       <description>&lt;p&gt;The NeSy (previously known as LLM + Law) project focuses on harvesting the power of symbolic language and Neuro-symbolic AI for legal use cases.&#xA;Neuro-symbolic AI (also known as NeSy) is a field that combines the generalizability of Neural Networks and interpretability and control of Symbolic AI. The highly structured setup with potential capability for formal verification is a great fit for the legal field. Its generalizability is promising to lift up the burden of heavy legal document review and drafting&lt;/p&gt;</description>
     </item>
     <item>
       <title>Neuron Explanations</title>
-      <link>https://aiea-lab.github.io/project/neuron_expl/</link>
+      <link>http://localhost:1313/project/neuron_expl/</link>
       <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://aiea-lab.github.io/project/neuron_expl/</guid>
+      <guid>http://localhost:1313/project/neuron_expl/</guid>
       <description>&lt;p&gt;The Neuron Explanation project aims to understand what deep neural networks (CNN, LLMs) learn during the training process by analyzing what individual neurons are able to recognize in terms of concepts (e.g., cat, building, etc). Specifically, we aim to achieve this goal by associating logical rules (e.g., (Cat OR Dog) AND NOT person)) to each neuron that express the (spatial) alignment between neurons activations and concept locations. These rules are usually extracted by combining search algorithms, clustering algorithms and statistical analysis of neurons activation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>XAI for Mental Health</title>
-      <link>https://aiea-lab.github.io/project/xai_mental_health/</link>
+      <link>http://localhost:1313/project/xai_mental_health/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://aiea-lab.github.io/project/xai_mental_health/</guid>
+      <guid>http://localhost:1313/project/xai_mental_health/</guid>
       <description>&lt;h2 id=&#34;papers&#34;&gt;Papers&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Explainable Autograder</title>
-      <link>https://aiea-lab.github.io/project/explaingrade/</link>
+      <link>http://localhost:1313/project/explaingrade/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://aiea-lab.github.io/project/explaingrade/</guid>
+      <guid>http://localhost:1313/project/explaingrade/</guid>
       <description>&lt;p&gt;Current software assessment tools or “autograders” automatically evaluate and score student programming assignments with output-based feedback, but they do not offer conceptual guidance to help students or instructors improve.  Students and instructors get a grade ,showing which test cases pass or fail,  but not a clear rationale for why those outcomes occurred.  There is a need to improve feedback for students to increase efficient learning [1], and for instructors to inform pedagogy and system evaluation [2]. The goal of this project is to address this gap by developing an explainable AI (XAI) autograder system that identifies the conceptual strengths and weaknesses in computer science student’s answers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Explaining LLM Failures</title>
-      <link>https://aiea-lab.github.io/project/xaillm/</link>
+      <link>http://localhost:1313/project/xaillm/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://aiea-lab.github.io/project/xaillm/</guid>
+      <guid>http://localhost:1313/project/xaillm/</guid>
       <description>&lt;!--&#xA;# Et sensus uncos Troiaeque mori candidaque ostentis&#xA;&#xA;## Litusque praemia&#xA;&#xA;*Lorem markdownum* natus, regis cecidere. Sinebat pudoris terque si commune&#xA;pendebat ubi dubio cibique pontum virentem Nestora gaudia decebat [quoniam&#xA;eunt](http://inarmis.net/.html): graves.&#xA;[Teleste](http://www.autumni-remissis.io/ab) est colebat iamque ullis terra&#xA;neque limen Nabataeus viribus ait.&#xA;&#xA;    encoding_install_autoresponder = ultra.osiComputer(host.ccdColdWddm(fsb,&#xA;            compressionAlignment), 324317, adsl_application);&#xA;    if (exbibyte(remoteCopy.pplVirtualUrl(3, hardOopBoot), solid, 46)) {&#xA;        eide_podcast(trinitron.statusRawApple(class, cmyk_gigabit));&#xA;        ddrEcc(maximizeRw, appletPersonal);&#xA;        hdd_null = pretest_window_rup;&#xA;    } else {&#xA;        system += hdd + 396409 - firewallLanMedia;&#xA;    }&#xA;    var firmware_wan = api(boot_winsock_us, 1, domainNetbios) + web_veronica_sql&#xA;            + javascriptCtrPppoe.balancing(smtp, 1);&#xA;&#xA;## Reperire haec Iunone dolor talaria eque maesto&#xA;&#xA;Letalem et nomen animalia summaque. Vivit et regione bracchia cui prosiliunt&#xA;videat; sol cuius inquit siquid est labens, nomina? Alcimedon nomine spectarat.&#xA;&#xA;1. Reticere longeque te&#xA;2. Plenissima silet cui gentem eripere&#xA;3. Super agros dum clarus saepe supra&#xA;4. Scelerata ianua non nostris Nisi&#xA;5. Aperta sedes nec cingentibus pectore ullos cum&#xA;&#xA;## Quot locus errans relinquitur fuit densa tractum&#xA;&#xA;Nec meas et lecto ilia vulnera, haec Acmon conprecor venam Mopsopium lacrimis&#xA;novi intempestiva cognoscere concordia promittit cui. Tabo torpet in cavas tot&#xA;Stygios ego potest indicat, pinguis quaeque confertur? Mihi *vultumque vulgusque&#xA;quem* Narve, illa est *vestigia* flammas, cum visus semper abesse, tollens inde&#xA;dereptis, ut! Verbere honorum: idem hic facit inmitibus, hostilia quoque quem?&#xA;&#xA;1. Ille modo per&#xA;2. Velant vultus et mente stipite simul&#xA;3. Iam locumque primo utrumque iussit in velle&#xA;4. Quaerant facies ne habemus coepto nec iras&#xA;&#xA;Cornum foribusque ambrosia fore fugit candida tum tecto mearum montes nascendi.&#xA;Et cuius. Tauri urbe numquam sors credensque placidissime coepit quoque cupidine&#xA;quem quos lapillis Itys.&#xA;--&gt;</description>
     </item>
     <item>
       <title>Robust Autonomous Vehicles</title>
-      <link>https://aiea-lab.github.io/project/robustavs/</link>
+      <link>http://localhost:1313/project/robustavs/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://aiea-lab.github.io/project/robustavs/</guid>
+      <guid>http://localhost:1313/project/robustavs/</guid>
       <description>&lt;p&gt;Autonomous Vehicles (AVs), including aerial, ground, and sea vehicles, are becoming an integral part of our lives. Currently, most AVs trust sensor data to make navigation and other control decisions. In addition, they trust that the control commands given to actuators are executed faithfully. While trusting sensor and actuator data with minimal validation has proven to be an effective trade-off in current market solutions, it is not a sustainable practice as AVs become more pervasive and computer attacks increase in sophistication.&lt;/p&gt;</description>
     </item>
   </channel>
