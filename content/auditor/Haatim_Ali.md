@@ -5,7 +5,7 @@ id = "Haatim_A"
 interests = ["Machine Learning", "AI", "Sports", "Nature"]
 name = "Haatim Ali"
 portrait = "/portraits/Haatim_Ali.jpg"
-short_bio = "I am a first year proposed Computer Science major interested in Artificial Ingelligence and Maching Learning. I love playing soccer, going on hikes, and hanging out with friends."
+short_bio = "I am a first year proposed Computer Science major interested in Artificial Intelligence and Machine Learning. I love playing soccer, going on hikes, and hanging out with friends."
 short_name = "htali"
 title = "Auditor"
 
@@ -29,4 +29,4 @@ title = "Auditor"
     role = "Auditor"
 
 +++
-I am a first year proposed Computer Science major interested in Artificial Ingelligence and Maching Learning. I love playing soccer, going on hikes, and hanging out with friends.
+I am a first year proposed Computer Science major interested in Artificial Intelligence and Machine Learning. I love playing soccer, going on hikes, and hanging out with friends.
