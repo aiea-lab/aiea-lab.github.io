@@ -1,8 +1,8 @@
 +++
-bio = ""
+bio = "Hi! I'm Daniel Dubiner, a second year CS major, and I'm excited to join AIEA after this quarter!"
 date = "2026-03-31"
 id = "daniel_d"
-interests = ["write", "your", "interests"]
+interests = ["Video Games", "Board Games", "D&D", "AI", "CS"]
 name = "Daniel Dubiner"
 portrait = "/portraits/daniel_d.jpg"
 short_bio = "Second year CS major"
