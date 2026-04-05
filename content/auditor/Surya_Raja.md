@@ -1,10 +1,10 @@
 +++
 bio = ""
-date = "2023-04-03"
+date = "2026-04-03"
 id = "Surya_R"
 interests = "Reading, listening to music, walking"
 name = "Surya Raja"
-portrait = "/portraits/your_name.jpg"
+portrait = "/portraits/surya_raja.jpg"
 short_bio = "I am a first yr CE major. I like to read and listen to music"
 short_name = "surya"
 title = "UnderGrad"
@@ -14,15 +14,6 @@ title = "UnderGrad"
     icon_pack = "fa"
     link = "mailto:snraja@ucsc.edu"
 
-[[social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = ""
-
-[[social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = ""
 
 [[social]]
     icon = "github"
