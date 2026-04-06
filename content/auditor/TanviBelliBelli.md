@@ -4,7 +4,7 @@ date = "2026-04-03"
 id = "tanvi b"
 interests = ["I like hanging out with family, friends, baking, and music."]
 name = "Tanvi Belli Belli"
-portrait = "/portraits/tanvi.jpg"
+portrait = "/portraits/tanvibelli.jpg"
 short_bio = "Sophomore, TIM Major, UCSC"
 short_name = "Tanvi"
 title = "Undergraduate"
@@ -13,16 +13,6 @@ title = "Undergraduate"
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:tbellibe@ucsc.edu"
-
-[[social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = ""
-
-[[social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = ""
 
 [[social]]
     icon = "github"
