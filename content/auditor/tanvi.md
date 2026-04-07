@@ -1,34 +1,9 @@
-+++
-bio = "" 
-date = "2024-09-11" 
-id = "tanvi" 
-interests = [] 
-name = "Tanvi" 
-portrait = "/portraits/tanvi.jpg" 
-short_bio = "" 
-sort_position = 10
- short_name = "tanvi" 
-
-[[social]] 
-    icon = "envelope" 
-    icon_pack = "fa" 
-    link = "mailto: "
-
- [[social]] 
-    icon = "twitter" 
-    icon_pack = "fa" 
-    link = "" 
-
-[[social]] 
-    icon = "google-scholar" 
-    icon_pack = "ai" 
-    link = "" 
-
-[[social]] 
-    icon = "github" 
-    icon_pack = "fa" 
-    link = "https://github.com/" 
-[[organizations]] 
-     name = "UC Santa Cruz" 
-      role = "Undergrad Student" 
-+++
+id: "tanvi"
+name: "Tanvi Borra"
+short_name: "Tanvi"
+title: "Undergraduate Sophmore"
+short_bio: "UCSC student interested in AI, accessibility, and AI systems."
+email: "tborra@ucsc.edu"
+github: tborra-creator
+Short Bio: I enjoy dancing and painting, and I’m excited to apply my coding skills to contribute to the lab’s projects.
+Role at UCSC: collaborator
