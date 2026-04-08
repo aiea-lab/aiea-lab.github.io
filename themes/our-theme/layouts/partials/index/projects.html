@@ -1,35 +1,185 @@
-{{ $projects_len := len (where .Site.RegularPages "Type" "project") }}
-{{ if gt $projects_len 0 }}
 <section id="projects" class="home-section">
-    <div class="container">
-        
-        <!-- Section heading -->
-        <div class="row">
-            <div class="col-xs-12 col-md-12 section-heading">
-                <h1><a href="{{.Site.BaseURL}}/project/{{if .Site.Params.uglyURLs}}index.html{{end}}">{{ with .Site.Params.projects.title }}{{ . | markdownify }}{{ end }}</a></h1>
-                {{ with .Site.Params.projects.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
-            </div>
-        </div>
-        
-        <!-- Projects -->
-        
-        {{ range first .Site.Params.projects.count (sort (where .Site.RegularPages "Type" "project") ".Params.sort_position") }}
-            {{ partial "index/single_project" . }}
-        {{ end }}
-            
-        
-        <!-- Link to all projects -->
-        <div>
-            {{ if gt $projects_len .Site.Params.projects.count }}
-                <p class="view-all">
-                    <a href="{{ .Site.BaseURL }}/project/{{if .Site.Params.uglyURLs}}index.html{{end}}">
-                        {{ with .Site.Params.projects.str_all }}{{ . | markdownify }}{{ end }}
-                        <i class="fa fa-angle-double-right"></i>
-                    </a>
-                </p>
+  <style>
+    /* Featured projects styles (home page) */
+    .home-projects-wrapper {
+      padding-top: 20px;
+      padding-bottom: 10px;
+    }
+
+    .home-projects-title {
+      margin-bottom: 10px;
+    }
+
+    .home-projects-subtitle {
+      font-size: 0.95em;
+      color: #666;
+      margin-bottom: 25px;
+    }
+
+    .home-project-grid {
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+
+    .home-project-card-wrapper {
+      margin-bottom: 20px;
+    }
+
+    .home-project-card {
+      background: #ffffff;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      transition: transform 0.22s ease, box-shadow 0.22s ease;
+    }
+
+    .home-project-card:hover {
+      transform: translateY(-6px);
+      box-shadow: 0 14px 30px rgba(0,0,0,0.18);
+    }
+
+    .home-project-card-image-wrapper {
+      position: relative;
+      overflow: hidden;
+      max-height: 170px;
+    }
+
+    .home-project-card-image img {
+      width: 100%;
+      height: auto;
+      display: block;
+      transition: transform 0.35s ease, filter 0.35s ease;
+    }
+
+    .home-project-card:hover .home-project-card-image img {
+      transform: scale(1.06);
+      filter: brightness(1.05);
+    }
+
+    .home-project-card-image-overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to top, rgba(0,0,0,0.35), transparent 60%);
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+
+    .home-project-card:hover .home-project-card-image-overlay {
+      opacity: 1;
+    }
+
+    .home-project-card-body {
+      padding: 12px 15px 14px;
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+    }
+
+    .home-project-card-title {
+      font-size: 1.0em;
+      font-weight: 600;
+      margin-top: 0;
+      margin-bottom: 6px;
+    }
+
+    .home-project-card-title a {
+      color: #222;
+      text-decoration: none;
+    }
+
+    .home-project-card-title a:hover {
+      text-decoration: underline;
+    }
+
+    .home-project-card-summary {
+      font-size: 0.9em;
+      color: #555;
+      margin-bottom: 0;
+    }
+
+    .home-project-card-links {
+      margin-top: 10px;
+    }
+
+    .home-project-card-links .btn {
+      font-size: 0.8em;
+      padding: 4px 10px;
+      border-radius: 50px;
+    }
+
+    .home-projects-more {
+      margin-top: 10px;
+      text-align: right;
+    }
+  </style>
+
+  <div class="container home-projects-wrapper">
+
+    <div class="row">
+      <div class="col-xs-12 col-md-4 section-heading">
+        <h1 class="home-projects-title">Projects</h1>
+        <p class="home-projects-subtitle">
+          A selection of ongoing projects in explainable and robust AI.
+        </p>
+      </div>
+      <div class="col-xs-12 col-md-8">
+        <div class="row home-project-grid">
+          {{ with site.GetPage "section" "project" }}
+            {{ $all := .Pages }}
+            {{ $sorted := $all.ByParam "sort_position" }}
+            {{ range first 3 ($sorted.ByDate.Reverse) }}
+              <div class="col-xs-12 col-sm-6 home-project-card-wrapper">
+                <article class="home-project-card" itemscope itemtype="http://schema.org/CreativeWork">
+
+                  {{ with .Params.picture }}
+                    <div class="home-project-card-image-wrapper">
+                      <a href="{{ $.RelPermalink }}" class="home-project-card-image">
+                        <img
+                          src="{{ $.Site.BaseURL }}img/{{ . }}"
+                          alt="{{ $.Title }}"
+                          loading="lazy"
+                        >
+                      </a>
+                      <div class="home-project-card-image-overlay"></div>
+                    </div>
+                  {{ end }}
+
+                  <div class="home-project-card-body">
+                    <h3 class="home-project-card-title" itemprop="name">
+                      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                    </h3>
+
+                    {{ with .Params.short_description }}
+                      <p class="home-project-card-summary" itemprop="description">{{ . }}</p>
+                    {{ else }}
+                      <p class="home-project-card-summary" itemprop="description">{{ .Summary }}</p>
+                    {{ end }}
+
+                    {{ with .Params.external_link }}
+                      <div class="home-project-card-links">
+                        <a href="{{ . }}" class="btn btn-xs btn-default" target="_blank">
+                          Project site
+                        </a>
+                      </div>
+                    {{ end }}
+                  </div>
+
+                </article>
+              </div>
             {{ end }}
+          {{ end }}
         </div>
-    
+
+        <div class="home-projects-more">
+          <a href="{{ "/project/" | relURL }}" class="btn btn-sm btn-default">
+            More projects &raquo;
+          </a>
+        </div>
+      </div>
     </div>
+
+  </div>
 </section>
-{{ end }}
