@@ -20,11 +20,6 @@ title = "Auditor"
     link = "https://x.com/manas_rajkumar"
 
 [[social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = ""
-
-[[social]]
     icon = "github"
     icon_pack = "fa"
     link = "https://github.com/marajkum"
