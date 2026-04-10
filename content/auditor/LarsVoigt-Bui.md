@@ -17,11 +17,6 @@ title = "UnderGraduate"
 [[social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "https://github.com/lars-v-bui"
-
-[[social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
     link = ""
 
 [[social]]
