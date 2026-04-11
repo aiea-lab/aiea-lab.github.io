@@ -15,11 +15,6 @@ title = "UnderGraduate"
     link = "mailto:lvoigtbu@ucsc.edu"
 
 [[social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = ""
-
-[[social]]
     icon = "github"
     icon_pack = "fa"
     link = "https://github.com/lars-v-bui"
