@@ -1,6 +1,6 @@
 +++
 bio = ""
-date = "Winter 2025"
+date = "2026-5-15"
 id = "Lucy_H"
 interests = ["AI", "automatic vehicle"]
 name = "Lucy Han"
