@@ -6,7 +6,7 @@ interests = []
 name = "Shiyuan Huang" 
 portrait = "/portraits/shiyuan_h.jpg" 
 short_bio = "" 
-sort_position = 10
+sort_position = 3
  short_name = "shiyuan_h" 
 
 [[social]] 
