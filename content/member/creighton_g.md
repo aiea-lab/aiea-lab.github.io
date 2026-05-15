@@ -6,7 +6,7 @@ interests = []
 name = "Creighton Glasscock" 
 portrait = "/portraits/creighton_g.jpg" 
 short_bio = "" 
-sort_position = 10
+sort_position = 3
  short_name = "creighton_g" 
 
 [[social]] 

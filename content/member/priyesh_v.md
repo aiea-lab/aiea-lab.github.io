@@ -6,7 +6,7 @@ interests = []
 name = "Priyesh Vakharia" 
 portrait = "/portraits/priyesh_v.jpg" 
 short_bio = "" 
-sort_position = 10
+sort_position = 3
  short_name = "priyesh_v" 
 
 [[social]] 
