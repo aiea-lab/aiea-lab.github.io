@@ -9,6 +9,13 @@ title = "AIEA Lab"
 math = true
 copyright = "&copy; AIEA Lab, 2023 "
 
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
 [taxonomies]
 category = "categories"
 tag = "tags"
