@@ -1,843 +1,1070 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Auditors on AIEA Lab</title>
     <link>https://aiea-lab.github.io/auditor/</link>
     <description>Recent content in Auditors on AIEA Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
+    <language>en</language>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://aiea-lab.github.io/auditor/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://aiea-lab.github.io/auditor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Undergraduate Student</title>
+      <link>https://aiea-lab.github.io/auditor/ran_chen/</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/ran_chen/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/auditor/adithi/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/adithi/</guid>
+      <description></description>
+    </item>
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/haardhik_ma/</link>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://aiea-lab.github.io/auditor/haardhik_ma/</guid>
-      <description>authors = []</description>
+      <description>&lt;p&gt;authors = []&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/auditor/gaurijain/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/gaurijain/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/anishbansal/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/anishbansal/</guid>
+      <description>&lt;p&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/raunak_anwar/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/raunak_anwar/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/sashreek/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/sashreek/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/chanchal/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/chanchal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Auditor</title>
+      <link>https://aiea-lab.github.io/auditor/haatim_ali/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/haatim_ali/</guid>
+      <description>&lt;p&gt;I am a first year proposed Computer Science major interested in Artificial Ingelligence and Maching Learning. I love playing soccer, going on hikes, and hanging out with friends.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/auditor/ron/</link>
+      <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/ron/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/aneshkondor/</link>
+      <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/aneshkondor/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/jacob_wei/</link>
+      <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/jacob_wei/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/omer_boztepe/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/omer_boztepe/</guid>
+      <description>&lt;p&gt;Put your bio here.&#xA;My name is Omer Boztepe. I am a 4th year CS major at UCSC.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergradute</title>
+      <link>https://aiea-lab.github.io/auditor/marco/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/marco/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Student</title>
+      <link>https://aiea-lab.github.io/auditor/riddhi/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/riddhi/</guid>
+      <description>&lt;p&gt;Hi, my name is Riddhi Mundhra. I am a third-year UCSC Computer Science (Game Design) and Computer Engineering student. I am interested in AI/ML, autonomous vehicles, game development, and full-stack software projects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/ashwin_vinod/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/ashwin_vinod/</guid>
+      <description>&lt;p&gt;Hey, my name is Ashwin! I&amp;rsquo;m a 2nd year computer science major at UCSC. I&amp;rsquo;m interested in procedural content generation, and neural networks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/sree_gudapati/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/sree_gudapati/</guid>
+      <description>&lt;p&gt;I am a Computer Science Student at UC Santa Cruz with a passion for computer vision, machine learning, and full-stack development. Currently, I am participating in a project with Slugbotics , where I am working on integrating neural networks into autonomous systems for road hazard detection . As an aspiring Software Engineer, I am dedicated to applying these technical skills to solve complex, real-world problems&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Auditor</title>
+      <link>https://aiea-lab.github.io/auditor/vseslav/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/vseslav/</guid>
+      <description>&lt;p&gt;Vseslav Kazakov (Vee for short) is a Computer Science Game Design Student at UC Santa Cruz interested in low level programming and AI research. Vee joined the AIEA lab Winter 2026 to work on Autonomous vehicles research.&lt;/p&gt;&#xA;&lt;!-- You can write $\LaTeX$ and *Markdown* here.&#xA;&#xA;# Minyae adgnoscitque fugiebat parentis ausum superos huius&#xA;&#xA;## Ait erili meruisse iactatis omnibus erat&#xA;&#xA;Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori&#xA;verba fugisse **mira mortisque leones**! Prior sui liquidissimus leve&#xA;properandum totidem studio, refert *magno*, me quibus. Sternitur discordia&#xA;summaque, si deus in undam et vulnere dirusque est felices pallam miserere&#xA;curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant,&#xA;gerebat est edam plura. Armigerae Cyllenius freti vaga adeunda, rura undas,&#xA;equarum ubi non laetoque pice.&#xA;&#xA;&gt; Ultusque saltem crimine palluit virgineos deum nec pectusque oculis [que quos&#xA;&gt; lactea](http://habenas.com/.php) quae? Animus feriendus ductae! *Theron* sua&#xA;&gt; amans, est nulla cadavera, aquarum servavit quoque missus, hac texit videre,&#xA;&gt; valuere est erant? --&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/anurag_n/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/anurag_n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/ashwin_senthilvasan/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/ashwin_senthilvasan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/collin/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/collin/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/crystal/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/crystal/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/idohaiby/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/idohaiby/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/justin_r/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/justin_r/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/nathan_yee/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/nathan_yee/</guid>
+      <description>&lt;p&gt;Computer Engineering student passionate about building intelligent systems at the intersection of software and hardware. I bring strong skills in machine learning, systems programming, algorithms, and autonomous systems development, with hands-on experience across the full technology stack. From low-level FPGA design to high-level AI applications. I thrive on solving complex technical problems and am particularly drawn to projects that combine analytical thinking with real-world impact.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/roshni_gundavelli/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/roshni_gundavelli/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/rudra_c/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/rudra_c/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/sergio_h/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/sergio_h/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/tania/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/tania/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate Student</title>
+      <link>https://aiea-lab.github.io/auditor/george/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/george/</guid>
+      <description>&lt;p&gt;Hello.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate Student</title>
+      <link>https://aiea-lab.github.io/auditor/victor/</link>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/victor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/auditor/bardia/</link>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/bardia/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/auditor/naomi/</link>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/naomi/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/auditor/zaki/</link>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/zaki/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/ajmcdaniel/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/ajmcdaniel/</guid>
+      <description>&lt;p&gt;AJ McDaniel is an undergraduate Computer Science student at UC Santa Cruz and a member of the AIEA Lab, where he explores the intersection of artificial intelligence, software engineering, and human-centered design. His interests include explainable AI, responsible system design, and applications of machine learning in education and healthcare. AJ has experience as a Data &amp;amp; AI/ML Engineering Intern at ResMed and conducts research in runtime verification and trustworthy AI at the University of Illinois Urbana-Champaign. Outside of research, he leads student tech initiatives, mentors peers in programming and circuit design, and actively participates in hackathons and engineering outreach.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/tora_m/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/tora_m/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BS</title>
+      <link>https://aiea-lab.github.io/auditor/inikabhargava/</link>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/inikabhargava/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/auditor/jatikilt/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/jatikilt/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate Researcher</title>
+      <link>https://aiea-lab.github.io/auditor/surya_jagarlamudi/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/surya_jagarlamudi/</guid>
+      <description>&lt;p&gt;Surya Jagarlamudi is a Computer Engineering undergraduate at UC Santa Cruz focusing on artificial intelligence, computational modeling, and full-stack software systems. He is passionate about using technology to create adaptive, human-centered solutions in engineering and data-driven decision making.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/pravin/</link>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/pravin/</guid>
+      <description>&lt;p&gt;&amp;ldquo;3rd year Computer Engineering student at UC Santa Cruz excited to explore the edges of AI and expand the frontier&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergradute</title>
+      <link>https://aiea-lab.github.io/auditor/dheshnaa_madasamy/</link>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/dheshnaa_madasamy/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergradute</title>
+      <link>https://aiea-lab.github.io/auditor/farhan_ali/</link>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/farhan_ali/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/auditor/arnav_d/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/arnav_d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/jesus_cuevas/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/jesus_cuevas/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/auditor/siddharth_m/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/siddharth_m/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/parsh_gandhi/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/parsh_gandhi/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/anurag_c/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/anurag_c/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/jaisree/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/jaisree/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/trisha_moorkoth/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/trisha_moorkoth/</guid>
+      <description>&lt;p&gt;Hi I&amp;rsquo;m Trisha! I&amp;rsquo;m a 4th year CS major interested in explainable AI and building educational tools!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/amanvars/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/amanvars/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/matthew_k/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/matthew_k/</guid>
+      <description>&lt;p&gt;Matthew Kimotsuki is a 4th year computer science student at UCSC with an interest in AI safety and ethics.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate student</title>
+      <link>https://aiea-lab.github.io/auditor/dongjun_h/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/dongjun_h/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/andre_chen/</link>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/andre_chen/</guid>
+      <description>&lt;p&gt;Putting bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/aman_avinash/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/aman_avinash/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergrad Auditor</title>
+      <link>https://aiea-lab.github.io/auditor/kkasturi/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/kkasturi/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/auditor/evan_kaiden/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/evan_kaiden/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Auditor</title>
+      <link>https://aiea-lab.github.io/auditor/bhavyashanmugam/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/bhavyashanmugam/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/bolor_b/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/bolor_b/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/stanley/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/stanley/</guid>
+      <description></description>
+    </item>
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/divya_j/</link>
       <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/divya_j/</guid>
-      <description>Put your bio here.</description>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title></title>
-      <link>https://aiea-lab.github.io/auditor/adam_m/</link>
-      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/adam_m/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Undergraduate</title>
       <link>https://aiea-lab.github.io/auditor/michael_zhou/</link>
       <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/michael_zhou/</guid>
-      <description>Put your bio here.</description>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Masters</title>
-      <link>https://aiea-lab.github.io/auditor/charlie_a/</link>
+      <title></title>
+      <link>https://aiea-lab.github.io/auditor/koushik/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/charlie_a/</guid>
-      <description></description>
+      <guid>https://aiea-lab.github.io/auditor/koushik/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Undergrad Student</title>
       <link>https://aiea-lab.github.io/auditor/shripad_m/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/shripad_m/</guid>
-      <description>Put your bio here.</description>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Undergrad Student, UCSC</title>
       <link>https://aiea-lab.github.io/auditor/ash/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/ash/</guid>
-      <description>Put your bio here.</description>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Undergraduate</title>
-      <link>https://aiea-lab.github.io/auditor/caleb/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/caleb/</guid>
-      <description>Put your bio here.</description>
-    </item>
-    
     <item>
       <title>Undergraduate</title>
       <link>https://aiea-lab.github.io/auditor/tisha/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/tisha/</guid>
-      <description>Put your bio here.</description>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lab Auditor</title>
       <link>https://aiea-lab.github.io/auditor/william_ho/</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/william_ho/</guid>
-      <description>Put your bio here.</description>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Undergrad</title>
       <link>https://aiea-lab.github.io/auditor/chris_camberos/</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/chris_camberos/</guid>
-      <description>Put your bio here.</description>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Undergraduate</title>
-      <link>https://aiea-lab.github.io/auditor/jetha/</link>
-      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/jetha/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Undergraduate</title>
       <link>https://aiea-lab.github.io/auditor/neha_h/</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/neha_h/</guid>
-      <description>Put your bio here.</description>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Undergraduate Student</title>
       <link>https://aiea-lab.github.io/auditor/harini/</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/harini/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Undergraduate Student</title>
       <link>https://aiea-lab.github.io/auditor/nickolas_t/</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/nickolas_t/</guid>
-      <description>Put your bio here.</description>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Undergraduate Student</title>
       <link>https://aiea-lab.github.io/auditor/yashas/</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/yashas/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Auditor</title>
+      <link>https://aiea-lab.github.io/auditor/satvik_k/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/satvik_k/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/rami_al_habash/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/rami_al_habash/</guid>
+      <description>&lt;p&gt;I am an undergraduate student at UCSC researching AI Explainability and Accountability. I am also a part-time Code Coach. I&amp;rsquo;m also a big soccer fan! For any inquiries, feel free to reach me at the email above.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Auditor</title>
+      <link>https://aiea-lab.github.io/auditor/kunwarpalsingh/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/kunwarpalsingh/</guid>
+      <description>&lt;p&gt;Hi, my name is Kunwarpal Singh and I am currently a 2nd year Computer Science Student. One of the reasons that I am joining AIEA lab is because I want to pursue research in AI.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/mahir_camci/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/mahir_camci/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/nithin/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/nithin/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/johnathan_h/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/johnathan_h/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://aiea-lab.github.io/auditor/nataniel_j/</link>
+      <link>https://aiea-lab.github.io/auditor/joshua_s/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/nataniel_j/</guid>
+      <guid>https://aiea-lab.github.io/auditor/joshua_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/nihal_e/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/nihal_e/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/pragya_m/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/pragya_m/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/sahil_k/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/sahil_k/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/varsana_i/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/varsana_i/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/vihan_p/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/vihan_p/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/alex_s/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/alex_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/anirudh_s/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/anirudh_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/njeri_g/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/njeri_g/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title></title>
-      <link>https://aiea-lab.github.io/auditor/parsh_g/</link>
-      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/parsh_g/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/abhita/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/abhita/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/annika/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/annika/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/arnav/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/arnav/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/ashton_l/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/ashton_l/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/ayush_r/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/ayush_r/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/dan_p/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/dan_p/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/denise_a/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/denise_a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/jaskaran_s/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/jaskaran_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/kevin_k/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/kevin_k/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/laurena_c/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/laurena_c/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/levi_l/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/levi_l/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/maharshi_m/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/maharshi_m/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title></title>
-      <link>https://aiea-lab.github.io/auditor/mahyar_v/</link>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/mahyar_v/</guid>
-      <description>I am an Iranian-born student who moved to the USA at the age of 12. I have lived in Santa Cruz since I migrated, eventually got to persue my higher degree in Computer Sicence @ UCSC. I am working to learn more about LLM and chatbots, as they are one of the many fields that I’ve shown a keen interest in. I am also a Teaching Assistant under Professor Tantalo’s guidance in Data Structures and Algorithms.</description>
-    </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/nathan_n/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/nathan_n/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/raghav_s/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/raghav_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/rahul_p/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/rahul_p/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/raviteja_p/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/raviteja_p/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/reva_a/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/reva_a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/saachi_b/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/saachi_b/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/sai_p/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/sai_p/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/surabhi_k/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/surabhi_k/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/tanvi_j/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/tanvi_j/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/tejas/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/tejas/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/varnit_b/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/varnit_b/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/vijay_a/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/vijay_a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/xuan_j/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/xuan_j/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title></title>
+      <link>https://aiea-lab.github.io/auditor/akash_malampati/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/akash_malampati/</guid>
+      <description></description>
+    </item>
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/anish/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/anish/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/kendrick_n/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/kendrick_n/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/aidan_a/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/aidan_a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/aiven_j/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/aiven_j/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/ameek_s/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/ameek_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/anshika/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/anshika/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title></title>
-      <link>https://aiea-lab.github.io/auditor/calvin_s/</link>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/calvin_s/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/daniel/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/daniel/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title></title>
-      <link>https://aiea-lab.github.io/auditor/dominick_r/</link>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aiea-lab.github.io/auditor/dominick_r/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/harsh/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/harsh/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/ian/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/ian/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/krishna_d/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/krishna_d/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/lily_f/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/lily_f/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/nathan/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/nathan/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/neha_s/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/neha_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/prathik_k/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/prathik_k/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/rajat/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/rajat/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/sahib_a/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/sahib_a/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/sahil_n/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/sahil_n/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/samiyah/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/samiyah/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/sanya_m/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/sanya_m/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/satwik_p/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/satwik_p/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/saumit_v/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/saumit_v/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/sean_s/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/sean_s/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/sebastian/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/sebastian/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/selam/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/selam/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/sidharth_b/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/sidharth_b/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/sophie_h/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/sophie_h/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/sri/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/sri/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/srinidhi/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/srinidhi/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/suhas/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/suhas/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/tanishq_p/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/tanishq_p/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/tanvi/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/tanvi/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/tavleen/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/tavleen/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/tavleen_k/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/tavleen_k/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/thomas/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/thomas/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/umair/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/umair/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/vik_d/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/vik_d/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/shaan/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/shaan/</guid>
+      <description>&lt;p&gt;Put your bio here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate</title>
+      <link>https://aiea-lab.github.io/auditor/alexanderleung/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/auditor/alexanderleung/</guid>
+      <description>&lt;p&gt;Hello! My name is Alexander Leung. I’m an undergraduate auditor with interests in AI, LLM and Software Engineering&lt;/p&gt;</description>
+    </item>
     <item>
       <title></title>
       <link>https://aiea-lab.github.io/auditor/allan_dewey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aiea-lab.github.io/auditor/allan_dewey/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
