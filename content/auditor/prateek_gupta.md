@@ -17,7 +17,7 @@ title = "Auditor"
 [[social]]
     icon = "github"
     icon_pack = "fa"
-    link = "prateekgupta5"
+    link = "https://github.com/prateekgupta5"
 
 [[education]]
     course = "Computer Science BS"
