@@ -7,8 +7,43 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; AIEA Lab, 2023 </copyright>
-    <lastBuildDate>Sat, 11 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://aiea-lab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bridging Legal Interpretation and Formal Logic: Faithfulness, Assumption, and the Future of AI Legal Reasoning</title>
+      <link>https://aiea-lab.github.io/publication/bridging-legal-interpretation-and-formal-logic-2026/</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/publication/bridging-legal-interpretation-and-formal-logic-2026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Learning to Draw ASCII Improves Spatial Reasoning in Language Models</title>
+      <link>https://aiea-lab.github.io/publication/learning-to-draw-ascii-2026/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/publication/learning-to-draw-ascii-2026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Touching Space: Accessible Map Exploration Through Conversational Audio-Haptic Interaction</title>
+      <link>https://aiea-lab.github.io/publication/touching-space-accessible-map-exploration-2026/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/publication/touching-space-accessible-map-exploration-2026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guaranteed Optimal Compositional Explanations for Neurons</title>
+      <link>https://aiea-lab.github.io/publication/guaranteed-optimal-compositional-explanations-2025/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/publication/guaranteed-optimal-compositional-explanations-2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open Vocabulary Compositional Explanations for Neuron Alignment</title>
+      <link>https://aiea-lab.github.io/publication/open-vocabulary-compositional-explanations-2025/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://aiea-lab.github.io/publication/open-vocabulary-compositional-explanations-2025/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Follow My Lead: Logical Fallacy Classification with Knowledge-Augmented LLMs</title>
       <link>https://aiea-lab.github.io/publication/follow-my-lead-logical-fallacy-classification-with-knowledge-augmented-llms-2025/</link>
