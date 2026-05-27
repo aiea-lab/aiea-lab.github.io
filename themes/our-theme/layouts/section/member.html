@@ -14,6 +14,35 @@
   <h1>Auditors</h1>
   <p>Auditors are incoming AIEA lab students that work in the lab for
   credit for a quarter (10 weeks).</p>
+
+  {{ with hugo.Data.auditor_hall_of_fame.entries }}
+    <h2>Auditor Hall of Fame</h2>
+    <p>
+      Each quarter, 1-2 outstanding auditing students are inducted into the
+      AIEA Lab Auditor Hall of Fame in recognition of their engagement,
+      contributions, and curiosity.
+    </p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Quarter</th>
+          <th>Inductee</th>
+          <th>Recognition</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range . }}
+          <tr>
+            <td>{{ .quarter }}</td>
+            <td>{{ .name }}</td>
+            <td>{{ .recognition }}</td>
+          </tr>
+        {{ end }}
+      </tbody>
+    </table>
+  {{ end }}
+
   {{ range where .Site.RegularPages "Section" "auditor" }}
         {{ partial "auditor_li" . }}
   {{ end }}
