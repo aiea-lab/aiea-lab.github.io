@@ -1,15 +1,94 @@
+
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aiea-lab.github.io/</loc>
-    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aiea-lab.github.io/auditor/</loc>
+    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/lucy_h/</loc>
+    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/shefali/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/bhoomika/</loc>
+    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/surya_raja/</loc>
+    <lastmod>2026-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/sanya_b/</loc>
+    <lastmod>2026-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/tanvibellibelli/</loc>
+    <lastmod>2026-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/ruhan_gianchandani/</loc>
+    <lastmod>2026-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/haatim_ali/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/bowie_c/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/samanyukumar/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/alexander_smolyanskiy/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/anthony/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/daniel_dubiner/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/dylan_price/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/utkarshbanka/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aiea-lab.github.io/auditor/ran_chen/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/daniel_hong/</loc>
+    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/prateek_gupta/</loc>
+    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/abhyuthoppae/</loc>
+    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/aryanbhatia/</loc>
+    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/ember_lu/</loc>
+    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/hyerin/</loc>
+    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/naga/</loc>
+    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/larsvoigt-bui/</loc>
+    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/caitelyn/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/navaneeth/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/mayank/</loc>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aiea-lab.github.io/auditor/adithi/</loc>
     <lastmod>2026-01-23T00:00:00+00:00</lastmod>
@@ -31,9 +110,6 @@
   </url><url>
     <loc>https://aiea-lab.github.io/auditor/chanchal/</loc>
     <lastmod>2026-01-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aiea-lab.github.io/auditor/haatim_ali/</loc>
-    <lastmod>2026-01-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aiea-lab.github.io/auditor/ron/</loc>
     <lastmod>2026-01-08T00:00:00+00:00</lastmod>
@@ -60,6 +136,9 @@
     <lastmod>2026-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aiea-lab.github.io/auditor/vseslav/</loc>
+    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/mandy_wu/</loc>
     <lastmod>2026-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aiea-lab.github.io/auditor/anurag_n/</loc>
@@ -98,6 +177,15 @@
     <loc>https://aiea-lab.github.io/auditor/george/</loc>
     <lastmod>2026-01-05T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://aiea-lab.github.io/publication/guaranteed-optimal-compositional-explanations-2025/</loc>
+    <lastmod>2025-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/publication/open-vocabulary-compositional-explanations-2025/</loc>
+    <lastmod>2025-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/publication/</loc>
+    <lastmod>2025-11-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://aiea-lab.github.io/member/nazanin/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -122,8 +210,8 @@
     <loc>https://aiea-lab.github.io/publication/follow-my-lead-logical-fallacy-classification-with-knowledge-augmented-llms-2025/</loc>
     <lastmod>2025-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aiea-lab.github.io/publication/</loc>
-    <lastmod>2025-10-11T00:00:00+00:00</lastmod>
+    <loc>https://aiea-lab.github.io/auditor/riya-narang/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aiea-lab.github.io/auditor/tora_m/</loc>
     <lastmod>2025-10-10T00:00:00+00:00</lastmod>
@@ -168,6 +256,9 @@
     <lastmod>2025-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aiea-lab.github.io/auditor/jaisree/</loc>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/pujitha/</loc>
     <lastmod>2025-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aiea-lab.github.io/auditor/trisha_moorkoth/</loc>
@@ -215,6 +306,12 @@
     <loc>https://aiea-lab.github.io/auditor/stanley/</loc>
     <lastmod>2025-07-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://aiea-lab.github.io/auditor/pavithra/</loc>
+    <lastmod>2025-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/sameera_sk/</loc>
+    <lastmod>2025-04-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://aiea-lab.github.io/auditor/divya_j/</loc>
     <lastmod>2025-04-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -243,6 +340,9 @@
     <lastmod>2025-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aiea-lab.github.io/auditor/chris_camberos/</loc>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/suhani/</loc>
     <lastmod>2025-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aiea-lab.github.io/auditor/neha_h/</loc>
@@ -540,9 +640,6 @@
     <lastmod>2024-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aiea-lab.github.io/member/ashwin_n/</loc>
-    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aiea-lab.github.io/member/jonathan_m/</loc>
     <lastmod>2024-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aiea-lab.github.io/alumni/ameyaa_b/</loc>
@@ -1034,11 +1131,17 @@
     <loc>https://aiea-lab.github.io/alumni/nikhil/</loc>
     <lastmod>2024-05-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://aiea-lab.github.io/auditor/daniel_r/</loc>
+    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://aiea-lab.github.io/publication/towards-a-fuller-understanding-of-neurons-with-clustered-compositional-explanations-2023/</loc>
     <lastmod>2023-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aiea-lab.github.io/alumni/rangasri/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aiea-lab.github.io/member/jonathan_m/</loc>
+    <lastmod>2023-11-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aiea-lab.github.io/member/oliverchang/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
@@ -1142,6 +1245,9 @@
     <loc>https://aiea-lab.github.io/join/deeplearning/</loc>
     <lastmod>2016-07-12T16:10:22+02:00</lastmod>
   </url><url>
+    <loc>https://aiea-lab.github.io/join/</loc>
+    <lastmod>2016-07-12T16:10:22+02:00</lastmod>
+  </url><url>
     <loc>https://aiea-lab.github.io/join/widelearning/</loc>
     <lastmod>2016-07-12T16:10:22+02:00</lastmod>
   </url><url>
@@ -1151,13 +1257,13 @@
   </url><url>
     <loc>https://aiea-lab.github.io/auditor/allan_dewey/</loc>
   </url><url>
-    <loc>https://aiea-lab.github.io/join/</loc>
-  </url><url>
     <loc>https://aiea-lab.github.io/mission/</loc>
   </url><url>
     <loc>https://aiea-lab.github.io/vacancy/vacancy1/</loc>
   </url><url>
     <loc>https://aiea-lab.github.io/categories/</loc>
+  </url><url>
+    <loc>https://aiea-lab.github.io/auditor/suvalavala/</loc>
   </url><url>
     <loc>https://aiea-lab.github.io/research/</loc>
   </url><url>
