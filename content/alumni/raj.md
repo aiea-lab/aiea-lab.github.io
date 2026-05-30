@@ -45,6 +45,10 @@ personal_website = "https://raj-singh.com"
 [[organizations]]
     name = "Forge Rewards (YC W24)"
     role = "Founding Engineer / CTO"
+
+[[organizations]]
+    name = "AIEA Lab, UC Santa Cruz"
+    role = "Undergraduate Research Assistant"
 +++
 
 Raj (Rajdeep) Singh is a graduate student at the University of Southern California, where his work centers on interpretable and explainable AI. His research interests include multi-agent reinforcement learning, mechanistic interpretability, and physics-informed learning paradigms for scaling modern AI systems.
