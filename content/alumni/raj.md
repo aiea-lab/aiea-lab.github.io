@@ -49,6 +49,6 @@ personal_website = "https://raj-singh.com"
 
 Raj (Rajdeep) Singh is a graduate student at the University of Southern California, where his work centers on interpretable and explainable AI. His research interests include multi-agent reinforcement learning, mechanistic interpretability, and physics-informed learning paradigms for scaling modern AI systems.
 
-He earned his Bachelor's at UC Santa Cruz, where he was an undergraduate researcher in the AIEA Lab and conducted research through an NSF REU. He is also a founding engineer and CTO at a Y Combinator-backed startup (W24).
+He earned his Bachelor's at UC Santa Cruz, where he was an undergraduate research assistant in the AIEA Lab and conducted research through an NSF REU. He is also a founding engineer and CTO at a Y Combinator-backed startup (W24).
 
 More of his work is available at [raj-singh.com](https://raj-singh.com).
