@@ -44,7 +44,7 @@ personal_website = "https://raj-singh.com"
 
 [[organizations]]
     name = "Forge Rewards (YC W24)"
-    role = "Founding Engineer"
+    role = "Founding Engineer / CTO"
 
 [[organizations]]
     name = "AIEA Lab, UC Santa Cruz"
@@ -53,6 +53,6 @@ personal_website = "https://raj-singh.com"
 
 Raj (Rajdeep) Singh is a graduate research assistant in the Robotic Embedded Systems Lab (RESL) at the University of Southern California, where he works on multi-agent reinforcement learning. His broader interests include physics-informed learning and the interpretability and accountability questions he first worked on at the AIEA Lab.
 
-He earned his Bachelor's at UC Santa Cruz, where he was an undergraduate research assistant in the AIEA Lab, and conducted NSF-funded research on safety for autonomous drone swarms through an REU. He has also worked as a founding engineer at a Y Combinator-backed startup (W24).
+He earned his Bachelor's at UC Santa Cruz, where he was an undergraduate research assistant in the AIEA Lab, and conducted NSF-funded research on safety for autonomous drone swarms through an REU. He has also worked as a founding engineer and CTO at a Y Combinator-backed startup (W24).
 
 More of his work is at [raj-singh.com](https://raj-singh.com).
