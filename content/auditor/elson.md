@@ -2,9 +2,9 @@
 bio = "Hi, my name is Elson and I am currently a rising senior at Mountain House High School with an int"
 date = "2026-06-14"
 id = "elson"
-interests = ["artifical intelligence", "playing basketball", "Computer Vision"]
+interests = ["NeuroSymbolic AI", "Robustifying Autonomous Vehicles (AVs)", "Neuron Explanations"]
 name = "Elson Philip"
-portrait = "/portraits/your_name.jpg"
+portrait = "/portraits/elson.jpg"
 short_bio = "High School Auditor in AIEA Lab"
 short_name = "Elson"
 title = "High School Auditor"
