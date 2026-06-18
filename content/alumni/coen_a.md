@@ -7,7 +7,8 @@ name = "Coen Adler"
 portrait = "/portraits/coen_a.jpg" 
 short_bio = "" 
 sort_position = 10
- short_name = "coen_a" 
+short_name = "coen_a"
+now_at="PhD student at UC Irvine"
 
 [[social]] 
     icon = "envelope" 

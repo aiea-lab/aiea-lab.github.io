@@ -5,7 +5,7 @@ id = "Batuhan"
 interests = ["Autograder", "XAI", "Systems Design"]
 name = "Batuhan Salih"
 portrait = "/portraits/batu.jpg"
-sort_position = 17
+sort_position = 4
 short_bio = "Batuhan is a first-year Master's Student advised by Prof. Leilani in the Department of Computer Science and Engineering at UC Santa Cruz. His research interests include applying deep reinforcement learning to Pacman and integrating explainable AI into the autograder system to provide real-time, detailed feedback to students."
 
 short_name = "Batu"
