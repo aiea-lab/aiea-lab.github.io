@@ -5,7 +5,7 @@ external_link = ""
 image = ""
 project_id = "faithfulreasoning"
 short_description = "The Faithful Reasoning project focuses on combining the flexbility of LLMs and the rigorousness of Symbolic Reasoning, and generate faithful Neuro-symbolic reasoning for high-stakes use cases."
-title = "NeSy Law"
+title = "Faithful Reasoning"
 [[participants]]
     name = "leilani"
     is_member = true
