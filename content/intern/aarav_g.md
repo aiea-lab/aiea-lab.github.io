@@ -8,6 +8,7 @@ portrait = "/portraits/aarav_g.jpg"
 sort_position = 10
 short_bio = ""
 short_name = "aarav_g"
+title = "Intern"
 
 [[social]]
     icon = "envelope"
