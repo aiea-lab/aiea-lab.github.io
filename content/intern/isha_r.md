@@ -1,13 +1,13 @@
 +++
 bio = ""
-date = "2023-09-01"
-id = ""
+date = "2026-06-19"
+id = "isha"
 interests = ["write", "your", "interests"]
 name = "Isha Ranadive"
-portrait = "/portraits/your_name.jpg"
+portrait = "/portraits/isha_r.jpg"
 short_bio = ""
-short_name = ""
-title = ""
+short_name = "Isha"
+title = "High School Intern"
 
 [[social]]
     icon = "envelope"
@@ -27,16 +27,16 @@ title = ""
 [[social]]
     icon = "github"
     icon_pack = "fa"
-    link = ""
+    link = "isha2020-tech"
 
 [[education]]
-    course = ""
+    course = "High School"
     institution = ""
-    year = 2023
+    year = 2026
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = ""
+    role = "Collaborator"
 
 +++
 Put your bio here.
