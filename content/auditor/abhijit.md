@@ -1,7 +1,7 @@
 +++
-date = "2023-09-01"
+date = "2026-06-18"
 id = "abhijit"
-name = "Abhijit K"
+name = "Abhijit Kannan"
 portrait = "/portraits/abhijit.jpg"
 
 +++
