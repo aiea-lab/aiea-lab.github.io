@@ -1,5 +1,6 @@
 ---
 id: "harshith"
+portrait: "harshith.jpg.jpg"
 title: "High School Intern"
 name: "Harshith Kumar"
 short_name: "Harshith"
