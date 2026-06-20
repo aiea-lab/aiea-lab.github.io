@@ -1,34 +1,29 @@
 +++
-bio = "" 
-date = "2024-09-11" 
-id = "tanvi" 
-interests = [] 
-name = "Tanvi" 
-portrait = "/portraits/tanvi.jpg" 
-short_bio = "" 
-sort_position = 10
- short_name = "tanvi" 
+bio = "Hi, I'm Tanvi and I am a rising senior in high school interested in AI, machine learning, and neuroscience."
+date = "2026-06-19"
+id = "tanvi"
+interests = ["AI", "ML", "neuroscience"]
+name = "Tanvi Rathore"
+short_bio = "Rising senior interested in AI, ML, and neuroscience."
+short_name = "Tanvi"
+title = "Auditor"
 
-[[social]] 
-    icon = "envelope" 
-    icon_pack = "fa" 
-    link = "mailto: "
+[[social]]
+icon = "envelope"
+icon_pack = "fa"
+link = "mailto:tanvi.rathore.2009@gmail.com"
 
- [[social]] 
-    icon = "twitter" 
-    icon_pack = "fa" 
-    link = "" 
+[[social]]
+icon = "github"
+icon_pack = "fa"
+link = "https://github.com/tanvirathore0"
 
-[[social]] 
-    icon = "google-scholar" 
-    icon_pack = "ai" 
-    link = "" 
+[[education]]
+course = "High School Diploma"
+institution = "Vista del Lago High School"
+year = 2027
 
-[[social]] 
-    icon = "github" 
-    icon_pack = "fa" 
-    link = "https://github.com/" 
-[[organizations]] 
-     name = "UC Santa Cruz" 
-      role = "Undergrad Student" 
+[[organizations]]
+name = "UC Santa Cruz"
+role = "Undergraduate Research Intern"
 +++
