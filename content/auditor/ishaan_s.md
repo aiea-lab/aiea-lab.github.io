@@ -20,8 +20,8 @@ title = "Intern"
     link = "https://github.com/IshaanSharmaTheDev"
 
 [[education]]
-    course = "BS"
-    institution = "UC Santa Cruz"
+    course = "10th Grade"
+    institution = "Maharaja Sawai Bhawani Singh School"
     year = 2026
 
 [[organizations]]
@@ -30,4 +30,4 @@ title = "Intern"
 
 +++
 
-Ishaan Sharma is an AI Researcher and intern at the AIEA Lab at UC Santa Cruz. His research interests lie in Neuralese, large language models, and the intersection of neural networks and natural language understanding. He is passionate about advancing the frontiers of AI and contributing to trustworthy, interpretable AI systems.
+I am an AI Researcher and intern at the AIEA Lab at UC Santa Cruz. His research interests lie in Neuralese, large language models, and the intersection of neural networks and natural language understanding. He is passionate about advancing the frontiers of AI and contributing to trustworthy, interpretable AI systems.
