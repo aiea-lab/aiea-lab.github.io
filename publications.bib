@@ -294,13 +294,29 @@ url_pdf       = {https://arxiv.org/pdf/2511.20934},
   abstract = {While neurons are the basic units of deep neural networks, it is still unclear what they learn and if their knowledge is aligned with that of humans. Compositional explanations aim to answer this question by describing the spatial alignment between neuron activations and concepts through logical rules. These logical descriptions are typically computed via a search over all possible concept combinations. Since computing the spatial alignment over the entire state space is computationally infeasible, the literature commonly adopts beam search to restrict the space. However, beam search cannot provide any theoretical guarantees of optimality, and it remains unclear how close current explanations are to the true optimum. In this theoretical paper, we address this gap by introducing the first framework for computing guaranteed optimal compositional explanations. Specifically, we propose: (i) a decomposition that identifies the factors influencing the spatial alignment, (ii) a heuristic to estimate the alignment at any stage of the search, and (iii) the first algorithm that can compute optimal compositional explanations within a feasible time. Using this framework, we analyze the differences between optimal and non-optimal explanations in the most popular settings for compositional explanations, the computer vision domain and Convolutional Neural Networks. In these settings, we demonstrate that 10-40 percent of explanations obtained with beam search are suboptimal when overlapping concepts are involved. Finally, we evaluate a beam-search variant guided by our proposed decomposition and heuristic, showing that it matches or improves runtime over prior methods while offering greater flexibility in hyperparameters and computational resources.},
 }
 
-@inproceedings{chang2026reinforcement,
-  title = {Reinforcement Learning for Falsification of Dynamic Driving Scenarios},
-  author = {Chang, Oliver and Vargas, Kay and Gilpin, Leilani H and Fremont, Daniel J},
-  booktitle = {Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems},
-  pages = {3636-3638},
-  date = {2026-05-25},
- organization = {International Foundation for Autonomous Agents and Multiagent Systems},
-url_pdf = {https://dl.acm.org/doi/epdf/10.65109/PFBJ1092},
-  abstract  = {Falsification has been widely used to find failure cases for cyber-physical systems (CPS). In the domain of autonomous driving, falsification has recently been applied to find adversarial driving maneuvers which cause other vehicles to crash. In this work, we propose a reinforcement learning (RL)-based falsification framework that can discover complex adversarial maneuvers in diverse driving scenarios. Finally, we compare our approach to existing falsification methods, both in terms of their efficiency at finding counter-examples as well as the diversity and quality of their counter-examples. Our results suggest that RL-based falsification can be an effective tool for testing and validating autonomous vehicle systems.},
+@article{shiyuan2026learning,
+  title    = {Learning to Draw ASCII Improves Spatial Reasoning in Language Models},
+  author   = {Huang, Shiyuan and Liu, Li and He, Jincheng and Gilpin, Leilani H},
+  journal  = {arXiv preprint arXiv:2604.14641},
+  date     = {2026-04-16},
+  url_pdf  = {https://arxiv.org/pdf/2604.14641},
+  abstract = {When faced with complex spatial problems, humans naturally sketch layouts to organize their thinking, and the act of drawing further sharpens their understanding. In this work, we ask whether a similar principle holds for Large Language Models (LLMs): can learning to construct explicit visual layouts from spatial descriptions instill genuine spatial understanding? We introduce Text2Space, a dataset that pairs natural language descriptions with ground-truth ASCII grid layouts and spatial QA pairs, enabling us to separate failures in constructing spatial representations from failures in reasoning over them. We adopt ASCII because it is human-readable, operates entirely within the token space of language models, and encodes spatial relations in a structurally verifiable form. Our evaluation reveals a pronounced "Read-Write Asymmetry": LLMs interpret ASCII representations effectively but struggle to produce them from text, and these construction errors propagate to incorrect answers downstream. To address this limitation, we train models on layout construction (TextASCII) and find that it significantly improves spatial reasoning from text alone, even without producing any ASCII at inference time. Combining construction with comprehension training further amplifies these gains. Crucially, these improvements transfer to three external spatial reasoning benchmarks, demonstrating that, much as sketching sharpens human spatial thinking, learning to construct explicit layouts instills spatial understanding that generalizes beyond the training format.},
+}
+
+@article{liu2026touching,
+  title    = {Touching Space: Accessible Map Exploration Through Conversational Audio-Haptic Interaction},
+  author   = {Liu, Li and Qu, Jiaming and Bagaoisan, Marc Jowell and Lee, David T and Gilpin, Leilani H},
+  journal  = {arXiv preprint arXiv:2604.14637},
+  date     = {2026-04-16},
+  url_pdf  = {https://arxiv.org/pdf/2604.14637},
+  abstract = {Most existing assistive navigation tools focus on providing real-time guidance for Blind and Low-Vision (BLV) people, but few support building a holistic spatial understanding of unfamiliar environments before travel. Such cognitive map construction (e.g., knowing that a fountain is south of a tower and west of a hotel) is important for pre-travel planning, yet remains underexplored in prior work. To address this gap, we present Touching Space, an end-to-end system that retrieves map data for a target place and loads it into a frontend interface for exploration. The system combines haptic and audio feedback: users explore spatial layouts through touch and ask spoken questions to a conversational agent during exploration. Touching Space contributes a conversational interface that supports BLV users in building cognitive maps on commodity hardware.},
+}
+
+@article{wang2026bridging,
+  title    = {Bridging Legal Interpretation and Formal Logic: Faithfulness, Assumption, and the Future of AI Legal Reasoning},
+  author   = {Wang, Olivia Peiyu and Gilpin, Leilani H},
+  journal  = {arXiv preprint arXiv:2605.14049},
+  date     = {2026-05-13},
+  url_pdf  = {https://arxiv.org/pdf/2605.14049},
+  abstract = {The growing adoption of large language models in legal practice brings both significant promise and serious risk. Legal professionals stand to benefit from AI that can reason over contracts, draft documents, and analyze sources at scale, yet the high-stakes nature of legal work demands a level of rigor that current AI systems do not provide. The central problem is not simply that LLMs hallucinate facts and references; it is that they systematically draw inferences that go beyond what the source text actually supports, presenting assumption-laden conclusions as if they were logically grounded. This proposal presents a neuro-symbolic approach to legal AI that combines the expressive power of large language models with the rigor of formal verification, aiming to make AI-assisted legal reasoning both capable and trustworthy, thus reducing the burden of manual verification without sacrificing the accountability that legal practice demands.},
 }
