@@ -1,12 +1,15 @@
 # Join us!
 
-Currently, the AIEA lab is at *capacity* and not seeking new students
-to join at this time.  We will update this page as openings become
-available.
+We believe research opportunities should be open and transparent.
+They should not dependent on insider knowledge or opaque application
+processes. Our goal is to support as many students as we sustainably
+can, so students interested in joining the lab will begin through
+various onboarding activities (see below).
 
-
-Interested students are welcome to complete the lab interest [form](https://forms.gle/CpmrgSxGSUvDWo3J7).
-We examine new applicants at the start of each academic quarter (excluding summer).  
+If you are interested in joining the AIEA Lab, you are welcome to
+complete the lab interest [form](https://forms.gle/CpmrgSxGSUvDWo3J7).
+We examine new applicants at the start of each academic quarter
+(excluding summer).
 
 ## Prospective PhD students
 <!-- The AIEA group takes on 0-2 new PhD students each year.-->
@@ -44,6 +47,34 @@ The expected commitment is ~10 hours per week where you will learn about:
 -   Code: Github
 -   Complete a group project with 2-3 students.
 
-You can read more about the [projects](/project).
+You can read more about the [projects](/project).  You can learn more about this program by joining our [prospective undergraduate mailing list](https://groups.google.com/a/ucsc.edu/g/aiea-prospectives-group).  
 
+## High School Students
 
+The AIEA Lab takes on several high school students that are affiliated with the following programs:
+1.  [SIP](https://sip.ucsc.edu/about/)
+2.  [COSMOS](https://cosmos.ucsc.edu/)
+
+If you are not accepted to one of these programs, we can offer a
+structured, volunteer-based opportunity for high school students over
+the summer that want to work on either (1) independent projects or (2)
+learn through some of my labs existing projects.  You can learn more
+about this by requesting to join our [prospective intern mailing list](https://groups.google.com/a/ucsc.edu/g/aiea-interns-group) or our [intern Discord server](https://discord.gg/hjJH5RCJA). 
+
+## Students Outside of UCSC
+
+If you or your advisor have an existing connection to the AIEA Lab’s
+research community, e.g.,through XAI, AI safety, neurosymbolic AI, or
+autonomous vehicle applications; we welcome you to reach out. In your
+email, please clearly describe the connection and the overlap between
+your research interests and the group’s current research areas.
+
+Because we receive many inquiries, we are generally unable to consider
+student projects outside of UCSC without an existing institutional,
+advising, or research-field connection.  
+
+## Outside Collaborators
+
+We are always interested in exploring new collaborations.  Please send
+[Leilani](mailto:lgilpin@ucsc.edu) or the
+[group](mailto:aiea@ucsc.edu) an email to coordinate a meeting.
