@@ -11,12 +11,12 @@ interests:
   - Financial Technology (FinTech)
   - Quantitative Finance
 
-socials:
+social:
   - icon: "envelope"
     icon_pack: "fa"
     link: "mailto:harshithk922@gmail.com"
   - icon: "github"
-    icon_pack: "fa"
+    icon_pack: "fab"
     link: "https://github.com/harshithk-cloud"
 role: "High school intern"
 
