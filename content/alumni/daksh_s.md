@@ -1,18 +1,19 @@
 +++
 bio = "" 
-date = "2024-09-11" 
-id = "saumit_v" 
+date = "2024-10-27" 
+id = "daksh_s" 
 interests = [] 
-name = "Saumit Vedula" 
+name = "Daksh Shah" 
 portrait = "/portraits/default.jpg" 
 short_bio = "" 
 sort_position = 10
- short_name = "saumit_v" 
+short_name = "daksh_s"
+now_at="MS student at NYU"
 
 [[social]] 
     icon = "envelope" 
     icon_pack = "fa" 
-    link = "mailto: savedula@ucsc.edu"
+    link = "mailto: dakshah@ucsc.edu"
 
  [[social]] 
     icon = "twitter" 
@@ -27,7 +28,7 @@ sort_position = 10
 [[social]] 
     icon = "github" 
     icon_pack = "fa" 
-    link = "https://github.com/svedula24" 
+    link = "https://github.com/dakshshah03" 
 [[organizations]] 
      name = "UC Santa Cruz" 
       role = "Undergrad Student" 
