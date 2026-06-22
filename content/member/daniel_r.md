@@ -8,6 +8,7 @@ portrait = "/portraits/default.jpg"
 short_bio = "Hi! I'm Daniel (he/him)"
 short_name = "Daniel"
 title = "Undergraduate"
+sort_position = 5
 
 [[social]]
     icon = "envelope"

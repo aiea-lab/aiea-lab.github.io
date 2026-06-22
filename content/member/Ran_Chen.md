@@ -8,6 +8,7 @@ portrait = "/portraits/default.jpg"
 short_bio = "First year Am major"
 short_name = "Justin"
 title = "Undergraduate Student"
+sort_position = 5
 
 [[social]]
     icon = "envelope"

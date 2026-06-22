@@ -8,6 +8,7 @@ portrait = "/portraits/ron.jpg"
 short_bio = ""
 short_name = "Ron"
 title = ""
+sort_position = 5
 
 [[social]]
     icon = "envelope"

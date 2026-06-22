@@ -8,6 +8,7 @@ portrait = "/portraits/jacob_wei.jpg"
 short_bio = ""
 short_name = "Jacob"
 title = "Undergraduate"
+sort_position = 5
 
 [[social]]
     icon = "envelope"

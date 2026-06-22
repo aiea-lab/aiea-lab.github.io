@@ -8,6 +8,7 @@ portrait = "/portraits/jaisree.jpg"
 short_bio = "Hello, I am a 2nd year Computer Science Major at UCSC."
 short_name = "jaisree"
 title = "Undergraduate"
+sort_position = 5
 
 [[social]]
     icon = "envelope"

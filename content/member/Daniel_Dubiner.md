@@ -8,6 +8,7 @@ portrait = "/portraits/daniel_d.jpg"
 short_bio = "Second year CS major"
 short_name = "Daniel"
 title = "Undergraduate"
+sort_position = 5
 
 [[social]]
     icon = "envelope"

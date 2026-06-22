@@ -8,6 +8,7 @@ portrait = "/portraits/default.jpg"
 short_bio = "I'm a C.S. student, AI researcher, and Code Coach"
 short_name = "Rami"
 title = "Undergraduate"
+sort_position = 5
 
 [[social]]
     icon = "envelope"
