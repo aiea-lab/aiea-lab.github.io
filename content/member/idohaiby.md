@@ -8,6 +8,7 @@ portrait = "/portraits/idohaiby.jpg"
 short_bio = "Sophmore CS student"
 short_name = "Ido"
 title = "Undergraduate"
+sort_position = 5
 
 [[social]]
     icon = "envelope"

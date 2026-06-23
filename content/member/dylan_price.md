@@ -8,6 +8,7 @@ portrait = "/portraits/dylan_price.jpg"
 short_bio = "I am a first year Computer Engineering major. I am looking to go into research surrounding artificial intelligence in autonomous vehicles."
 short_name = "Dylan"
 title = "Undergraduate"
+sort_position = 5
 
 [[social]]
     icon = "envelope"

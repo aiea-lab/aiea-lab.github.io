@@ -8,6 +8,7 @@ portrait = "/portraits/evan_kaiden.jpg"
 short_bio = "I am a second year undergraduate studying Computer Science at UCSC."
 short_name = ""
 title = ""
+sort_position = 5
 
 [[social]]
     icon = "envelope"

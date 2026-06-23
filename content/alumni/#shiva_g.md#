@@ -1,0 +1,35 @@
++++
+bio = "" 
+date = "2025-04-11" 
+id = "shiva_g" 
+interests = [] 
+name = "Shiva Ganesh Ramakrishnan"
+portrait = "/portraits/default.jpg" 
+short_bio = "" 
+sort_position = 10
+now_at="Software Engineering at Cisco"
+short_name = "shiva_g" 
+
+[[social]] 
+    icon = "envelope" 
+    icon_pack = "fa" 
+    link = "mailto: "
+
+ [[social]] 
+    icon = "twitter" 
+    icon_pack = "fa" 
+    link = "" 
+
+[[social]] 
+    icon = "google-scholar" 
+    icon_pack = "ai" 
+    link = "" 
+
+[[social]] 
+    icon = "github" 
+    icon_pack = "fa" 
+    link = "" 
+[[organizations]] 
+     name = "UC Santa Cruz" 
+      role = "Master's Student" 
++++

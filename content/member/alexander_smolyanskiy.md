@@ -8,6 +8,7 @@ portrait = "/portraits/alexander_smolyanskiy.jpg"
 short_bio = "I am a first-year Computer Science & Applied Mathematics major at UCSC interested in neural networks, world models, and artificial intelligence for robotics."
 short_name = "Sasha"
 title = "Undergraduate"
+sort_position = 5
 
 [[social]]
     icon = "envelope"

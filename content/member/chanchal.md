@@ -8,6 +8,7 @@ portrait = "/portraits/chanchal_muk.jpg"
 short_bio = "Undergraduate student at UC Santa Cruz studying Computer Engineering."
 short_name = "Chanchal"
 title = "Undergraduate"
+sort_position = 5
 
 [[social]]
     icon = "envelope"

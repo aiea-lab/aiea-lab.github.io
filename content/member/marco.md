@@ -8,6 +8,7 @@ portrait = "/portraits/marco.jpg"
 short_bio = "CE Major, 3rd year Junior"
 short_name = "Marco"
 title = "Undergradute"
+sort_position = 5
 
 [[social]]
     icon = "envelope"

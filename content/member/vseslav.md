@@ -8,6 +8,7 @@ portrait = "/portraits/vee.png"
 short_bio = "Vseslav Kazakov (Vee for short) is a Computer Science Game Design Student at UC Santa Cruz interested in low level programming and AI research. Vee joined the AIEA lab Winter 2026 to work on Autonomous vehicles research."
 short_name = "Vee"
 title = "Auditor"
+sort_position = 5
 
 [[social]]
     icon = "github"

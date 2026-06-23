@@ -8,6 +8,7 @@ portrait = "/portraits/dongjun_h.jpg"
 short_bio = "Hi! I'm Dongjun Hahm, a 3rd year TIM & BMEcon major."
 short_name = "dongjun_h"
 title = "Undergraduate student"
+sort_position = 5
 
 [[social]]
     icon = "envelope"

@@ -24,4 +24,8 @@ Neuro-symbolic AI (also known as NeSy) is a field that combines the generalizabi
 
 ## Previous Publications
 Wang, O. P., & Gilpin, L. H. (2026). Bridging Legal Interpretation and Formal Logic: Faithfulness, Assumption, and the Future of AI Legal Reasoning. ArXiv. https://arxiv.org/abs/2605.14049
+
+Wang, O. P., Wong-Toropainen, S., Amrollahi, D., Bai, R., Bansal, T., Garg, A., & Gilpin, L. H. (2026). Know your limits: On the faithfulness of LLMs as solvers and autoformalizers in legal reasoning. arXiv. https://arxiv.org/abs/2606.16118
+
+
 ## Related Readings

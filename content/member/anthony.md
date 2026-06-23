@@ -8,6 +8,7 @@ portrait = "portraits/anthony_f.jpg"
 short_bio = "Hi, I am Anthony France! I am an undergraduate student studying Cognitive Science."
 short_name = "Tony"
 title = "Undergraduate"
+sort_position = 5
 
 [[social]]
 icon = "envelope"

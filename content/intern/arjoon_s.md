@@ -1,18 +1,18 @@
 +++
 bio = "" 
-date = "2024-10-27" 
-id = "daksh_s" 
+date = "2026-06-21" 
+id = "arjoon_s" 
 interests = [] 
-name = "Daksh Shah" 
-portrait = "/portraits/default.jpg" 
+name = "Arjoon Shastry" 
+portrait = "/portraits/Arjoon.JPG" 
 short_bio = "" 
 sort_position = 10
- short_name = "daksh_s" 
+ short_name = "arjoon_s" 
 
 [[social]] 
     icon = "envelope" 
     icon_pack = "fa" 
-    link = "mailto: dakshah@ucsc.edu"
+    link = "mailto: "
 
  [[social]] 
     icon = "twitter" 
@@ -27,8 +27,8 @@ sort_position = 10
 [[social]] 
     icon = "github" 
     icon_pack = "fa" 
-    link = "https://github.com/dakshshah03" 
+    link = "https://github.com/arjoonshastry" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Undergrad Student" 
+      role = "High School Intern" 
 +++
