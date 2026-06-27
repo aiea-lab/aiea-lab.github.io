@@ -1,5 +1,4 @@
-+++
-bio = "Evan Kaiden is a Computer Science major and the project manager for the Neuron Explanation and SENN project. His research focuses on the design and implementation of Self-Explainable Neural Networks (SENNs), particularly under compute-constrained conditions."
++++ bio = "Evan Kaiden is a Computer Science major and the project manager for the Neuron Explanation and SENN project. His research focuses on the design and implementation of Self-Explainable Neural Networks (SENNs), particularly under compute-constrained conditions."
 date = "2025-09-01"
 id = ""
 interests = ["Computer Vision", "Self-Explainable Neural Networks ", "Compute-Constrained Deep Learning"]
@@ -30,4 +29,4 @@ sort_position = 5
     role = "BS"
 
 +++
-Put your bio here.
+Evan Kaiden is a Computer Science major and the project manager for the Neuron Explanation and SENN project. His research focuses on the design and implementation of Self-Explainable Neural Networks (SENNs), particularly under compute-constrained conditions.
