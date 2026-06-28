@@ -320,3 +320,22 @@ url_pdf       = {https://arxiv.org/pdf/2511.20934},
   url_pdf  = {https://arxiv.org/pdf/2605.14049},
   abstract = {The growing adoption of large language models in legal practice brings both significant promise and serious risk. Legal professionals stand to benefit from AI that can reason over contracts, draft documents, and analyze sources at scale, yet the high-stakes nature of legal work demands a level of rigor that current AI systems do not provide. The central problem is not simply that LLMs hallucinate facts and references; it is that they systematically draw inferences that go beyond what the source text actually supports, presenting assumption-laden conclusions as if they were logically grounded. This proposal presents a neuro-symbolic approach to legal AI that combines the expressive power of large language models with the rigor of formal verification, aiming to make AI-assisted legal reasoning both capable and trustworthy, thus reducing the burden of manual verification without sacrificing the accountability that legal practice demands.},
 }
+
+@article{chang2026reinforcement,
+  title    = {Reinforcement Learning for Falsification of Dynamic Driving Scenarios},
+  author   = {Chang, Oliver and Vargas, Kay and Gilpin, Leilani H and Fremont, Daniel J},
+  journal  = {Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems},
+  date     = {2026-05-25},
+  pages = {3636-3638},
+  url_pdf  = {https://dl.acm.org/doi/epdf/10.65109/PFBJ1092},
+  abstract = {Falsification has been widely used to find failure cases for cyber-physical systems (CPS). In the domain of autonomous driving, falsification has recently been applied to find adversarial driving maneuvers which cause other vehicles to crash. In this work, we propose a reinforcement learning (RL)-based falsification framework that can discover complex adversarial maneuvers in diverse driving scenarios. Finally, we compare our approach to existing falsification methods, both in terms of their efficiency at finding counter-examples as well as the diversity and quality of their counter-examples. Our results suggest that RL-based falsification can be an effective tool for testing and validating autonomous vehicle systems.},
+}
+
+@article{wang2026know,
+  title    = {Know Your Limits: On the Faithfulness of LLMs as Solvers and Autoformalizers in Legal Reasoning},
+  author   = {Wang, Olivia Peiyu and Wong-Toropainen, Sanna and Amrollahi, Daneshvar and Bai, Ryan and Bansal, Tashvi and Garg, Arush and Gilpin, Leilani H},
+  journal  = {arXiv preprint arXiv:2606.16118},
+  date     = {2026-06-15},
+  url_pdf  = {https://arxiv.org/pdf/2606.16118},
+  abstract = {Large Language Models (LLMs) achieve strong performance on reasoning tasks, but whether this reflects faithful logical inference or heuristic approximation remains unclear. We study this question in legal entailment by comparing three paradigms, including pure LLM classification, LLM-based Formal Reasoning, and solver-based Formal Reasoning using the Z3 SMT solver, on a re-annotated subset of ContractNLI across five LLMs. Our re-annotation reveals a systematic and measurable gap between pragmatic legal interpretation and strict formal entailment, where a substantial proportion of legally sound inferences are not formally grounded without additional unstated assumptions. While introducing formal structure improves accuracy, with LLM-based Formal Reasoning achieving the highest benchmark performance, we show that this gain does not imply faithful reasoning. We identify three recurring failure modes: scope laundering, where LLMs report solver-inconsistent classifications without executing the underlying formal reasoning, producing conclusions that appear logically grounded but are not; implicit constraint blindness, where LLMs overlook logical constraints present in formal representations; and program synthesis failures, where LLMs generate incorrect Z3 code despite structured prompting. Critically, scope laundering persists across all models, raising serious concerns about the faithfulness of LLM-based formal reasoning as a proxy for symbolic execution. These results reveal a fundamental gap between benchmark accuracy and logical faithfulness.},
+}
