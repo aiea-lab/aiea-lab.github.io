@@ -12,7 +12,7 @@ url_slides = ""
 url_video = ""
 [[authors]]
   name = "Wang, Olivia Peiyu"
-  is_member = false
+  is_member = true
 [[authors]]
   name = "Bansal, Tashvi"
   is_member = false
