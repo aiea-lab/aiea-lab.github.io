@@ -13,12 +13,6 @@ title = "High School Intern"
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:kaokylah@gmail.com"
-
-
-[[social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = ""
     
 [[organizations]]
     name = "UC Santa Cruz"
