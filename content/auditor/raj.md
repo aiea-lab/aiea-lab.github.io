@@ -15,24 +15,9 @@ icon_pack = "fa"
 link = "mailto:rkmanoha@ucsc.edu"
 
 [[social]]
-icon = "twitter"
-icon_pack = "fa"
-link = ""
-
-[[social]]
-icon = "google-scholar"
-icon_pack = "ai"
-link = ""
-
-[[social]]
 icon = "github"
 icon_pack = "fa"
 link = "https://github.com/RajManohara"
-
-[[education]]
-course = ""
-institution = ""
-year = 2023
 
 [[organizations]]
 name = "UC Santa Cruz"
