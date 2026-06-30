@@ -2,7 +2,7 @@
 bio = ""
 date = "2026-06-22"
 id = ""
-interests = ["write", "your", "interests"]
+interests = ["AI Ethics", "Cloud Computing", "Neural networks"]
 name = "Braydon Ramirez"
 portrait = "/portraits/braydon.jpg"
 short_bio = "I am a rising third year undergraduate studying Computer Science at UCSC."
