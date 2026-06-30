@@ -12,7 +12,7 @@ title = "Undergraduate Auditor"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:lthormod@ucsc.edu""
+    link = "mailto:lthormod@ucsc.edu"
 
 [[social]]
     icon = "github"
