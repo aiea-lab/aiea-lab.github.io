@@ -1,7 +1,8 @@
 +++
-bio = "Hi, I'm Tanvi and I am a rising senior in high school interested in AI, machine learning, and neuroscience."
+bio = "Hi, I'm Tanvi and I am a rising senior in high school interested in AI, machine learning, and neuroscience. Some of my hobbies are baking, drawing, and listening to music. Feel free to connect with me on LinkedIn :)"
 date = "2026-06-19"
 id = "tanvi"
+portrait = "/portraits/tanvi_pic.jpg"
 interests = ["AI", "ML", "neuroscience"]
 name = "Tanvi Rathore"
 short_bio = "Rising senior interested in AI, ML, and neuroscience."
