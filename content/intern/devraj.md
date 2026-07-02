@@ -1,5 +1,5 @@
 +++
-bio = "bio = "I am a rising Junior at Saratoga High School interested in artificial intelligence, formal logic, and electrical engineering research.""
+bio = "I am a rising Junior at Saratoga High School interested in artificial intelligence, formal logic, and electrical engineering research."
 date = "2026-06-26"
 id = "devraj"
 interests = [
