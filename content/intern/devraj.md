@@ -1,10 +1,16 @@
 +++
-bio = ""
+bio = "bio = "I am a rising Junior at Saratoga High School interested in artificial intelligence, formal logic, and electrical engineering research.""
 date = "2026-06-26"
 id = "devraj"
-interests = ["write", "your", "interests"]
+interests = [
+    "Artificial Intelligence",
+    "Logic",
+    "Asics",
+    "Sports",
+    "Trivia"
+]
 name = "Devraj Bora"
-portrait = "/portraits/your_name.jpg"
+portrait = "/portraits/default.jpg"
 short_bio = ""
 short_name = "Devraj"
 title = "High School Intern"
@@ -14,15 +20,6 @@ title = "High School Intern"
     icon_pack = "fa"
     link = "mailto:devrajbora22@gmail.com"
 
-# [[social]]
-#     icon = "twitter"
-#     icon_pack = "fa"
-#     link = ""
-
-# [[social]]
-#     icon = "google-scholar"
-#     icon_pack = "ai"
-#     link = ""
 
 [[social]]
     icon = "github"
