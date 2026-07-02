@@ -3,7 +3,7 @@ bio = ""
 date = "2026-07-01" 
 id = "katelyn"
 interests = [] 
-name = "Katelyn" 
+name = "Katelyn Wang" 
 portrait = "/portraits/default.jpg" 
 short_bio = "" 
 sort_position = 10
@@ -12,22 +12,8 @@ sort_position = 10
 [[social]] 
     icon = "envelope" 
     icon_pack = "fa" 
-    link = " "
+    link = "mailto:katelynwang.r@gmail.com"
 
- [[social]] 
-    icon = "twitter" 
-    icon_pack = "fa" 
-    link = "" 
-
-[[social]] 
-    icon = "google-scholar" 
-    icon_pack = "ai" 
-    link = "" 
-
-[[social]]
-    icon = "github" 
-    icon_pack = "fa" 
-    link = "https://github.com/" 
 [[organizations]] 
      name = "UC Santa Cruz" 
       role = "High School Student" 
