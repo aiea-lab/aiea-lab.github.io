@@ -25,7 +25,7 @@ title = "Auditor"
     link = "https://github.com/FALLTULIP"
 
 [[education]]
-    course = ""
+    course = "French Horn and German"
     institution = "Oberlin College"
     year = 2024
     
@@ -34,4 +34,4 @@ title = "Auditor"
     role = "Auditor"
 
 +++
-Put your bio here.
+Recent liberal arts grad looking for entry level positions in workplace management, operations, and the product sphere at early-growth stage startups in EdTech or HealthTech. Experience in stakeholder coordination, financial management and operations. Collaborative creative with broad interests, a hunger for data, a craving for depth, and a desire to build more effective organizations. Lately, I've been thinking a lot about AI automation, internal operations in startup environments, community development, and data engineering. Always down to chat. espringe [at] oberlin.edu. 
