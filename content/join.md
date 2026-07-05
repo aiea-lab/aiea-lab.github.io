@@ -7,7 +7,7 @@ can, so students interested in joining the lab will begin through
 various onboarding activities (see below).
 
 If you are interested in joining the AIEA Lab, you are welcome to
-complete the lab interest [form](https://forms.gle/CpmrgSxGSUvDWo3J7).
+complete the lab interest [form](https://forms.gle/CpmrgSxGSUvDWo3J7) and you will receive an email from us shortly.
 We examine new applicants at the start of each academic quarter
 (excluding summer).
 
@@ -55,11 +55,11 @@ The AIEA Lab takes on several high school students that are affiliated with the 
 1.  [SIP](https://sip.ucsc.edu/about/)
 2.  [COSMOS](https://cosmos.ucsc.edu/)
 
-If you are not accepted to one of these programs, we can offer a
+If you are not accepted to one of these programs, we may be able to offer a
 structured, volunteer-based opportunity for high school students over
 the summer that want to work on either (1) independent projects or (2)
 learn through some of my labs existing projects.  You can learn more
-about this by requesting to join our [prospective intern mailing list](https://groups.google.com/a/ucsc.edu/g/aiea-interns-group) or our [intern Discord server](https://discord.gg/hjJH5RCJA). 
+about this by requesting to join our [prospective intern mailing list](https://groups.google.com/a/ucsc.edu/g/aiea-intern-prospectives-group) or our [intern Discord server](https://discord.gg/hjJH5RCJA). 
 
 ## Students Outside of UCSC
 
