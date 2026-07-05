@@ -9,23 +9,6 @@ title = "High School Intern"
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:as97850@student.musd.org"
-
-[[social]]
-    icon = "twitter"
-    icon_pack = "fa"
-
-[[social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-
-[[social]]
-    icon = "github"
-    icon_pack = "fa"
-
-[[education]]
-    course = ""
-    institution = ""
-    year = 2023
     
 [[organizations]]
     name = "UC Santa Cruz"
