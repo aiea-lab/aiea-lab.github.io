@@ -4,7 +4,7 @@ date = "2026-08-24"
 id = "Adhvika"
 interests = ["AI", "machine learning", "engineering"]
 name = "Adhvika Wangoo"
-portrait = ""
+portrait = "/portraits/default.jpg"
 short_bio = "Undergraduate student interested in AI, engineering, and research."
 short_name = "Adhvika"
 title = "Undergraduate Auditor"
@@ -13,16 +13,6 @@ title = "Undergraduate Auditor"
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:adhvika.wangoo@gmail.com"
-
-[[social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = ""
-
-[[social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = ""
 
 [[social]]
     icon = "github"
