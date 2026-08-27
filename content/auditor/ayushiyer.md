@@ -7,7 +7,7 @@ name = "Ayush Iyer"
 portrait = "/portraits/ayushiyer.jpg"
 short_bio = "I am interested in machine learning, robotics, autonomous vehicles, physics, and electrical engineering."
 short_name = "Ayush"
-title = "Collaborator"
+title = "Auditor"
 
 [[social]]
 icon = "envelope"
@@ -36,7 +36,7 @@ year = 2027
 
 [[organizations]]
 name = "UC Santa Cruz"
-role = "Collaborator"
+role = "Auditor"
 +++
 
 Ayush Iyer is interested in machine learning, robotics, autonomous vehicles, artificial intelligence, physics, and electrical engineering. He enjoys exploring how computational tools and engineering systems can be used to solve real-world problems, especially in intelligent and autonomous systems. Outside of academics, Ayush loves playing soccer and spending time with his twin brother.
