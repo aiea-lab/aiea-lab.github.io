@@ -1,42 +1,27 @@
 +++
-bio = ""
-date = "2023-09-01"
-id = ""
-interests = ["write", "your", "interests"]
-name = ""
-portrait = "/portraits/your_name.jpg"
+bio = "Hello! It is nice to be here! I am a rising high school senior at Heritage High School, and I am really into robotics, prosthetics, and healthcare (specifically diseases). I am also a great carrom player, puzzle-builder, and helper for my family. Cannot wait to see you all! "
+date = "2025-06-15"
+interests = "robotics, prosthetics, cars"
+name = "Saivignesh Narayanaviswanathan"
+portrait = "/portraits/saivignesh_narayanaviswanathan.jpg"
+sort_position = 3
 short_bio = ""
-short_name = ""
-title = ""
+short_name = "Sai"
+
+title = "High school Intern"
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:[your_name]@ucsc.edu"
+    link = "mailto: vignesh94519@gmail.com"
 
-[[social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = ""
-
-[[social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = ""
 
 [[social]]
     icon = "github"
     icon_pack = "fa"
-    link = ""
+    link = "https://github.com/VG-30"
 
 [[education]]
-    course = ""
-    institution = ""
-    year = 2023
-    
-[[organizations]]
-    name = "UC Santa Cruz"
-    role = ""
-
+    institution = "Heritage High School"
+    year = 2027
 +++
-Put your bio here.
