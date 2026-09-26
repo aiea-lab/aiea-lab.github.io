@@ -1,5 +1,5 @@
 +++
-bio = "Adam Martinez is a third-year undergraduate Computer Science student working as an auditor in the AIEA Lab." 
+bio = "Adam Martinez is a first-year M.S. Computer Science student working in the AIEA Lab." 
 date = "2025-04-02" 
 id = "adam_m" 
 interests = ["LLM", "Sustainable AI", "Autonomous Vehicles"] 
@@ -20,6 +20,6 @@ short_name = "Adam"
     link = "https://github.com/adamnmartinez" 
 
 [[organizations]] 
-     name = "UC Santa Cruz" 
-      role = "Undergrad Student" 
+    name = "UC Santa Cruz" 
+    role = "Masters Student" 
 +++
