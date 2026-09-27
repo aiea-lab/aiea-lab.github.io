@@ -2,12 +2,13 @@
 bio = ""
 date = "2026-09-26"
 id = "Andrew N"
-interests = [LLM]
+interests = ["LLM"]
 name = "Andrew Nguyen"
 portrait = "/portraits/AndrewNguyen.jpg"
 short_bio = "Hey! I'm a third year undergraduate majoring in Computer Science."
 short_name = "Andrew N"
 title = "Undergrad Student, UC Santa Cruz"
+sort_position = 5
 
 [[social]]
     icon = "envelope"
