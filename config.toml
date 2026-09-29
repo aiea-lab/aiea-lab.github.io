@@ -8,6 +8,7 @@ theme = "our-theme"
 title = "AIEA Lab"
 math = true
 copyright = "&copy; AIEA Lab, 2023 "
+enableEmoji = true
 
 
 [markup]

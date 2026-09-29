@@ -4,7 +4,7 @@ date = "2026-03-31"
 id = ""
 interests = ["Playing and Watching Cricket", "Playing Super Smash Bros"]
 name = "Utkarsh Banka"
-portrait = "/portraits/Utkarsh_B.jpg"
+portrait = "/portraits/default.jpg"
 
 short_bio = "I’m Utkarsh Banka, a current UCSC student and auditor at AIEA Lab, focused on making AI research workflows reliable, reproducible, and ethically grounded."
 short_name = "Utkarsh"
