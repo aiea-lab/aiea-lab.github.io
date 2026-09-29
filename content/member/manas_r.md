@@ -2,12 +2,12 @@
 bio = ""
 date = "2026-04-03"
 id = "Manas"
-interests = ["write", "your", "interests"]
+interests = ["AI Ethics"]
 name = "Manas Rajkumar"
 portrait = "/portraits/your_name.jpg"
-short_bio = "I'm a first-year CS (BS) major. I like to listen to rap and play sports."
+short_bio = "I'm a second-year CS (BS) major. I like to listen to rap and play sports."
 short_name = "Manas"
-title = "Auditor"
+title = "Member"
 
 [[social]]
     icon = "envelope"
