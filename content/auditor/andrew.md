@@ -27,7 +27,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Intern"
+    role = "Auditor"
 
 +++
 2nd year Applied Math student studying at Foothill College.
