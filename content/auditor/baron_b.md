@@ -1,18 +1,18 @@
 +++
 bio = ""
-date = "2023-09-01"
-id = ""
-interests = ["write", "your", "interests"]
-name = ""
+date = "2026-10-09"
+id = "baron"
+interests = ["AI", "Optics", "Brain-inspired learning"]
+name = "Baron Batarse"
 portrait = "/portraits/your_name.jpg"
-short_bio = ""
+short_bio = "Hello! I am a third year undegrad student who is very interested in research"
 short_name = ""
-title = ""
+title = "Undergraduate"
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:[your_name]@ucsc.edu"
+    link = "mailto:bbatase@ucsc.edu"
 
 [[social]]
     icon = "twitter"
@@ -30,9 +30,9 @@ title = ""
     link = ""
 
 [[education]]
-    course = ""
-    institution = ""
-    year = 2023
+    course = "BS"
+    institution = "UCSC"
+    year = 2028
     
 [[organizations]]
     name = "UC Santa Cruz"
