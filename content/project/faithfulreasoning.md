@@ -4,8 +4,12 @@ description = ""
 external_link = ""
 image = ""
 project_id = "faithfulreasoning"
-short_description = "The Faithful Reasoning project focuses on combining the flexbility of LLMs and the rigorousness of Symbolic Reasoning, and generate faithful Neuro-symbolic reasoning for high-stakes use cases."
-title = "Faithful Reasoning"
+short_description = "This project aims to apply neuro-symbolic approach to instruct the COT process of LLMs for better verifiability and faithfulness/trustworthiness"
+title = "Faithful NeSy Reasoning"
+summary = "This project aims to apply neuro-symbolic approach to instruct the COT process of LLMs for better verifiability and faithfulness/trustworthiness"
+draft = false
+project_dates = ""
+notion_project_id = "1d4c03a1-4c2c-8023-8909-ddf81c27a8c6"
 [[participants]]
     name = "leilani"
     is_member = true
@@ -18,19 +22,7 @@ title = "Faithful Reasoning"
     name = "priyesh"
     is_member = true
     id = "priyesh_v"
+org_project_sync = true
 +++
-The Faithful Reasoning project focuses on combining the flexbility of LLMs and the rigorousness of Symbolic Reasoning, and generate faithful Neuro-symbolic reasoning for high-stakes use cases, such as determining whether a user has violated Terms of Service. 
-Neuro-symbolic AI (also known as NeSy) is a field that combines the generalizability of Neural Networks and interpretability and control of Symbolic AI. The highly structured setup with potential capability for formal verification is a great fit for the legal field. Its generalizability is promising to lift up the burden of heavy legal document review and drafting
 
-# Instructed COT
-
-## Previous Publications
-Wang, O. P., Bansal, T., Bai, R., Chui, E. M., & Gilpin, L. H. (2025). Follow My Lead: Logical Fallacy Classification with Knowledge-Augmented LLMs. arXiv preprint arXiv:2510.09970.
-
-## Related Readings
-
-# Faithful Nesy Reasoning
-
-## Previous Publications
-
-## Related Readings
+This project aims to apply neuro-symbolic approach to instruct the COT process of LLMs for better verifiability and faithfulness/trustworthiness

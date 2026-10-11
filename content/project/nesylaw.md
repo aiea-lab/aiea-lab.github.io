@@ -4,8 +4,11 @@ description = ""
 external_link = ""
 image = ""
 project_id = "nesylaw"
-short_description = "The NeSy (previously known as LLM + Law) project focuses on harvesting the power of symbolic language and Neuro-symbolic AI for legal use cases"
+short_description = "Using symbolic language and neuro-symbolic AI for legal applications."
 title = "NeSy Law"
+summary = "Using symbolic language and neuro-symbolic AI for legal applications."
+draft = true
+project_dates = ""
 [[participants]]
     name = "leilani"
     is_member = true
@@ -18,14 +21,9 @@ title = "NeSy Law"
     name = "priyesh"
     is_member = true
     id = "priyesh_v"
+org_project_sync = true
 +++
-The NeSy (previously known as LLM + Law) project focuses on harvesting the power of symbolic language and Neuro-symbolic AI for legal use cases.
-Neuro-symbolic AI (also known as NeSy) is a field that combines the generalizability of Neural Networks and interpretability and control of Symbolic AI. The highly structured setup with potential capability for formal verification is a great fit for the legal field. Its generalizability is promising to lift up the burden of heavy legal document review and drafting
 
-## Previous Publications
-Wang, O. P., & Gilpin, L. H. (2026). Bridging Legal Interpretation and Formal Logic: Faithfulness, Assumption, and the Future of AI Legal Reasoning. ArXiv. https://arxiv.org/abs/2605.14049
-
-Wang, O. P., Wong-Toropainen, S., Amrollahi, D., Bai, R., Bansal, T., Garg, A., & Gilpin, L. H. (2026). Know your limits: On the faithfulness of LLMs as solvers and autoformalizers in legal reasoning. arXiv. https://arxiv.org/abs/2606.16118
-
-
-## Related Readings
+The NeSy Law project studies how symbolic language and neuro-symbolic AI can
+support legal applications while making the assumptions and reasoning of AI
+systems more explicit.
