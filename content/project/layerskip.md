@@ -6,7 +6,7 @@ short_description = ""
 external_link = ""
 org_project_sync = true
 summary = ""
-project_dates = "2025-10-01"
+project_dates = "October 2025 – Present"
 notion_project_id = "294c03a1-4c2c-80e4-bf16-cb32442a55aa"
 +++
 

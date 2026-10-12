@@ -1,0 +1,47 @@
+{{/* Both directions of affiliation use the project's participants metadata. */}}
+{{ $people := slice }}
+{{ $seen := newScratch }}
+{{ $profiles := where .Site.RegularPages "Section" "in" (slice "member" "alumni" "intern" "interns" "auditor") }}
+{{ range .Params.participants }}
+  {{ $participant := . }}
+  {{ $key := .id | default .name }}
+  {{ if and $key (not ($seen.Get $key)) }}
+    {{ $matches := where $profiles "Params.id" $participant.id }}
+    {{ if $matches }}
+      {{ $profile := index $matches 0 }}
+      {{ $people = $people | append (dict "name" ($profile.Params.name | default $profile.Title) "url" $profile.RelPermalink "portrait" ($profile.Params.portrait | default "") "role" ($participant.role | default "")) }}
+      {{ $seen.Set $key true }}
+    {{ else if .external_member }}
+      {{ $people = $people | append (dict "name" .name "url" (.external_link | default "") "portrait" "" "role" (.role | default "")) }}
+      {{ $seen.Set $key true }}
+    {{ else }}
+      {{ warnf "Project %s: no person profile found for participant %s" $.Title $key }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ if $people }}
+<section class="project-people" aria-labelledby="project-people-heading">
+  <h2 id="project-people-heading">People</h2>
+  <style>
+    .project-people{margin-top:35px;margin-bottom:30px}
+    .project-people-list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;padding:0;list-style:none}
+    .project-people-list li{display:flex;gap:15px;align-items:center}
+    .project-people-list img{width:72px;height:72px;border-radius:50%;object-fit:cover;flex-shrink:0}
+    .project-people-list .person-name{font-size:18px;font-weight:600}
+    .project-people-list .person-role{margin:4px 0 0;font-size:14px}
+    @media(max-width:991px){.project-people-list{grid-template-columns:repeat(2,minmax(0,1fr))}}
+    @media(max-width:600px){.project-people-list{grid-template-columns:1fr}}
+  </style>
+  <ul class="project-people-list">
+  {{ range $people }}
+    <li>
+      {{ with .portrait }}<img src="{{ printf "img/%s" (strings.TrimPrefix "/" .) | relURL }}" alt="" loading="lazy">{{ end }}
+      <div>
+        {{ if .url }}<a class="person-name" href="{{ .url }}">{{ .name }}</a>{{ else }}<span class="person-name">{{ .name }}</span>{{ end }}
+        {{ with .role }}<p class="person-role">{{ . }}</p>{{ end }}
+      </div>
+    </li>
+  {{ end }}
+  </ul>
+</section>
+{{ end }}

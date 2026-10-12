@@ -1,0 +1,7 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+<div class="container"><h1 class="text-center">Projects</h1>
+{{ partial "project_cards.html" .RegularPages.ByDate.Reverse }}
+</div>
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}

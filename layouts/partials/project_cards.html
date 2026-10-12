@@ -1,0 +1,32 @@
+{{/* Card format mirrors the personal Academia portfolio widget. */}}
+<style>
+.aiea-project-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:30px;margin-top:25px}
+.aiea-project-grid .project-card{background:#fff;box-shadow:0 2px 8px rgba(0,0,0,.12);overflow:hidden}
+.aiea-project-grid .card-image img{width:100%;height:auto;display:block}
+.aiea-project-grid .card-body{padding:20px}
+.aiea-project-grid h4{font-size:20px;margin:0 0 12px;line-height:1.4}
+.aiea-project-grid .project-dates{font-size:14px;color:#666;margin-bottom:12px}
+@media(max-width:991px){.aiea-project-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.aiea-project-grid{grid-template-columns:1fr}}
+</style>
+<div class="aiea-project-grid">
+{{ range . }}
+  {{ $link := .RelPermalink }}
+  {{ with .Params.external_link }}{{ $link = . }}{{ end }}
+  <div class="project-card project-item"><div class="card rounded-0 shadow-sm">
+    {{ $resource := (.Resources.ByType "image").GetMatch "*featured*" }}
+    {{ if .Params.notion_cover }}
+      <a href="{{ $link }}" class="card-image"><img src="{{ .Params.notion_cover | relURL }}" alt="" loading="lazy"></a>
+    {{ else if $resource }}
+      <a href="{{ $link }}" class="card-image"><img src="{{ $resource.RelPermalink }}" alt="" loading="lazy"></a>
+    {{ else }}
+      {{ with .Params.picture }}<a href="{{ $link }}" class="card-image"><img src="{{ printf "img/%s" . | relURL }}" alt="" loading="lazy"></a>{{ end }}
+    {{ end }}
+    <div class="card-body">
+      <h4><a href="{{ $link }}">{{ .Title | markdownify }}</a></h4>
+      {{ with .Params.project_dates }}<p class="project-dates">{{ . }}</p>{{ end }}
+      <div class="card-desription">{{ with .Params.summary }}<p>{{ . | markdownify }}</p>{{ else }}{{ with .Params.short_description }}<p>{{ . | markdownify }}</p>{{ end }}{{ end }}</div>
+    </div>
+  </div></div>
+{{ end }}
+</div>

@@ -1,0 +1,29 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+<div class="container">
+    
+
+    <article class="article article-project" itemscope itemtype="http://schema.org/Article">
+        <h1 itemprop="name">{{ .Title }}</h1>
+        
+        {{ if eq .Params.participants_block_position "up" }}
+            {{ partial "project_people.html" . }}
+        {{ end }}
+
+        {{ with .Params.external_link }}<a class="btn btn-primary btn-outline" href="{{ . }}">Go to Project Site</a>{{ end }}
+
+        <div class="article-style" itemprop="articleBody">
+            {{ .Content }}
+        </div>
+    
+        {{ if ne .Params.participants_block_position "up" }}
+            {{ partial "project_people.html" . }}
+        {{ end }}
+     </article>
+    
+   {{ partial "section_pager.html" . }}
+
+</div>
+
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}

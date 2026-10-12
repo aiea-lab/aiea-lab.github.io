@@ -9,7 +9,7 @@ short_description = "A project to make automated assessment tools or autograders
 title = "Explanatory Grading Guidance (EGG)"
 summary = "A project to make automated assessment tools or autograders more explainable."
 draft = false
-project_dates = "2023-06-20"
+project_dates = "June 2023 – Present"
 notion_project_id = "e2c392d1-4d48-4f82-8c47-7d32b26d5598"
 notion_cover = "img/notion-project-covers/e2c392d14d484f828c477d32b26d5598-9d3b38d7cbf9e6e4.png"
 [[participants]]
