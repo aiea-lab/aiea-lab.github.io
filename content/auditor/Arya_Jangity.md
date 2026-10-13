@@ -6,7 +6,7 @@ interests = ["Computer Vision", "Autonomous Vehicles", "Robotics", "AI/ML"]
 name = "Arya Jangity"
 portrait = "/portraits/Arya.jpg"
 short_bio = "2nd year Robotics Engineering Undergraduate"
-short_name = "Arya"
+short_name = "Arya_J"
 title = "Undergraduate"
 
 [[social]]
