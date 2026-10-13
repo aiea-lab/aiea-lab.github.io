@@ -1,6 +1,6 @@
 +++
 bio = "2nd year Robotics Engineering major at UCSC interested in AI/ML, computer vision, and autonomous vehicles."
-date = "2023-09-01"
+date = "2026-09-24"
 id = "Arya"
 interests = ["Computer Vision", "Autonomous Vehicles", "Robotics", "AI/ML"]
 name = "Arya Jangity"
@@ -12,7 +12,7 @@ title = "Undergraduate"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:[ajangity]@ucsc.edu"
+    link = "mailto:ajangity@ucsc.edu"
 
 [[social]]
     icon = "twitter"
@@ -30,7 +30,7 @@ title = "Undergraduate"
     link = "https://github.com/ajangity"
 
 [[education]]
-    course = ""
+    course = "B.S. Robotics Engineering"
     institution = "UC Santa Cruz"
     year = 2029
     
