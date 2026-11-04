@@ -7,6 +7,10 @@ external_link = "https://www.csail.mit.edu/research/car-can-explain"
 org_project_sync = true
 summary = "An adaptable framework to supplement decision-making systems with commonsense knowledge and reasonableness rules."
 project_dates = ""
+[[participants]]
+    name = "leilani"
+    is_member = true
+    id = "leilani"
 +++
 
 An adaptable framework to supplement decision-making systems with commonsense

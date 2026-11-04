@@ -1,4 +1,5 @@
 +++
+projects = ["neuron-explanations"]
 title = "Guaranteed Optimal Compositional Explanations for Neurons"
 publication = "arXiv preprint arXiv:2511.20934"
 journal = "ICML"

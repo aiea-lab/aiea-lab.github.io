@@ -17,6 +17,10 @@ notion_cover = "img/notion-project-covers/e2c392d14d484f828c477d32b26d5598-9d3b3
     is_member = true
     id = "leilani"
 [[participants]]
+    name = "Lucas Ellenberger"
+    is_member = true
+    id = "lucas_ellenberger"
+[[participants]]
     name="Batuhan Salih"
     is_member = true
     id = "Batuhan"

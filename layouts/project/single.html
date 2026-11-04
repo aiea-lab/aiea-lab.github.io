@@ -19,6 +19,7 @@
         {{ if ne .Params.participants_block_position "up" }}
             {{ partial "project_people.html" . }}
         {{ end }}
+        {{ partial "project_publications.html" . }}
      </article>
     
    {{ partial "section_pager.html" . }}

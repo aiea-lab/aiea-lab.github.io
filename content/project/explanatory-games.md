@@ -7,6 +7,10 @@ external_link = "https://www.csail.mit.edu/research/car-can-explain"
 org_project_sync = true
 summary = "Using internal symbolic, explanatory representations to robustly monitor agents."
 project_dates = ""
+[[participants]]
+    name = "leilani"
+    is_member = true
+    id = "leilani"
 +++
 
 Using internal symbolic, explanatory representations to robustly monitor

@@ -7,6 +7,10 @@ org_project_sync = true
 summary = ""
 project_dates = ""
 notion_project_id = "571aeca7-9aa0-49ea-a396-14ba2c6fb500"
+[[participants]]
+    name = "leilani"
+    is_member = true
+    id = "leilani"
 +++
 
 

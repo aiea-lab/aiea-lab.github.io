@@ -1,4 +1,6 @@
 +++
+is_former_member = true
+aliases = ["/member/rishika_s/"]
 bio = "" 
 date = "2024-10-14" 
 id = "rishika_s" 

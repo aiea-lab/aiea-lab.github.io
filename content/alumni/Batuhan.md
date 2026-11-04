@@ -2,6 +2,8 @@
 bio = ""
 date = "2022-09-17"
 id = "Batuhan"
+is_former_member = true
+aliases = ["/member/batuhan/"]
 interests = ["Autograder", "XAI", "Systems Design"]
 name = "Batuhan Salih"
 portrait = "/portraits/batu.jpg"
@@ -31,4 +33,4 @@ title = "Master's Student"
     role = "Master's Student"
 
 +++
-Batuhan is a first-year Master's student advised by [Prof. Leilani Gilpin](../leilani/) in the Department of Computer Science and Engineering at UC Santa Cruz. His research interests include applying deep reinforcement learning to Pacman and integrating explainable AI into the autograder system to provide real-time, detailed feedback to students. Outside of his studies, Batu enjoys workingout, playing basketball, gaming, and food (both cooking and eating). 
+Batuhan is a first-year Master's student advised by [Prof. Leilani Gilpin](/member/leilani/) in the Department of Computer Science and Engineering at UC Santa Cruz. His research interests include applying deep reinforcement learning to Pacman and integrating explainable AI into the autograder system to provide real-time, detailed feedback to students. Outside of his studies, Batu enjoys workingout, playing basketball, gaming, and food (both cooking and eating). 
