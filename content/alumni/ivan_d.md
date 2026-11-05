@@ -1,18 +1,20 @@
 +++
+is_former_member = true
+aliases = ["/member/ivan_d/"]
 bio = "" 
 date = "2024-09-11" 
-id = "siddarth_m" 
+id = "ivan_d" 
 interests = [] 
-name = "Siddarth Mamidanna" 
-portrait = "/portraits/siddarth_m.jpg" 
+name = "Ivan Del Rio" 
+portrait = "/portraits/ivan.jpg" 
 short_bio = "" 
 sort_position = 10
- short_name = "siddarth_m" 
+ short_name = "ivan_d" 
 
 [[social]] 
     icon = "envelope" 
     icon_pack = "fa" 
-    link = "mailto: spmamida@ucsc.edu"
+    link = "mailto: indelrio@ucsc.edu"
 
  [[social]] 
     icon = "twitter" 
@@ -27,7 +29,7 @@ sort_position = 10
 [[social]] 
     icon = "github" 
     icon_pack = "fa" 
-    link = "https://github.com/" 
+    link = "https://github.com/baribarigood" 
 [[organizations]] 
      name = "UC Santa Cruz" 
       role = "Undergrad Student" 

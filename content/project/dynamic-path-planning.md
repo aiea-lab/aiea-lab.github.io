@@ -11,6 +11,14 @@ notion_project_id = "571aeca7-9aa0-49ea-a396-14ba2c6fb500"
     name = "leilani"
     is_member = true
     id = "leilani"
+[[participants]]
+    name = "Ujwala Nettam"
+    id = "ujwala"
+    is_member = true
+[[participants]]
+    name = "Adam Martinez"
+    id = "adam_m"
+    is_member = true
 +++
 
 Exploring autonomous vehicle path planning with algorithms such as D* and D* Lite.
