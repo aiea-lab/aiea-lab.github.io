@@ -1,0 +1,4 @@
+Generated with the built-in image_gen tool.
+
+Prompt:
+Create a landscape starry night image for the WISPER ethical AI research collective website. A natural, photographic night sky full of fine stars and a soft Milky Way above a low silhouette of coastal hills and a few distant trees. Deep indigo and blue with subtle warm starlight, calm, curious, contemplative. Sky occupies 85 percent of the frame. Beautiful at small project-card size. No text, logos, watermarks, people, or graphic overlays.

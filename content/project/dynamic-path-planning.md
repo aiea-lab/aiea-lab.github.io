@@ -1,10 +1,10 @@
 +++
 title = "Dynamic Path Planning"
 draft = false
-short_description = ""
+short_description = "Exploring autonomous vehicle path planning with algorithms such as D* and D* Lite."
 external_link = ""
 org_project_sync = true
-summary = ""
+summary = "Exploring autonomous vehicle path planning with algorithms such as D* and D* Lite."
 project_dates = ""
 notion_project_id = "571aeca7-9aa0-49ea-a396-14ba2c6fb500"
 [[participants]]
@@ -13,4 +13,4 @@ notion_project_id = "571aeca7-9aa0-49ea-a396-14ba2c6fb500"
     id = "leilani"
 +++
 
-
+Exploring autonomous vehicle path planning with algorithms such as D* and D* Lite.

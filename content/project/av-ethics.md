@@ -1,10 +1,10 @@
 +++
 title = "AV Ethics"
 draft = false
-short_description = ""
+short_description = "Exploring ethical decision-making in autonomous vehicles, including dilemmas such as the trolley problem."
 external_link = ""
 org_project_sync = true
-summary = ""
+summary = "Exploring ethical decision-making in autonomous vehicles, including dilemmas such as the trolley problem."
 project_dates = ""
 notion_project_id = "224c03a1-4c2c-80d6-adca-ecd9c6ddc579"
 [[participants]]
@@ -13,4 +13,4 @@ notion_project_id = "224c03a1-4c2c-80d6-adca-ecd9c6ddc579"
     id = "leilani"
 +++
 
-
+Exploring ethical decision-making in autonomous vehicles, including dilemmas such as the trolley problem.

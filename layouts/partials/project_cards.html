@@ -1,13 +1,13 @@
 {{/* Card format mirrors the personal Academia portfolio widget. */}}
 <style>
-.aiea-project-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:30px;margin-top:25px}
-.aiea-project-grid .project-card{background:#fff;box-shadow:0 2px 8px rgba(0,0,0,.12);overflow:hidden}
+.aiea-project-grid{column-count:3;column-gap:30px;column-fill:balance;margin-top:25px}
+.aiea-project-grid .project-card{display:inline-block;vertical-align:top;width:100%;margin-bottom:30px;break-inside:avoid;background:#fff;box-shadow:0 2px 8px rgba(0,0,0,.12);overflow:hidden}
 .aiea-project-grid .card-image img{width:100%;height:auto;display:block}
 .aiea-project-grid .card-body{padding:20px}
 .aiea-project-grid h4{font-size:20px;margin:0 0 12px;line-height:1.4}
 .aiea-project-grid .project-dates{font-size:14px;color:#666;margin-bottom:12px}
-@media(max-width:991px){.aiea-project-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
-@media(max-width:600px){.aiea-project-grid{grid-template-columns:1fr}}
+@media(max-width:991px){.aiea-project-grid{column-count:2}}
+@media(max-width:600px){.aiea-project-grid{column-count:1}}
 </style>
 <div class="aiea-project-grid">
 {{ range . }}

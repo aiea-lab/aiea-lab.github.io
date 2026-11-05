@@ -1,10 +1,10 @@
 +++
 title = "Guidance"
 draft = false
-short_description = ""
+short_description = "Guiding vision-language models to explain their uncertainty when visual evidence is insufficient."
 external_link = ""
 org_project_sync = true
-summary = ""
+summary = "Guiding vision-language models to explain their uncertainty when visual evidence is insufficient."
 project_dates = ""
 notion_project_id = "117c03a1-4c2c-8125-9e0a-ee9f3121e4f9"
 [[participants]]
@@ -13,4 +13,4 @@ notion_project_id = "117c03a1-4c2c-8125-9e0a-ee9f3121e4f9"
     id = "leilani"
 +++
 
-
+Guiding vision-language models to explain their uncertainty when visual evidence is insufficient.

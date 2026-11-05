@@ -18,6 +18,14 @@ notion_project_id = "38ac03a1-4c2c-800b-946b-fa7054597549"
     is_member = true
     id = "este"
     lead = true
+[[participants]]
+    name = "Riddhi Mundhra"
+    is_member = true
+    id = "riddhi"
+[[participants]]
+    name = "Joshua Cordoba Rodríguez"
+    id = "joshua_cordoba_rodriguez"
+    role = "Lamat program"
 +++
 
 Propagators are a constraint-based programming model which we use to diagnose, understand, and monitor complex systems
