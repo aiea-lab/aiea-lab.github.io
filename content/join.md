@@ -13,7 +13,7 @@ We examine new applicants at the start of each academic quarter
 
 ## Prospective PhD students
 <!-- The AIEA group takes on 0-2 new PhD students each year.-->
-For the 2025-2026 academic year, due to the group size and uncertainty of research funds, we are not recruiting PhD students.
+Due to the group size and uncertainty of research funds, we are not recruiting PhD students for the 2026-2027 academic year.
 
 <!-- We are seeking creative, hard-working, PhD students to join and lead the group.
 
