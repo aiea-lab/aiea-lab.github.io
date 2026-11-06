@@ -1,7 +1,7 @@
 +++
 bio = ""
 date = "2026-01-08"
-id = ""
+id = "jacob_wei"
 interests = ["write", "your", "interests"]
 name = "Jacob Wei"
 portrait = "/portraits/jacob_wei.jpg"

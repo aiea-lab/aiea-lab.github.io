@@ -1,18 +1,21 @@
 +++
+is_former_member = true
+aliases = ["/member/siddarth_m/"]
 bio = "" 
 date = "2024-09-11" 
-id = "sabrina" 
+id = "siddarth_m" 
 interests = [] 
-name = "Khin (Sabrina) Yone" 
-portrait = "/portraits/sabrina.jpg" 
-short_bio = "" 
+name = "Siddarth Mamidanna" 
+portrait = "/portraits/siddarth_m.jpg" 
+short_bio = ""
+now_at = "Ph.D. student at the University of Cambridge" 
 sort_position = 10
- short_name = "sabrina" 
+ short_name = "siddarth_m" 
 
 [[social]] 
     icon = "envelope" 
     icon_pack = "fa" 
-    link = "mailto: "
+    link = "mailto: spmamida@ucsc.edu"
 
  [[social]] 
     icon = "twitter" 
@@ -27,8 +30,9 @@ sort_position = 10
 [[social]] 
     icon = "github" 
     icon_pack = "fa" 
-    link = "https://github.com/tqpatil" 
+    link = "https://github.com/" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Masters Student" 
+      role = "Undergrad Student" 
 +++
+

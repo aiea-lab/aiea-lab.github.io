@@ -1,7 +1,7 @@
 +++
 bio = ""
 date = "2023-09-01"
-id = ""
+id = "saniha"
 interests = ["Web Development", "LLMs", "AI/ML"]
 name = "Saniha Sreedhara"
 portrait = "/portraits/Saniha.jpg"
