@@ -7,7 +7,10 @@
   {{ $participant := . }}
   {{ $key := .id | default .name }}
   {{ if and $key (not ($seen.Get $key)) }}
-    {{ $matches := where $profiles "Params.id" $participant.id }}
+    {{ $matches := slice }}
+    {{ with $participant.id }}
+      {{ $matches = where $profiles "Params.id" . }}
+    {{ end }}
     {{ if $matches }}
       {{ $profile := index $matches 0 }}
       {{ $order := 1 }}

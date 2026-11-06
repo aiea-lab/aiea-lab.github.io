@@ -1,0 +1,36 @@
+{{ $dated := slice }}
+{{ $undated := slice }}
+{{ range .ByTitle }}
+  {{ if .Date.IsZero }}
+    {{ $undated = $undated | append . }}
+  {{ else }}
+    {{ $dated = $dated | append . }}
+  {{ end }}
+{{ end }}
+{{ $projects := (sort $dated "Date" "desc") | append $undated }}
+<ul class="past-project-list">
+{{ range $projects }}
+  <li>
+    {{ $image := "" }}
+    {{ if .Params.notion_cover }}
+      {{ $image = .Params.notion_cover | relURL }}
+    {{ else if (.Resources.ByType "image").GetMatch "*featured*" }}
+      {{ $image = ((.Resources.ByType "image").GetMatch "*featured*").RelPermalink }}
+    {{ else if .Params.picture }}
+      {{ $image = printf "img/%s" .Params.picture | relURL }}
+    {{ end }}
+    <div class="project-thumbnail">
+      {{ with $image }}<img src="{{ . }}" alt="" loading="lazy">{{ end }}
+    </div>
+    <div class="project-details">
+    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    {{ if or .Params.project_dates .Params.venue }}
+    <p class="project-meta">{{ .Params.project_dates }}{{ if and .Params.project_dates .Params.venue }} &middot; {{ end }}{{ .Params.venue }}</p>
+    {{ end }}
+    {{ with .Params.summary | default .Params.short_description }}
+    <div class="project-summary">{{ . | markdownify }}</div>
+    {{ end }}
+    </div>
+  </li>
+{{ end }}
+</ul>

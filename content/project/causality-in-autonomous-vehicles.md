@@ -1,7 +1,9 @@
 +++
 title = "Causality in Autonomous Vehicles"
+picture = "projects/causal-avs.png"
 project_id = "causality-in-autonomous-vehicles"
 project_dates = "January 2025 – Present"
+date = "2025-01-01"
 draft = false
 short_description = "Understanding how autonomous vehicles reason about causality."
 summary = "Understanding how autonomous vehicles reason about causality."
@@ -26,3 +28,5 @@ summary = "Understanding how autonomous vehicles reason about causality."
 +++
 
 This project investigates how autonomous vehicles reason about causality.
+
+![Comparison of model attention and human votes for relevant vehicles in a driving scene.](/img/projects/causal-avs.png)

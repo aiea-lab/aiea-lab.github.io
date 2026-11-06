@@ -1,7 +1,35 @@
 {{ partial "header.html" . }}
 {{ partial "navbar.html" . }}
-<div class="container"><h1 class="text-center">Projects</h1>
-{{ partial "project_cards.html" .RegularPages.ByDate.Reverse }}
+<div class="container"><h1 class="text-center">All Projects</h1>
+{{ with .RegularPages }}
+<style>
+.past-project-list{list-style:none;padding:0;margin:30px 0}
+.past-project-list li{display:flex;gap:20px;align-items:flex-start;padding:24px 0;border-bottom:1px solid #ddd}
+.past-project-list .project-thumbnail{width:88px;flex:0 0 88px}
+.past-project-list .project-thumbnail img{display:block;width:88px;height:72px;object-fit:contain}
+.past-project-list .project-details{flex:1;min-width:0}
+@media(max-width:600px){.past-project-list li{gap:12px}.past-project-list .project-thumbnail{width:56px;flex-basis:56px}.past-project-list .project-thumbnail img{width:56px;height:48px}}
+.past-project-list h3{font-size:24px;margin:0 0 8px}
+.past-project-list .project-meta{color:#666;font-size:14px;margin:0 0 10px}
+.past-project-list .project-summary p{margin-bottom:0}
+</style>
+{{ $active := where . "Params.project_status" "ne" "completed" }}
+{{ $completed := where . "Params.project_status" "completed" }}
+{{ with $active }}
+<section aria-labelledby="active-projects-heading">
+  <h2 id="active-projects-heading">Active Projects</h2>
+  {{ partial "project_list.html" . }}
+</section>
+{{ end }}
+{{ with $completed }}
+<section aria-labelledby="completed-projects-heading">
+  <h2 id="completed-projects-heading">Completed Projects</h2>
+  {{ partial "project_list.html" . }}
+</section>
+{{ end }}
+{{ else }}
+<p>No projects are listed yet.</p>
+{{ end }}
 </div>
 {{ partial "footer_container.html" . }}
 {{ partial "footer.html" . }}

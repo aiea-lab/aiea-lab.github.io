@@ -1,10 +1,20 @@
 {{ $projects := where .Site.RegularPages "Type" "project" }}
+{{ $active := where $projects "Params.project_status" "ne" "completed" }}
+{{ $completed := where $projects "Params.project_status" "completed" }}
 {{ if $projects }}
 <section id="projects" class="home-section"><div class="container">
   <div class="row"><div class="col-xs-12 section-heading text-center">
-    <h1>{{ .Site.Params.projects.title | default "Projects" }}</h1>
+    <h1><a href="{{ "project/" | relURL }}">{{ .Site.Params.projects.title | default "Projects" }}</a></h1>
     {{ with .Site.Params.projects.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
   </div></div>
-  {{ partial "project_cards.html" $projects.ByDate.Reverse }}
+  {{ partial "project_cards.html" $active.ByDate.Reverse }}
+  {{ if $completed }}
+  <p class="view-all">
+    <a href="{{ "project/" | relURL }}">
+      {{ .Site.Params.projects.str_all | default "More projects" }}
+      <i class="fa fa-angle-double-right" aria-hidden="true"></i>
+    </a>
+  </p>
+  {{ end }}
 </div></section>
 {{ end }}
