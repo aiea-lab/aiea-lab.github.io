@@ -1,18 +1,20 @@
 +++
+is_former_member = true
+aliases = ["/member/sabrina/"]
 bio = "" 
 date = "2024-09-11" 
-id = "ivan_d" 
+id = "sabrina" 
 interests = [] 
-name = "Ivan Del Rio" 
-portrait = "/portraits/ivan.jpg" 
+name = "Khin (Sabrina) Yone" 
+portrait = "/portraits/sabrina.jpg" 
 short_bio = "" 
 sort_position = 10
- short_name = "ivan_d" 
+ short_name = "sabrina" 
 
 [[social]] 
     icon = "envelope" 
     icon_pack = "fa" 
-    link = "mailto: indelrio@ucsc.edu"
+    link = "mailto: "
 
  [[social]] 
     icon = "twitter" 
@@ -27,8 +29,8 @@ sort_position = 10
 [[social]] 
     icon = "github" 
     icon_pack = "fa" 
-    link = "https://github.com/baribarigood" 
+    link = "https://github.com/tqpatil" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Undergrad Student" 
+      role = "Masters Student" 
 +++

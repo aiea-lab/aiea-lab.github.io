@@ -66,6 +66,9 @@ Mathematics (with honors), B.S. in Computer Science (with highest
 honors), and a music minor from UC San Diego.  Outside of research,
 Leilani enjoys swimming, cooking, hiking, and org-mode.
 
+Hello! :wave:
+
+{{ "Hello! :wave:" | .RenderString }}
 <!-- You can write $\LaTeX$ and *Markdown* here.
 
 # Minyae adgnoscitque fugiebat parentis ausum superos huius

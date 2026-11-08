@@ -1,4 +1,6 @@
 +++
+is_former_member = true
+aliases = ["/member/nataniel_j/"]
 bio = "Hello, I’m Nataniel, a second-year undergrad student pursing computer engineering in UCSC." 
 date = "2024-10-14" 
 id = "nataniel_j" 

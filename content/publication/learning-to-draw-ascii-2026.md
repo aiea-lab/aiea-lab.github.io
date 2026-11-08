@@ -1,5 +1,6 @@
 +++
 title = "Learning to Draw ASCII Improves Spatial Reasoning in Language Models"
+projects = ["learning-to-draw-ascii"]
 publication = "arXiv preprint arXiv:2604.14641"
 journal = "arXiv preprint arXiv:2604.14641"
 year = "2026"

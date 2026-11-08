@@ -1,18 +1,20 @@
 +++
+is_former_member = true
+aliases = ["/member/rishika_s/"]
 bio = "" 
-date = "2024-09-11" 
-id = "siddarth_m" 
+date = "2024-10-14" 
+id = "rishika_s" 
 interests = [] 
-name = "Siddarth Mamidanna" 
-portrait = "/portraits/siddarth_m.jpg" 
+name = "Rishika Srinivas" 
+portrait = "/portraits/rishika_s.jpg" 
 short_bio = "" 
 sort_position = 10
- short_name = "siddarth_m" 
+ short_name = "rishika_s" 
 
 [[social]] 
     icon = "envelope" 
     icon_pack = "fa" 
-    link = "mailto: spmamida@ucsc.edu"
+    link = "mailto: riasrini@ucsc.edu"
 
  [[social]] 
     icon = "twitter" 
