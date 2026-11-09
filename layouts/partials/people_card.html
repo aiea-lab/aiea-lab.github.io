@@ -1,0 +1,21 @@
+{{ $person := .page }}
+{{ $portrait := $person.Params.portrait | default "/portraits/default.jpg" }}
+{{ if not (fileExists (printf "static/img/%s" (strings.TrimPrefix "/" $portrait))) }}
+  {{ $portrait = "/portraits/default.jpg" }}
+{{ end }}
+<div class="people-card">
+  <a href="{{ $person.RelPermalink }}"><img src="{{ printf "img/%s" (strings.TrimPrefix "/" $portrait) | relURL }}" alt="" loading="lazy"></a>
+  <h3><a href="{{ $person.RelPermalink }}">{{ $person.Params.name | default $person.Title }}</a></h3>
+  {{ $alumni := or (eq $person.Section "alumni") $person.Params.is_former_member }}
+  {{ if and $alumni (not $person.Params.now_at) }}<p>{{ partial "alumni_status.html" $person }}</p>{{ end }}
+  {{ if $person.Params.now_at }}
+    <p class="person-now-at"><span>Now at</span> {{ $person.Params.now_at }}</p>
+  {{ else if not $alumni }}
+    {{ $role := $person.Params.role | default $person.Params.title }}
+    {{ if not $role }}
+      {{ with $person.Params.organizations }}{{ $role = (index . 0).role }}{{ end }}
+    {{ end }}
+    {{ with $role }}<p>{{ . }}</p>{{ end }}
+  {{ end }}
+  {{ if .showDate }}{{ if not $person.Date.IsZero }}<p>{{ $person.Date.Format "January 2006" }}</p>{{ end }}{{ end }}
+</div>

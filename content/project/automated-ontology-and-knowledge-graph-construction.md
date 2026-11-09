@@ -1,4 +1,5 @@
 +++
+topics = ["nlp", "symbolic-logic-human-centered"]
 title = "Automated Ontology and Knowledge Graph Construction"
 project_id = "automated-ontology-and-knowledge-graph-construction"
 date = "2026-10-01"

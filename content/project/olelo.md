@@ -1,4 +1,5 @@
 +++
+topics = ["nlp", "programming"]
 title = "Olelo"
 draft = false
 short_description = "Building a custom, open-source notetaker for our lab."

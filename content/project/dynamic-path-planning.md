@@ -1,4 +1,5 @@
 +++
+topics = ["rl-reasoning-agentic"]
 title = "Dynamic Path Planning"
 draft = false
 short_description = "Exploring autonomous vehicle path planning with algorithms such as D* and D* Lite."

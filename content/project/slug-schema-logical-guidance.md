@@ -1,4 +1,5 @@
 +++
+topics = ["vision", "nlp", "symbolic-logic-human-centered"]
 title = "SLuG - Schema Logical Guidance"
 date = "2026-01-06"
 draft = false

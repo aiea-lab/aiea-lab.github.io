@@ -1,0 +1,17 @@
+{{ $label := "Alumni" }}
+{{ $roles := slice (.Params.title | default "") (.Params.role | default "") }}
+{{ range .Params.organizations }}{{ $roles = $roles | append (.role | default "") }}{{ end }}
+{{ $role := lower (delimit $roles " ") }}
+{{ $rank := partial "member_role_rank.html" . }}
+{{ if findRE `high school` $role }}
+  {{ $label = "High School Alumni" }}
+{{ else if eq $rank 1 }}
+  {{ $label = "Postdoctoral Alumni" }}
+{{ else if eq $rank 2 }}
+  {{ $label = "Ph.D. Alumni" }}
+{{ else if eq $rank 3 }}
+  {{ $label = "Master's Alumni" }}
+{{ else if eq $rank 4 }}
+  {{ $label = "Undergraduate Alumni" }}
+{{ end }}
+{{ return $label }}

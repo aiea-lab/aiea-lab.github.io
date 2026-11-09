@@ -1,4 +1,5 @@
 +++
+topics = ["nlp", "symbolic-logic-human-centered"]
 title = "Knowledge-augmented LLMs for Logical Fallacy Classification"
 project_id = "knowledge-augmented-llms-for-logical-fallacy-classification"
 date = "2025-07-10"

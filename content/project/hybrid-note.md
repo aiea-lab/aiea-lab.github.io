@@ -1,4 +1,5 @@
 +++
+topics = ["vision", "programming"]
 title = "Hybrid Note"
 draft = false
 short_description = "Turning handwritten notes into searchable text."

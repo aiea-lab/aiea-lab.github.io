@@ -2,7 +2,24 @@
 {{ partial "navbar.html" . }}
 <div class="container"><h1 class="text-center">All Projects</h1>
 {{ with .RegularPages }}
+<div class="project-controls">
+  <label for="project-topic">Topic</label>
+  <select id="project-topic">
+    <option value="">All topics</option>
+    {{ range $.Site.Data.research_topics.topics }}<option value="{{ .id }}">{{ .title }}</option>{{ end }}
+  </select>
+  <label for="project-sort">Sort by</label>
+  <select id="project-sort">
+    <option value="date">Newest first</option>
+    <option value="title">Project name (A–Z)</option>
+  </select>
+</div>
+<p id="project-filter-result" role="status" aria-live="polite"></p>
+<script src="{{ "js/project-filters.js" | relURL }}" defer></script>
 <style>
+.project-controls{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin:24px 0}
+.project-controls select{max-width:100%;padding:8px;border:1px solid #bbb;border-radius:4px;background:#fff}
+.past-project-list li[hidden],section[hidden]{display:none}
 .past-project-list{list-style:none;padding:0;margin:30px 0}
 .past-project-list li{display:flex;gap:20px;align-items:flex-start;padding:24px 0;border-bottom:1px solid #ddd}
 .past-project-list .project-thumbnail{width:88px;flex:0 0 88px}

@@ -1,0 +1,41 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+{{ partial "people_grid_style.html" . }}
+<main class="container">
+  <h1>Team</h1>
+  {{ $members := slice }}
+  {{ range where .Site.RegularPages "Section" "member" }}
+    {{ if not .Params.is_former_member }}
+      {{ $rank := partial "member_role_rank.html" . }}
+      {{ $members = $members | append (dict "page" . "sortKey" (printf "%d-%s" $rank (lower (.Params.name | default .Title)))) }}
+    {{ end }}
+  {{ end }}
+  <div class="people-grid">
+    {{ range sort $members "sortKey" "asc" }}{{ partial "people_card.html" (dict "page" .page) }}{{ end }}
+  </div>
+
+  {{ with where .Site.RegularPages "Section" "auditor" }}
+  <section class="team-section" aria-labelledby="auditors-heading">
+    <h2 id="auditors-heading">Auditors</h2>
+    <p>Auditors work in the lab for credit for a quarter (10 weeks).</p>
+    <div class="people-grid">
+      {{ range sort . "Params.name" "asc" }}{{ partial "people_card.html" (dict "page" .) }}{{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  {{ with where .Site.RegularPages "Section" "alumni" }}
+  <section class="team-section" aria-labelledby="alumni-heading">
+    <h2 id="alumni-heading">Alumni</h2>
+    <div class="people-grid">
+      {{ range sort . "Params.name" "asc" }}{{ partial "people_card.html" (dict "page" .) }}{{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  {{ if where .Site.RegularPages "Section" "in" (slice "intern" "interns") }}
+  <p class="view-all"><a href="{{ "intern/" | relURL }}">View high school interns <i class="fa fa-angle-double-right" aria-hidden="true"></i></a></p>
+  {{ end }}
+</main>
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}

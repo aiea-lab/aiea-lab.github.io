@@ -1,4 +1,5 @@
 +++
+topics = ["symbolic-logic-human-centered"]
 title = "Frame-based monitoring"
 draft = false
 short_description = "Translate autonomous system logs into a common, symbolic frame-based representation"

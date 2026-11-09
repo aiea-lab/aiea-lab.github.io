@@ -1,4 +1,5 @@
 +++
+topics = ["vision", "nlp", "rl-reasoning-agentic"]
 title = "Episodic Memory"
 project_id = "episodic-memory"
 project_dates = "September 2026 – Present"
