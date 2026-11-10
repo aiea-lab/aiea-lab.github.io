@@ -17,5 +17,9 @@
     {{ end }}
     {{ with $role }}<p>{{ . }}</p>{{ end }}
   {{ end }}
-  {{ if .showDate }}{{ if not $person.Date.IsZero }}<p>{{ $person.Date.Format "January 2006" }}</p>{{ end }}{{ end }}
+  {{ with $person.Params.start_date }}
+    <p>Joined {{ (time.AsTime .).Format "January 2006" }}</p>
+  {{ else }}
+    {{ if $.showDate }}{{ if not $person.Date.IsZero }}<p>{{ $person.Date.Format "January 2006" }}</p>{{ end }}{{ end }}
+  {{ end }}
 </div>

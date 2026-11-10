@@ -6,8 +6,7 @@
   {{ $members := slice }}
   {{ range where .Site.RegularPages "Section" "member" }}
     {{ if not .Params.is_former_member }}
-      {{ $rank := partial "member_role_rank.html" . }}
-      {{ $members = $members | append (dict "page" . "sortKey" (printf "%d-%s" $rank (lower (.Params.name | default .Title)))) }}
+      {{ $members = $members | append (dict "page" . "sortKey" (partial "member_sort_key.html" .)) }}
     {{ end }}
   {{ end }}
   <div class="people-grid">
@@ -32,6 +31,22 @@
     </div>
   </section>
   {{ end }}
+
+  <section class="team-section" aria-labelledby="collaborators-heading">
+    <h2 id="collaborators-heading">Collaborators and friends of the AIEA Lab:</h2>
+    <p>Inspired by friend of the lab <a href="https://sites.brown.edu/bergen-lab/people/">Prof. Karianne Bergen</a>, this is a non-exhaustive list of our collaborators and friends.</p>
+    <p>
+      <a href="https://sites.brown.edu/bergen-lab/">Prof. Karianne Bergen</a> (Brown),
+      <a href="https://www.qianyanglab.com/">Prof. Qian Yang</a> (University of Connecticut),
+      <a href="https://faculty.cc.gatech.edu/~ctestart8/">Prof. Cecilia Testart</a> (Georgia Tech),
+      <a href="https://mikespecter.com/">Prof. Mike Specter</a> (Georgia Tech),
+      <a href="https://groups.csail.mit.edu/mac/users/gjs/">Prof. Gerald Jay Sussman</a> (MIT),
+      <a href="https://users.soe.ucsc.edu/~alacarde/">Prof. Alvaro Cardenas</a> (UCSC),
+      <a href="https://people.ucsc.edu/~dfremont/">Prof. Daniel Fremont</a> (UCSC),
+      <a href="https://sites.google.com/ucsc.edu/yizhang/home">Prof. Yi Zhang</a> (UCSC), and
+      <a href="https://getoor.linqs.org/">Prof. Lise Getoor</a> (UCSC).
+    </p>
+  </section>
 
   {{ if where .Site.RegularPages "Section" "in" (slice "intern" "interns") }}
   <p class="view-all"><a href="{{ "intern/" | relURL }}">View high school interns <i class="fa fa-angle-double-right" aria-hidden="true"></i></a></p>

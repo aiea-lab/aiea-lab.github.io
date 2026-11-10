@@ -25,7 +25,7 @@ tag = "tags"
 [params]
   description = "Website of the UCSC AIEA Lab"
   author = "Leilani H. Gilpin"
-#  email = "mail@example.org"
+  email = "aiea@ucsc.edu"
   address = "UCSC - Santa Cruz, CA"
 
   slogan = "AIEA Lab at UCSC"
