@@ -4,6 +4,7 @@ date = "2023-11-08"
 id = "jonathan_m" 
 interests = ['Neuro-Symbolic AI', 'XAI', 'Autonomous Vehicles'] 
 name = "Jonathan Morris" 
+role = "Project Manager"
 portrait = "/portraits/jonathan_m.jpg" 
 short_bio = "Researching Neuro-Symbolic AI. Interested in Scientific Discovery." 
 sort_position = 10

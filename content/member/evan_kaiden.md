@@ -3,6 +3,7 @@ date = "2025-09-01"
 id = "evan_kaiden"
 interests = ["Computer Vision", "Self-Explainable Neural Networks ", "Compute-Constrained Deep Learning"]
 name = "Evan Kaiden"
+role = "Project Manager"
 portrait = "/portraits/evan_kaiden.jpg"
 short_bio = "I am a third year undergraduate studying Computer Science at UCSC."
 short_name = ""
