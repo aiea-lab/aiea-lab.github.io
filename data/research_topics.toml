@@ -2,10 +2,12 @@
 id = "vision"
 title = "Vision"
 description = "Understanding visual information, explaining visual models, and connecting perception with spatial understanding."
+onboarding_url = "https://github.com/aiea-lab/CMPM118/blob/main/onboarding/topic_vision"
 [[topics]]
 id = "nlp"
 title = "NLP"
 description = "Understanding language models and improving how they interpret, generate, and reason over text."
+onboarding_url = "https://github.com/aiea-lab/CMPM118/blob/main/onboarding/topic_nlp"
 [[topics]]
 id = "rl-reasoning-agentic"
 title = "RL and Reasoning + Agentic"
