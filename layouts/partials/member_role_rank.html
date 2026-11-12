@@ -9,7 +9,7 @@
   {{ $rank = 0 }}
 {{ else if findRE `\bpost\s*doc\w*\b` $role }}
   {{ $rank = 1 }}
-{{ else if findRE `\bproject manager\b` $role }}
+{{ else if or .Params.is_project_manager (findRE `\bproject manager\b` $role) }}
   {{ $rank = 4 }}
 {{ else if findRE `\b(ph\s*d|doctoral)\b` $role }}
   {{ $rank = 2 }}

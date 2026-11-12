@@ -1,6 +1,7 @@
 +++
 topics = ["vision", "programming"]
 title = "Hybrid Note"
+picture = "projects/hybrid-note.jpg"
 draft = false
 short_description = "Turning handwritten notes into searchable text."
 external_link = ""

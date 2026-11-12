@@ -16,10 +16,13 @@
       {{ with $person.Params.organizations }}{{ $role = (index . 0).role }}{{ end }}
     {{ end }}
     {{ with $role }}<p>{{ . }}</p>{{ end }}
+    {{ if $person.Params.is_project_manager }}<p>Project Manager</p>{{ end }}
   {{ end }}
-  {{ with $person.Params.start_date }}
-    <p>Joined {{ (time.AsTime .).Format "January 2006" }}</p>
-  {{ else }}
-    {{ if $.showDate }}{{ if not $person.Date.IsZero }}<p>{{ $person.Date.Format "January 2006" }}</p>{{ end }}{{ end }}
+  {{ if $.showDate }}
+    {{ with $person.Params.start_date }}
+      <p>{{ (time.AsTime .).Format "January 2006" }}</p>
+    {{ else }}
+      {{ if not $person.Date.IsZero }}<p>{{ $person.Date.Format "January 2006" }}</p>{{ end }}
+    {{ end }}
   {{ end }}
 </div>

@@ -1,6 +1,7 @@
 +++
 topics = ["rl-reasoning-agentic"]
 title = "Transfer Learning"
+picture = "projects/transfer-learning-cover.svg"
 project_id = "transfer-learning"
 draft = false
 short_description = "Developing interpretable reinforcement learning algorithms that transfer knowledge to new and unfamiliar environments."

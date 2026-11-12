@@ -1,6 +1,7 @@
 +++
 topics = ["symbolic-logic-human-centered", "critical-analysis"]
 title = "AV Ethics"
+picture = "projects/av-ethics-cover.svg"
 draft = false
 short_description = "Exploring ethical decision-making in autonomous vehicles, including dilemmas such as the trolley problem."
 external_link = ""

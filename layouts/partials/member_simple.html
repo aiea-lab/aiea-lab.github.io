@@ -8,6 +8,7 @@
             {{ range .Params.organizations }}
                 <h4>{{ .role }}, {{.name}}</h4>
             {{ end }}
+            {{ if .Params.is_project_manager }}<p>Project Manager</p>{{ end }}
         </div>
     </div>
 </div>

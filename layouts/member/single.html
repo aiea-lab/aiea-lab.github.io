@@ -11,10 +11,10 @@
             <div class="portrait-title">
                 <h2 itemprop="name">{{ .Params.name }}</h2>
                 <h3 itemprop="jobTitle">{{ .Params.role | default .Params.title }}</h3>
-                {{ with .Params.start_date }}<p>Joined {{ (time.AsTime .).Format "January 2006" }}</p>{{ end }}
                 {{ range .Params.organizations }}
                     <h4>{{ .role }}, {{.name}}</h4>
                 {{ end }}
+                {{ if .Params.is_project_manager }}<p>Project Manager</p>{{ end }}
             </div>
 
             <ul class="social-icon">

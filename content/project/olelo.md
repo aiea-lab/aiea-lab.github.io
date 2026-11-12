@@ -1,6 +1,7 @@
 +++
 topics = ["nlp", "programming"]
 title = "Olelo"
+picture = "projects/olelo-cover.svg"
 draft = false
 short_description = "Building a custom, open-source notetaker for our lab."
 external_link = ""
