@@ -1,5 +1,7 @@
 +++
+topics = ["vision", "rl-reasoning-agentic"]
 title = "Challenge team"
+picture = "projects/challenge-team-cover.svg"
 draft = false
 short_description = "Competing in open autonomous vehicle research challenges using open datasets, spanning Waymo, LiDAR, synthetic data, and vision-language-action models."
 external_link = ""

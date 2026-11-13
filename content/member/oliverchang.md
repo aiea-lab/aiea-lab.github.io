@@ -2,13 +2,14 @@
 bio = ""
 date = "2023-10-27"
 id = "oliverchang"
+start_date = "2022-10-01"
 interests = ["XAI", "Robust Autonomous Vehicles", "Deep Reinforcement Learning"]
 name = "Oliver Chang"
 portrait = "/portraits/oliverchang.jpg"
-short_bio = "Runner, PhD Student, and baseball fan - but necessarily in that order."
+short_bio = "Runner, Ph.D. candidate, and baseball fan - but necessarily in that order."
 sort_position = 2
 short_name = "oliverchang"
-title = "PhD Student"
+title = "Ph.D. candidate"
 
 [[social]]
     icon = "envelope"
@@ -47,10 +48,10 @@ title = "PhD Student"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "PhD Student"
+    role = "Ph.D. candidate"
 
 +++
-Oliver Chang is a computer science and engineering PhD student at UC Santa Cruz.  His research
+Oliver Chang is a computer science and engineering Ph.D. candidate at UC Santa Cruz.  His research
 focuses on robust and efficient deep reinforcement learning. His work has applications to autonomous vehicles, efficient data sampling, and out of distribution learning. His current
 work examines how salient maps could be a memory efficient medium to store in a replay buffer.
 

@@ -1,4 +1,5 @@
 +++
+topics = ["symbolic-logic-human-centered", "programming"]
 date = "2023-06-20"
 description = ""
 external_link = ""

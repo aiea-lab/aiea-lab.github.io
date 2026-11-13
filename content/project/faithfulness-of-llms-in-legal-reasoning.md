@@ -1,4 +1,5 @@
 +++
+topics = ["nlp", "symbolic-logic-human-centered"]
 title = "Faithfulness of LLMs as Solvers and Autoformalizers in Legal Reasoning"
 project_id = "faithfulness-of-llms-in-legal-reasoning"
 date = "2026-01-01"
@@ -8,6 +9,11 @@ project_dates = "January 1, 2026 – May 31, 2026"
 picture = "projects/legal-reasoning-pipeline.png"
 short_description = "We evaluated the faithfulness of LLMs as autoformalizers and solvers in NDA entailment classification and identified their failure modes."
 summary = "We evaluated the faithfulness of LLMs as autoformalizers and solvers in NDA entailment classification and identified their failure modes."
+[[participants]]
+    name = "Olivia Peiyu Wang"
+    id = "peiyu"
+    is_member = true
+    lead = true
 [[participants]]
     name = "Sanna Wong-Toropainen"
     role = "University of Helsinki"

@@ -1,0 +1,30 @@
+[[topics]]
+id = "vision"
+title = "Vision"
+description = "Understanding visual information, explaining visual models, and connecting perception with spatial understanding."
+onboarding_url = "https://github.com/aiea-lab/CMPM118/blob/main/onboarding/topic_vision"
+[[topics]]
+id = "nlp"
+title = "NLP"
+description = "Understanding language models and improving how they interpret, generate, and reason over text."
+onboarding_url = "https://github.com/aiea-lab/CMPM118/blob/main/onboarding/topic_nlp"
+[[topics]]
+id = "rl-reasoning-agentic"
+title = "RL and Reasoning + Agentic"
+description = "Reinforcement learning, reasoning, planning, and agents that act and adapt in complex environments."
+onboarding_url = "https://github.com/aiea-lab/CMPM118/blob/main/onboarding/topic_rl_reasoning_agentic"
+[[topics]]
+id = "symbolic-logic-human-centered"
+title = "Symbolic + Logic + Human-centered"
+description = "Symbolic representations, logical reasoning, and systems designed around human understanding and needs."
+onboarding_url = "https://github.com/aiea-lab/CMPM118/blob/main/onboarding/topic_symbolic_logic_human_centered"
+[[topics]]
+id = "programming"
+title = "Programming"
+description = "Programming tools and systems that support research, learning, and everyday work."
+onboarding_url = "https://github.com/aiea-lab/CMPM118/blob/main/onboarding/topic_programming"
+[[topics]]
+id = "critical-analysis"
+title = "Critical Analysis (Critical theory)"
+description = "Justice-oriented inquiry into AI, knowledge, and research practices"
+onboarding_url = "https://github.com/aiea-lab/CMPM118/blob/main/onboarding/topic_critical_analysis"

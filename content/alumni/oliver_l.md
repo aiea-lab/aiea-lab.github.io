@@ -1,4 +1,5 @@
 +++
+aliases = ["/alumni/shiva_g/"]
 bio = "" 
 date = "2024-09-11" 
 id = "oliver_l" 

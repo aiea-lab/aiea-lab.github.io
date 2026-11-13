@@ -1,4 +1,5 @@
 +++
+topics = ["vision", "symbolic-logic-human-centered"]
 title = "Interpretable Scene Understanding for Autonomous Driving"
 project_id = "interpretable-scene-understanding-for-autonomous-driving"
 project_status = "completed"

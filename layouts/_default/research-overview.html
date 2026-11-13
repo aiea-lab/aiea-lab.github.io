@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+<div class="container">
+  <article class="research-overview">
+    <h1>{{ .Title }}</h1>
+    <div class="article-style">{{ .Content }}</div>
+  </article>
+</div>
+<style>
+.research-overview{max-width:960px;margin:30px auto 60px}
+.research-overview h1{margin-bottom:24px}
+.research-overview h2{margin-top:40px;padding-top:20px;border-top:1px solid #e5e5e5}
+.research-overview li{margin-bottom:10px}
+</style>
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}

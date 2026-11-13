@@ -1,4 +1,5 @@
 +++
+topics = ["nlp", "symbolic-logic-human-centered"]
 title = "Knowledge-augmented LLMs for Logical Fallacy Classification"
 project_id = "knowledge-augmented-llms-for-logical-fallacy-classification"
 date = "2025-07-10"
@@ -8,6 +9,11 @@ project_dates = "July 10, 2025 – September 10, 2025"
 picture = "projects/logical-fallacy-classification.png"
 short_description = "We experimented with several approaches to augment LLMs with knowledge and evaluated whether, and by how much, they could improve performance in logical fallacy classification."
 summary = "We experimented with several approaches to augment LLMs with knowledge and evaluated whether, and by how much, they could improve performance in logical fallacy classification."
+[[participants]]
+    name = "Olivia Peiyu Wang"
+    id = "peiyu"
+    is_member = true
+    lead = true
 [[participants]]
     name = "Tashvi Bansal"
     role = "Georgia Tech"

@@ -1,4 +1,5 @@
 +++
+portrait = "/portraits/default.jpg"
 id = "joshua_cordoba_rodriguez"
 name = "Joshua Cordoba Rodríguez"
 title = "Lamat program alumnus"

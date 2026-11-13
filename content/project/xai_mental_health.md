@@ -6,6 +6,7 @@ image = ""
 project_id = ""
 short_description = "Applying explainable AI methods to mental-health settings."
 title = "XAI for Mental Health"
+picture = "projects/xai_mental_health-cover.svg"
 summary = "Applying explainable AI methods to mental-health settings."
 draft = true
 project_dates = ""

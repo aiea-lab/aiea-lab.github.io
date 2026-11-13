@@ -1,4 +1,5 @@
 +++
+topics = ["nlp", "rl-reasoning-agentic", "symbolic-logic-human-centered"]
 title = "Real-Time Multimodal Agent Grounded in Touch"
 project_id = "real-time-multimodal-agent-grounded-in-touch"
 date = "2025-12-01"

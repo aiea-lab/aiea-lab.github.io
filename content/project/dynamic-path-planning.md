@@ -1,5 +1,7 @@
 +++
+topics = ["rl-reasoning-agentic"]
 title = "Dynamic Path Planning"
+picture = "projects/dynamic-path-planning-cover.svg"
 draft = false
 short_description = "Exploring autonomous vehicle path planning with algorithms such as D* and D* Lite."
 external_link = ""

@@ -1,4 +1,5 @@
 +++
+topics = ["symbolic-logic-human-centered"]
 title = "Braille and Place Labels for 3D-Printed Tactile Maps"
 picture = "projects/braille.jpg"
 project_id = "braille-and-place-labels-for-3d-printed-tactile-maps"

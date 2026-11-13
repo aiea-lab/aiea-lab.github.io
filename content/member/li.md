@@ -2,13 +2,14 @@
 bio = ""
 date = "2023-05-26"
 id = "li"
+start_date = "2022-10-01"
 interests = ["Information Interpretation and Structuring", "Assistive Technology", "Data Science"]
 name = "Li Liu"
 portrait = "/portraits/li.jpg"
-short_bio = "Li is a third-year Ph.D. student advised by Prof. Leilani in the Department of Computer Science and Engineering at UC Santa Cruz. He has a broad interest in Information Interpretation and Structuring, and Improving Accessibility with Assistive Technologies. Outside of his studies, Li enjoys cooking, photography, and painting."
+short_bio = "Li is a third-year Ph.D. candidate advised by Prof. Leilani in the Department of Computer Science and Engineering at UC Santa Cruz. He has a broad interest in Information Interpretation and Structuring, and Improving Accessibility with Assistive Technologies. Outside of his studies, Li enjoys cooking, photography, and painting."
 sort_position = 2
 short_name = "Li"
-title = "Ph.D. student"
+title = "Ph.D. candidate"
 
 [[social]]
     icon = "envelope"
@@ -48,10 +49,10 @@ title = "Ph.D. student"
         
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Ph.D. student"
+    role = "Ph.D. candidate"
 
 +++
-Li is a third-year Ph.D. student advised by [Prof. Leilani Gilpin](../leilani/) in the Department of Computer Science and Engineering at UC Santa Cruz. He has a broad interest in Information Interpretation and Structuring, and Improving Accessibility with Assistive Technologies. Outside of his studies, Li enjoys cooking, photography, and painting.
+Li is a third-year Ph.D. candidate advised by [Prof. Leilani Gilpin](../leilani/) in the Department of Computer Science and Engineering at UC Santa Cruz. He has a broad interest in Information Interpretation and Structuring, and Improving Accessibility with Assistive Technologies. Outside of his studies, Li enjoys cooking, photography, and painting.
 
 [read more](https://leolee7.github.io/)
 

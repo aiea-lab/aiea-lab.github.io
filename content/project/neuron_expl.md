@@ -1,4 +1,5 @@
 +++
+topics = ["vision", "nlp", "symbolic-logic-human-centered"]
 date = "2025-09-27"
 description = ""
 short_description = "We explain what neurons learn using logical combinations of visual concepts, developing richer explanations across activation levels, open-vocabulary concepts, and algorithms with guaranteed optimality."

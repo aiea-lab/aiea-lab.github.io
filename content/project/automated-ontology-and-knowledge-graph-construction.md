@@ -1,4 +1,5 @@
 +++
+topics = ["nlp", "symbolic-logic-human-centered"]
 title = "Automated Ontology and Knowledge Graph Construction"
 project_id = "automated-ontology-and-knowledge-graph-construction"
 date = "2026-10-01"
@@ -8,6 +9,11 @@ project_dates = "October 2026 – Present"
 picture = "projects/automated-ontology-and-knowledge-graphs.png"
 short_description = "We are designing an automated methodology to construct ontologies and knowledge graphs from text, supporting applications such as legal statute interpretation, improved case retrieval, and recommendations."
 summary = "We are designing an automated methodology to construct ontologies and knowledge graphs from text, supporting applications such as legal statute interpretation, improved case retrieval, and recommendations."
+[[participants]]
+    name = "Olivia Peiyu Wang"
+    id = "peiyu"
+    is_member = true
+    lead = true
 [[participants]]
     name = "Sanna Wong-Toropainen"
     role = "University of Helsinki"
