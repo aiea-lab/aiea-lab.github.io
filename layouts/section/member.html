@@ -52,6 +52,7 @@
     </p>
   </section>
 
+  <p class="view-all"><a href="{{ "auditor-hall-of-fame/" | relURL }}">Auditor Hall of Fame <i class="fa fa-angle-double-right" aria-hidden="true"></i></a></p>
   {{ if where .Site.RegularPages "Section" "in" (slice "intern" "interns") }}
   <p class="view-all"><a href="{{ "intern/" | relURL }}">View high school interns <i class="fa fa-angle-double-right" aria-hidden="true"></i></a></p>
   {{ end }}
