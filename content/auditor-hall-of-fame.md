@@ -9,6 +9,11 @@ term = "Spring 2025"
 member = "daniel_r"
 
 [[honorees]]
+name = "Caleb Bergen"
+term = "Spring 2025"
+member = "caleb"
+
+[[honorees]]
 name = "Evan Kaiden"
 term = "Fall 2025"
 member = "evan_kaiden"

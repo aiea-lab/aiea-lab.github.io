@@ -7,7 +7,9 @@
   <div class="people-grid">
     {{ range .Params.honorees }}
       {{ $honoree := . }}
-      {{ with $.Site.GetPage (printf "/member/%s" .member) }}
+      {{ $profile := $.Site.GetPage (printf "/member/%s" .member) }}
+      {{ if not $profile }}{{ $profile = $.Site.GetPage (printf "/alumni/%s" .member) }}{{ end }}
+      {{ with $profile }}
         {{ $portrait := .Params.portrait | default "/portraits/default.jpg" }}
         {{ if not (fileExists (printf "static/img/%s" (strings.TrimPrefix "/" $portrait))) }}
           {{ $portrait = "/portraits/default.jpg" }}
