@@ -7,6 +7,8 @@
             <h2 itemprop="name"><a href="{{ .Permalink }}">{{ .Params.name }}</a></h2>
             {{ range .Params.organizations }}
                 <h4>{{ .role }}, {{.name}}</h4>
+            {{ else }}
+                {{ with .Params.role | default .Params.title }}<h4>{{ . }}</h4>{{ end }}
             {{ end }}
             {{ if .Params.is_project_manager }}<p>Project Manager</p>{{ end }}
         </div>

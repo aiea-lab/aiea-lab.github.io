@@ -8,12 +8,12 @@ interests = [
   "Explainable Artificial Intelligence (XAI)",
   "Machine Learning"
 ]
-name = "Nazanin"
+name = "Nazanin Parhizgar"
 portrait = "/portraits/default.jpg"
 short_bio = "I am an independent researcher and a collaborator."
 sort_position = 10
 short_name = "nazanin"
-title = "member"
+title = "Collaborator"
 
 [[social]]
     icon = "envelope"
@@ -28,9 +28,5 @@ title = "member"
 [[education]]
     course = "MS"
    
-[[organizations]]
-    name = "UC Santa Cruz"
-    role = "Collaborator"
-
 +++
-Nazanin is an independent researcher and a collaborator.
+Nazanin Parhizgar is an independent researcher and a collaborator.
