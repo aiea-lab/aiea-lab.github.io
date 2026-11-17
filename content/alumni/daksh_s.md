@@ -31,5 +31,5 @@ now_at="MS student at NYU"
     link = "https://github.com/dakshshah03" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Undergrad Student" 
+      role = "Undergrad student"
 +++

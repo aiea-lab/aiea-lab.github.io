@@ -7,7 +7,7 @@ name = "Nathan Yee"
 portrait = "/portraits/nathan_y.jpg"
 short_bio = "3rd Year Computer Engineering Student"
 short_name = "Nathan"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 Computer Engineering student passionate about building intelligent systems at the intersection of software and hardware. I bring strong skills in machine learning, systems programming, algorithms, and autonomous systems development, with hands-on experience across the full technology stack. From low-level FPGA design to high-level AI applications. I thrive on solving complex technical problems and am particularly drawn to projects that combine analytical thinking with real-world impact.

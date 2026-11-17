@@ -7,7 +7,8 @@ name = "Collin Garrison"
 portrait = "/portraits/collin.jpg"
 short_bio = "Hi! I'm Collin, a first-year Computer Science major."
 short_name = "collin"
-title = "Undergraduate"
+title = "Undergrad student"
+aliases = ["/auditor/collin/"]
 
 [[social]]
     icon = "envelope"
@@ -26,7 +27,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergraduate Student"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

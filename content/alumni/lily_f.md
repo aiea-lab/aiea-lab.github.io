@@ -1,4 +1,5 @@
 +++
+aliases = ["/auditor/lily_f/"]
 bio = "" 
 date = "2024-09-11" 
 id = "lily_f" 
@@ -30,5 +31,5 @@ sort_position = 10
     link = "https://github.com/lfaris1234" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Masters Student" 
+      role = "Master's student"
 +++

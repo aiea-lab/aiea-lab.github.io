@@ -7,7 +7,7 @@ name = "Neha Hingorani"
 portrait = "/portraits/neha_h.jpg"
 short_bio = ""
 short_name = "neha_h"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -27,7 +27,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergrad Student"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

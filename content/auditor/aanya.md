@@ -7,7 +7,7 @@ name = "Aanya Jain"
 portrait = "/portraits/aanya.jpg"
 short_bio = "CS at UCSC"
 short_name = "aanya"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergraduate"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

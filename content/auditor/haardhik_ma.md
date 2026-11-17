@@ -21,7 +21,7 @@ short_name = "Haardhik"
     link = "https://github.com/chocoCookie99" 
 [[organizations]] 
     name = "UC Santa Cruz" 
-    role = "Masters Student" 
+    role = "Master's student"
 [[education]] 
     course = "Computer Science and Engineering" 
     institution = "UCSC" 

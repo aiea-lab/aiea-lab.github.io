@@ -8,7 +8,7 @@ portrait = "/portraits/shreedhar.jpg"
 sort_position = 4
 short_bio = "Shreedhar Jangam is an undergraduate student working under the guidance of Prof. Leilani in the Department of Computer Science and Engineering at UC Santa Cruz. His research interests are on the applications of explainable systems, their trustworthiness, and reinfocement learning."
 short_name = "Shreedhar"
-title = "Undergraduate Student"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -32,7 +32,7 @@ title = "Undergraduate Student"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergraduate Student"
+    role = "Undergrad student"
 
 +++
 Shreedhar Jangam is an undergraduate student advised by [Prof. Leilani Gilpin](../leilani/) in the Department of Computer Science and Engineering at UC Santa Cruz. His current research focuses on the applications of generative and explainable systems, such as Large Language Models and their trustworthiness in various domains. Outside of research, Shreedhar enjoys backpacking, and practicing his wilderness EMT skills.

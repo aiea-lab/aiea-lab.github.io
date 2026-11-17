@@ -7,7 +7,7 @@ name = "George Gong"
 portrait = "/portraits/default.jpg"
 short_bio = "Hello! I'm a first year CS major." #TODO
 short_name = "george"
-title = "Undergraduate Student" 
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergraduate Student"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergraduate Student"
+    role = "Undergrad student"
 
 +++
 Hello.

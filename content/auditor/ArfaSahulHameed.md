@@ -7,7 +7,7 @@ name = "Arfa Sahul Hameed"
 portrait = "/portraits/arfasahulhameed.jpg"
 short_bio = "Hi! I'm Arfa. My background includes C++ systems programming, data structures and algorithms, and full stack development. I'm looking forward to deepening my understanding of AI and ML!"
 short_name = ""
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,6 +26,6 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergraduate Student"
+    role = "Undergrad student"
 
 +++

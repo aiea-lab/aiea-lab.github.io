@@ -7,7 +7,7 @@ name = "Ran Chen"
 portrait = "/portraits/default.jpg"
 short_bio = "First year Am major"
 short_name = "Justin"
-title = "Undergraduate Student"
+title = "Undergrad student"
 sort_position = 5
 
 [[social]]
@@ -28,7 +28,7 @@ sort_position = 5
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergrauate"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

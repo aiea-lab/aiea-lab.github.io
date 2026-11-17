@@ -24,5 +24,5 @@ year = 2027
 
 [[organizations]]
 name = "University of California, Santa Cruz"
-role = "Undergraduate"
+role = "Undergrad student"
 +++

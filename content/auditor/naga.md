@@ -7,7 +7,7 @@ name = "Naga Gunukula"
 portrait = "/portraits/naga_g.JPG"
 short_bio = "1st Year Computer Science Student at UCSC"
 short_name = "Naga"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"

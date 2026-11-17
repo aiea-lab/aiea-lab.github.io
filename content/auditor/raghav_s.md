@@ -30,5 +30,5 @@ sort_position = 10
     link = "https://github.com/raghavsingh1212" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Undergrad Student" 
+      role = "Undergrad student"
 +++

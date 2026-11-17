@@ -2,7 +2,7 @@
 id = "rnarang1"
 name = "Riya Narang"
 short_name = "Riya"
-title = "Undergraduate"
+title = "Undergrad student"
 date = "2025-10-10"
 portrait = "/portraits/riya-narang.jpg"
 short_bio = "Graduated with a B.S. in Computer Science from UCSC in June 2025. Passionate about Data Analytics, Artificial Intelligence, and Machine Learning."
@@ -10,10 +10,10 @@ email = "rnarang1@ucsc.edu"
 twitter = ""
 google_scholar = ""
 github = "riyanarang27"
-role = "BS"
+role = "Undergrad student"
 
 [[education]]
-course = "BS"
+course = "B.S. in Computer Science"
 institution = "University of California, Santa Cruz"
 year = 2025
 

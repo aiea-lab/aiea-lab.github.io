@@ -5,8 +5,12 @@ id = "rangasri"
 name = "Rangasri Chakravarthy"
 portrait = "/portraits/rangasri.jpg"
 short_name = "Rangasri"
-title = "MS at UCSC"
+title = "Master's student"
 now = "SDE in the E-Commerce Foundations Org at Amazon"
 external_link="https://www.linkedin.com/in/rangasri-chakravarthy"
+
+[[education]]
+    course = "MS"
+    institution = "UC Santa Cruz"
 +++
 

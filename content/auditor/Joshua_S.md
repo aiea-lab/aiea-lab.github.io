@@ -19,5 +19,5 @@ short_bio = "Passionate CS major hoping to pursue research into ethics and machi
     link = "https://github.com/Profese" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Undergrad Student" 
+      role = "Undergrad student"
 +++

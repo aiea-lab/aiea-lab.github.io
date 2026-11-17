@@ -8,7 +8,7 @@ portrait = "/portraits/default.jpg"
 
 short_bio = "I’m Utkarsh Banka, a current UCSC student and auditor at AIEA Lab, focused on making AI research workflows reliable, reproducible, and ethically grounded."
 short_name = "Utkarsh"
-title = "Undergraduate "
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -20,12 +20,12 @@ title = "Undergraduate "
     link = "https://github.com/utkarshbank"
 
 [[education]]
-    course = "Computer Science"
+    course = "BS in Computer Science"
     institution = "UCSC"
     year = 2029
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++

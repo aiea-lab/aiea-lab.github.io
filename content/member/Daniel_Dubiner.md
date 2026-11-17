@@ -7,7 +7,7 @@ name = "Daniel Dubiner"
 portrait = "/portraits/daniel_d.jpg"
 short_bio = "Second year CS major"
 short_name = "Daniel"
-title = "Undergraduate"
+title = "Undergrad student"
 sort_position = 5
 
 [[social]]
@@ -27,7 +27,7 @@ sort_position = 5
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergrad Student"
+    role = "Undergrad student"
 
 +++
 I like video games, board games, and D&D.

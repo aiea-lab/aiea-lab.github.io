@@ -7,7 +7,7 @@ name = "Jacob Wei"
 portrait = "/portraits/jacob_wei.jpg"
 short_bio = ""
 short_name = "Jacob"
-title = "Undergraduate"
+title = "Undergrad student"
 sort_position = 5
 
 [[social]]
@@ -21,13 +21,13 @@ sort_position = 5
     link = "https://github.com/jjacobhw"
 
 [[education]]
-    course = "BS"
+    course = "B.S. Computer Science"
     institution = ""
     year = 2027
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "B.S. Computer Science"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

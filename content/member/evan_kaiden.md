@@ -27,7 +27,7 @@ sort_position = 5
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 Evan Kaiden is a Computer Science major and the project manager for the Neuron Explanation and SENN project. His research focuses on the design and implementation of Self-Explainable Neural Networks (SENNs), particularly under compute-constrained conditions.

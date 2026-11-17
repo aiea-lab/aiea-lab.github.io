@@ -7,7 +7,7 @@ name = "Aryan Bhatia"
 portrait = "/portraits/AryanBhatia.jpg"
 short_bio = "First Year Computer Science Major"
 short_name = "Aryan"
-title = "Undergraduate"
+title = "Undergrad student"
 
 
 [[social]]
@@ -29,7 +29,7 @@ title = "Undergraduate"
   
 [[organizations]]
    name = "UC Santa Cruz"
-   role = "Undergraduate"
+   role = "Undergrad student"
 
 
 +++

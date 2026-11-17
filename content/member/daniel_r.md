@@ -8,7 +8,7 @@ is_project_manager = true
 portrait = "/portraits/default.jpg"
 short_bio = "Hi! I'm Daniel (he/him)"
 short_name = "Daniel"
-title = "Undergraduate"
+title = "Undergrad student"
 sort_position = 5
 
 [[social]]

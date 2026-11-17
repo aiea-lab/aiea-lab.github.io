@@ -10,7 +10,7 @@ portrait = "/portraits/caleb.jpg"
 short_bio = "Caleb Bergen is an undergraduate student at UC Santa Cruz. He is currently a senior, and will be graduating Spring 2026. He is currently researching the effectiveness and ethics of using large language models as autonomous drivers for vehicles in simulations."
 short_name = "CJ"
 sort_position = 10
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -29,7 +29,7 @@ title = "Undergraduate"
 
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergrad Student"
+    role = "Undergrad student"
 
 +++
 Caleb Bergen is an undergraduate student at UC Santa Cruz majoring in Computer Science. His current work examines the effectiveness and ethics of using large language models (LLMs) as driving assistants for autonomous vehicles in simulations. 

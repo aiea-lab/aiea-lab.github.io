@@ -7,7 +7,7 @@ name = "Hyerin Chung"
 portrait = "/portraits/hyerin.jpg"
 short_bio = "Undergraduate exchange student at UCSC interested in AI systems"
 short_name = "Hyerin"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
