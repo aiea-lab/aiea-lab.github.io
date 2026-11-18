@@ -9,6 +9,11 @@ picture = "projects/logical-fallacy-classification.png"
 short_description = "We experimented with several approaches to augment LLMs with knowledge and evaluated whether, and by how much, they could improve performance in logical fallacy classification."
 summary = "We experimented with several approaches to augment LLMs with knowledge and evaluated whether, and by how much, they could improve performance in logical fallacy classification."
 [[participants]]
+    name = "Olivia Peiyu Wang"
+    role = "UCSC"
+    id = "peiyu"
+    is_member = true
+[[participants]]
     name = "Tashvi Bansal"
     role = "Georgia Tech"
     external_member = true
