@@ -11,9 +11,9 @@ short_description = "We systematically survey the literature and conduct expert 
 summary = "We systematically survey the literature and conduct expert studies to create a mechanistic, two-tier rubric for selecting the most appropriate formal language for a given problem, based on must-have properties and good-to-have rankings."
 [[participants]]
     name = "Olivia Peiyu Wang"
+    role = "UCSC"
     id = "peiyu"
     is_member = true
-    lead = true
 [[participants]]
     name = "Esteban Ramos"
     role = "UCSC"

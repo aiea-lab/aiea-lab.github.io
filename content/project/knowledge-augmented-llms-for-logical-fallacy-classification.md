@@ -11,9 +11,9 @@ short_description = "We experimented with several approaches to augment LLMs wit
 summary = "We experimented with several approaches to augment LLMs with knowledge and evaluated whether, and by how much, they could improve performance in logical fallacy classification."
 [[participants]]
     name = "Olivia Peiyu Wang"
+    role = "UCSC"
     id = "peiyu"
     is_member = true
-    lead = true
 [[participants]]
     name = "Tashvi Bansal"
     role = "Georgia Tech"

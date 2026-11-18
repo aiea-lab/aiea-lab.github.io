@@ -11,9 +11,9 @@ short_description = "We are designing an automated methodology to construct onto
 summary = "We are designing an automated methodology to construct ontologies and knowledge graphs from text, supporting applications such as legal statute interpretation, improved case retrieval, and recommendations."
 [[participants]]
     name = "Olivia Peiyu Wang"
+    role = "UCSC"
     id = "peiyu"
     is_member = true
-    lead = true
 [[participants]]
     name = "Sanna Wong-Toropainen"
     role = "University of Helsinki"
