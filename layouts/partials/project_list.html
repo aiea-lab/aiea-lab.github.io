@@ -10,7 +10,7 @@
 {{ $projects := (sort $dated "Date" "desc") | append $undated }}
 <ul class="past-project-list">
 {{ range $projects }}
-  <li>
+  <li data-project-topics="{{ delimit (.Params.topics | default (slice)) " " }}" data-project-title="{{ .Title | lower }}">
     {{ $image := "" }}
     {{ if .Params.notion_cover }}
       {{ $image = .Params.notion_cover | relURL }}

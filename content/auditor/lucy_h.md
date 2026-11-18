@@ -7,7 +7,7 @@ name = "Lucy Han"
 portrait = "/portraits/default.jpg"
 short_bio = "AM Major, CS Minor, Junior"
 short_name = "Lucy"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -20,12 +20,12 @@ title = "Undergraduate"
     link = "LucyHan118"
 
 [[education]]
-    course = "BS in Applied Mathematics"
+    course = "BS in Applied Mathematics, CS minor"
     institution = "UCSC"
     year = 2026
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS in Applied Mathematics, CS minor" 
+    role = "Undergrad student"
 
 +++

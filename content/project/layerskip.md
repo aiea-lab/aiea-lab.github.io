@@ -1,5 +1,7 @@
 +++
+topics = ["nlp"]
 title = "LayerSkip"
+picture = "projects/layerskip-cover.svg"
 date = "2025-10-01"
 draft = false
 short_description = "Understanding residual bias in LLMs."

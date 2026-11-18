@@ -1,4 +1,5 @@
 +++
+topics = ["vision", "nlp", "symbolic-logic-human-centered"]
 title = "Camera Guidance for Vision-Language Models"
 project_id = "camera-guidance"
 project_status = "completed"

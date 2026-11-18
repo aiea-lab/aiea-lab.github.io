@@ -7,7 +7,7 @@ name = "Chris Camberos"
 portrait = "/portraits/chrisc.jpg"
 short_bio = "Hi, my name is Chris :D and I am a 3rd year CS major!"
 short_name = "Chris"
-title = "Undergrad"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -31,7 +31,7 @@ title = "Undergrad"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

@@ -25,5 +25,5 @@ short_name = "siddharth_m"
     link = "https://github.com/S-Spektrum-M"
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergraduate Student"
+    role = "Undergrad student"
 +++

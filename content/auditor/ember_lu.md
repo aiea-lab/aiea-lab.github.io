@@ -7,7 +7,7 @@ name = "Ember Lu"
 portrait = "/portraits/ember.JPG"
 short_bio = "Ember is a second-year Computer Science student. Her background is in AI pipelines, full-stack, and research in neural networks, computational ecology, and molecular dynamics. Her passions are swimming, 3D printing, baking, and customizing mechanical keyboards."
 short_name = "Ember"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"

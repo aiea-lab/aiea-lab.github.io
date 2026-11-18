@@ -13,9 +13,7 @@
             {{ $members := slice }}
             {{ range where .Site.RegularPages "Type" "member" }}
                 {{ if not .Params.is_former_member }}
-                    {{ $rank := partial "member_role_rank.html" . }}
-                    {{ $name := lower (.Params.name | default .Title) }}
-                    {{ $members = $members | append (dict "page" . "sortKey" (printf "%d-%s-%s" $rank $name .RelPermalink)) }}
+                    {{ $members = $members | append (dict "page" . "sortKey" (partial "member_sort_key.html" .)) }}
                 {{ end }}
             {{ end }}
             {{ range sort $members "sortKey" "asc" }}

@@ -1,4 +1,5 @@
 +++
+topics = ["nlp", "rl-reasoning-agentic"]
 title = "Learning to Draw ASCII Improves Spatial Reasoning in Language Models"
 project_id = "learning-to-draw-ascii"
 project_status = "completed"

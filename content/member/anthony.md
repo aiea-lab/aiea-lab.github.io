@@ -7,7 +7,7 @@ name = "Anthony France"
 portrait = "portraits/anthony_f.jpg"
 short_bio = "Hi, I am Anthony France! I am an undergraduate student studying Cognitive Science."
 short_name = "Tony"
-title = "Undergraduate"
+title = "Undergrad student"
 sort_position = 5
 
 [[social]]
@@ -27,7 +27,7 @@ year = 2027
 
 [[organizations]]
 name = "UC Santa Cruz"
-role = "Undergraduate Student"
+role = "Undergrad student"
 +++
 
 

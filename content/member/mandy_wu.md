@@ -1,4 +1,5 @@
 +++
+aliases = ["/auditor/mandy_wu/"]
 bio = " "
 date = "2026-01-05"
 id = "mandy_w"
@@ -7,7 +8,7 @@ name = "Mandy Wu"
 portrait = "/portraits/default.jpg"
 short_bio = "3rd yr computer science major"
 short_name = "mandy_w"
-title = "undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"

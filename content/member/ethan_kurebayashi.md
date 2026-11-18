@@ -1,4 +1,5 @@
 +++
+aliases = ["/auditor/ethan_kurebayashi/"]
 bio = ""
 date = "2026-06-25"
 id = "Ethan K"
@@ -7,7 +8,7 @@ name = "Ethan Kurebayashi"
 portrait = "/portraits/ethan_kurebayashi.jpg"
 short_bio = "Undergraduate Sophomore"
 short_name = "Ethan K"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +27,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergraduate"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

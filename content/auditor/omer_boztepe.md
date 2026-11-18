@@ -7,7 +7,7 @@ name = "Omer Boztepe"
 portrait = "/portraits/omer.jpg"
 short_bio = "I am 4th year CS major at UCSC."
 short_name = "Omer"
-title = "undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

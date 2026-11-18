@@ -7,7 +7,7 @@ name = "Sergio Henriquez"
 portrait = "/portraits/sergio.jpg"
 short_bio = "I am a second-year undergraduate studying Computer Science at UCSC."
 short_name = "Sergio"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -21,6 +21,9 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
+[[education]]
+    course = "BS in Computer Science"
+    institution = "UC Santa Cruz"
 +++

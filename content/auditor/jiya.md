@@ -7,7 +7,7 @@ name = "Jiya Sawarkar"
 portrait = "/portraits/jiya.jpg"
 short_bio = "Looking forward to being a part of this lab!"
 short_name = "Jiya"
-title = "Auditor"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,6 +26,6 @@ title = "Auditor"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergrad"
+    role = "Undergrad student"
 
 +++

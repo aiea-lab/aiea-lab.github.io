@@ -6,7 +6,7 @@ name = "Pujitha Samudrala"
 portrait = "/portraits/pujitha.jpg"
 short_bio = "4th year Computer Science student"
 short_name = "psam"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -25,7 +25,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

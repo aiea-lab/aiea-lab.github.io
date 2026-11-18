@@ -31,6 +31,6 @@ short_name = "jason"
 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Undergrad Student" 
+      role = "Undergrad student"
 +++
 Jason Wu is an undergraduate student advised by [Prof. Leilani Gilpin](../leilani/) in the Department of Computer Science and Engineering at UC Santa Cruz. His research focuses on developing full stack web applications and exploring the utility of large language models (LLMs).

@@ -1,4 +1,5 @@
 +++
+topics = ["vision", "rl-reasoning-agentic"]
 title = "Causality in Autonomous Vehicles"
 picture = "projects/causal-avs.png"
 project_id = "causality-in-autonomous-vehicles"

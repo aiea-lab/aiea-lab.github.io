@@ -1,5 +1,6 @@
 +++
 title = "Explanatory Games"
+picture = "projects/explanatory-games-cover.svg"
 date = "2019-03-31"
 draft = true
 short_description = "Using internal symbolic, explanatory representations to robustly monitor agents."

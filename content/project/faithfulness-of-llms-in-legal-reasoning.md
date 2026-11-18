@@ -1,4 +1,5 @@
 +++
+topics = ["nlp", "symbolic-logic-human-centered"]
 title = "Faithfulness of LLMs as Solvers and Autoformalizers in Legal Reasoning"
 project_id = "faithfulness-of-llms-in-legal-reasoning"
 date = "2026-01-01"

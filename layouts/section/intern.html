@@ -1,0 +1,19 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+{{ partial "people_grid_style.html" . }}
+<main class="container">
+  <h1>Interns</h1>
+  <p>Our interns, listed by date with the most recent first.</p>
+  {{ $interns := where .Site.RegularPages "Section" "in" (slice "intern" "interns") }}
+  {{ range $interns.ByDate.Reverse.GroupByDate "2006" }}
+  <section aria-labelledby="interns-{{ .Key }}">
+    <h2 id="interns-{{ .Key }}">{{ .Key }}</h2>
+    <div class="people-grid">
+      {{ range .Pages }}{{ partial "people_card.html" (dict "page" . "showDate" true) }}{{ end }}
+    </div>
+  </section>
+  {{ end }}
+  <p><a href="{{ "member/" | relURL }}">Back to the full team</a></p>
+</main>
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}

@@ -1,4 +1,5 @@
 +++
+aliases = ["/auditor/emilyyee/"]
 bio = ""
 date = "2026-06-22"
 id = "emily"
@@ -7,7 +8,7 @@ name = "Emily Yee"
 portrait = "/portraits/emilyyee.jpg"
 short_bio = "Hi! I'm Emily Yee, currently an incoming 4th year undergrad student purusing a B.S. in Computer Science. Nice to meet you!"
 short_name = "Emily"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +27,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = ""
+    role = "Undergrad student"
 
 +++
 Hi! I'm Emily Yee, currently an incoming 4th year undergrad student purusing a B.S. in Computer Science. Nice to meet you!

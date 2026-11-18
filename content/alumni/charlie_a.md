@@ -8,7 +8,7 @@ portrait = "/portraits/charlie_a.jpg"
 short_bio = "Software Engineer & MS CSE Student"
 short_name = "Charlie"
 sort_position = 4
-title = "Masters"
+title = "Master's student"
 
 [[social]]
     icon = "envelope"
@@ -27,6 +27,9 @@ title = "Masters"
 
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "MS"
+    role = "Master's student"
 
+[[education]]
+    course = "MS"
+    institution = "UC Santa Cruz"
 +++

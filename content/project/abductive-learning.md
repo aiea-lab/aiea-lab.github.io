@@ -1,4 +1,5 @@
 +++
+topics = ["nlp", "rl-reasoning-agentic", "symbolic-logic-human-centered", "programming"]
 title = "Abductive Learning"
 project_id = "abductive-learning"
 draft = false

@@ -7,7 +7,7 @@ name = "Victor Antonio Cruz"
 portrait = "/portraits/victor.jpg"
 short_bio = "My name is Victor, I like to go to the gym and play board game."
 short_name = "victor"
-title = "Undergraduate Student"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergraduate Student"
 
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergraduate Student"
+    role = "Undergrad student"
 
 +++
 

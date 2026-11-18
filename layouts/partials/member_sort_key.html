@@ -1,0 +1,8 @@
+{{ $rank := partial "member_role_rank.html" . }}
+{{ $start := "9999-12-31" }}
+{{ with .Params.start_date }}
+  {{ $start = (time.AsTime .).Format "2006-01-02" }}
+{{ else }}
+  {{ if not $.Date.IsZero }}{{ $start = $.Date.Format "2006-01-02" }}{{ end }}
+{{ end }}
+{{ return (printf "%d-%s-%s-%s" $rank $start (lower (.Params.name | default .Title)) .RelPermalink) }}

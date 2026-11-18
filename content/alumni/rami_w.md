@@ -31,5 +31,5 @@ now_at="NVIDIA"
     link = "https://github.com/ramiwil" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Masters Student" 
+      role = "Master's student"
 +++

@@ -7,7 +7,7 @@ name = "Michael Zhou"
 portrait = "/portraits/michael_zhou.jpg"
 short_bio = ""
 short_name = "michael "
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -28,7 +28,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

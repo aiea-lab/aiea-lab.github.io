@@ -1,18 +1,19 @@
 +++
+aliases = ["/auditor/lily_f/"]
 bio = "" 
 date = "2024-09-11" 
-id = "oliver_l" 
+id = "lily_f" 
 interests = [] 
-name = "Oliver Lokhandwala" 
-portrait = "/portraits/oliver_l.jpg" 
+name = "Lily Faris" 
+portrait = "/portraits/lily_f.jpg" 
 short_bio = "" 
 sort_position = 10
- short_name = "oliver_l" 
+ short_name = "lily_f" 
 
 [[social]] 
     icon = "envelope" 
     icon_pack = "fa" 
-    link = "mailto: olokhand@ucsc.edu"
+    link = "mailto: "
 
  [[social]] 
     icon = "twitter" 
@@ -27,8 +28,8 @@ sort_position = 10
 [[social]] 
     icon = "github" 
     icon_pack = "fa" 
-    link = "https://github.com/OliverLok" 
+    link = "https://github.com/lfaris1234" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Undergrad Student" 
+      role = "Master's student"
 +++

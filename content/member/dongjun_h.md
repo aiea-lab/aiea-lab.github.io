@@ -7,7 +7,7 @@ name = "Dongjun Hahm"
 portrait = "/portraits/dongjun_h.jpg"
 short_bio = "Hi! I'm Dongjun Hahm, a 3rd year TIM & BMEcon major."
 short_name = "dongjun_h"
-title = "Undergraduate student"
+title = "Undergrad student"
 sort_position = 5
 
 [[social]]
@@ -27,7 +27,7 @@ sort_position = 5
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 

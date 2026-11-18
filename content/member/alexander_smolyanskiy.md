@@ -7,7 +7,7 @@ name = "Alexander Smolyanskiy"
 portrait = "/portraits/alexander_smolyanskiy.jpg"
 short_bio = "I am a first-year Computer Science & Applied Mathematics major at UCSC interested in neural networks, world models, and artificial intelligence for robotics."
 short_name = "Sasha"
-title = "Undergraduate"
+title = "Undergrad student"
 sort_position = 5
 
 [[social]]
@@ -27,7 +27,7 @@ sort_position = 5
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

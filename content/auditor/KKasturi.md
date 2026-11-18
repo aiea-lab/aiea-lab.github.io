@@ -6,7 +6,7 @@ name = "krishna sai kasturi"
 portrait = "/portraits/KKasturi.jpg"
 short_bio = "Im a junior at UCSC , I enjoy watching soccer, mma, and hanging out with my friends. Favorite artist is drake"
 short_name = "krishna"
-title = "Undergrad Auditor"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergrad Auditor"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "B.S"
+    role = "Undergrad student"
 
 
 

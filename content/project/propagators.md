@@ -1,4 +1,5 @@
 +++
+topics = ["symbolic-logic-human-centered", "programming"]
 title = "Propagators"
 date = "2025-10-01"
 draft = false

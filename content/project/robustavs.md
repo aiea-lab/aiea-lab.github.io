@@ -6,6 +6,7 @@ image = ""
 project_id = ""
 short_description = "Detecting and explaining errors and failures in autonomous vehicles."
 title = "Robust Autonomous Vehicles"
+picture = "projects/robustavs-cover.svg"
 summary = "Detecting and explaining errors and failures in autonomous vehicles."
 draft = true
 project_dates = ""

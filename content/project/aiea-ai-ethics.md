@@ -1,4 +1,5 @@
 +++
+topics = ["critical-analysis"]
 title = "WISPER"
 picture = "projects/wisper-starry-night.png"
 draft = false

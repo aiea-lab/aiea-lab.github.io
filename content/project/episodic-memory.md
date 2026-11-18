@@ -1,5 +1,7 @@
 +++
+topics = ["vision", "nlp", "rl-reasoning-agentic"]
 title = "Episodic Memory"
+picture = "projects/episodic-memory-cover.svg"
 project_id = "episodic-memory"
 project_dates = "September 2026 – Present"
 date = "2026-09-01"

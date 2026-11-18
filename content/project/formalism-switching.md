@@ -1,4 +1,5 @@
 +++
+topics = ["symbolic-logic-human-centered", "programming"]
 title = "Formalism Switching for the Selection of Best Formal Languages"
 project_id = "formalism-switching"
 date = "2026-10-01"

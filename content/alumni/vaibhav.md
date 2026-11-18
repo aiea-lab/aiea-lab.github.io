@@ -4,7 +4,7 @@ date = "2024-09-11"
 id = "vaibhav" 
 interests = [] 
 name = "Vaibhav" 
-portrait = "/portraits/vaibhav.jpg" 
+portrait = "/portraits/default.jpg"
 short_bio = "" 
 sort_position = 10
  short_name = "vaibhav" 
@@ -30,5 +30,5 @@ sort_position = 10
     link = "https://github.com/vaibhavhonakere" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Undergrad Student" 
+      role = "Undergrad student"
 +++

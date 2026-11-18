@@ -30,5 +30,5 @@ sort_position = 10
     link = "https://github.com/cfbeard" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Undergrad Student" 
+      role = "Undergrad student"
 +++

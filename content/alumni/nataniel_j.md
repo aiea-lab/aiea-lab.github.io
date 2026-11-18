@@ -32,6 +32,6 @@ sort_position = 10
     link = "https://github.com/Ironspidr" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Undergrad Student" 
+      role = "Undergrad student"
 +++
 Hello, I’m Nataniel, a second-year undergrad student pursing computer engineering in UCSC.

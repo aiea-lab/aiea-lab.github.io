@@ -3,6 +3,7 @@ date = "2025-09-01"
 id = "evan_kaiden"
 interests = ["Computer Vision", "Self-Explainable Neural Networks ", "Compute-Constrained Deep Learning"]
 name = "Evan Kaiden"
+is_project_manager = true
 portrait = "/portraits/evan_kaiden.jpg"
 short_bio = "I am a third year undergraduate studying Computer Science at UCSC."
 short_name = ""
@@ -26,7 +27,7 @@ sort_position = 5
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 Evan Kaiden is a Computer Science major and the project manager for the Neuron Explanation and SENN project. His research focuses on the design and implementation of Self-Explainable Neural Networks (SENNs), particularly under compute-constrained conditions.

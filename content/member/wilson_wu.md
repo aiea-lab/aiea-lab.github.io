@@ -1,4 +1,5 @@
 +++
+aliases = ["/auditor/wilson_wu/"]
 bio = ""
 date = "2026-07-01"
 id = "wilson"
@@ -8,7 +9,7 @@ interests = [
 name = "Wilson Wu"
 short_bio = "Undergraduate Computer Engineering student at UC Santa Cruz interested in artificial intelligence"
 short_name = "Wilson"
-title = "Undergraduate"
+title = "Undergrad student"
 
 portrait = "/portraits/wilson_wu.jpg"
 
@@ -34,7 +35,7 @@ year = 2029
 
 [[organizations]]
 name = "UC Santa Cruz"
-role = "Undergraduate Student"
+role = "Undergrad student"
 
 +++
 I am an undergraduate Computer Engineering student at the University of California, Santa Cruz. I like playing video games and watching sports : )

@@ -7,7 +7,7 @@ name = "Saniha Sreedhara"
 portrait = "/portraits/Saniha.jpg"
 short_bio = "Undergraduate CS student at UCSC with interest in AI/ML and Web Development"
 short_name = "Sanu"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergraduate Student"
+    role = "Undergrad student"
 
 +++
 Undergrad CS major at UCSC with interest in AI/ML and Web Dev!

@@ -5,8 +5,12 @@ id = "shengjie"
 name = "Shengjie Xu"
 portrait = "/portraits/shengjie.jpg"
 short_name = "Shengjie"
-title = "MS at UCSC"
+title = "Master's student"
 now = "PhD student at University of Maryland"
 external_link="https://shengjie-xu.com/"
+
+[[education]]
+    course = "MS"
+    institution = "UC Santa Cruz"
 +++
 

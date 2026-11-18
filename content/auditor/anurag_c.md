@@ -7,7 +7,7 @@ name = "Anurag Chillarige"
 portrait = "/portraits/anurag_c.jpg"
 short_bio = "Second-Year Computer Engineering Student"
 short_name = "Anurag"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 

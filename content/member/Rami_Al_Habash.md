@@ -7,7 +7,7 @@ name = "Rami Al Habash"
 portrait = "/portraits/default.jpg"
 short_bio = "I'm a C.S. student, AI researcher, and Code Coach"
 short_name = "Rami"
-title = "Undergraduate"
+title = "Undergrad student"
 sort_position = 5
 
 [[social]]
@@ -37,7 +37,7 @@ sort_position = 5
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "B.S."
+    role = "Undergrad student"
 
 +++
 I am an undergraduate student at UCSC researching AI Explainability and Accountability. I am also a part-time Code Coach. I'm also a big soccer fan! For any inquiries, feel free to reach me at the email above. 

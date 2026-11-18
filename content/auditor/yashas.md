@@ -7,7 +7,7 @@ name = "Yashas Vijaykumar"
 portrait = "/portraits/yashas.jpg"
 short_bio = "Hi, my name is Yashas. I am a second year Computer Engineeering major."
 short_name = "yashas_v"
-title = "Undergraduate Student"
+title = "Undergrad student"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
@@ -23,6 +23,6 @@ title = "Undergraduate Student"
    
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergraduate Student"
+    role = "Undergrad student"
 +++
 

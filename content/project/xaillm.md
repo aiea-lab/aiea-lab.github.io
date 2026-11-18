@@ -6,6 +6,7 @@ image = ""
 project_id = ""
 short_description = "Understanding and explaining failures such as hallucinations in large language models."
 title = "Explaining LLM Failures"
+picture = "projects/xaillm-cover.svg"
 summary = "Understanding and explaining failures such as hallucinations in large language models."
 draft = true
 project_dates = ""
