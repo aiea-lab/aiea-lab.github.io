@@ -30,5 +30,5 @@ sort_position = 10
     link = "https://github.com/https://ameyaabiwalkar.github.io" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Masters Student" 
+      role = "Master's student"
 +++

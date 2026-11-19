@@ -1,4 +1,5 @@
 +++
+projects = ["neuron-explanations"]
 title = "Open Vocabulary Compositional Explanations for Neuron Alignment"
 publication = "arXiv preprint arXiv:2511.20931"
 journal = "arXiv preprint arXiv:2511.20931"

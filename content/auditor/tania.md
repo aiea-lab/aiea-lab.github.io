@@ -7,7 +7,7 @@ name = "Tania Makhija"
 portrait = "/portraits/tania.jpg"
 short_bio = "Hi, I am Tania Makhija! I am an undergraduate student studying Computer Science."
 short_name = "Tania"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
 icon = "envelope"
@@ -26,7 +26,7 @@ year = 2029
 
 [[organizations]]
 name = "UC Santa Cruz"
-role = "Undergraduate Student"
+role = "Undergrad student"
 +++
 
 Put your bio here.

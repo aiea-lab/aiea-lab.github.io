@@ -7,7 +7,7 @@ name = "Aaron Liang"
 portrait = "/portraits/Aaron_Liang.jpg"
 short_bio = "Sophmore at UCSC, class of 2029. Double Majoring in Computer Science and Mathematics. Interested in simulations and AI."
 short_name = "Aaron"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 Grew up in Los Angeles and went to Santa Cruz for university. Currently studying computer science and mathematics. Interested in simulations and how AI can fill in the gaps for engineering. 

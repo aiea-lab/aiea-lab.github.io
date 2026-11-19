@@ -8,7 +8,7 @@ portrait = "/portraits/jetha.jpg"
 short_bio = "3rd Year CS + Math Undergrad"
 sort_position = 10
 short_name = "Jetha"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -27,6 +27,6 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergrad Student"
+    role = "Undergrad student"
 
 +++

@@ -4,10 +4,11 @@ date = "2024-03-31"
 id = "daniel_r"
 interests = ["Autonomous Vehicles", "Depth sensing", "Vehicle control"]
 name = "Daniel Jean-Soo Rhee"
+is_project_manager = true
 portrait = "/portraits/default.jpg"
 short_bio = "Hi! I'm Daniel (he/him)"
 short_name = "Daniel"
-title = "Undergraduate"
+title = "Undergrad student"
 sort_position = 5
 
 [[social]]

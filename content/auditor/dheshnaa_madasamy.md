@@ -7,7 +7,7 @@ name = "Dheshnaa Madasamy"
 portrait = "/portraits/dheshnaa_madasamy.jpg"
 short_bio = "Second year Technology and Information Management"
 short_name = "Dheshnaa"
-title = "Undergradute"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergradute"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

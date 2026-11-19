@@ -7,7 +7,7 @@ name = "Justin Rosales"
 portrait = "/portraits/justin_r.jpg"
 short_bio = "Hi! I'm Justin Rosales, a fourth year computer science major."
 short_name = "justin_r"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,5 +26,5 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergraduate"
+    role = "Undergrad student"
 +++

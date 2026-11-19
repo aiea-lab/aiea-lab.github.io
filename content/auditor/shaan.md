@@ -7,7 +7,7 @@ name = "Shaan Patel"
 portrait = "/portraits/shaan.jpg" 
 short_bio = "" 
 short_name = "Shaan" 
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]] 
 icon = "envelope" 

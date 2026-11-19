@@ -21,6 +21,6 @@ short_name = "Shikhar"
 
 [[organizations]]
     name = "Santa Clara University"
-    role = "Undergraduate Student"
+    role = "Undergrad student"
 +++
 I am an undergraduate student at Santa Clara University studying Computer Science and Mathematics. My research interests focus on making AI systems more explainable, reliable, and accountable. I am especially interested in neuro-symbolic reasoning, LLM evaluation, AI agents, and systems that clearly show how they reached an answer.

@@ -7,7 +7,7 @@ name = "Jaisree David RaviKumar"
 portrait = "/portraits/jaisree.jpg"
 short_bio = "Hello, I am a 2nd year Computer Science Major at UCSC."
 short_name = "jaisree"
-title = "Undergraduate"
+title = "Undergrad student"
 sort_position = 5
 
 [[social]]
@@ -27,7 +27,7 @@ sort_position = 5
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergrad Student"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

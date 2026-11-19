@@ -7,7 +7,7 @@ name = "Andre Chen"
 portrait = "/portraits/Andre.jpg"
 short_bio = "3rd year Applied Math Major & TIM"
 short_name = "Andre"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"

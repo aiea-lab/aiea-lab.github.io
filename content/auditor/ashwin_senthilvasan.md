@@ -7,7 +7,7 @@ name = "Ashwin Senthilvasan"
 portrait = "/portraits/ashwin_senthilvasan.jpg"
 short_bio = "2nd year CS student who likes reading, distributed systems, and LLMs"
 short_name = "Ashwin"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -31,6 +31,6 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergraduate"
+    role = "Undergrad student"
 
 +++

@@ -4,7 +4,7 @@ date = "2024-09-11"
 id = "supriya_p" 
 interests = [] 
 name = "Supriya Paulose" 
-portrait = "/portraits/supriya_p.jpg" 
+portrait = "/portraits/default.jpg"
 short_bio = "" 
 sort_position = 10
  short_name = "supriya_p" 
@@ -30,5 +30,5 @@ sort_position = 10
     link = "https://github.com/" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Masters Student" 
+      role = "Master's student"
 +++

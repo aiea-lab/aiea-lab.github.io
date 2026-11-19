@@ -7,7 +7,7 @@ name = "Matthew Kimotsuki"
 portrait = "/portraits/matthew_k.jpg"
 short_bio = "4th year undergraduate computer science student at UCSC"
 short_name = "Matthew"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 Matthew Kimotsuki is a 4th year computer science student at UCSC with an interest in AI safety and ethics.

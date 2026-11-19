@@ -7,7 +7,7 @@ name = "Nithin Danday"
 portrait = "/portraits/nithin.jpg"
 short_bio = "Computer Science at UCSC; interests range from ML and RL to law and politics."
 short_name = "Nithin"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -24,6 +24,6 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergrad Student"
+    role = "Undergrad student"
 +++
 Put your bio here.

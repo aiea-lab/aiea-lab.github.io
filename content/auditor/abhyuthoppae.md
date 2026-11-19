@@ -7,7 +7,7 @@ name = "Abhyudita Thoppae"
 portrait = "/portraits/abhyuthoppae.jpg"
 short_bio = "Second year C.S. student"
 short_name = "Abhyu"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergraduate"
+    role = "Undergrad student"
 
     
 +++

@@ -7,7 +7,7 @@ name = "Pravin Agrawal-Chung"
 portrait = "/portraits/pravin.jpg"
 short_bio = "Junior CE student exploring AI"
 short_name = "Pravin"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 "3rd year Computer Engineering student at UC Santa Cruz excited to explore the edges of AI and expand the frontier"

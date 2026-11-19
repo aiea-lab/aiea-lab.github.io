@@ -7,7 +7,7 @@ name = "Sree Satya Jayanth Gudapati"
 portrait = "/portraits/default.jpg"
 short_bio = "Computer Science Student @ UCSC | Slugbotics | Aspiring Software Engineer Passionate about data science, machine learning, and full-stack development."
 short_name = "Sree Gudapati"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -21,13 +21,13 @@ title = "Undergraduate"
     link = "https://github.com/sgudapa1-ui"
 
 [[education]]
-    course = "Undergraduate"
+    course = "BS"
     institution = "UC Santa Cruz"
     year = "Ongoing"
 
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 I am a Computer Science Student at UC Santa Cruz with a passion for computer vision, machine learning, and full-stack development. Currently, I am participating in a project with Slugbotics , where I am working on integrating neural networks into autonomous systems for road hazard detection . As an aspiring Software Engineer, I am dedicated to applying these technical skills to solve complex, real-world problems

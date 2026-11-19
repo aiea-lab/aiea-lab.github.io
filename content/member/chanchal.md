@@ -7,7 +7,7 @@ name = "Chanchal Mukeshsingh"
 portrait = "/portraits/chanchal_muk.jpg"
 short_bio = "Undergraduate student at UC Santa Cruz studying Computer Engineering."
 short_name = "Chanchal"
-title = "Undergraduate"
+title = "Undergrad student"
 sort_position = 5
 
 [[social]]
@@ -22,6 +22,6 @@ sort_position = 5
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergrad Student"
+    role = "Undergrad student"
 
 +++

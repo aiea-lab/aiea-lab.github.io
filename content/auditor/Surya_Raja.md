@@ -7,7 +7,7 @@ name = "Surya Raja"
 portrait = "/portraits/surya_raja.jpg"
 short_bio = "I am a first yr CE major. I like to read and listen to music"
 short_name = "surya"
-title = "UnderGrad"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -27,7 +27,7 @@ title = "UnderGrad"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergrad"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

@@ -4,7 +4,7 @@ date = "2024-09-11"
 id = "sukhveer_k" 
 interests = [] 
 name = "Sukhveer Karlcut" 
-portrait = "/portraits/sukhveer_k.jpg" 
+portrait = "/portraits/default.jpg"
 short_bio = "" 
 sort_position = 10
  short_name = "sukhveer_k" 
@@ -30,5 +30,5 @@ sort_position = 10
     link = "https://github.com/" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Masters Student" 
+      role = "Master's student"
 +++

@@ -4,7 +4,7 @@ date = "2024-09-11"
 id = "suneet_k" 
 interests = [] 
 name = "Suneet Katrekar" 
-portrait = "/portraits/suneet_k.jpg" 
+portrait = "/portraits/default.jpg"
 short_bio = "" 
 sort_position = 10
  short_name = "suneet_k" 
@@ -30,5 +30,5 @@ sort_position = 10
     link = "https://github.com/" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Undergrad Student" 
+      role = "Undergrad student"
 +++

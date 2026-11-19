@@ -1,0 +1,21 @@
+{{/* Use current profile roles, never education history or legacy sort fields. */}}
+{{ $roles := slice (.Params.title | default "") (.Params.role | default "") }}
+{{ range .Params.organizations }}
+  {{ $roles = $roles | append (.role | default "") }}
+{{ end }}
+{{ $role := replaceRE "[.'’,-]" "" (lower (delimit $roles " ")) }}
+{{ $rank := 6 }}
+{{ if eq .Params.id "leilani" }}
+  {{ $rank = 0 }}
+{{ else if findRE `\bpost\s*doc\w*\b` $role }}
+  {{ $rank = 1 }}
+{{ else if or .Params.is_project_manager (findRE `\bproject manager\b` $role) }}
+  {{ $rank = 4 }}
+{{ else if findRE `\b(ph\s*d|doctoral)\b` $role }}
+  {{ $rank = 2 }}
+{{ else if findRE `\b(master\w*|msc?|ma)\b` $role }}
+  {{ $rank = 3 }}
+{{ else if findRE `\b(undergrad\w*|undegrad\w*|bachelors?|bsc?|ba)\b` $role }}
+  {{ $rank = 5 }}
+{{ end }}
+{{ return $rank }}

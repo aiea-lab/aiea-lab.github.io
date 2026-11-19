@@ -7,7 +7,7 @@ name = "Farhan Ali"
 portrait = "/portraits/farhan_ali.jpg"
 short_bio = "An undergradate Computer Science student eager to learn about AI and AI applications"
 short_name = "Farhan"
-title = "Undergradute"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,6 +26,6 @@ title = "Undergradute"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergradate Student"
+    role = "Undergrad student"
 
 +++

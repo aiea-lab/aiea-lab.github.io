@@ -7,7 +7,7 @@ name = "Nickolas Tran"
 portrait = "/portraits/nickolas_t.jpg"
 short_bio = ""
 short_name = ""
-title = "Undergraduate Student"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -36,7 +36,7 @@ title = "Undergraduate Student"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergrad Student"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

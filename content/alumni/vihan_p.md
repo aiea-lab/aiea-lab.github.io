@@ -30,5 +30,5 @@ sort_position = 10
     link = "https://github.com/vihanpatil" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Masters Student" 
+      role = "Master's student"
 +++

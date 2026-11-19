@@ -7,7 +7,7 @@ name = "Aman Avinash"
 portrait = "/portraits/aman_avinash.jpg"
 short_bio = "Second Year Computer Engineering & TIM Major"
 short_name = "aman_a"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -21,7 +21,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergrad Student"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

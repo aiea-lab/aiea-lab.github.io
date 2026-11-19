@@ -7,7 +7,7 @@ name = "Anesh Kondor"
 portrait = "/portraits/AneshKondor.jpg"
 short_bio = "I am a second year computer engineering student interseted in autonomous vehicles. "
 short_name = "Anesh"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

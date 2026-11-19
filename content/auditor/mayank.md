@@ -7,7 +7,7 @@ name = "Mayank Narla"
 portrait = "/portraits/default.jpg"
 short_bio = "First year Computer Science major who is interested in AI"
 short_name = "mnarla"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -27,7 +27,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergraduate Student"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

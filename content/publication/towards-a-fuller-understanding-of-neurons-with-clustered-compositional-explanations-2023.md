@@ -1,4 +1,5 @@
 +++
+projects = ["neuron-explanations"]
 title = "Towards a fuller understanding of neurons with clustered compositional explanations"
 publication = "Advances in Neural Information Processing Systems"
 journal = "Advances in Neural Information Processing Systems"
