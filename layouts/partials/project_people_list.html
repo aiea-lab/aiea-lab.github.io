@@ -1,0 +1,12 @@
+<ul class="project-people-list">
+  {{ range . }}
+    <li>
+      {{ with .portrait }}<img src="{{ printf "img/%s" (strings.TrimPrefix "/" .) | relURL }}" alt="" loading="lazy">{{ end }}
+      <div>
+        {{ if .url }}<a class="person-name" href="{{ .url }}">{{ .name }}</a>{{ else }}<span class="person-name">{{ .name }}</span>{{ end }}
+        {{ if .lead }}<p class="person-lead">Project lead</p>{{ end }}
+        {{ with .role }}<p class="person-role">{{ . }}</p>{{ end }}
+      </div>
+    </li>
+  {{ end }}
+</ul>

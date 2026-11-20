@@ -7,7 +7,7 @@ name = "Trisha Moorkoth"
 portrait = "/portraits/trisha.png"
 short_bio = ""
 short_name = "Trisha"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"

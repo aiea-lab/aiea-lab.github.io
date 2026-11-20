@@ -4,7 +4,7 @@ date = "2024-09-11"
 id = "ryan_w" 
 interests = [] 
 name = "Ryan Wang" 
-portrait = "/portraits/ryan_w.jpg" 
+portrait = "/portraits/default.jpg"
 short_bio = "" 
 sort_position = 10
  short_name = "ryan_w" 
@@ -30,5 +30,5 @@ sort_position = 10
     link = "https://github.com/" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Undergrad Student" 
+      role = "Undergrad student"
 +++

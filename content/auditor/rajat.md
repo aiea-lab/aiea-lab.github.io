@@ -3,7 +3,7 @@ bio = ""
 date = "2024-09-11" 
 id = "rajat" 
 interests = [] 
-name = "Rajat" 
+name = "Rajat Maheshwari"
 portrait = "/portraits/rajat.jpg" 
 short_bio = "" 
 sort_position = 10
@@ -30,5 +30,5 @@ sort_position = 10
     link = "https://github.com/" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Undergrad Student" 
+      role = "Undergrad student"
 +++

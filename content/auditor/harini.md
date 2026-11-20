@@ -7,7 +7,7 @@ name = "Harini Donthula"
 portrait = "/portraits/harini.jpg"
 short_bio = "Hi, my name is Harini! I'm a second year Computer Science major."
 short_name = "harini_d"
-title = "Undergraduate Student"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,6 +26,6 @@ title = "Undergraduate Student"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergraduate Student"
+    role = "Undergrad student"
 
 +++

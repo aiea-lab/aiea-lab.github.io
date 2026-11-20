@@ -7,7 +7,7 @@ name = "Adhvika Wangoo"
 portrait = "/portraits/default.jpg"
 short_bio = "Undergraduate student interested in AI, engineering, and research."
 short_name = "Adhvika"
-title = "Undergraduate Auditor"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergraduate Auditor"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergraduate Auditor"
+    role = "Undergrad student"
 
 +++
 Adhvika Wangoo is an undergraduate student interested in artificial intelligence, engineering, and research.

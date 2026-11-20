@@ -1,5 +1,6 @@
 +++
 title = "Dynamically Introspective Action Advising"
+projects = ["transfer-learning"]
 publication = "CoLLas"
 journal = "CoLLas"
 year = "2026"

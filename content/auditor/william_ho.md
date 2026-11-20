@@ -7,7 +7,7 @@ name = "William Ho"
 portrait = "/portraits/william_h.jpg"
 short_bio = "4th Year Computer Science"
 short_name = "William Ho"
-title = "Lab Auditor"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -31,7 +31,7 @@ title = "Lab Auditor"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergraduate"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

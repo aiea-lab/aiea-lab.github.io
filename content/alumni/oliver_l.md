@@ -1,4 +1,5 @@
 +++
+aliases = ["/alumni/shiva_g/"]
 bio = "" 
 date = "2024-09-11" 
 id = "oliver_l" 
@@ -30,5 +31,5 @@ sort_position = 10
     link = "https://github.com/OliverLok" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Undergrad Student" 
+      role = "Undergrad student"
 +++

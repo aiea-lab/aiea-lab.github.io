@@ -7,7 +7,7 @@ name = "Parsh Gandhi"
 portrait = "/portraits/default.jpg"
 short_bio = ""
 short_name = "parsh_g"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -36,7 +36,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergrad Student"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

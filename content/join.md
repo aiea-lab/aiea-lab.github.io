@@ -55,11 +55,9 @@ The AIEA Lab takes on several high school students that are affiliated with the 
 1.  [SIP](https://sip.ucsc.edu/about/)
 2.  [COSMOS](https://cosmos.ucsc.edu/)
 
-If you are not accepted to one of these programs, we may be able to offer a
-structured, volunteer-based opportunity for high school students over
-the summer that want to work on either (1) independent projects or (2)
-learn through some of my labs existing projects.  You can learn more
-about this by requesting to join our [prospective intern mailing list](https://groups.google.com/a/ucsc.edu/g/aiea-intern-prospectives-group) or our [intern Discord server](https://discord.gg/hjJH5RCJA). 
+I have not figured out how to provide effective mentorship and support outside these
+structured programs, so I am unable to offer independent high school research
+opportunities at this time.
 
 ## Students Outside of UCSC
 

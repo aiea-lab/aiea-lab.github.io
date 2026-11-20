@@ -7,7 +7,7 @@ name = "Jesus Cuevas Gonzalez"
 portrait = "/portraits/jesusC.jpg"
 short_bio = "Looking forward to getting started."
 short_name = "Jesus"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -29,7 +29,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 

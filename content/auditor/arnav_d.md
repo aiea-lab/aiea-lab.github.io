@@ -35,5 +35,5 @@ sort_position = 10
 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "BS" 
+      role = "Undergrad student"
 +++

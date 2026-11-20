@@ -7,7 +7,7 @@ name = "Rudra Chavda"
 portrait = "/portraits/rudra.jpg"
 short_bio = "Interested in thoughtful design and AI progress."
 short_name = "rudy"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

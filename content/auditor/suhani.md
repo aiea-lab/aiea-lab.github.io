@@ -7,7 +7,7 @@ name = "suhani agarwal"
 portrait = "/portraits/suhani.jpg"
 short_bio = "Fremont, 18, She/her"
 short_name = "suhani"
-title = "Undergradguate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergradguate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergradguate"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

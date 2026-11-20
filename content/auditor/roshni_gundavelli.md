@@ -7,7 +7,7 @@ name = "Roshni Gundavelli"
 portrait = "/portraits/roshni_gundavelli.jpg"
 short_bio = "2nd Year Computer Science Student"
 short_name = "Roshni"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,6 +26,6 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++

@@ -30,6 +30,6 @@ sort_position = 10
     link = "https://github.com/ananyadas2607" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Masters Student" 
+      role = "Master's student"
 +++
 Here for the vibes

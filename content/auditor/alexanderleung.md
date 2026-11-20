@@ -7,7 +7,7 @@ name = "Alexander Leung"
 portrait = "/portraits/IMG_8367.jpg"
 short_bio = "Hello! I’m an undergraduate auditor with interests in AI, LLM and Software Engineering"
 short_name = "alex"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 Hello! My name is Alexander Leung. I’m an undergraduate auditor with interests in AI, LLM and Software Engineering

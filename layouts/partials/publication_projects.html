@@ -1,0 +1,22 @@
+{{ $projects := slice }}
+{{ $seen := newScratch }}
+{{ range .Params.projects }}
+  {{ $projectID := . }}
+  {{ if not ($seen.Get $projectID) }}
+    {{ $matches := where (where $.Site.RegularPages "Section" "project") "Params.project_id" $projectID }}
+    {{ if $matches }}
+      {{ range $matches }}{{ $projects = $projects | append . }}{{ end }}
+    {{ else }}
+      {{ warnf "Publication %s: no published project found for project ID %s" $.Title $projectID }}
+    {{ end }}
+    {{ $seen.Set $projectID true }}
+  {{ end }}
+{{ end }}
+{{ with $projects }}
+<section class="publication-projects" aria-labelledby="publication-projects-heading">
+  <h3 id="publication-projects-heading">Related projects</h3>
+  <ul>
+    {{ range . }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}
+  </ul>
+</section>
+{{ end }}

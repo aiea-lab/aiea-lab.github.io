@@ -7,7 +7,7 @@ name = "Dylan Price"
 portrait = "/portraits/dylan_price.jpg"
 short_bio = "I am a first year Computer Engineering major. I am looking to go into research surrounding artificial intelligence in autonomous vehicles."
 short_name = "Dylan"
-title = "Undergraduate"
+title = "Undergrad student"
 sort_position = 5
 
 [[social]]
@@ -27,7 +27,7 @@ sort_position = 5
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

@@ -4,7 +4,7 @@ date = "2024-09-11"
 id = "sahil_g" 
 interests = [] 
 name = "Sahil Gupta" 
-portrait = "/portraits/sahil_g.jpg" 
+portrait = "/portraits/default.jpg"
 short_bio = "" 
 sort_position = 10
  short_name = "sahil_g" 
@@ -30,5 +30,5 @@ sort_position = 10
     link = "https://github.com/" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Undergrad Student" 
+      role = "Undergrad student"
 +++

@@ -7,7 +7,7 @@ name = "Tanvi Belli Belli"
 portrait = "/portraits/tanvibelli.jpg"
 short_bio = "Sophomore, TIM Major, UCSC"
 short_name = "Tanvi"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergraduate"
+    role = "Undergrad student"
 
 +++
 Hello! My name is Tanvi Belli Belli, and I am a sophomore majoring in Technology Information Management. I am also working towards a minor in Computer Science as well. I am excited in contributing to the AIEA Lab and working on the LLM Logic Project!

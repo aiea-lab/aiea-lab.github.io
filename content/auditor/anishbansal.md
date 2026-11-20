@@ -7,7 +7,7 @@ name = "Anish Bansal"
 portrait = "/portraits/anishbansal.jpg"
 short_bio = "3rd Year Computer Game Design Student"
 short_name = "anish"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergrad Student"
+    role = "Undergrad student"
 
 +++
 .
