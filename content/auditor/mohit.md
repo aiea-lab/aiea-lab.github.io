@@ -7,7 +7,7 @@ name = "Mohit Suresh Chandar"
 portrait = "/portraits/mohit.jpg"
 short_bio = "Undergraduate Student at UCSC studying Robotics Engineering"
 short_name = "Mohit"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergraduate"
 
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

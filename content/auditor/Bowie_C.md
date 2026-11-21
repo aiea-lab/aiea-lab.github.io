@@ -7,7 +7,7 @@ name = "Bowie Chiu"
 portrait = "portraits/Bowie_C.JPG"
 short_bio = "Hi, I'm Bowie, an undergraduate student studying Computer Engineering"
 short_name = "Bo"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
 icon = "envelope"
@@ -26,7 +26,7 @@ year = "2028"
 
 [[organizations]]
 name = "UC Santa Cruz"
-role = "Undergraduate Student"
+role = "Undergrad student"
 +++
 
 

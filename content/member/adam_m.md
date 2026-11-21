@@ -21,5 +21,5 @@ short_name = "Adam"
 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Undergrad Student" 
+      role = "Undergrad student"
 +++

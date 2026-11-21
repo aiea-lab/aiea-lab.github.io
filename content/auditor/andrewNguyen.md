@@ -7,7 +7,7 @@ name = "Andrew Nguyen"
 portrait = "/portraits/AndrewNguyen.jpg"
 short_bio = ""
 short_name = "Andrew N"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergraduate"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

@@ -21,12 +21,12 @@ sort_position = 5
     link = "https://github.com/r-konchit"
 
 [[education]]
-    course = "BS"
+    course = "B.S. Computer Engineering"
     institution = "UC Santa Cruz"
     year = 2027
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "B.S. Computer Engineering"
+    role = "Undergrad student"
 
 +++

@@ -1,0 +1,61 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+{{ partial "people_grid_style.html" . }}
+<main class="container">
+  <h1>Team</h1>
+  {{ $members := slice }}
+  {{ range where .Site.RegularPages "Section" "member" }}
+    {{ if not .Params.is_former_member }}
+      {{ $members = $members | append (dict "page" . "sortKey" (partial "member_sort_key.html" .)) }}
+    {{ end }}
+  {{ end }}
+  <div class="people-grid">
+    {{ range sort $members "sortKey" "asc" }}{{ partial "people_card.html" (dict "page" .page) }}{{ end }}
+  </div>
+
+  {{ with where .Site.RegularPages "Section" "auditor" }}
+  <section class="team-section" aria-labelledby="auditors-heading">
+    <h2 id="auditors-heading">Auditors</h2>
+    <p>Auditors work in the lab for credit for a quarter (10 weeks).</p>
+    <div class="people-grid">
+      {{ range sort . "Params.name" "asc" }}{{ partial "people_card.html" (dict "page" .) }}{{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  {{ with where .Site.RegularPages "Section" "alumni" }}
+  <section class="team-section" aria-labelledby="alumni-heading">
+    <h2 id="alumni-heading">Alumni</h2>
+    <div class="people-grid">
+      {{ range sort . "Params.name" "asc" }}{{ partial "people_card.html" (dict "page" .) }}{{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  <section class="team-section" aria-labelledby="collaborators-heading">
+    <h2 id="collaborators-heading">Collaborators and friends of the AIEA Lab:</h2>
+    <p>Inspired by friend of the lab <a href="https://sites.brown.edu/bergen-lab/people/">Prof. Karianne Bergen</a>, this is a non-exhaustive list of our collaborators and friends.</p>
+    <p>
+      <a href="https://sites.brown.edu/bergen-lab/">Prof. Karianne Bergen</a> (Brown),
+      <a href="https://www.qianyanglab.com/">Prof. Qian Yang</a> (University of Connecticut),
+      <a href="https://faculty.cc.gatech.edu/~ctestart8/">Prof. Cecilia Testart</a> (Georgia Tech),
+      <a href="https://mikespecter.com/">Prof. Mike Specter</a> (Georgia Tech),
+      <a href="https://groups.csail.mit.edu/mac/users/gjs/">Prof. Gerald Jay Sussman</a> (MIT),
+      <a href="https://users.soe.ucsc.edu/~alacarde/">Prof. Alvaro Cardenas</a> (UCSC),
+      <a href="https://people.ucsc.edu/~dfremont/">Prof. Daniel Fremont</a> (UCSC),
+      <a href="https://sites.google.com/ucsc.edu/yizhang/home">Prof. Yi Zhang</a> (UCSC),
+      <a href="https://getoor.linqs.org/">Prof. Lise Getoor</a> (UCSC),
+      <a href="https://campusdirectory.ucsc.edu/cd_detail?guid=G052940017">Prof. David Lee</a> (UCSC),
+      <a href="https://slbooth.com/">Prof. Serena Booth</a> (Brown),
+      <a href="https://baulab.info/">Prof. David Bau</a> (Northeastern), and
+      <a href="https://www.juliusadebayo.com/">Julius Adebayo</a> (Guide Labs).
+    </p>
+  </section>
+
+  <p class="view-all"><a href="{{ "auditor-hall-of-fame/" | relURL }}">Auditor Hall of Fame <i class="fa fa-angle-double-right" aria-hidden="true"></i></a></p>
+  {{ if where .Site.RegularPages "Section" "in" (slice "intern" "interns") }}
+  <p class="view-all"><a href="{{ "intern/" | relURL }}">View high school interns <i class="fa fa-angle-double-right" aria-hidden="true"></i></a></p>
+  {{ end }}
+</main>
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}

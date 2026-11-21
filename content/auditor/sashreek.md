@@ -7,7 +7,7 @@ name = "Sashreek Rewatkar"
 portrait = "/portraits/sashreek.jpg"
 short_bio = "Computer Science undergraduate at UCSC with interests in machine learning, simulation, and software systems, complemented by a background in animation and visual media."
 short_name = "sash"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"

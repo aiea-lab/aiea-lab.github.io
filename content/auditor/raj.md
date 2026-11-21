@@ -7,7 +7,7 @@ name = "Raj Manohara"
 portrait = "/portraits/raj_m.jpg"
 short_bio = ""
 short_name = "Raj"
-title = "Auditor"
+title = "Undergrad student"
 
 [[social]]
 icon = "envelope"
@@ -21,7 +21,7 @@ link = "https://github.com/RajManohara"
 
 [[organizations]]
 name = "UC Santa Cruz"
-role = "Undergraduate"
+role = "Undergrad student"
 
 +++
 

@@ -1,55 +1,32 @@
 +++
 title = "Research"
-
-[[authors]]
-  name = "AIEA Lab"
+layout = "research-overview"
+summary = "Research themes, representative projects, and funding at the AIEA Lab."
 +++
 
+The Artificial Intelligence Explainability Accountability (AIEA) Lab at UC Santa Cruz studies how to make AI systems understandable, trustworthy, and accountable. We combine machine learning with symbolic reasoning to explain what models learn, examine how they reason, and build tools that help people use and evaluate AI.
 
-Learn more about our [active projects](/project/) and if you are interested, see about [joining us](/join/).
+Our work connects foundational questions about explanations and reasoning with applications in autonomous vehicles, accessibility, education, and law.
 
-Coming soon!
-# Funding
-Our research is generously supported by the Underwriters Labatory (subaward from Northwestern University), UC Santa Cruz Seed Funding, Department of Transportation, and Siemens.  
-<!--# Modo est
+{{< research_topics >}}
 
-## Non sub haedum tenet
+[Explore all active and completed projects]({{< relref "project" >}}) or [browse our publications]({{< relref "publication" >}}).
 
-Lorem markdownum esse diversa quoque vocavit, quam! Vires tibi axis dum spolium
-*vaticinor fulminis*, a dixere attrahit generisque tamen?
+## Funding and support
 
-- Petit invergens iram praetendat iam
-- Mecum res curva iunctura silvis hoc leonum
-- Iacent gemitum quos
+We gratefully acknowledge the organizations that support and have supported our research.
 
-## Non est duram mitis sonat proculcat tumulos
+### Current funding
 
-Alce bimembres Dauni, cur ex voces referam adunco in sors. Manibusque poples
-prodidit lata tantum quem suos ratae Aeginae sederunt degenerat Bacchus
-descendere, patriisque ieiunia.
+- Department of Transportation
+- Air Force Office of Scientific Research (AFOSR)
 
-## Harenas sanguine pennas fui
+### Past funding
 
-Gentes aeris, sua mors dictis torvo colorem regione fugit principio Panopeusque
-regni florentis vidisse. [Profusis](http://motu-tutus.io/exerceor-vestigia.php)
-unda regnat ultima habitus cava tympana sudem et Aesonides fecit. Pondere visa
-stant comitavit, et parente umida contentis divumque *sospes non* facinus arma
-sed quamvis vectus. Fera nec uno erat, poterat censu nitebat, cognita simulacra?
-Fumis patuisset tantum et tanta ad matris enodisque vestros exigui.
+- Underwriters Laboratories, through a subaward from Northwestern University
+- UC Santa Cruz seed funding
+- Siemens
 
-> Tamen coniectum sumpserat comites dura, amore exanimes iussit At? Cuncta
-> tellus ad turbine lupos. Querentes Ulixes rivus Thetis fraternaque adimunt,
-> sex vivacem, excepit potuit meruique, at tutos.
+## Work with us
 
-## Diversaque Medusae probatur sequens
-
-Ea pruinosas verba lapidem, sustulit. Una quicquam nymphis adultera
-[maturus](http://www.corripuere.net/toto) fuimusve lumina occidimus subiti
-demoliturque pelagi.
-
-Satis omni hunc et quondam non, non curat adlabimur? Vocem oves curvum aptumque.
-Addendum tamen; parensque multi locum palmas tenent dubites sacra! Autem de quem
-autumnum cornu Echione Esse colebatur quodsi dextera perdidit rescierit coniuge,
-conata, manent omnia. Illa est fecerat nubila vix semel tetigere sit sine
-inguina.
--->
+Interested in these questions? See [opportunities to join the lab]({{< relref "join.md" >}}) or [contact us](mailto:aiea@ucsc.edu) about research collaborations.

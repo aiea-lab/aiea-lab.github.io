@@ -7,7 +7,7 @@ name = "Samin Salman"
 portrait = "/portraits/samin.png"
 short_bio = "Undergraduate CS student at UC Santa Cruz interested in AI, ML, and CS education."
 short_name = "Samin"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergraduate"
 
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergraduate Student"
+    role = "Undergrad student"
 
 +++
 

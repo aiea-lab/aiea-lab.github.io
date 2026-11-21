@@ -36,7 +36,10 @@ title = ""
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "MS"
+    role = "Master's student"
 
+[[education]]
+    course = "MS"
+    institution = "UC Santa Cruz"
 +++
 Put your bio here.

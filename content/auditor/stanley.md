@@ -7,7 +7,7 @@ name = "Stanley Good"
 portrait = "/portraits/stanley.jpg"
 short_bio = "Undergraduate Computer Science major with interests in Artificial Intelligence and Computer Security"
 short_name = "stanley"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -21,6 +21,6 @@ title = "Undergraduate"
 
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergrad Student"
+    role = "Undergrad student"
 
 +++

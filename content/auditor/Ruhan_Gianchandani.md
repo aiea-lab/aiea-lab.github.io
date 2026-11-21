@@ -7,7 +7,7 @@ name = "Ruhan Gianchandani"
 portrait = "/portraits/ruhan.jpg"
 short_bio = "I am a 3rd year Computer Engineering & Mathematics Theory and Computation major."
 short_name = "Ruhan"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

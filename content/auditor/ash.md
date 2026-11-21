@@ -7,7 +7,7 @@ name = "Ashmita Dua"
 portrait = "/portraits/ash.png"
 short_bio = ""
 short_name = "ash"
-title = "Undergrad Student, UCSC"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -31,7 +31,7 @@ title = "Undergrad Student, UCSC"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

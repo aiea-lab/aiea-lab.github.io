@@ -7,7 +7,7 @@ name = "Kunwarpal Singh"
 portrait = "/portraits/kunwarpal.jpg"
 short_bio = "2nd year Computer Science student."
 short_name = "Kunwar"
-title = "Auditor"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Auditor"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergraduate Student"
+    role = "Undergrad student"
 
 +++
 Hi, my name is Kunwarpal Singh and I am currently a 2nd year Computer Science Student. One of the reasons that I am joining AIEA lab is because I want to pursue research in AI.

@@ -7,7 +7,7 @@ name = "Toranosuke Matsuda"
 portrait = "/portraits/tora_m.jpg"
 short_bio = "Hi, I'm Tora Matsuda, a 4th-year Computer Science major at UCSC."
 short_name = "Tora"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"

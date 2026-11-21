@@ -4,6 +4,7 @@ date = "2024-09-11"
 id = "yilun_z" 
 interests = [] 
 name = "Yilun Zhou" 
+title = "Collaborator"
 portrait = "/portraits/yilun_z.jpg" 
 short_bio = "" 
 sort_position = 10
@@ -28,7 +29,4 @@ sort_position = 10
     icon = "github" 
     icon_pack = "fa" 
     link = "https://github.com/" 
-[[organizations]] 
-     name = "UC Santa Cruz" 
-      role = "Collaborator" 
 +++

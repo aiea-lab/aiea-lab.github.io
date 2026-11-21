@@ -7,7 +7,7 @@ name = "Bolorchuluun Battulga"
 portrait = "/portraits/bolor_b.jpg"
 short_bio = "Undergraduate student at UC Santa Cruz studying Computer Science with interests in machine learning and automation."
 short_name = "Bolor"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -21,6 +21,6 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergrad Student"
+    role = "Undergrad student"
 
 +++

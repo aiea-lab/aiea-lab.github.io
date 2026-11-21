@@ -1,0 +1,58 @@
+{{/* Both directions of affiliation use the project's participants metadata. */}}
+{{ $people := slice }}
+{{ $alumni := slice }}
+{{ $seen := newScratch }}
+{{ $profiles := where .Site.RegularPages "Section" "in" (slice "member" "alumni" "intern" "interns" "auditor") }}
+{{ range .Params.participants }}
+  {{ $participant := . }}
+  {{ $key := .id | default .name }}
+  {{ if and $key (not ($seen.Get $key)) }}
+    {{ $matches := slice }}
+    {{ with $participant.id }}
+      {{ $matches = where $profiles "Params.id" . }}
+    {{ end }}
+    {{ if $matches }}
+      {{ $profile := index $matches 0 }}
+      {{ $order := 1 }}
+      {{ if $participant.lead }}{{ $order = 0 }}{{ end }}
+      {{ if eq $participant.id "leilani" }}{{ $order = 2 }}{{ end }}
+      {{ $person := dict "name" ($profile.Params.name | default $profile.Title) "url" $profile.RelPermalink "portrait" ($profile.Params.portrait | default "") "role" ($participant.role | default "") "lead" ($participant.lead | default false) "order" $order }}
+      {{ if or (eq $profile.Section "alumni") $profile.Params.is_former_member }}
+        {{ $alumni = $alumni | append $person }}
+      {{ else }}
+        {{ $people = $people | append $person }}
+      {{ end }}
+      {{ $seen.Set $key true }}
+    {{ else if .external_member }}
+      {{ $order := 1 }}
+      {{ if .lead }}{{ $order = 0 }}{{ end }}
+      {{ $people = $people | append (dict "name" .name "url" (.external_link | default "") "portrait" "" "role" (.role | default "") "lead" (.lead | default false) "order" $order) }}
+      {{ $seen.Set $key true }}
+    {{ else }}
+      {{ warnf "Project %s: no person profile found for participant %s" $.Title $key }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ if or $people $alumni }}
+<section class="project-people" aria-labelledby="project-people-heading">
+  <h2 id="project-people-heading">People</h2>
+  <style>
+    .project-people{margin-top:35px;margin-bottom:30px}
+    .project-people-list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;padding:0;list-style:none}
+    .project-people-list li{display:flex;gap:15px;align-items:center}
+    .project-people-list img{width:72px;height:72px;border-radius:50%;object-fit:cover;flex-shrink:0}
+    .project-people-list .person-name{font-size:18px;font-weight:600}
+    .project-people-list .person-lead{margin:4px 0 0;font-size:14px;font-weight:600;color:#286879}
+    .project-people-list .person-role{margin:4px 0 0;font-size:14px}
+    @media(max-width:991px){.project-people-list{grid-template-columns:repeat(2,minmax(0,1fr))}}
+    @media(max-width:600px){.project-people-list{grid-template-columns:1fr}}
+  </style>
+  {{ with $people }}
+    {{ partial "project_people_list.html" (sort . "order" "asc") }}
+  {{ end }}
+  {{ with $alumni }}
+    <h3>Alumni</h3>
+    {{ partial "project_people_list.html" (sort . "order" "asc") }}
+  {{ end }}
+</section>
+{{ end }}

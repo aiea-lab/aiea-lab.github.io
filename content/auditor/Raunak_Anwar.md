@@ -7,7 +7,7 @@ name = "Raunak Anwar"
 portrait = "portraits/raunak.jpeg"
 short_bio = "3rd year computer engineering major" 
 short_name = "Raunak"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 Put your bio here. 

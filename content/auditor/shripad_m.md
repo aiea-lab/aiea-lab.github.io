@@ -7,7 +7,7 @@ name = "Shripad Mangavalli"
 portrait = "/portraits/shripad.jpg"
 short_bio = ""
 short_name = "shri_m"
-title = "Undergrad Student"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -23,7 +23,7 @@ title = "Undergrad Student"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergraduate"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

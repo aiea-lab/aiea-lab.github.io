@@ -7,7 +7,7 @@ name = "Crystal Yu"
 portrait = "/portraits/crystal.jpg"
 short_bio = "3rd Year Computer Science Student Auditor interested in AI Research"
 short_name = "crystal"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergraduate"
    
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergraduate Student"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

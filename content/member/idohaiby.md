@@ -7,7 +7,7 @@ name = "Ido Haiby"
 portrait = "/portraits/idohaiby.jpg"
 short_bio = "Sophmore CS student"
 short_name = "Ido"
-title = "Undergraduate"
+title = "Undergrad student"
 sort_position = 5
 
 [[social]]
@@ -27,6 +27,6 @@ sort_position = 5
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++

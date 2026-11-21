@@ -1,0 +1,22 @@
+{{ $publications := slice }}
+{{ with .Params.project_id }}
+  {{ $projectID := . }}
+  {{ range where $.Site.RegularPages "Section" "publication" }}
+    {{ if in (.Params.projects | default (slice)) $projectID }}
+      {{ $publications = $publications | append . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ with $publications }}
+<section class="project-publications" aria-labelledby="project-publications-heading">
+  <h2 id="project-publications-heading">Publications</h2>
+  <ul>
+    {{ range sort . "Date" "desc" }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <span>({{ .Date.Format "2006" }})</span>
+    </li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}

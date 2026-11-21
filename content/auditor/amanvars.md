@@ -7,7 +7,7 @@ name = "Aman Varshney"
 portrait = "portraits/aman_v.png"
 short_bio = "Student researched interested in AI, particularly neural nets."
 short_name = "Aman"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

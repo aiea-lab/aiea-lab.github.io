@@ -4,6 +4,7 @@ date = "2023-11-08"
 id = "jonathan_m" 
 interests = ['Neuro-Symbolic AI', 'XAI', 'Autonomous Vehicles'] 
 name = "Jonathan Morris" 
+is_project_manager = true
 portrait = "/portraits/jonathan_m.jpg" 
 short_bio = "Researching Neuro-Symbolic AI. Interested in Scientific Discovery." 
 sort_position = 10
@@ -30,6 +31,6 @@ sort_position = 10
     link = "https://github.com/JonathanWMorris" 
 [[organizations]] 
      name = "UC Santa Cruz" 
-      role = "Masters Student" 
+      role = "Master's student"
 +++
 I love to do cool things! 😎

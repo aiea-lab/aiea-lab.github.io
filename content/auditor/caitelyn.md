@@ -7,7 +7,7 @@ name = "Caitelyn Huang"
 portrait = "/portraits/caitelyn.jpg"
 short_bio = "Hi, I’m Caitelyn, a second-year undergraduate at UCSC studying Robotics Engineering with a minor in Electrical Engineering. I’m interested in cyberphysical systems, particularly how autonomous vehicles and industrial robots can be made reliable, safe, and trustworthy. In my free time, I enjoy playing club tennis, cooking (and eating), discovering new music, and thrifting with friends."
 short_name = "Caitelyn"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "Undergraduate"
     
 [[organizations]]
     name = "UCSC"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

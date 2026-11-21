@@ -7,7 +7,7 @@ name = "Ashwin Vinod"
 portrait = "/portraits/ashwin_v.jpg"
 short_bio = "2nd Year Computer Science Student @ UCSC - GDSC - Baskin Day"
 short_name = "Ashwin Vinod"
-title = "Undergraduate"
+title = "Undergrad student"
 
 
 [[social]]
@@ -25,14 +25,14 @@ title = "Undergraduate"
 
 
 [[education]]
-   course = "Undergraduate"
+   course = "BS"
    institution = "UC Santa Cruz"
    year = "Ongoing"
 
 
 [[organizations]]
    name = "UC Santa Cruz"
-   role = "BS"
+   role = "Undergrad student"
 
 
 +++

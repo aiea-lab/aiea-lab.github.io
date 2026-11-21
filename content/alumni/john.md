@@ -8,7 +8,7 @@ portrait = "/portraits/john.jpg"
 short_bio = "Hi, I'm John and I'm a second-year Masters student working on autonomous vehicle research in Duckietown"
 short_name = "John"
 sort_position = 3
-title = "Masters"
+title = "Master's student"
 
 [[social]]
     icon = "envelope"
@@ -33,7 +33,7 @@ title = "Masters"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Master Student"
+    role = "Master's student"
 
 +++
 John Yu is a Master's Student in the Department of Computer Science and Engineering at UC Santa Cruz. His areas of technical interest are autonomous driving and embedded systems. In his spare time, John enjoys going to the gym, learning musical instruments, and cooking.

@@ -7,7 +7,7 @@ name = "Navaneeth Dontuboyina"
 portrait = "/portraits/navaneeth.jpg"
 short_bio = "I am a computer engineering student"
 short_name = "Nav"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"

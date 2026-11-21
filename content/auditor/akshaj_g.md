@@ -7,7 +7,7 @@ name = "Akshaj Gupta"
 portrait = "/portraits/akshaj_g.jpg"
 short_bio = "I am a 2nd year Computer Science major at UCSC. I am interested in vision related AI applications."
 short_name = "Akshaj"
-title = "Undergraduate"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -20,12 +20,12 @@ title = "Undergraduate"
     link = "https://github.com/AkshajGG"
 
 [[education]]
-    course = "Computer Science"
+    course = "BS in Computer Science"
     institution = "UCSC"
     year = 2029
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++

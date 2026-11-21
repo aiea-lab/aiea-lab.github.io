@@ -7,7 +7,7 @@ name = "Inika Bhargava"
 portrait = "/portraits/inikabhargava.jpg"
 short_bio = "Undergrad at UCSC"
 short_name = "Inika"
-title = "BS"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -26,7 +26,7 @@ title = "BS"
     
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "BS"
+    role = "Undergrad student"
 
 +++
 Put your bio here.

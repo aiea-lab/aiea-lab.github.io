@@ -1,0 +1,21 @@
+{{ $projects := where .Site.RegularPages "Section" "project" }}
+{{ $projects = where $projects "Params.project_status" "ne" "completed" }}
+{{ range .Site.Data.research_topics.topics }}
+  {{ $topic := . }}
+  <section aria-labelledby="topic-{{ .id }}">
+    <h2 id="topic-{{ .id }}">{{ .title }}</h2>
+    <p>{{ .description }}</p>
+    <p><a href="{{ "project/" | relURL }}?topic={{ .id }}">Browse projects in this topic &rarr;</a></p>
+    <ul>
+    {{ range $projects.ByTitle }}
+      {{ if in (.Params.topics | default (slice)) $topic.id }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{ with .Params.summary }}<p>{{ . | markdownify }}</p>{{ end }}
+      </li>
+      {{ end }}
+    {{ end }}
+    </ul>
+    {{ with .onboarding_url }}<p><a href="{{ . }}">Topic onboarding guide &rarr;</a></p>{{ end }}
+  </section>
+{{ end }}

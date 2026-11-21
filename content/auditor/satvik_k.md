@@ -7,7 +7,7 @@ name = "Satvik Khanna"
 portrait = "/portraits/satvik_k.jpg"
 short_bio = "Satvik Khanna is an undergraduate auditor at UCSC’s AIEA Lab exploring LLMs, mental health, and explainable AI."
 short_name = "Satvik"
-title = "Auditor"
+title = "Undergrad student"
 
 [[social]]
     icon = "envelope"
@@ -31,5 +31,5 @@ title = "Auditor"
 
 [[organizations]]
     name = "UC Santa Cruz"
-    role = "Undergraduate Auditor"
+    role = "Undergrad student"
 +++

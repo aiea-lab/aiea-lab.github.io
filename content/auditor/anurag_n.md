@@ -3,7 +3,7 @@ date = "2026-01-05"
 id = "anuragn"
 name = "Anurag Nangunoori"
 short_name = "Anurag"
-title = "Undergraduate"
+title = "Undergrad student"
 active = true
 portrait = "/portraits/default.jpg"
 interests = ["Gym", "Binging", "Basketball"]
@@ -27,5 +27,5 @@ year = 2029
 
 [[organizations]]
 name = "UC Santa Cruz"
-role = "Undergraduate"
+role = "Undergrad student"
 +++

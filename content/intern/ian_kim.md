@@ -31,7 +31,7 @@ title = "High School Intern"
 
 [[organizations]]
     name = "University of Chicago"
-    role = "Undergraduate Student"
+    role = "Undergrad student"
 
 +++
 I am an incoming undergraduate at the University of Chicago pursuing a Bachelor of Science in Computer Science and Computational & Applied Mathematics. My interests include large language models, explainable AI, model interpretability, and trustworthy machine learning. I am excited to contribute to research that improves the transparency and reliability of modern AI systems while developing practical experience in machine learning research.
